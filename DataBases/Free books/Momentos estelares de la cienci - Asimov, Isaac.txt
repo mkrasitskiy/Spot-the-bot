@@ -1,0 +1,1269 @@
+Momentos estelares de la ciencia
+
+Isaac Asimov
+
+Momentos estelares de laciencia
+
+SALVAT
+
+Scholastic Magazines Inc., New York.
+
+© Scholastic Magazines Inc.
+
+© Ed. cast.: Alianza Editorial, S. A., Madrid
+
+© Por la presente edición: Salvat Editores, S. A., Barcelona, 1984
+
+Calle Mallorca, 41-49
+
+Traducción cedida por Alianza Editorial para esta edición
+
+Depósito Legal: NA. 126-1984
+
+Impresión: Gráficas Estella, S. A.
+
+Estella, Navarra
+
+Printed in Spain
+
+Prólogo
+
+Una de las divisiones que más daño ha hecho a nuestra cultura es la que escinde los saberes en dos grandes ramas opuestas, la de letras y la de ciencias. Esta radical y arraigada dualidad que prevalece desde la enseñanza elemental ha sido igualmente negativa para las dos culturas. Por una parte, no ha logrado cultivar un pensamiento científico a la altura de las enormes mutaciones ocurridas en las últimas décadas del siglo, con las consecuencias altamente negativas que se derivan para la técnica y la producción del país. Por el otro lado, ha marginado a la llamada cultura humanística de esa creciente complejidad que se ha apoderado de los saberes tradicionales como consecuencia, justamente, del protagonismo científico-técnico en el mundo actual; hecho éste que también ha tenido influencias decisivas en el desarrollo de la filosofía, las ciencias sociales, la ética, la crítica o la estética, además de conmover profundamente los ciclos de creación, transmisión, circulación, implantación y acumulación de los discursos literarios y artísticos.
+
+La cultura de hoy resulta francamente ininteligible al margen de los acontecimientos próximos ocurridos en los campos de la física, la cosmología, las matemáticas, la biología, la cibernética, la química, la teoría de la evolución, la genética o la neurofisiología. Estas ciencias básicas, que responden al eterno deseo del hombre de comprender el mundo, no sólo originan formas revolucionarias de conocimiento de la realidad; también generan efectos inmediatos para el desarrollo de la industria, la agricultura, los ocios, las organizaciones sociales, el trabajo, la guerra o el bienestar individual.
+
+Los vertiginosos acontecimientos fundacionales ocurridos en el mundo de las ciencias básicas o aplicadas -hecho éste que hace hablar hoy de un verdadero cambio de paradigma-, ante todo son acontecimientos de rango cultural. Implican nuevos universos de ideas, teorías y modos de creación, y se inscriben veloz y puntualmente en la sociedad y en la historia. O para decirlo como en el siglo XIX se decía de la novela: son el discurso en el que habla y se reconoce la sociedad actual.
+
+Ahora es más evidente que nunca la íntima relación que la cultura científica mantiene con la humanística, pero a poco que miremos hacia el pasado sin censuras mentales, comprenderemos que las dos culturas de las que hablaba Snow nunca han estado verdaderamente divorciadas, aunque así nos lo hayan contado: el famoso duelo entre los saberes de ciencias y los de letras no sólo es necio, también es falso.
+
+Esos momentos estelares de la ciencia que Asimov refiere en este bello libro, también son momentos estelares de la cultura humanística. Este recorrido literario por las biografías seductoras de Copérnico y Galileo, Newton y Lavoisier, Faraday y Edison, Mendel y Darwin, Arquímedes y Pasteur, Curie y Einstein, muestra y demuestra con elegancia narrativa hasta qué punto la comunicación entre el científico y el artista fue constante e intensa a lo largo de la civilización. Pero también evidencia este libro de Asimov que cualquier antagonismo entre el pensamiento científico y el humanístico, además de empobrecer la cultura, entraña un grave riesgo en todos los órdenes. Para decirlo con palabras de Edgar Morin, una ciencia privada de conciencia humanística es algo tan estremecedor como una conciencia que habla del mundo de espaldas a la ciencia.
+
+Isaac Asimov es uno de los escritores contemporáneos que más ha hecho por la integración plena y feliz de las dos culturas. Su gran instrumento es la divulgación rigurosa de esos acontecimientos científicos y técnicos que han alterado el conjunto de los saberes humanos y han organizado nuevas formas de conocimiento. Porque hoy más que nunca la divulgación de la cultura científica constituye la tarea fundamental, básica, para el desarrollo de la cultura del futuro, es decir, la cultura que no le teme al futuro.
+
+La ciencia nos enseña diariamente que el Universo es complejo en todos sus órdenes, pero las herramientas que solemos utilizar para analizar y juzgar esa complejidad creciente suelen ser escandalosamente simples. La divulgación, en consecuencia, se convierte en una tarea imprescindible para la puntual y correcta integración en el ámbito de lo social y de lo individual de esos centrales acontecimientos científico-técnicos que están en el origen de este nuevo hecho de civilización que estamos viviendo los hombres en las postrimerías del siglo.
+
+Pero la divulgación de los saberes científicos – su democratización, en definitiva – no sólo es inexcusable para complejizar la cultura «de letras»; también es la garantía de que la hoy todopoderosa ciencia nunca se verá privada de su necesaria conciencia crítica.
+
+Juan Cueto
+
+1. Arquímedes
+
+Cabría decir que hubo una vez un hombre que luchó contra todo un ejército. Los historiadores antiguos nos dicen que el hombre era un anciano, pues pasaba ya de los setenta. El ejército era el de la potencia más fuerte del mundo: la mismísima Roma.
+
+Lo cierto es que el anciano, griego por más señas, combatió durante casi tres años contra el ejército romano… y a punto estuvo de vencer: era Arquímedes de Siracusa, el científico más grande del mundo antiguo.
+
+El ejército romano conocía de sobra la reputación de Arquímedes, y éste no defraudó las previsiones. Cuenta la leyenda que, habiendo montado espejos curvos en las murallas de Siracusa (una ciudad griega en Sicilia), hizo presa el fuego en las naves romanas que la asediaban. No era brujería: era Arquímedes. Y cuentan también que en un momento dado se proyectaron hacia adelante gigantescas garras suspendidas de una viga, haciendo presa en las naves, levantándolas en vilo y volcándolas. No era magia, sino Arquímedes.
+
+Se dice que cuando los romanos -que, como decimos, asediaban la ciudad- vieron izar sogas y maderos por encima de las murallas de Siracusa, levaron anclas y salieron de allí a toda vela.
+
+Y es que Arquímedes era diferente de los científicos y matemáticos griegos que le habían precedido, sin que por eso les neguemos a éstos un ápice de su grandeza. Arquímedes les ganaba a todos ellos en imaginación.
+
+Por poner un ejemplo: para calcular el área encerrada por ciertas curvas modificó los métodos de cómputo al uso y obtuvo un sistema parecido al cálculo integral. Y eso casi dos mil años antes de que Isaac Newton inventara el moderno cálculo diferencial. Si Arquímedes hubiese conocido los números arábigos, en lugar de tener que trabajar con los griegos, que eran mucho más incómodos, quizá habría ganado a Newton por dos mil años.
+
+Arquímedes aventajó también a sus precursores en audacia. Negó que las arenas del mar fuesen demasiado numerosas para contarlas e inventó un método para hacerlo; y no sólo las arenas, sino también los granos que harían falta para cubrir la tierra y para llenar el universo. Con ese fin inventó un nuevo modo de expresar cifras grandes; el método se parece en algunos aspectos al actual.
+
+Lo más importante es que Arquímedes hizo algo que nadie hasta entonces había hecho: aplicar la ciencia a los problemas de la vida práctica, de la vida cotidiana. Todos los matemáticos griegos anteriores a Arquímedes -Tales, Pitágoras, Eudoxo, Euclides- concibieron las matemáticas como una entidad abstracta, una manera de estudiar el orden majestuoso del universo, pero nada más; carecía de aplicaciones prácticas. Eran intelectuales exquisitos que despreciaban las aplicaciones prácticas y pensaban que esas cosas eran propias de mercaderes y esclavos. Arquímedes compartía en no pequeña medida esta actitud, pero no rehusó aplicar sus conocimientos matemáticos a problemas prácticos.
+
+Nació Arquímedes en Siracusa, Sicilia. La fecha exacta de su nacimiento es dudosa, aunque se cree que fue en el año 287 a. C. Sicilia era a la sazón territorio griego. Su padre era astrónomo y pariente de Hierón II, rey de Siracusa desde el año 270 al 216 a. C. Arquímedes estudió en Alejandría, Egipto, centro intelectual del mundo mediterráneo, regresando luego a Siracusa, donde se hizo inmortal.
+
+En Alejandría le habían enseñado que el científico está por encima de los asuntos prácticos y de los problemas cotidianos; pero eran precisamente esos problemas los que le fascinaban a Arquímedes, los que no podía apartar de su mente. Avergonzado de esta afición, se negó a llevar un registro de sus artilugios mecánicos; pero siguió construyéndolos y a ellos se debe hoy día su fama.
+
+Arquímedes había adquirido renombre mucho antes de que las naves romanas entraran en el puerto de Siracusa y el ejército romano pusiera sitio a la ciudad. Uno de sus primeros hallazgos fue el de la teoría abstracta que explica la mecánica básica de la palanca. Imaginemos una viga apoyada sobre un pivote, de manera que la longitud de la viga a un lado del fulcro sea diez veces mayor que el otro lado. Al empujar hacia abajo la viga por el brazo más largo, el extremo corto se desplaza una distancia diez veces inferior; pero, a cambio, la fuerza que empuja hacia abajo el lado largo se multiplica por diez en el extremo del brazo corto. Podría decirse que, en cierto sentido, la distancia se convierte en fuerza y viceversa.
+
+Arquímedes no veía límite a este intercambio que aparecía en su teoría, porque si bien era cierto que un individuo disponía sólo de un acopio restringido de fuerza, la distancia carecía de fronteras. Bastaba con fabricar una palanca suficientemente larga y tirar hacia abajo del brazo mayor a lo largo de un trecho suficiente: en el otro brazo, el más corto, podría levantarse cualquier peso.
+
+«Dadme un punto de apoyo», dijo Arquímedes, «y moveré el mundo.»
+
+El rey Hierón, creyendo que aquello era un farol, le pidió que moviera algún objeto pesado: quizá no el mundo, pero algo de bastante volumen. Arquímedes eligió una nave que había en el dique y pidió que la cargaran de pasajeros y mercancías; ni siquiera vacía podrían haberla botado gran número de hombres tirando de un sinfín de sogas.
+
+Arquímedes anudó los cabos y dispuso un sistema de poleas (una especie de palanca, pero utilizando sogas en lugar de vigas). Tiró de la soga y con una sola mano botó lentamente la nave.
+
+Hierón estaba ahora más que dispuesto a creer que su gran pariente podía mover la tierra si quería, y tenía suficiente confianza en él para plantearle problemas aparentemente imposibles.
+
+Cierto orfebre le había fabricado una corona de oro. El rey no estaba muy seguro de que el artesano hubiese obrado rectamente; podría haberse guardado parte del oro que le habían entregado y haberlo sustituido por plata o cobre. Así que Hierón encargó a Arquímedes averiguar si la corona era de oro puro, sin estropearla, se entiende.
+
+Arquímedes no sabía qué hacer. El cobre y la plata eran más ligeros que el oro. Si el orfebre hubiese añadido cualquiera de estos metales a la corona, ocuparían un espacio mayor que el de un peso equivalente de oro. Conociendo el espacio ocupado por la corona (es decir, su volumen) podría contestar a Hierón. Lo que no sabía era cómo averiguar el volumen de la corona sin transformarla en una masa compacta.
+
+Arquímedes siguió dando vueltas al problema en los baños públicos, suspirando probablemente con resignación mientras se sumergía en una tinaja llena y observaba cómo rebosaba el agua. De pronto se puso en pie como impulsado por un resorte: se había dado cuenta de que su cuerpo desplazaba agua fuera de la bañera. El volumen de agua desplazado tenía que ser igual al volumen de su cuerpo. Para averiguar el volumen de cualquier cosa bastaba con medir el volumen de agua que desplazaba. ¡En un golpe de intuición había descubierto el principio del desplazamiento! A partir de él dedujo las leyes de la flotación y de la gravedad específica.
+
+Arquímedes no pudo esperar: saltó de la bañera y, desnudo y empapado, salió a la calle y corrió a casa, gritando una y otra vez: «¡Lo encontré, lo encontré!» Sólo que en griego, claro está: «¡Eureka! ¡Eureka!» Y esta palabra se utiliza todavía hoy para anunciar un descubrimiento feliz.
+
+Llenó de agua un recipiente, metió la corona y midió el volumen de agua desplazada. Luego hizo lo propio con un peso igual de oro puro; el volumen desplazado era menor. El oro de la corona había sido mezclado con un metal más ligero, lo cual le daba un volumen mayor y hacía que la cantidad de agua que rebosaba fuese más grande. El rey ordenó ejecutar al orfebre.
+
+Arquímedes jamás pudo ignorar el desafío de un problema, ni siquiera a edad ya avanzada. En el año 218 a. C. Cartago (en el norte de África) y Roma se declararon la guerra; Aníbal, general cartaginés, invadió Italia y parecía estar a punto de destruir Roma. Mientras vivió el rey Hierón, Siracusa se mantuvo neutral, pese a ocupar una posición peligrosa entre dos gigantes en combate.
+
+Tras la muerte de Hierón ascendió al poder un grupo que se inclinó por Cartago. En el año 213 a. C. Roma puso sitio a la ciudad.
+
+El anciano Arquímedes mantuvo a raya al ejército romano durante tres años. Pero un solo hombre no podía hacer más y la ciudad cayó al fin en el año 211 a. C. Ni siquiera la derrota fue capaz de detener el cerebro incansable de Arquímedes. Cuando los soldados entraron en la ciudad estaba resolviendo un problema con ayuda de un diagrama. Uno de aquellos le ordenó que se rindiera, a lo cual Arquímedes no prestó atención; el problema era para él más importante que una minucia como el saqueo de una ciudad. «No me estropeéis mis círculos», sé limitó a decir. El soldado le mató.
+
+Los descubrimientos de Arquímedes han pasado a formar parte de la herencia de la humanidad. Demostró que era posible aplicar una mente científica a los problemas de la vida cotidiana y que una teoría abstracta de la ciencia pura -el principio que explica la palanca- puede ahorrar esfuerzo a los músculos del hombre.
+
+Y también demostró lo contrario: porque arrancando de un problema práctico -el de la posible adulteración del oro- descubrió un principio científico.
+
+Hoy día creemos que el gran deber de la ciencia es comprender el universo, pero también mejorar las condiciones de vida de la humanidad en cualquier rincón de la tierra.
+
+2. Johann Gutenberg
+
+En 1454 se estaba preparando para su publicación la primera edición impresa del libro más vendido del planeta. El lugar, Alemania; el editor, Johann Gutenberg. Pero como los premios de este mundo son a veces caprichosos, sus esfuerzos le llevaron a la ruina un año después.
+
+Johann Gutenberg venía experimentando con pequeños rectángulos de metal desde hacía veinte años. Todas las piezas tenían que ser exactamente de la misma anchura y altura para que encajaran perfectamente unas con otras. La parte superior de cada rectángulo estaba moldeada delicadamente en la forma de una letra del alfabeto, sólo que invertida.
+
+Imaginémonos estas piezas de metal colocadas unas junto a otras formando filas y columnas muy apretadas; las entintamos uniformemente y apretamos con fuerza sobre ellas un pliego de papel.
+
+Levantamos el papel: como por arte de magia, aparece cubierto de tinta con la forma de las letras, pero mirando en la dirección correcta. Las letras forman palabras, y de palabras se compone la página de un libro.
+
+Las gentes de Europa y de Asia habían hecho ya lo mismo con anterioridad, sólo que tallando las palabras o caracteres en bloques de madera; la talla era a menudo muy tosca y sólo servía para una única «xilografía». La idea de Gutenberg fue fabricar elegantemente cada letra en un «tipo» metálico individual; una vez completada e impresa una página, podía utilizarse el mismo tipo para otra, y una pequeña colección de tipos móviles servía para componer cualquier libro del mundo. Esta innovación fue obra de Gutenberg, y aunque quizá habría que llamarla un triunfo de la tecnología y no de la ciencia, no deja de ser un descubrimiento importante.
+
+Hoy día se conservan fragmentos de páginas que Gutenberg imprimió entre 1440 y 1450: parte de un calendario y un fragmento religioso. Pero fue en 1454 cuando construyó seis prensas y comenzó a componer el libro más grande de todos: la Biblia.
+
+Trescientas veces se estampó la primera hoja de papel contra los tipos entintados, y de allí salieron otras tantas hojas impresas idénticas. Luego se reordenaron los tipos para componer la segunda página, después la tercera, etcétera, hasta un total de 1282 páginas diferentes, con 300 ejemplares de cada una. Una vez encuadernadas, salieron 300 ejemplares idénticos de la Biblia: la edición más importante de cuantas se han hecho de este libro, por ser la primera que se imprimió en el mundo occidental.
+
+Hoy día sólo se conservan 45 ejemplares de la Biblia de Gutenberg. El valor de cada uno es incalculable, pero a Gutenberg no le reportaron ni un céntimo.
+
+La mala fortuna persiguió a Gutenberg durante toda su vida. Nació alrededor de 1398 en la ciudad de Maguncia, Alemania, en el seno de una familia bien acomodada. Si las cosas hubiesen discurrido pacíficamente, es muy posible que Gutenberg hubiese podido realizar sus experimentos sin ningún problema. Pero por aquel tiempo había contiendas civiles en Maguncia, y la familia Gutenberg, que estaba del lado de los perdedores, tuvo que marchar precipitadamente a Estrasburgo, 160 kilómetros al Sur. Esto ocurría seguramente hacia 1430.
+
+En el año 1435, Gutenberg estaba metido en algún negocio. Los historiadores no saben a ciencia cierta de qué negocio se trataba; pero lo cierto es que se vio mezclado en un pleito relacionado con el asunto y allí se mencionó la palabra «drucken», que en alemán quiere decir «imprimir».
+
+En 1450 le volvemos a encontrar en Maguncia y dedicado definitivamente a la impresión, cosa que se sabe porque pidió prestados 800 florines a un hombre llamado Johann Fust para comprar herramientas. En total debieron de ser veinte años de experimentos, inversiones, trabajo y esperas, así como de fragmentos impresos que no reportaban ningún beneficio ni despertaban ningún interés.
+
+Gutenberg comenzó, finalmente, en 1454 a componer su Biblia, en latín, a doble columna, con 42 líneas por página e iluminadas varias de ellas con estupendos dibujos a mano. Nada se omitió en este gran envite final: la cúspide de la vida de Gutenberg. Pero Fust le denunció por el dinero prestado.
+
+Gutenberg perdió el pleito y tuvo que entregar a Fust herramientas y prensas en concepto de indemnización. Incluso es probable que no consiguiera terminar la Biblia y que esa empresa la completara la sociedad compuesta por Fust y un tal Peter Schoeffer. Ambos adquirieron renombre en el campo de la impresión; Gutenberg se hundió en la oscuridad.
+
+Más tarde logró dinero prestado en otra parte para seguir trabajando en la imprenta; pero aunque nunca arrojó la toalla, tampoco logró salir de deudas. Murió en Maguncia, hacia 1468, en medio de la ruina económica.
+
+Lo que no fue un fracaso fue el negocio de las imprentas, que se propagó con fuerza imparable. Hacia 1470 había prensas en Italia, Suiza y Francia. William Caxton fundó, en 1476, la primera imprenta de Inglaterra, y en 1535 el invento cruzó el Atlántico y se estableció en la ciudad de Méjico.
+
+Europa era por aquel entonces escenario de una revolución religiosa. Martín Lutero inició en 1517 su disputa con la Iglesia Católica, que terminó con el establecimiento del protestantismo. Antes de Lutero había habido muchos otros reformadores, pero de influencia siempre escasa; sólo podían llegar a la gente a través de prédicas y sermones y la Iglesia tenía medios para silenciarlos.
+
+Lutero vivió en cambio en un mundo que conocía la imprenta. Además de predicar, escribía sin descanso. Docenas de sus panfletos y manifiestos pasaron por la imprenta y se difundieron copiosamente por toda Alemania. A la vuelta de pocos años toda Europa vibraba con el choque de ideas religiosas encontradas.
+
+Gracias a la imprenta, las Biblias se abarataron, proliferaron y empezaron a editarse en el idioma que hablaba la gente, no en latín. Muchos buscaron directamente inspiración en este libro, y por primera vez se pudo pensar en la alfabetización universal. Hasta entonces no había tenido sentido enseñar más que a unos cuantos a leer; los libros eran tan escasos que, quitando a un puñado de eruditos, hubiese sido una pérdida de tiempo.
+
+En resumen: la imprenta creó la opinión pública. Un libro como el Common Sense, de Thomas Paine, podía llegar a cualquier granja de las colonias americanas y propagar la guerra de Revolución mejor que ningún otro medio.
+
+La imprenta contribuyó al nacimiento de la democracia moderna. En la antigua Grecia, la democracia sólo podía existir en ciudades pequeñas donde las ideas pudiesen difundirse por vía oral. La imprenta, por el contrario, era capaz de multiplicar las ideas y ponerlas al alcance de cualquier ojo y de cualquier mente. Podía tener suficientemente bien informadas a millones de personas para que participaran en el gobierno.
+
+Claro es que de la imprenta también podía abusarse. Un uso hábil de la propaganda a través de la palabra escrita podía hacer que las guerras fuesen más terribles y las dictaduras más poderosas. La difusión del alfabetismo no garantizaba que lo que la gente leía fuese bueno ni sabio. Pero aun así podemos decir que los beneficios han sido mayores que los males. La imprenta ha permitido poner nuestros conocimientos al servicio de las generaciones futuras.
+
+Antes de que Gutenberg fabricara sus pequeños rectángulos de metal, todos los libros eran escritos a mano. La preparación de un libro suponía muchas semanas de trabajo agotador. Poseer un libro era cosa rarísima, tener una docena de ellos era signo de opulencia. Destruir unos mantos libros podía equivaler a borrar para siempre el testimonio de un gran pensador.
+
+En el mundo antiguo, el vastísimo saber y la abundante literatura de Grecia y Roma estaban depositados en unas cuantas bibliotecas. La mayor de ellas, la de Alejandría, en Egipto, quedó destruida por el fuego durante las revueltas políticas del siglo V. Otras desaparecieron a medida que las ciudades fueron cayendo víctimas de la guerra y las conquistas.
+
+Al final sólo quedaron las bibliotecas de Constantinopla para preservar el legado de Grecia y Roma. Los Cruzados de Occidente saquearon la ciudad en 1204, y en 1453 -un año antes de que apareciera la Biblia de Gutenberg- cayó en manos de los turcos.
+
+Los Cruzados y los turcos aniquilaron la gran ciudad, saquearon sus tesoros y destruyeron la mayor parte de los libros y obras de arte. La gente instruida, en su huida, se llevaron consigo los manuscritos que pudieron salvar; pero era una porción ridícula del total.
+
+Uno de los dramaturgos más grandes de todos los tiempos, el griego Sófocles, escribió unas cien tragedias. Sólo se conservan siete. De la poesía de Safo sólo quedan algunos fragmentos, y lo mismo ocurre con varios filósofos. Por fortuna se conserva casi todo Hornero, casi todo Herodoto y la mayor parte de Platón, Aristóteles y Tucídides; pero por pura suerte. Gran parte de la cultura antigua murió en Constantinopla.
+
+Semejante desastre es probable que no se pueda repetir nunca jamás gracias a la imprenta. Cualquier persona puede tener en su casa cientos de libros en ediciones nada caras, y cualquier ciudad modesta puede poseer una biblioteca equiparable a la de Alejandría o Constantinopla por el número de volúmenes.
+
+Los conocimientos del hombre son hoy día tan inmortales como él mismo, porque sólo pueden desaparecer con la destrucción total de la raza humana.
+
+Gutenberg murió en la ruina, pero su obra fue uno de los grandes logros de la humanidad.
+
+3. Nicolás Copérnico
+
+En 1543, el anciano Nicolás Copérnico, heptagenario, yacía en el lecho de la muerte; mientras tanto, su gran libro libraba en la imprenta otra batalla contra el tiempo. El 24 de mayo, su mano enervada recibía, por fin, el primer ejemplar impreso del libro. Puede que sus ojos opacos lo vieran, pero la memoria y la mente estaban ya ausentes. Murió ese mismo día, sin saber que por fin había movido la tierra.
+
+Mil setecientos años atrás, Arquímedes se había ofrecido a mover la Tierra si le daban un punto de apoyo. Copérnico había cumplido ahora tan orgullosa promesa: había encontrado la Tierra en el centro del universo y, con el poder de la mente, la había lanzado lejos, muy lejos, a la infinitud del espacio, en donde ha estado desde entonces.
+
+Nicolaus Koppernigk nació en Thorn (Polonia), el 19 de febrero de 1473. Los hombres de letras escribían por aquel entonces en latín y adoptaban nombres latinizados, de manera que Koppernigk se convirtió en Copernicus o Copérnico, que es la forma que ha prevalecido hasta nuestros días.
+
+Copérnico, el científico polaco más notable hasta los tiempos de Madame Curie, bebió ávidamente de las fuentes de saber de toda Europa, como tantos otros eruditos de su época. Comenzó estudiando en la universidad de Cracovia, donde se enfrascó en las matemáticas y en la pintura. En 1496 marchó a Italia, que por entonces era el epicentro del saber y permaneció allí por espacio de diez años, estudiando Medicina en Padua y Derecho en Bolonia.
+
+En todos los campos se desenvolvía Copérnico con soltura. Cuando, finalmente, regresó a Polonia en 1506, ejerció la Medicina profesionalmente, y a él acudían pobres y ricos. Era miembro del capítulo catedralicio de su diócesis y administraba dos de los distritos principales.
+
+Pero no fue ni en Derecho ni en Medicina ni en los asuntos de gobierno -pese a sobresalir en todos ellos- donde Copérnico dio la campanada, sino en astronomía. Y su afición a este campo también nació durante sus viajes italianos.
+
+Italia era, en 1500, un torbellino intelectual: ideas nuevas flotaban en el aire y las antiguas estaban en declive. Pensemos, por ejemplo, en las teorías acerca del movimiento de los cuerpos celestes.
+
+Todas las estrellas, así como el Sol, la Luna y los planetas, giraban cada día alrededor de la Tierra de Este a Oeste. Pero los hombres de ciencia coincidían en que aquello era pura apariencia: la Tierra era un globo que giraba en torno a su eje de Oeste a Este, y el movimiento diario de los cielos era ilusorio.
+
+Si la Tierra no girase, las estrellas aparecerían quietas en el mismo sitio. La Luna, sin embargo, cambia de posición respecto a las «estrellas fijas». En el espacio de veintinueve días (ignorando la rotación de la Tierra), la Luna recorre un circuito celeste completo de Oeste a Este. El Sol hace lo propio, sólo que más despacio, y necesita trescientos sesenta y cinco días para efectuarlo
+
+Era evidente que la Luna y el Sol giraban alrededor de la Tierra; hasta ahí la cosa iba bien; lo que no encajaba eran los planetas.
+
+En tiempos de Copérnico se conocían cinco de ellos: Mercurio, Venus, Marte, Júpiter y Saturno. Los cinco cambiaban de posición respecto a las estrellas, pero de una manera muy rara y complicada. Mercurio y Venus salían unas veces por la mañana, otras por la tarde; y nunca lucían en lo alto de los cielos, sino siempre cerca del horizonte (más Mercurio que Venus).
+
+Por otro lado, Marte, Júpiter y Saturno aparecían en ciertas ocasiones sobre la cabeza del observador. Cada uno de ellos describía un círculo completo en el cielo, de Oeste a Este; pero sus movimientos no eran constantes. En cada revolución había un momento en que Marte deceleraba, daba marcha atrás y viajaba durante un rato de Este a Oeste. Este desplazamiento hacia atrás se denominaba «movimiento retrógrado». Júpiter describía un movimiento retrógrado doce veces en cada una de sus revoluciones (mayores que la de Marte) y Saturno treinta veces en cada vuelta (mayor que la de Júpiter).
+
+Los antiguos griegos trataron de explicar este extraño movimiento. En primer lugar creían que el universo estaba gobernado por la ley natural, de modo que no podían descansar hasta haber hallado la ley en que se basaba el movimiento planetario. En segundo lugar creían que el movimiento de los planetas influía en el destino humano, y pensaban que entendiendo a fondo los cielos podrían comprender el pasado y el futuro.
+
+Claudio Ptolomeo, matemático y astrónomo griego, escribió hacia el año 150 d. C. un libro en el que daba fórmulas para calcular los movimientos de los planetas. Las fórmulas se basaban en la hipótesis de que todos los planetas giraban en trayectorias circulares alrededor de la tierra.
+
+Para explicar el movimiento retrógrado suponía Ptolomeo que cada planeta se movía en un pequeño círculo cuyo centro describía otro más grande, de Oeste a Este, en torno a la Tierra. Había momentos en que el planeta tendría que moverse de Este a Oeste en el círculo más pequeño, y la combinación de movimientos daría como resultado el movimiento retrógrado.
+
+A medida que se fueron acumulando las observaciones celestes hubo que apilar círculos sobre círculos y los cálculos matemáticos se hicieron cada vez más complicados. Hacia 1500 el sistema ptolemaico era tan barroco que los hombres de ciencia empezaron a incomodarse; Copérnico, por supuesto, más que ningún otro.
+
+Copérnico no ignoraba que cierto matemático griego, Aristarco de Samos, había defendido que era la Tierra la que giraba alrededor del Sol, y no al contrario; pero aquello no era más que una teoría y fue inmediatamente rechazada. Copérnico creía que Aristarco tenía razón; sin embargo, sabía que la gente se le echaría también encima a menos que lograra demostrar que la teoría tenía sentido.
+
+Copérnico carecía de instrumentos apropiados para ese propósito, porque el telescopio no se inventaría hasta pasados setenta y cinco años. Pero contaba con la fuerza de la lógica.
+
+En primer lugar, si la Tierra se moviese alrededor del Sol, quedaría explicado de inmediato el movimiento retrógrado. Imaginemos que la Tierra y Marte están a un mismo lado del Sol, sólo que aquélla moviéndose más deprisa que éste; llegaría un momento en que la Tierra adelantaría a Marte, dando entonces la sensación de que éste se quedaba atrás y retrocedía. La Tierra sacaría cada año una vuelta de ventaja a los planetas exteriores -Marte, Júpiter y Saturno-, de manera que, año tras año, cada uno de estos planetas mostraría un movimiento retrógrado en un cierto momento.
+
+Suponiendo que Mercurio y Venus se encontraran más cerca del Sol que la Tierra podría explicarse también su comportamiento. Con ayuda de diagramas Copérnico demostró que los planetas interiores tenían que seguir siempre al Sol. Desde la Tierra sería imposible verlos a más de una cierta distancia de él, de modo que Venus y Mercurio sólo podían aparecer por la mañana y al atardecer, cuando la potente luz solar estaba oculta tras el horizonte; y claro está, sólo podían asomar cerca de esta línea, tras la cual acechaba el Sol.
+
+Las matemáticas necesarias para representar los movimientos planetarios resultaron ser mucho más sencillas en el sistema copernicano que en el ptolemaico. ¿Qué más podía pedirse?
+
+Copérnico procedió sin embargo con cautela, porque sabía que entre los «eruditos» académicos se daban a veces las mentes más dogmáticas e intransigentes.
+
+Hacia el año 1530 expuso su teoría en forma manuscrita y dejó que circulara libremente. Encontró seguidores entusiastas, pero también enemigos acérrimos. Uno de ellos fue Martín Lutero, quien dijo de Copérnico que era un necio que negaba la Biblia. Copérnico comprobó que su cautela no era injustificada.
+
+En 1540, George Joachim Rheticus, fiel discípulo de Copérnico, publicó un resumen de la teoría copernicana. El Papa Clemente VII aprobó el popular resumen y pidió que se publicara íntegro el gran manuscrito. Copérnico se avino; se lo dedicó al Papa, con un vigoroso ataque contra aquellos que utilizaban citas bíblicas para refutar demostraciones matemáticas.
+
+El libro, De Revolutionibus Orbium Caelestium, cayó sobre Europa como un rayo. Copérnico, sin embargo, sufrió un ataque en 1542 y murió el mismo día en que se publicó aquél, ahorrándose la humillación de saber que habían debilitado su obra con un cobarde prefacio que negaba la verdad de la teoría copernicana y la presentaba como una especie de truco o juego de manos matemático para simplificar el cálculo de los movimientos planetarios.
+
+Parece ser que Rheticus tuvo luego problemas (quizá por sus ideas copernicanas) y hubo de abandonar la ciudad, dejando la publicación del libro de Copérnico en manos de su amigo Andreas Osiander, que era pastor luterano. Es posible que Osiander no quisiera que nadie le acusara de negar la Biblia y fue él quien insertó el prefacio, con el cual no tuvo nada que ver Copérnico.
+
+Pero Copérnico hizo más que inventar una teoría, porque modificó la relación del hombre con el universo. Antes de él la Tierra lo era todo; ahora no era más que un cuerpo entre otros, en medio de un universo gigantesco.
+
+La ciencia se halló por primera vez cara a cara con el desafío del infinito; se enfrentó de lleno con él y desde entonces ha venido ampliando el universo constantemente. Después de encarar noblemente uno de los infinitos, cabía concebir una segunda especie, el mundo de lo infinitamente pequeño. El tiempo se amplió y alargó hasta el punto de poder pensar en la historia de la Tierra como un proceso de miles de millones de años.
+
+La mente del hombre empezó a tantear y tantear en todas las direcciones. Y la persona que abrió el camino hacia el infinito fue Nicolás Copérnico, que murió el mismo día de su gran triunfo.
+
+4. William Harvey
+
+William Harvey había observado pacientemente la acción del corazón y de la sangre. A cada contracción el corazón bombeaba cierta cantidad de sangre en las arterias. Al cabo de una hora había bombeado una cantidad que pesaba tres veces más que un hombre. ¿De dónde venía toda esa sangre? ¿A dónde iba? ¿Venía de la nada? ¿Se desvanecía en la nada?
+
+A Harvey sólo se le ocurría una respuesta: la sangre que salía del corazón tenía que volver a él. La sangre tenía que circular por el cuerpo.
+
+William Harvey nació el 1 de abril de 1578 en Folkestone, Inglaterra. Estudió en Cambridge, luego en Padua, Italia, que por aquel entonces era el centro del saber médico. Obtuvo su título de doctor en 1602 y fue médico de cámara de Jacobo I, y luego de Carlos I.
+
+Su vida privada transcurrió sin grandes sobresaltos, porque aunque vivió en una época en que Inglaterra sufría los trastornos políticos de una guerra civil, Harvey nunca mostró interés por la política. La afición que le absorbía era la investigación médica.
+
+Galeno, el gran médico griego del siglo III d. C., pensaba que la sangre iba y venía suavemente por las arterias y pasaba a través de orificios invisibles en la pared que dividía el corazón en dos mitades. La sangre iba primero en una dirección, luego en la contraria. La teoría de Galeno subsistió durante mil cuatrocientos años.
+
+En tiempos de Harvey hubo muchos doctores que especularon acerca del movimiento de la sangre; Harvey, por el contrario, buscó dentro del cuerpo las claves que explicaban el misterio, siguiendo en esto los pasos de Andreas Vesalius, un gran médico belga que había enseñado en Padua una generación antes de que Harvey estudiara allí. Vesalio, que fue el primero en diseccionar cuerpos humanos, fue el padre de la anatomía.
+
+Harvey estudió el corazón en animales vivos y observó que las dos mitades no se contraían al mismo tiempo. Estudió las válvulas que se hallan entre los ventrículos y las aurículas (las pequeñas cámaras del corazón) y advirtió que eran válvulas unidireccionales. Estudió las válvulas de las venas y halló que también eran de una sola dirección; estas últimas las había descubierto el profesor de Harvey en Padua, un médico llamado Fabricius, quien, sin embargo, no había comprendido su función.
+
+Era claro que la sangre podía salir del corazón por las arterias y entrar en él a través de las venas. Las válvulas impedían que el movimiento se invirtiera.
+
+Harvey ligó diversas arterias y observó que sólo se hinchaban del lado del corazón. Luego hizo lo propio con venas: la presión crecía del lado opuesto al del corazón. En 1616 estaba seguro de que la sangre circulaba.
+
+La teoría sólo tenía una pega, y es que no había conexiones visibles entre arterias y venas. ¿Cómo pasaba la sangre de unas a otras? El sistema arterial era como un árbol en el que las ramas se dividen en ramitas cada vez más pequeñas. Cerca del punto donde las arterias parecían terminar surgían venas minúsculas que luego se hacían cada vez más grandes; pero no había ninguna conexión visible entre ambas.
+
+Pese a esa laguna, Harvey dio por buena su teoría en 1628. Publicó un libro de 52 páginas con un largo título en latín, que se conoce generalmente con el nombre de De Motus Cordis («Sobre el movimiento del corazón»); fue impreso en un papel muy delgado y barato y contenía cantidad de erratas tipográficas; pero aun así derrocó la teoría de Galeno.
+
+Los resultados no fueron al principio muy halagüeños para Harvey: disminuyó su clientela, sus enemigos se rieron de él y los pacientes no querían ponerse en manos de un excéntrico. Se le puso el mote de «circulator», pero no porque creyera en la circulación de la sangre, sino porque en el latín coloquial significaba «charlatán», nombre que se les daba a los vendedores ambulantes que ofrecían ungüentos en el circo.
+
+Harvey guardó silencio y prosiguió con su trabajo; sabía que al final le darían la razón.
+
+Y así fue. La prueba final vino en 1661, cuatro años después de morir Harvey. El médico Italiano Marcello Malpighi examinó tejido vivo al microscopio y encontró diminutos vasos sanguíneos que conectaban las arterias y venas en los pulmones de una rana. Los llamó capilares («como cabellos») por sus pequeñísimas dimensiones. La teoría de la circulación estaba completa.
+
+La importancia del trabajo de Harvey reside en los métodos que utilizó. Harvey suplió la «autoridad» con la observación y escrutó la naturaleza en lugar de hojear viejos manuscritos polvorientos. A partir de allí creció el monumental edificio de las ciencias de la vida que hoy conocemos.
+
+5. Galileo Galilei
+
+Lentamente, el anciano se postró de rodillas ante los jueces de la Inquisición. Con la cabeza inclinada hacia adelante, recitó con voz cansina la fórmula de rigor: negó que el Sol fuese el centro del universo y admitió que había sido un error enseñarlo así; negó que la Tierra girara en torno a su eje y alrededor del Sol, y admitió que había sido un error enseñarlo así.
+
+Aquel día, el 22 de junio de 1633, los clérigos que formaban el tribunal de la Inquisición en Roma sintieron que habían conseguido una victoria. Galileo Galilei, a sus sesenta y nueve años, era el científico más renombrado de Europa y famoso también por sus escritos, que exponían claramente sus ideas y ridiculizaban de manera eficaz a sus oponentes.
+
+Ahora le habían obligado a confesar que estaba equivocado. La Inquisición, temerosa de su fama, le había dispensado un trato cortés y le dejaba que volviera a Florencia, donde pasó los ocho últimos años de su vida, dedicado a problemas alejados de toda polémica. No volvió a importunar a la Iglesia con ideas heréticas. El 8 de enero de 1642 murió.
+
+Galileo (universalmente se le conoce por su nombre de pila) nació en Pisa, el 15 de febrero de 1564. Desde el principio dio pruebas de un amplísimo círculo de intereses creativos, y siendo niño mostró ya una habilidad inusitada en el diseño de juguetes. De mayor tocaba el órgano y el laúd, escribió canciones, poemas y crítica literaria, e incluso destacó como pintor. Los primeros años de escuela, en un monasterio de Florencia, le dejaron una sensación de vaga infelicidad; su padre quería que fuese médico, pero la desazón de Galileo aumentó aún más cuando en 1581 fue a la Universidad de Pisa a estudiar Medicina.
+
+En Pisa empezaron a interesarle otras cuestiones. Durante la misa en la catedral observó cómo las grandes lámparas oscilaban movidas por las corrientes de aire; unas veces lo hacían en grandes arcos, otras en arcos menores. La cosa no tenía nada de particular, pero Galileo, que por entonces contaba diecisiete años, observó algo que los demás no habían visto.
+
+Se tomó el pulso y empezó a contar: tantas pulsaciones para una oscilación amplia y rápida, tantas otras para una pequeña y lenta. Lo curioso era que el número de pulsaciones era igual en ambos casos. Galileo había descubierto la ley del péndulo.
+
+Ahora bien, si el péndulo oscilaba con perfecta constancia y, por así decirlo, dividía el tiempo en pequeños fragmentos iguales, entonces constituía un método nuevo y revolucionario de medir el tiempo. Galileo había utilizado el pulso para cronometrar un péndulo; por consiguiente, también podía utilizarse el péndulo para medir el pulso humano. Galileo comunicó el hallazgo a sus profesores.
+
+Galileo nunca llegó a obtener el título de médico. No tenía dinero bastante para proseguir sus estudios. Pero la verdadera razón era probablemente su falta de interés. Por casualidad asistió a una clase de geometría y descubrió que lo que realmente le importaba eran las matemáticas y la física, no la medicina.
+
+Así que marchó a Florencia, se buscó un mecenas y empezó a estudiar el comportamiento de objetos que flotan en el agua. El trabajo en el que describía sus conclusiones era de tan buena factura que le convirtió en una «joven promesa» dentro del mundo académico de Italia. Cuando regresó a Pisa, en 1588, lo hizo como profesor de matemáticas de la universidad, donde procedió a estudiar la caída de los cuerpos.
+
+Aristóteles pensaba (dos mil años antes) que la velocidad con que cae un cuerpo era proporcional a su peso, y desde entonces los sabios habían acatado la idea; las plumas caen muy lentamente, así que ¿por qué no dar crédito a lo que prueban los ojos?
+
+Galileo pensaba que la resistencia del aire podía influir en el sentido de retardar la caída de los cuerpos ligeros que tienen gran superficie. Cuenta la leyenda que, para demostrarlo, subió a lo alto de la torre inclinada de Pisa con dos bolas de cañón de igual tamaño, una de hierro fundido y otra de madera; la primera era diez veces más pesada que la segunda. Si Aristóteles (y los profesores de Pisa) tenían razón, la bola de hierro debía caer diez veces más deprisa que la de madera. ¿Sería así? Abajo (prosigue le leyenda) se congregó una gran muchedumbre para observar el resultado.
+
+Galileo dejó cuidadosamente caer las dos bolas al mismo tiempo por encima de la barandilla. ¡Zas! Las dos golpearon contra el suelo a una.
+
+Difícilmente se podría haber rebatido a Aristóteles de una manera más drástica. Galileo, a sus veintisiete años, había destronado la autoridad (y también la dignidad de sus colegas universitarios). Tuvo que abandonar Pisa, pero en la Universidad de Padua le aguardaba un empleo mejor y también la verdadera gloria de su vida.
+
+Rumores llegados de Holanda hablaban de un tubo con lentes que hacía que los objetos distantes parecieran estar al alcance de la mano. El gobierno holandés había estampado el sello de secreto militar sobre el invento pero aún así Galileo empezó a elucubrar acerca de cómo podría funcionar el aparato.
+
+En el plazo de seis meses diseñó y construyó un telescopio (después construyó muchos otros que se difundieron por toda Europa). Hizo una demostración pública en Venecia y causó verdadera sensación. Caballeros respetables resoplaban escaleras arriba hasta la cima de los edificios más altos para mirar por el tubo de Galileo y divisar a lo lejos navíos tan distantes que tardarían todavía horas en tocar puerto.
+
+Galileo, sin embargo, no pensaba ni en la guerra ni en el comercio. Dirigió el telescopio hacia los cielos y halló montañas y cráteres en la Luna y nuevas estrellas en Orión, que no eran visibles a simple vista. Y también comprobó que Venus tenía fases, como la Luna, y que el Sol poseía manchas.
+
+El 7 de enero de 1610 hizo el descubrimiento crucial. Miró hacia Júpiter y al punto encontró cuatro pequeñas «estrellas» cerca de él. Noche tras noche las siguió; no podía haber error: eran cuatro lunas que giraban alrededor de Júpiter, cada una de ellas en su propia órbita. Lo cual refutaba definitivamente la vieja idea de que todos los cuerpos celestes giran en torno a la Tierra, porque allí había cuatro objetos que lo hacían alrededor de Júpiter.
+
+En 1611 llevó su telescopio a Roma. Casi todos los miembros de la corte papal se quedaron anonadados, pero hubo quienes montaron en cólera: este hombre, que había destruido ya las ideas aristotélicas acerca de la caída de los cuerpos, ¿iba a destruir ahora también la doctrina de Aristóteles de que los cielos eran perfectos? ¿Cómo iba a haber rudas montañas sobre la faz celestial de la Luna y manchas en el rostro perfecto del Sol?
+
+«Miren ustedes mismos», les dijo Galileo. «Miren por mi instrumento.»
+
+Muchos se negaron. Algunos dijeron que las lunas de Júpiter no podían verse a simple vista, que por tanto carecían de utilidad para el hombre y no podían haber sido creadas. Si el instrumento permitía verlas, es que el instrumento estaba mal. Un aparato maculado, dijeron algunos, un instrumento del demonio. Una fracción de la Iglesia apoyó a Galileo, otra le atacó.
+
+El pisano escribió entonces diversos artículos sobre sus descubrimientos, en los cuales se defendía sarcásticamente de sus enemigos. Poco a poco fue tomando partido cada vez más abierto por las teorías de Copérnico.
+
+Galileo tenía especial habilidad para ridiculizar a sus adversarios, y eso rara vez se lo perdonaron. Enfrente tenía esta vez a hombres de mucho poder en la Iglesia, por cuya influencia ésta declaró, finalmente, en 1616, que la creencia en el sistema copernicano era herejía. El Papa Pío V ordenó a Galileo que abandonara el copernicanismo.
+
+Galileo obedeció durante quince años, al menos en público. Guardó silencio, trabajó en otros asuntos y esperó a que la Iglesia adoptara una postura menos rígida. Pasado ese tiempo pensó que había llegado el momento. Sin prever, por lo visto, conflicto alguno, publicó, en 1632, su gran defensa del sistema copernicano, en la cual ridiculizó sin piedad a sus adversarios. La Inquisición le llamó a Roma.
+
+El anciano científico hubo de pasar entonces por un juicio largo y agotador. Cuenta la historia que cuando se puso en pie después de jurar que la Tierra estaba quieta, musitó algo para su embozo. Según la leyenda, sus palabras fueron: «Y sin embargo se mueve.»
+
+¿Por qué se le venera hoy a Galileo? Sus descubrimientos e inventos rebasaron con mucho la imaginación de las gentes de Europa de su tiempo. Galileo fue un científico versátil y original, y por si fueran pocos los descubrimientos que ya hemos reseñado, consiguió otros muchos: halló una manera de medir el peso de los cuerpos en el agua, diseñó un termómetro para medir la temperatura, construyó un reloj hidráulico para medir el tiempo, demostró que el aire tenía peso, y fue el primero en utilizar el telescopio en astronomía.
+
+Pero no es sólo por eso por lo que Galileo ocupa un lugar tan alto en la jerarquía de la ciencia. Descubrió las leyes que gobiernan la fuerza y el movimiento y la velocidad de los objetos en movimiento, y después enunció estas leyes de la dinámica en fórmulas matemáticas, no en palabras. Y no es que fuese poco hábil con la pluma: fue el primer científico que abandonó el latín y escribió en su lengua materna, y su gracia y estilo atrajeron la atención en toda Europa. Incluso los príncipes acudían a Italia para asistir a sus clases.
+
+En segundo lugar, Galileo demolió la actitud pedante ante la ciencia. Porque además de observar las cosas con sus propios ojos y basar sus deducciones en experimentos y pruebas reales (que eso lo habían hecho antes que él otros científicos que buscaron la verdad en la naturaleza, no en viejos manuscritos polvorientos), Galileo fue el primero en llegar a sus conclusiones a través del método científico moderno de combinar la observación con la lógica; y esa lógica la expresó en las matemáticas, el claro e inconfundible lenguaje simbólico de la ciencia.
+
+6. Antón van Leeuwenhoek
+
+Antón van Leeuwenhoek fue un pañero que con sólo algunos años de escuela descubrió un nuevo mundo más asombroso que el de Colón. Su afición era fabricar pequeñas lentes de vidrio. Un día, estudiando una gota de agua putrefacta con una de esas lentes, vio algo que nadie había visto ni imaginado hasta entonces: animales diminutos, demasiado pequeños para verlos a simple vista, bullían, se alimentaban, nacían y morían en una gota de agua, que para ellos era todo un universo.
+
+Van Leeuwenhoek nació en la ciudad de Delft, Holanda, el 24 de octubre de 1632. Allí vivió los noventa años de su vida. Dejó la escuela a los dieciséis, al morir su padre, y se colocó de dependiente en una pañería. Más tarde consiguió el puesto de ujier en el ayuntamiento de Delft, conservándolo hasta el fin de sus días.
+
+Pero luego estaba su hobby, el de pulir diminutas lentes perfectas. Algunas sólo tenían un octavo de pulgada de ancho, pero aumentaban los objetos unas 200 veces sin distorsión.
+
+Todo el mundo sabía, claro está, que las lentes aumentaban el tamaño aparente de los objetos; pero la mayoría de los científicos trabajaban con lentes mediocres. Van Leeuwenhoek pulía lentes de calidad excelente. Las montaba en placas de cobre, plata u oro, fijaba un objeto a un lado de la lente y lo miraba durante horas. A menudo dejaba el objeto allí durante meses o incluso por tiempo indefinido. Cuando quería observar otro objeto pulía otra lente. A lo largo de su vida fabricó en total 419.
+
+Los objetos que observaba eran de lo más diverso: insectos, gotas de agua, raspaduras de diente, trocitos de carne, cabellos, semillas. Y cuanto observaba lo dibujaba y describía con precisión inigualable.
+
+En 1665 observó capilares vivos. Estos minúsculos vasos que conectan las arterias con las venas los había descubierto cuatro años atrás un italiano, pero van Leeuwenhoek fue el primero en ver cómo la sangre pasaba por ellos. Y en 1674 descubrió los corpúsculos rojos que dan a la sangre su color.
+
+En 1683 hizo lo que quizá fue su descubrimiento más importante, las bacterias; pero eran demasiado pequeñas para que sus lentes dieran una imagen clara, aparte de que ignoraba la importancia del hallazgo.
+
+Los descubrimientos no permanecieron secretos. El rey Carlos II reunió, en 1660, a unos cuantos hombres interesados en la ciencia y les invitó a que formaran una sociedad oficial; su nombre es muy largo y por lo general se la llama sencillamente la Royal Society.
+
+Van Leeuwenhoek escribió largas cartas a la Royal Society, describiendo detalladamente sus lentes y todo lo que veía a través de ellas. La Sociedad estaba asombrada, y es probable que no le diera crédito al principio. Pero en el año 1667 Robert Hooke, que era miembro de la Sociedad, construyó microscopios siguiendo las instrucciones de Leeuwenhoek y halló exactamente lo que éste dijo que hallaría. Después de eso no quedó ninguna duda, y menos aún cuando van Leeuwenhoek envió 26 de sus microscopios como regalo a la Sociedad para que todos los miembros pudieran observarlos personalmente.
+
+Van Leeuwenhoek fue elegido miembro de la Royal Society en 1680. Un pañero sin apenas estudios pasó a ser así el miembro extranjero más famoso de la Sociedad. A lo largo de su vida envió un total de 375 artículos científicos a la Royal Society y 27 a la Academia Francesa de Ciencias. Aunque jamás abandonó Delft, sus trabajos le hicieron famoso en todo el mundo.
+
+La Compañía Holandesa de las Indias Orientales le envió insectos de Asia para que los colocara bajo sus maravillosas lentes; la reina de Inglaterra le giró una visita; y cuando Pedro el Grande, zar de Rusia, fue a Holanda para instruirse en la construcción naval, hizo un hueco para presentar sus respetos a van Leeuwenhoek. Al holandés le molestaba que le tocaran sus queridísimos microscopios, pero lo cierto es que dejó que la reina y el zar miraran por sus lentes.
+
+Van Leeuwenhoek no fue el primero en construir un microscopio ni en utilizarlo; pero fue el primero en demostrar lo que podía hacerse con él y en emplearlo con tal pericia, que de golpe sentó la base para la mayor parte de la biología moderna.
+
+Y es que sin la posibilidad de ver células y estudiarlas, el anatomista y el fisiólogo estarían hoy indefensos. Y sin la posibilidad de ver bacterias y estudiarlas y examinar sus ciclos vitales, la Medicina moderna se debatiría probablemente aún en las tinieblas.
+
+Todos los descubrimientos de los grandes biólogos, desde 1700 en adelante, arrancan, de un modo u otro, de las diminutas lentes de vidrio pulidas con todo mimo por el ujier del ayuntamiento de Delft.
+
+7. Isaac Newton
+
+Cuenta la leyenda que en 1666, cuando Isaac Newton contaba veintitrés años, vio caer una manzana de un árbol. No era la primera vez que lo veía, ni él ni muchas otras personas, por supuesto. Pero esa vez Newton miró hacia arriba: sobre la campiña inglesa, en medio del cielo diurno, se divisaba una media luna muy tenue. Newton se preguntó: ¿por qué la Luna no cae, igual que la manzana, hacia la Tierra, atraída por la fuerza de la gravedad?
+
+Su razonamiento fue el siguiente: puede ser que la Luna sea atraída efectivamente por la Tierra, pero que la velocidad de su movimiento a través del espacio contrarreste la atracción de la gravedad terrestre. Además, si la fuerza que tira de la manzana hacia la tierra también tira de la Luna hacia ésta, esa fuerza tiene que extenderse muy lejos por el espacio; y a medida que se extienda por el espacio, tiene que hacerse cada vez más débil.
+
+Newton calculó la distancia de la Luna al centro de la Tierra y luego la velocidad que tendría que llevar la Luna en su órbita para equilibrar la atracción de la gravedad terrestre a esa distancia de la Tierra. La solución que halló cuadraba muy bien con las cifras halladas por los astrónomos para la velocidad de la Luna; pero no coincidían exactamente. Newton pensó que la teoría era falsa y la desechó.
+
+Por aquel entonces empezaba ya Newton a destacar en las matemáticas, pese a que en la escuela había mostrado escasas dotes. Nació el día de Navidad de 1642 (el mismo año que murió Galileo), en Woolsthorpe, Inglaterra. Su padre, que fue granjero, había muerto el día antes de nacer Isaac. De pequeño fue Newton un estudiante poco aventajado, hasta el día (cuenta la leyenda) en que se cansó de que le ganara el primero de la clase; entonces se aplicó hasta que consiguió desbancarle.
+
+A los dieciocho años empezó a llamar la atención su interés por las matemáticas. Mal granjero va a ser, dijo su tío, y convenció a la madre para que le enviara a la Universidad de Cambridge. Nueve años más tarde era profesor de matemáticas allí.
+
+¡Pero qué años fueron ésos para Newton! Una de las cosas que estudió fueron los rayos luminosos. Dejaba que la luz del sol entrara en una habitación oscura a través de un orificio practicado en la cortina; el diminuto rayo de luz pasaba luego por un prisma de vidrio triangular; y he aquí que la luz que caía luego sobre una pantalla aparecía en forma de arco-iris, no en forma de punto luminoso. Newton fue el primero en descubrir que la luz blanca está compuesta de varios colores que pueden separarse y recombinarse.
+
+Por aquella misma época estableció nuevas fronteras en el campo de las matemáticas. Aparte de hallar el teorema del binomio para expresar ciertas magnitudes algebraicas, descubrió una cosa mucho más importante: una manera nueva de calcular áreas limitadas por curvas. (El matemático alemán Wilhelm Leibniz descubrió lo mismo casi simultáneamente y de forma independiente). Newton llamó «fluxiones» a su nueva técnica. Nosotros lo llamamos «cálculo diferencial».
+
+Incluso los errores de Newton reportaron resultados fructíferos. Newton había elaborado una teoría para explicar su descubrimiento de que la luz blanca se refractaba en el vidrio, formando un arco-iris. La teoría era errónea, como comprobaron después los científicos, pero parecía explicar por qué los primeros telescopios, que estaban construidos con lentes que refractaban la luz, formaban imágenes rodeadas de pequeños halos de colores. A este fenómeno se le dio el nombre de «aberración cromática». La teoría de Newton -que era falsa, como ya dijimos- le indujo a creer que la aberración cromática jamás podría corregirse.
+
+Por ese motivo decidió construir telescopios sin lentes, sustituyendo éstas por espejos parabólicos que recogieran y concentraran la luz por reflexión. El primero lo construyó en 1668. Como es natural, los telescopios reflectores no tenían aberración cromática.
+
+Poco después de morir Newton se construyeron telescopios con lentes especiales que carecían de aberración cromática. Pero lo cierto es que los mayores y mejores telescopios siguen utilizando hoy día el principio reflector. El de 200 pulgadas de Monte Palomar, en California, es un telescopio reflector.
+
+Así y todo, el intento de Newton de aplicar la gravedad terrestre a la Luna seguía siendo un fracaso. Pasaban los años y parecía que su muerte era definitiva.
+
+Uno de los defectos de Newton era que no sabía encajar las críticas, lo cual le valió muchas querellas a lo largo de su vida. Una de ellas fue la polémica que sostuvieron Newton y sus seguidores con Leibniz y los suyos acerca de quién había inventado el cálculo, cuando lo cierto es que ambos merecían ese honor.
+
+El gran enemigo de Newton dentro de la Royal Society (de la que Newton era miembro) era Robert Hooke. Hooke era un científico muy capaz, pero muy poco constante. Empezaba una cosa y la dejaba, y empezó tantas a lo largo de su vida, que hiciesen lo que hiciesen los demás siempre podía decir que a él se le había ocurrido primero.
+
+Hooke, junto con Edmund Halley, muy buen amigo de Newton, se jactó en 1684 de haber hallado las leyes que explican la fuerza que rige los movimientos de los cuerpos celestes. La teoría no parecía satisfactoria… y se desató la polémica.
+
+Halley acudió a Newton y le preguntó cómo se moverían los planetas si entre ellos existiese una fuerza de atracción que disminuyera con el cuadrado de la distancia.
+
+Newton contestó inmediatamente: «En elipses.»
+
+«Pero, ¿cómo lo sabes?»
+
+«Pues porque lo he calculado.» Y le contó a su amigo la historia de su intento de hacía dieciocho años y cómo había fracasado. Halley, excitadísimo, le instó a que volviera a intentarlo.
+
+Las cosas eran ahora diferentes. Newton había supuesto, en 1666, que la fuerza de atracción actuaba desde el centro de la Tierra, pero sin poder probarlo. Ahora tenía la herramienta del cálculo diferencial. Con sus nuevas técnicas matemáticas podía demostrar que la fuerza actuaba desde el centro. Por otra parte, durante los últimos dieciocho años se habían obtenido nuevas y mejores mediciones del radio de la Tierra, así como del tamaño de la Luna y de su distancia a nuestro planeta.
+
+La teoría de Newton encajaba esta vez perfectamente con los hechos. La Luna era atraída por la Tierra y retenida por ella a través de la gravedad, igual que la manzana.
+
+Newton expuso en 1687 su teoría en un libro titulado Philosophiae Naturalis Principia Mathematica, en el cual enunció también las «Tres Leyes del Movimiento». La tercera de ellas afirma que para toda acción hay una reacción igual y contraria. Es el principio que explica el funcionamiento de los cohetes.
+
+La Royal Society intentó publicar el libro, pero no había dinero bastante en tesorería. Hooke, por su lado, armó toda la gresca que pudo e insistió en que la idea era suya. Halley, que disfrutaba de una posición desahogada, corrió con los gastos de publicación.
+
+Pero los días grandiosos pasaron, y en 1692 empezó a fallar esa mente omnicomprensiva. Newton sufrió una crisis nerviosa y vivió retirado durante casi dos años. Para quemar sus inagotables energías mentales se dedicó a la teología y a la alquimia, como si la ciencia no le bastara. De este modo malgastó sus luces en la búsqueda de algún modo de fabricar oro.
+
+Aunque jamás volvió a ser el mismo después de esa crisis nerviosa, siguió dando muestras de su antigua genialidad. Así, por ejemplo, en 1696, cuando un matemático suizo retó a los sabios de Europa a resolver dos problemas. Newton los vio y al día siguiente envió anónimamente las soluciones. El matemático suizo vislumbró inmediatamente quién se ocultaba tras la máscara: «Reconozco la zarpa del león.»
+
+Newton fue nombrado inspector de la Casa de la Moneda en 1696, encargándosele la acuñación de moneda. Renunció a su puesto docente y desempeñó con tanto celo su nuevo empleo que se convirtió en el terror de los falsificadores.
+
+Formó también parte del Parlamento durante dos períodos, elegido en representación de la Universidad de Cambridge. Jamás pronunció un discurso. En cierta ocasión se levantó y la sala se sumió en un silencio sepulcral para escuchar al gran hombre. Lo único que dijo Newton fue que cerraran por favor la ventana, que había corriente.
+
+La reina Ana le otorgó en 1705 el título de Caballero. El 20 de marzo de 1727, cuarenta años después de sus grandes descubrimientos, murió Newton.
+
+La importancia de Newton, sin embargo, no se debe sólo a esos grandes descubrimientos. Es cierto que sus leyes del movimiento completaron la obra iniciada por Galileo y que sus leyes de la gravedad universal explicaron la labor de Copérnico y Kepler así como el movimiento de las mareas. Son sin duda conceptos muy importantes que aparecen hoy en cualquier rama de la mecánica. Fundó la ciencia de la óptica, que nos ha permitido saber todo lo que sabemos acerca de la composición de las estrellas y casi todo lo que conocemos sobre la composición de la materia. Y el valor del cálculo diferencial e integral en cualquier rama de la ciencia es inapreciable.
+
+Con todo, la máxima importancia de Newton para el avance de la ciencia puede que sea de orden psicológico. La reputación de los antiguos filósofos y sabios griegos se había resquebrajado malamente con los descubrimientos hechos por figuras modernas como Galileo y Harvey. Pero aun así los científicos europeos seguían teniendo una especie de sentimiento de inferioridad.
+
+Entonces llegó Newton. Sus teorías gravitatorias inauguraron una visión del universo que era más grande y más grandiosa que lo que Aristóteles hubiese podido soñar. Su elegante sistema de la mecánica celeste puso los cielos al alcance de la inteligencia del hombre y demostró que los cuerpos celestes más remotos obedecían exactamente las mismas leyes que el objeto mundano más pequeño.
+
+Sus teorías se convirtieron en modelos de lo que debía ser una teoría científica. Desde Newton, los autores y pensadores de todas las demás ciencias, y también de la filosofía política y moral, han intentado emular su elegante sencillez, utilizando fórmulas rigurosas y un número pequeño de principios básicos.
+
+Aquella mente era tan portentosa como la de cualquiera de los antiguos. Sus contemporáneos lo sabían y casi le idolatraban. A su muerte le enterraron en la Abadía de Westminster, junto a los héroes de Inglaterra. El francés Voltaire, que se hallaba visitando Inglaterra por aquella época, comentó con admiración que ese país honraba a un matemático como otras naciones honraban a sus reyes.
+
+Desde los días de Newton, la ciencia ha tenido una confianza en sí misma que jamás ha vuelto a decaer.
+
+La gloria de Newton ha quedado recogida de forma insuperable en los versos de Alexander Pope:
+
+La Naturaleza y sus leyes yacían ocultas en la noche.
+
+Dijo Dios: ¡Sea Newton! y todo se hizo luz.
+
+8. James Watt
+
+James Watt estudió detenidamente la máquina de vapor que tenía delante, un modelo construido en origen por Thomas Newcomen en 1705, hacía sesenta años. La máquina se utilizaba para bombear el agua de las minas, y el modelo pertenecía a la Universidad de Glasgow, Escocia, donde Watt trabajaba de constructor de instrumentos matemáticos.
+
+«No funciona bien», le dijo el profesor. «Arréglala.»
+
+La máquina funcionaba así: el vapor del agua en ebullición entraba en una cámara cerrada por arriba por un émbolo móvil; la presión del vapor empujaba el émbo-lo hacia arriba; entonces llegaba agua fría a la cámara y la refrigeraba; el vapor se condensaba y el pistón descendía; de nuevo entraba vapor y volvía a ascender el pistón; más agua fría, y el pistón bajaba. El movimiento ascendente y descendente del émbolo hacía funcionar la bomba.
+
+El proceso requiere cantidades ingentes de vapor -pensó Watt- y, sin embargo, la máquina funciona con muy poca eficiencia. El vapor contiene más potencia que eso.
+
+Watt, que era un ingeniero experimentado y que poseía una mente analítica, comenzó a estudiar científicamente el vapor. Para que el vapor ejerza una potencia mixta tiene que estar, en primer lugar, lo más caliente posible. Luego tiene que convertirse en agua lo más fría posible. Pero ¿no era eso lo que hacía la máquina de Newcomen?
+
+Un domingo, a principios de 1765, salió Watt a dar un paseo a solas, sumido en sus pensamientos. De pronto se paró en seco. ¡Pero claro, hombre! El vapor se desaprovechaba porque en cada paso se volvía a enfriar la cámara, de manera que cada bocanada de vapor tenía que volver a calentarla antes de poder mover el émbolo.
+
+Watt regresó rápidamente a su taller y empezó a montar un nuevo tipo de máquina de vapor. El vapor, tras entrar en la cámara y mover el émbolo, escapaba por una válvula hasta una segunda cámara refrigerada por agua corriente. Al escapar el vapor, bajaba el émbolo. El siguiente chorro de vapor que entraba en la primera cámara no perdía nada de su potencia, porque estaba aún caliente.
+
+Watt había conseguido una máquina de vapor que funcionaba eficientemente. Su invento fue un triunfo de la tecnología, no de la ciencia; pero ese paseo dominical contribuyó a cambiar el futuro de la humanidad.
+
+La nueva máquina de vapor sustituyó casi de inmediato a la antigua de Newcomen en las minas. Watt siguió introduciendo mejora tras mejora. Una de ellas fue que el vapor entrara por ambos lados de la cámara, empujando así el émbolo en ambas direcciones alternadamente y aumentando aún más la eficiencia.
+
+El invento de Watt era sinónimo de potencia. Antes de él existían los músculos del hombre y de los animales, el viento y la caída del agua. Watt, por su parte, hizo posible el uso práctico de una potencia mayor que las anteriores. (La unidad de potencia llamada «watt» o «vatio» lleva su nombre.) Y muchos de esos usos los descubrió él mismo.
+
+Las máquinas de vapor podían utilizarse para mover maquinaria pesada. Por primera vez pudieron concentrarse grandes cantidades de potencia en una zona reducida, posibilitando el surgimiento de fábricas y de la producción en masa.
+
+Inglaterra estaba por aquella época falta de carbón vegetal que sirviera de combustible: había esquilmado sus bosques, y la madera que quedaba tenía que reservarla para la flota naval. La única alternativa era el carbón, pero las filtraciones de agua dificultaban mucho la explotación de las minas. La máquina de vapor de Watt bombeaba eficientemente el agua al exterior y permitía así extraer grandes cantidades de carbón a bajo precio. La combustión del carbón producía vapor y el vapor engendraba potencia. ¡Había comenzado la Revolución Industrial!
+
+Hoy día nos hallamos en una segunda revolución industrial, cuyo origen también está en un invento de James Watt.
+
+Para conseguir que el flujo de vapor de sus máquinas fuese constante, Watt dispuso las cosas de manera que el vapor hiciese girar dos pesas unidas a un vástago vertical por medio de sendas barras articuladas. La fuerza de la gravedad tiraba de las pesas hacia abajo, mientras que la fuerza centrífuga (al girar las pesas) hacía que subieran. Si entraba demasiado vapor en la cámara, la rotación de las pesas se aceleraba y éstas subían. Este movimiento ascendente cerraba parcialmente una válvula y disminuía el aporte de vapor. Al bajar la presión del vapor, las pesas empezaban a girar más despacio, caían y abrían la válvula, entrando entonces más vapor.
+
+La cantidad de vapor se mantenía así entre límites bastante próximos. La máquina de vapor había quedado equipada con un «cerebro» que era capaz de corregir automática y continuamente sus propios fallos. Eso es lo que designa la palabra «automación». La ciencia de la automación ha alcanzado hoy día un punto en que es posible hacer funcionar fábricas enteras sin intervención del hombre: los errores se corrigen mediante dispositivos que utilizan el principio básico del «regulador centrífugo» de James Watt.
+
+Watt fue también un brillante y admirado ingeniero civil que tuvo mucho que ver con el proyecto de puentes, canales y puertos marítimos. Murió el 19 de agosto de 1819, tras una senectud llena de paz. Llegó a ver la Revolución Industrial en una etapa bastante avanzada, pero jamás soñó que había iniciado además una segunda revolución que no alcanzaría su auge hasta pasados casi dos siglos.
+
+9. Antoine-Laurent Lavoisier
+
+Francia se hallaba en medio de un torbellino. La Revolución, que había comenzado en 1789 con la toma de la Bastilla, crecía en violencia. El «reinado del Terror» comenzó en 1792. Los extremistas descargaban su venganza sobre quienes habían participado en las injusticias cometidas durante la época de los reyes.
+
+Estaba, por ejemplo, la Ferme genérale, una corporación privada que se había ocupado de cobrar para el gobierno los impuestos sobre la sal, el tabaco y otras mercancías, pasando luego a aquél una suma fija. Cualquier excedente sobre esa cantidad se la embolsaba la corporación. La mayoría de los recaudadores -no hace falta decirlo- exigían hasta el último céntimo, y como es natural, los campesinos, trabajadores y las clases medias los odiaban.
+
+En noviembre de 1792 se dio la orden de arrestar a todos los antiguos miembros de la corporación. Uno de ellos era Antoine-Laurent Lavoisier, renombrado químico; no sólo había sido miembro sino que había casado con una hija del director de la corporación.
+
+Cuando llegaron para arrestarle, alegó que no estaba metido en política y que el dinero que había ganado con la recaudación de impuestos lo había destinado a costear sus experimentos científicos. «Soy un científico», exclamó.
+
+El oficial respondió rudamente: «La República no necesita científicos.» (En lo cual se equivocaba, claro está. La República sí los necesitaba, y de hecho les ayudó, excepto cuando se soliviantaban las pasiones de las masas.)
+
+El 2 de mayo de 1794 fue decapitado en la guillotina el mejor científico de Francia. De todas las muertes que hubo en la Revolución, quizá fuese esa la más señalada.
+
+A su lado, la ejecución de un rey apenas fue nada.
+
+El conde Lagrange, el gran astrónomo francés, lamentaría después: «Bastó un momento para cercenar su cabeza, y cien años probablemente no serán suficientes para dar otra igual.»
+
+Diez semanas después de la ejecución fueron decapitados a su vez los extremistas y acabó el terror. Diez semanas demasiado tarde.
+
+Lavoisier, hasta su triste final, llevó una vida feliz. Nació en París, el 26 de agosto de 1743. Su padre era un abogado muy bien situado y el joven Lavoisier no tuvo ninguna dificultad para adquirir una excelente educación. Obtuvo su título en Derecho, pero estudió diversas ciencias y decidió que le gustaban más que las leyes.
+
+Entró en la Ferme genérale y utilizó el dinero que ganaba, junto con lo que heredó de su madre, para equipar un excelente laboratorio para uso propio. Su esposa, que no carecía de dotes para la pintura, confeccionaba las ilustraciones para sus libros y le ayudaba a tomar notas de sus experimentos.
+
+Lavoisier comprendió desde el principio la importancia que tenía la exactitud. Sus experimentos se caracterizaron por el cuidado en las pesadas, el detalle de las mediciones y la meticulosidad en las notas; su método llamó tanto la atención que le admitieron en la Académie Royale des Sciences en 1768, cuando tenía veinticinco años.
+
+Pero fue al año siguiente cuando demostró por primera vez la importancia de la precisión. En aquella época había todavía químicos que creían en la vieja doctrina de los «cuatro elementos»: fuego, aire, agua y tierra; y pensaban que si se calentaba agua durante un tiempo suficiente se convertiría en tierra. Como prueba de ello señalaban el sedimento que aparecía en el agua tras hervirla durante cierto tiempo.
+
+Lavoisier, que no se contentaba con mirar, calentó agua durante ciento un días. El sedimento apareció, como era de esperar; pero Lavoisier cuidó de pesar el recipiente de vidrio que contenía el agua, antes y después de calentar. Y demostró que el peso perdido por el vidrio era justamente igual al peso del sedimento. El sedimento provenía de cambios en el vidrio, no del agua.
+
+Lavoisier tenía vocación pública: fue miembro de varias comisiones y comités encargados de investigar las miserables condiciones de los campesinos. Esta conexión con el gobierno repercutió en contra suya en el proceso. Pero lo cierto es que aunque los jueces revolucionarios no quisieron verlo, uno de los servicios públicos de Lavoisier tuvo importantes consecuencias para la humanidad.
+
+En cierta ocasión le habían pedido que hiciera un estudio de métodos prácticos de alumbrar las ciudades de noche; Lavoisier examinó diversos combustibles para quemar en las lámparas, y a partir de entonces empezó a interesarse en el problema general de la combustión.
+
+Por aquella época el fenómeno de la combustión se explicaba con la «teoría del flogisto», propuesta hacía setenta años. La teoría afirmaba que los metales estaban compuestos de cal (lo que hoy llamaríamos «óxido») más una sustancia misteriosa llamada flogisto. Al calentar un metal, escapaba el flogisto y dejaba tras de sí la cal.
+
+La teoría era falsa, como sabemos hoy, e indujo a los químicos a una confusión aún mayor. Se demostró, por ejemplo, que la cal pesaba más que el metal original. La única manera de explicarlo era suponer que el flogisto tenía un peso ¡negativo!
+
+Lavoisier abordó el problema en 1772. Junto con otros químicos reunió dinero para comprar un diamante, sobre el cual concentraron calor con ayuda de una gran lupa: el diamante ardió por completo y desapareció. Luego quemó también azufre y fósforo, y calentó estaño y plomo hasta obtener cal. La conclusión a que llegó fue que la combustión y la formación de cal entrañaban el mismo proceso natural.
+
+El azufre, el fósforo, el estaño y el plomo ganaban peso al quemarlos o reducirlos a cal. Algunos científicos habían sugerido que el peso aumentaba porque los materiales ganaban «partículas ígneas». ¿Qué era, pérdida de flogisto o ganancia de fuego?
+
+Lavoisier aclaró la cuestión sin dejar lugar a dudas. Calentó estaño en un recipiente cerrado. Parte del metal se convirtió en cal, pero el peso no aumentó para nada. Sin embargo, al abrir el recipiente y entrar el aire, sí se observó un aumento de peso. Era claro que el metal, al calentarlo, absorbía algo del aire, formando una cal más pesada y un vacío parcial. El peso que ganaba la cal lo perdía el aire.
+
+Los experimentos de Lavoiser le llevaron a afirmar que en cualquier reacción química en un sistema cerrado no había ni pérdida ni ganancia de peso: el primer enunciado del importante Principio de Conservación de la Masa, cuyo significado es que la materia no puede crearse ni destruirse; las reacciones químicas sólo pueden transformarla de una forma a otra. De allí sólo había un paso a la formulación de las ecuaciones químicas, que demuestran que la masa de los materiales antes de cualquier cambio químico tiene que ser igual a la masa de los productos creados por ese cambio.
+
+Joseph Priestley, el clérigo inglés que había descubierto el oxígeno, viajó a París en 1774 y habló con Lavoisier, quien inmediatamente vio la importancia de este elemento. Volviendo a los experimentos, demostró que cuando el carbón vegetal se quemaba en el aire o cuando el metal formaba cal, sólo se consumía parte del aire y el resto no permitía la combustión en su seno. Pero si se utilizaba oxígeno puro, las sustancias ardían o formaban cal mucho más fácil y rápidamente que en aire ordinario, consumiendo además todo el oxígeno.
+
+Lavoisier descubrió que en el aire se contenía tanto oxígeno como nitrógeno (a este último lo llamó «azote», que significa «sin vida») y que la combustión (y también la vida) consistía en la combinación con oxígeno.
+
+Lavoisier publicó en 1786 un artículo que había escrito tres años antes y que resumía sus experimentos. La interpretación que daba allí de la combustión es la que seguimos utilizando hoy día. El flogisto murió de una vez para siempre.
+
+En 1787, y junto con otros tres químicos, publicó un libro titulado Méthode de nomenclature chimique en el que se establecían reglas lógicas para designar los compuestos químicos. Los nombres de los compuestos habían dependido hasta entonces del antojo de cada químico. Cuando hoy hablamos del cloruro sódico o del clorato potásico estamos utilizando nombres que concuerdan con el esquema de Lavoisier.
+
+Lavoisier coronó finalmente su obra en 1789 con la publicación de un manual de química titulado Traité élémentaire de chimie, que recogía las nuevas ideas descubiertas por él. Fue el primer texto moderno de química.
+
+En el climax mismo de su obra, el mismo año que se publicó su tratado, comenzó la Revolución Francesa. A principios de 1792 tuvo que abandonar su laboratorio. Pocos meses después fue arrestado. Su valiosa vida terminó para él mismo y para el mundo, cuando sólo contaba cincuenta y un años.
+
+A Lavoisier se le llama el «padre de la química moderna», y con justicia. Haciendo gala de ilimitada energía e inigualable sagacidad sacó a la química de un callejón sin salida y la puso en buen camino.
+
+No cabe duda de que si Lavoisier no hubiese vivido, otro químico o grupo de químicos habrían llegado a las mismas conclusiones. Pero es difícil imaginar que una
+
+sola persona hubiese hecho más que él y en menos tiempo.
+
+De todas sus contribuciones, la más importante quizá fuese la idea de que los químicos tienen que medir y pesar con toda precisión. Los químicos jamás olvidaron la lección y desde entonces han tratado de ser «cuantitativos». Todos los milagros de la química actual -nuevos combustibles, aleaciones, explosivos, fibras, plásticos, etc.– tienen su origen en el hombre que dio a la química su nuevo rostro y enseñó a los químicos el camino correcto de la experimentación.
+
+10. Michael Faraday
+
+Hará unos ciento cuarenta años, un físico inglés daba en Londres una conferencia sobre algunos de los trucos que se podían hacer con imanes y alambres. Ante él tenía un cable enrollado en forma de bobina y conectado a un galvanómetro. El galvanómetro es un instrumento que se utiliza para medir la electricidad; lleva una aguja que se mueve al pasar corriente por el instrumento. Puesto que el galvanómetro no estaba conectado a ninguna batería, no podía haber corriente que fluyera a través de él. La aguja estaba quieta.
+
+Pero he aquí que el conferenciante introduce la barra de un imán en la bobina y la aguja salta hacia la derecha: aparentemente de la nada ha aparecido una corriente eléctrica. Al volver a retirar el imán, la aguja vuelve a saltar, esta vez hacia la izquierda. ¡Qué curioso!
+
+Cuentan que después de la conferencia se le acercó una dama al conferenciante y le dijo: «Pero señor Faraday, ¿para qué va a servir la electricidad establecida tan sólo durante una fracción de segundo por ese imán?»
+
+Y Michael Faraday, con toda cortesía, replicó: «Señora, ¿y para qué sirve un niño recién nacido?»
+
+Otra versión de la anécdota dice que fue un político quien le hizo la pregunta y que Faraday respondió: «Señor, dentro de veinte años estará usted cobrando impuestos sobre esa electricidad.»
+
+Michael Faraday nació cerca de Londres, el 22 de septiembre de 1791. Su padre, herrero de profesión, tuvo que trabajar muy duro para sacar adelante a sus diez hijos, y se instaló con su familia en Londres cuando Faraday contaba todavía muy pocos años.
+
+El joven Michael entró allí de aprendiz de encuadernador. Fue un golpe de fortuna, porque de esa manera estableció contacto con los libros. Oficialmente sólo tenía que ocuparse de la fachada, pero él no podía resistir la tentación de abrir las páginas y fisgar en su interior. Ni tampoco pudo resistir la tentación de empezar a interesarse en la ciencia.
+
+Luego vino un segundo golpe de suerte, y fue que su patrono le animara a que leyera los libros y le permitiese que asistiera a conferencias científicas.
+
+Faraday escuchaba estas conferencias con enorme entusiasmo. Tomaba abundantes notas y al llegar a casa las pasaba a limpio con todo esmero y añadía diagramas de su invención para hacerlas más claras. Las conferencias que más le gustaban eran las de Humphrey Davy, en la Royal Institution. Davy era el químico inglés de más fama y un conferenciante que gozaba de gran popularidad. Faraday le envió una copia de las notas que había tomado en las conferencias y le pidió un puesto de ayudante.
+
+Davy leyó las notas con agrado y asombro. A la primera oportunidad le dio a Faraday el empleo que pedía. Faraday tenía veintidós años cuando ocupó este puesto en la Royal Institution, y con un sueldo más reducido que el que cobraba de encuadernador.
+
+Davy había inventado la lámpara de seguridad de los mineros y el arco voltaico y había descubierto muchas sustancias químicas, entre ellas ocho nuevos elementos.
+
+Pero suele decirse que su mayor descubrimiento fue Michael Faraday.
+
+Faraday hacía prácticamente su vida en el laboratorio, y en todos los respectos se mostró digno de su maestro. A la muerte de Davy, en 1829, Faraday pasó a ocupar su puesto y en 1833 le nombraron profesor de química.
+
+Faraday continuó el trabajo más importante de Davy. La mayoría de los elementos que había descubierto éste los había separado de distintos compuestos químicos por medio de una corriente eléctrica. Faraday descubrió que la electricidad que era necesaria para liberar la unidad de masa equivalente de cualquier elemento es siempre exactamente la misma. O dicho de otro modo, que una misma cantidad de electricidad libera el mismo número de átomos. Las investigaciones de Faraday condujeron al concepto moderno de electrón.
+
+A Faraday le fascinaban además los imanes. Esparció limaduras de hierro sobre un papel colocado sobre los polos de un imán y observó cómo las limaduras se alineaban entre ellos' y formaban dibujos muy definidos. Los imanes, dijo Faraday, están rodeados de «campos de fuerzas» invisibles. Las limaduras hacían visibles las «líneas de fuerza».
+
+Era natural, pues, que Faraday empezara a reflexionar sobre la relación que existía entre la electricidad y el magnetismo. El científico danés Hans Christian Oersted había descubierto en 1820 que un alambre por el cual pasa electricidad manifiesta propiedades magnéticas.
+
+Si la electricidad establece un campo magnético, pensó Faraday, ¿por qué un campo magnético no va a crear electricidad? Así que diseñó un experimento para comprobarlo. Arrolló un alambre alrededor de un segmento de anillo de hierro y conectó el alambre a una batería. El circuito podía abrirse y cerrarse con un interruptor. Si cerraba el circuito se establecía un campo magnético en el arrollamiento, tal y como había demostrado Oersted, y ese campo se extendía por todo el hierro.
+
+Luego arrolló un segundo embobinado alrededor de otro segmento del anillo de hierro y conectó el alambre a un galvanómetro. Si la teoría de Faraday era correcta, el campo magnético creado en el anillo de hierro por el primer arrollamiento establecería una corriente en el segundo; esta corriente la acusaría el galvanómetro.
+
+El 29 de agosto de 1831 realizó Faraday el experimento. ¡No funcionaba! O al menos no como él pensaba: porque aunque el campo magnético no creaba ninguna corriente, ésta sí aparecía en el momento de establecer o interrumpir el campo. Cuando Faraday cerraba el circuito en el primer arrollamiento, saltaba la aguja del galvanómetro conectado al segundo. Y cuando abría el circuito, la aguja volvía a saltar, pero en la dirección opuesta.
+
+Faraday llegó a la conclusión de que no eran las líneas magnéticas de fuerza en sí mismas lo que establecía la corriente: era el movimiento de esas líneas a través de un alambre. Cuando se establecía la corriente en la primera bobina de alambre, surgía el campo magnético. Las líneas de fuerza atravesaban entonces el alambre del segundo arrollamiento. Al interrumpir la corriente moría el campo magnético, y las líneas de fuerza, al retirarse, volvían a atravesar el alambre de la segunda bobina.
+
+Con el fin de visualizar más claramente este fenómeno y mostrarlo de forma patente ante el público, introdujo un imán en una bobina de alambre. La corriente sólo fluía por ésta mientras el imán estaba entrando en la bobina o saliendo de ella; o también cuando el imán permanecía quieto y era la bobina la que se desplazaba alrededor de él. Pero si tanto el imán como la bobina permanecían inmóviles, no había corriente.
+
+Faraday había descubierto cómo hacer que el magnetismo indujera una corriente eléctrica: había descubierto la «inducción electromagnética».
+
+Dos meses después dio el siguiente paso, el de conseguir un modo práctico de producir una corriente continua a partir del magnetismo. Para ello fabricó una delgada rueda de cobre que podía girar alrededor de un eje y cuyo borde exterior, al girar, pasaba entre los polos de un potente imán. Al girar entre los polos, la
+
+rueda cortaba constantemente líneas de fuerza magnética, de modo que por la rueda fluía constantemente una corriente eléctrica. El aparato llevaba dos cables que acababan cada uno en un contacto deslizante. Uno de los contactos rozaba contra la rueda de cobre al girar, mientras que el otro lo hacía contra el eje. Un galvanómetro intercalado en el circuito indicaba que mientras la rueda de cobre estuviese girando, se producía una corriente continua.
+
+Faraday generó así electricidad a partir del movimiento mecánico. Había inventado el «generador» eléctrico.
+
+La inducción tiene trucos muy interesantes. La potencia eléctrica viene determinada por dos cosas: la cantidad de electricidad que pasa por segundo por el conductor (intensidad) y la fuerza que impulsa la electricidad (voltaje). Si una corriente en una bobina induce corriente en una segunda, la potencia tiene que ser la misma en ambas; pero los detalles pueden variar. Por ejemplo, si la segunda bobina tiene doble número de espiras de alambre que la primera, su voltaje será doble, pero su intensidad será la mitad.
+
+Vemos, pues, que las características de una corriente pueden transformarse en el proceso de inducción. Los dos arrollamientos de Faraday sobre un anillo de hierro es la versión más elemental de nuestros modernos «transformadores».
+
+Faraday vivió otros treinta y cinco años trabajando y dando conferencias. Durante las Navidades solía dar numerosas charlas para gente joven, entre las cuales están las que versan sobre la bujía, recogidas en el libro La historia química de la bujía. Este libro, y los tres tomos de Investigaciones experimentales, se venden todavía en la mayor parte de las librerías inglesas. La segunda obra son los cuadernos de notas en que fue registrando sus descubrimientos y constituyen una lectura muy amena.
+
+Faraday hizo muchas contribuciones a la ciencia. Apenas hay un área de la física moderna que no arranque de su obra. Pero a su muerte, el 25 de agosto de 1867,
+
+no había ya ninguna duda de que su mayor descubrimiento era el de la inducción eléctrica. Y sus inventos más importantes, el generador y el transformador.
+
+La importancia del descubrimiento fue precisamente ésa: que ofreció el primer método práctico de convertir energía mecánica en energía eléctrica.
+
+Antes de Faraday había habido máquinas de vapor y ruedas hidráulicas que producían energía mecánica en grandes cantidades a base de quemar carbón y aprovechar la caída del agua. Pero su tamaño era poco práctico: podían prestar servicios locales, pero no abastecer a hogares y oficinas.
+
+Y si bien es cierto que antes de Faraday existían ya fuentes de electricidad en la forma de baterías químicas, éstas sólo podían suministrar corriente en cantidades pequeñas.
+
+El descubrimiento de Faraday de la inducción electromagnética señaló el camino de la producción de electricidad en generadores movidos por la energía mecánica del vapor o de la caída de agua, permitiendo así que la Revolución Industrial saliera de las fábricas y, en la forma de electricidad, entrara en los hogares.
+
+El político que, según dicen, dudó del valor del electromagnetismo, se quedaría asombrado de la cantidad de impuestos que se recaudan hoy -de las empresas y del consumidor- por el uso de esta corriente.
+
+11. Joseph Henry
+
+Uno de los momentos más dramáticos de la historia de los inventos norteamericanos ocurrió el 24 de mayo de 1844.
+
+Desde Baltimore a Washington (unos 70 kilómetros) se había tendido una red eléctrica. En uno de los extremos, Samuel F. B. Morse, artista metido a inventor, apretaba y soltaba una palanca que cerraba y abría un circuito eléctrico; y lo hacía siguiendo un código de puntos y rayas que representaban las letras del alfabeto. A setenta kilómetros de allí, una barrita de hierro se alzaba y caía siguiendo exactamente las evoluciones del otro interruptor. La secuencia de puntos y rayas formaba un mensaje: «What hath God wrought» (¿Qué ha creado Dios?).
+
+Así nació el telégrafo.
+
+A Morse hay que reconocerle cierto mérito, porque durante años trabajó para conseguir que el telégrafo fuese un instrumento práctico, viajó por toda Europa para conseguir patentes y soportó desánimos y desazones intentando que el Congreso financiara sus experimentos.
+
+Pero lo cierto es que el mérito de haber inventado el telégrafo no es suyo. Joseph Henry había construido años antes el mismo instrumento.
+
+Joseph Henry nació en Albany, Nueva York, el 17 de diciembre de 1797, seis años antes de que naciera Michael Faraday en Inglaterra. La vida de ambos fue muy paralela.
+
+Henry, lo mismo que Faraday, era de familia pobre. Al igual que éste, recibió una educación muy precaria y tuvo que ponerse a trabajar desde muy joven. Si Faraday había sido aprendiz de encuadernador, Henry lo fue a los trece años de relojero. Y en esto salió peor parado, porque no tenía el contacto con los libros que tuvo Faraday. O mejor dicho: no lo habría tenido, de no haber sido por un extraño accidente.
+
+Cuenta la historia que a los dieciséis años, estando de vacaciones en la granja de unos parientes, Henry salió detrás de un conejo por los sótanos de una iglesia; faltaban algunas de las maderas del suelo y Henry abandonó la caza para explorar el templo.
+
+Allí encontró una estantería con libros. Uno de ellos era de historia natural. Lleno de curiosidad comenzó a hojearlo. Bastó eso para encender en él la llama de la ambición, así que decidió volver a matricularse en la escuela.
+
+Ingresó en la academia de Albany, obtuvo su título, enseñó en escuelas rurales y dio clases particulares para ganarse un sobresueldo. Estaba ya decidido a estudiar Medicina, cuando una oferta de empleo como supervisor le encauzó hacia la ingeniería. En 1826 estaba ya enseñando matemáticas y ciencias en la academia de Albany.
+
+Henry empezó trabajando en el campo de la electricidad y el magnetismo, y ahí su vida vino a asemejarse aún más a la de Faraday. Descubrió por su cuenta el principio de la inducción electromagnética, independientemente de Faraday, y es probable que también descubriera la autoinducción antes que él. (La autoinducción es el voltaje inducido en una bobina, o en un alambre recto, justo después de cortar la corriente en el alambre. Esta «inercia» es consecuencia del colapso del campo magnético que acompaña a la corriente.) Pero el hecho es que Faraday publicó antes el descubrimiento, de manera que es él quien se lleva el mérito.
+
+Henry se apartó luego de la línea de investigación de Faraday y empezó a especializarse en el magnetismo formado por corrientes eléctricas. El físico danés Hans Christian Oersted había demostrado en 1820 que una bobina de alambre por la que circula una corriente adquiere las propiedades de un imán. En 1825, un zapatero inglés llamado William Sturgeon, que tenía por hobby la electricidad, enrolló dieciocho vueltas de alambre de cobre alrededor de una barra de hierro dulce doblada en forma de herradura. Al pasar una corriente por el alambre, el hierro actuaba como un imán. Sturgeon inventó el nombre de «electroimán» para este dispositivo.
+
+El artilugio de Sturgeon no era más que un juguete. Joseph Henry, sin embargo, oyó hablar de él en 1829 y convirtió el juego en un instrumento muy importante. Vuelta tras vuelta enrolló un largo alambre de cobre alrededor de la barra de hierro, y para obligar a la corriente a fluir por toda la longitud del alambre, sin pasarse de una vuelta a la siguiente, aisló todo el cable con una envoltura de seda.
+
+Cada vuelta del alambre hacía más potente el imán. Utilizando la corriente de una batería ordinaria, consiguió levantar en 1831, en Princeton, más de 300 kilos de hierro con un electroimán. Y ese mismo año logró izar más de una tonelada de hierro en Yale.
+
+Pero los electroimanes no eran sólo cuestión de fuerza bruta. Henry construyó algunos modelos pequeños, muy delicados, que servían para un control muy fino. Imaginemos que conectamos uno de estos electroimanes a un kilómetro de alambre, conectado a su vez a una batería; y supongamos que podemos enviar una corriente por el hilo al cerrar un interruptor y cerrar el circuito. Mientras fluye la corriente, puede hacerse que el electroimán, a un kilómetro de distancia, atraiga una pequeña barra de hierro. Si luego abrimos el interruptor y el circuito, el electroimán dejará de ser un imán y la barrita de hierro quedará libre. Cerrando y abriendo el interruptor en una secuencia determinada podemos hacer que la barra de hierro suba y baje siguiendo la misma secuencia. Justamente eso era lo que estaba haciendo Henry en 1831.
+
+Ahora bien, la electricidad se debilita al fluir por un cable largo, y para subsanar este inconveniente Henry inventó el «relé». La corriente que llegaba al electro-imán tenía justo potencia bastante para levantar un pequeño interruptor de hierro. Este interruptor, al levantarse, cerraba un segundo circuito por el que pasaba una corriente mucho más intensa. La segunda corriente podía entonces activar un segundo electroimán que era capaz de realizar el trabajo que el primero no podía haber hecho.
+
+Henry, sin embargo, no patentó sus electroimanes. Creía que las leyes de la ciencia y sus beneficios eran patrimonio de toda la humanidad y que no debían utilizarse para provecho de un solo individuo. Eso permitió a los inventores utilizar libremente su electroimán para construir instrumentos que, ellos sí, patentaron.
+
+Morse, por ejemplo, patentó su telégrafo de electro-imán, que funcionaba con el mismo principio que el de Henry. Y cuando otros intentaron utilizar el telégrafo de Morse sin su autorización, se justificaron diciendo que había sido Henry, y no Morse, quien lo había inventado. Pero los tribunales fallaron a favor de Morse.
+
+Alexander Graham Bell utilizó también un pequeño electroimán en su teléfono. El invento de Bell habría sido imposible sin los descubrimientos de Henry.
+
+Henry utilizó en 1829 el electroimán para hacer rotar rápidamente un disco entre polos magnéticos mientras pasaba la corriente, y en 1831 describió el aparato. Era como el generador que había inventado Faraday, sólo que a la inversa: en el generador, un rotor convierte fuerza mecánica en electricidad; en el dispositivo de Henry se utiliza ese rotor para convertir electricidad en fuerza mecánica. Henry había inventado el «motor» eléctrico.
+
+Tanto los electroimanes como el motor de Henry se siguen utilizando hoy día con muy pocas modificaciones sustanciales.
+
+Henry se convirtió en diciembre de 1846 en el primer secretario de la Smithsonian Institution, recién formada en Washington con fondos donados por el inglés Smithson. Así se abrió una nueva etapa de su vida, porque desde entonces Henry se convirtió en administrador científico. Y en este terreno también destacó. Hizo de la Institución un foco de intercambio de conocimientos científicos, promoviendo la comunicación científica de un extremo de la tierra al otro. Henry fue un hombre de ciencia norteamericano con reputación internacional, el primero de su especie desde Benjamín Franklin.
+
+Dentro de las fronteras de su país también promovió el crecimiento de nuevas ciencias. Se interesó, por ejemplo, en la meteorología, la ciencia de las condiciones climatológicas y de su predicción, y utilizó los recursos de la Smithsonian Institution para establecer un sistema de información meteorológica desde todos los puntos de la nación. (Henry fue el primero que utilizó el telégrafo -cuyo conocimiento él mismo había hecho posible- para este fin.) A partir de allí se creó la Oficina Meteorológica de los Estados Unidos.
+
+La mayoría de la gente piensa que la guerra científica es un producto del siglo xx. Lo cierto es que ya en la Guerra Civil de los Estados Unidos el gobierno era consciente de la importancia de la ciencia. Y fue Joseph Henry quien encabezó la movilización científica de la Guerra Civil.
+
+Diríase que Henry pasó gran parte de su vida viendo cómo otros se adjudicaban méritos que eran en parte suyos: Faraday, la inducción; Morse, el telégrafo; Bell, el teléfono. Incluso en el caso de la Oficina Meteorológica fue otro, Cleveland Abbe, quien acabó llevándose su paternidad.
+
+Pero tampoco es que a Henry se le ignorara. Cuando murió -el 13 de mayo de 1878, en Washington- asistieron al funeral altos cargos oficiales, entre ellos el presidente Rutherford B. Hayes. Y en el Congreso Internacional sobre Electricidad, celebrado en 1893 en Chicago, se le reconoció oficialmente como el descubridor de la autoinducción. Oficialmente se decidió también llamar, en su honor, «henry» a la unidad de medida de la inductancia, unidad que sigue existiendo hoy día.
+
+Los descubrimientos de Faraday permitieron producir electricidad a bajo coste y llevaron la Revolución Industrial de las fábricas a los hogares. Pero aun cuando ahora podía llevarse electricidad a las casas en cualquier cantidad imaginable, de nada hubiese servido de no ser por los electroimanes y motores de Henry. La energía del motor eléctrico es indispensable en los refrigeradores, lavadoras, secadoras, batidoras, máquinas de escribir eléctricas, máquinas de coser eléctricas y, en general, casi en cualquier máquina eléctrica que tenga partes móviles.
+
+Hay veces en que sólo interviene el electroimán: actúa sobre una pieza de metal para controlar un circuito eléctrico. Es el caso del teléfono, por ejemplo.
+
+El descubrimiento de Faraday nos proporcionó la electricidad. El de Henry nos dio instrumentos y herramientas que funcionan con ella. Ambos fueron los padres del sinfín de adminículos que llenan nuestras casas y hacen que nuestra vida v nuestro ocio sean más interesantes.
+
+12. Henry Bessemer
+
+Henry Bessemer había inventado un tipo nuevo de proyectil que, al girar en vuelo, daba a las piezas de artillería un alcance mayor y una precisión hasta entonces desconocida.
+
+Napoleón III, nuevo emperador de Francia, mostró interés en el invento y se ofreció para financiar nuevos experimentos. Bessemer (que era inglés, aunque hijo de francés) accedió, pero advirtió que el nuevo proyectil requeriría cañones de un material mejor que el hierro fundido que por entonces se conocía: un cañón de hierro fundido estallaría bajo la gran presión explosiva que hacía falta para disparar el nuevo proyectil.
+
+Bessemer no sabía nada de la manufactura del hierro, pero decidió aprenderlo. Así fue como en 1854 terminó una era y comenzó otra nueva.
+
+Henry Bessemer, que había nacido en Inglaterra el 19 de enero de 1813, contaba ya en su haber con una serie de inventos; pero al lado de la empresa que estaba a punto de atacar eran simples bagatelas.
+
+Durante más de dos mil años, el hombre había utilizado el hierro como el metal común más duro y resistente que conocía. Se obtenía calentando mineral de hierro con coque y caliza. El producto resultante contenía gran cantidad de carbono (del coque) y recibía el nombre de «hierro fundido» o «fundición». Era barato y duro, pero también quebradizo; bastaba un golpe fuerte para partirlo.
+
+El carbono era posible eliminarlo del hierro fundido a base de mezclarlo con más mineral de hierro. El oxígeno del mineral se combinaba con el carbono del hierro fundido y formaba monóxido de carbono gaseoso, que se desprendía en burbujas y ardía. Atrás quedaba el hierro casi puro, procedente del mineral y del hierro fundido: es lo que se llamaba «hierro forjado» o «hierro pudelado». Esta forma del hierro era resistente y aguantaba golpes fuertes sin partirse. Pero era bastante blando y además caro.
+
+Sin embargo, había otra forma de hierro que estaba a mitad de camino entre el arrabio y el hierro forjado: el acero. El acero podía hacerse más fuerte que el arrabio y más duro que el hierro forjado, combinando así las virtudes de ambos. Antes de Bessemer, había que convertir primero el arrabio en hierro forjado y añadir después los ingredientes precisos para conseguir el acero. Si el hierro forjado era ya caro, el acero lo era el doble. Metal bastante escaso, se utilizaba principalmente para fabricar espadas.
+
+La tarea que se propuso Bessemer fue la de eliminar el carbono del arrabio a precios moderados. Pensó que el modo más barato y fácil de añadir oxígeno al hierro fundido para quemar el carbono era utilizar un chorro de aire en lugar de añadir mineral de hierro. Pero el aire ¿no enfriaría el hierro fundido y lo solidificaría?
+
+Bessemer empezó a experimentar y no tardó en demostrar que el chorro de aire cumplía su propósito. El aire quemaba el carbono y la mayor parte de las demás impurezas, y el calor de la combustión aumentaba la temperatura del hierro. Controlando el chorro de aire, Bessemer consiguió fabricar acero a un coste bastante inferior al de los anteriores métodos.
+
+En 1856 anunció los detalles del método. Los industriales siderúrgicos estaban entusiasmados e invirtieron fortunas en «hornos altos» para manufacturar acero por el nuevo sistema. Imaginaos su horror cuando descubrieron que el producto era de ínfima calidad; Bessemer, acusado de haberles tomado el pelo, volvió a los experimentos.
+
+Resultó que en este método no se podía utilizar mineral que contuviera fósforo; el fósforo quedaba en el producto final y hacía que el hierro fuese quebradizo. Y había dado la casualidad de que Bessemer utilizara mineral de hierro libre de fósforo en sus experimentos.
+
+Anunció este hallazgo, pero los industriales no prestaban ya oídos: estaban hasta la coronilla de los hornos de Bessemer. Así que éste pidió dinero prestado e instaló sus propias acerías en Sheffield, Inglaterra, en 1860. Importó mineral sin fósforo de Suecia y comenzó a vender acero de alta calidad a 100 dólares menos la tonelada que ninguno de sus competidores. Aquello acabó con toda reticencia.
+
+Hacia 1870 se hallaron métodos de resolver el problema del fósforo, lo cual permitió aprovechar los vastísimos recursos norteamericanos de mineral de hierro. Bessemer fue ennoblecido en 1879 y murió en Londres, rico y famoso, en 1898.
+
+El acero barato permitió construir obras de ingeniería que hasta entonces no se habían podido ni soñar. Las vigas de acero se podían utilizar ahora como esqueletos para sostener cualquier cosa imaginable. Los ferrocarriles comenzaron a recorrer continentes enteros sobre carriles de acero y grandes navíos de acero empezaron a surcar los océanos. Los puentes colgantes salvaban ríos, los rascacielos iniciaron su escalada a las alturas, los tractores eran ahora más fuertes, y no tardaron en aparecer los automóviles con bastidores de acero. Y en el mundo de la guerra empezaron a tronar cañones más potentes que ponían a prueba nuevos blindajes, más resistentes.
+
+Murió así la Edad del Hierro y comenzó la del Acero. Hoy día el aluminio, el vidrio y el plástico han impuesto su ley allí donde la ligereza importa más que la resistencia. Pero cuando lo que interesa es este factor, seguimos viviendo en la Edad del Acero.
+
+13. Edward Jenner
+
+Corría el mes de julio de 1796 y Europa era un hervidero. Napoleón Bonaparte ganaba sus primeras batallas en Italia y la revolución irrumpía por doquier, arrumbando viejas costumbres y maneras.
+
+Por si fuese poco, un médico inglés llamado Edward Jenner estaba cometiendo lo que parecía una monstruosidad: transmitir deliberadamente la terrible enfermedad de la viruela a un niño de ocho años. Tomó un poco de supuración de las pústulas de un enfermo y raspó en la piel del muchacho. Aquello tendría que haber bastado para que el niño contrajera al poco tiempo la viruela.
+
+Jenner esperó a ver qué pasaba. Con gran alivio comprobó que sus esperanzas eran fundadas. El niño no contrajo la viruela ni mostró absolutamente ningún signo de la enfermedad.
+
+Jenner no fue un monstruo, sino un gran benefactor de la humanidad. Había demostrado que sabía cómo prevenir la viruela, y con ello influyó mucho más en el destino humano que Napoleón con todas sus victorias
+
+Puede que éste también lo viera así. En 1802, tras estallar la guerra entre Inglaterra y Francia después de un breve período de paz, cayeron prisioneros algunos ciudadanos ingleses. Se pidió a Napoleón que los pusiera en libertad. Napoleón estaba a punto de negarse, cuando supo que entre los firmantes figuraba Edward Jenner. El futuro conquistador de Europa no se atrevió a desoír al conquistador de la viruela y liberó a los prisioneros.
+
+Edward Jenner nació en Gloucestershire, Inglaterra, el 17 de mayo de 1749. A los veinte años comenzó a estudiar Medicina; pero como tantos otros pioneros de la ciencia, picó en muchos otros campos. Estudió geología, escribió poesía, tocaba instrumentos musicales, se interesó en el estudio de las leyes y construyó un globo. Por fortuna para el mundo rechazó, sin embargo, un empleo realmente apasionante: el de naturalista oficial en el segundo viaje del capitán Cook a los Mares del Sur. Decidió quedarse en Inglaterra y ejercer la medicina.
+
+Uno de los grandes problemas médicos de aquellos días era la viruela, quizá la enfermedad más temida de las que asolaban a la humanidad. De cuando en cuando brotaba una epidemia, y como había muy pocos conocimientos de higiene, la enfermedad se propagaba como un reguero de pólvora por las sucias ciudades superpobladas.
+
+Un diez por ciento de los que contraían la enfermedad morían, y los que lograban sobrevivir quedaban «picados de viruela». Cada pústula causada por la enfermedad (y en los casos graves quedaba todo el cuerpo cubierto de marcas) dejaba una cicatriz en la piel después de desaparecer. Mucha gente temía más la horrible desfiguración del rostro que la propia posibilidad de morir.
+
+La viruela no respetaba a nadie. George Washington la contrajo en 1751 y se recuperó, pero en la cara le quedaron permanentemente las huellas de la enfermedad. El rey Luis XV cayó víctima de ella en 1774 y murió.
+
+En aquellos tiempos era casi una excepción tener intacta la piel del rostro; una piel lisa bastaba para calificar de bella a su poseedora, aunque sólo fuese por contraste con otras menos afortunadas.
+
+La viruela sólo se podía contraer, como máximo, una vez en la vida. La persona que no la hubiese pasado la contraía fácilmente por contagio; pero una vez pasada la enfermedad y repuesto el paciente, no volvía a contraerla por mucho que se expusiera a ella: era «inmune».
+
+Este hecho dio lugar en 1718 a lo que por entonces parecía una fabulación. Una noble inglesa, Lady Mary Wortley Montagu, regresó de un viaje por Turquía e informó que los turcos tenían el hábito de inocularse deliberadamente con líquido tomado de casos leves de la enfermedad. La persona inoculada contraía entonces una forma benigna de viruela y se inmunizaba a un coste bien bajo. Lady Mary tenía fe en sus observaciones e inoculó a sus propios hijos.
+
+Lady Mary era sin duda una mujer brillante, pero también una especie de mariposilla social; costaba tomarla en serio, y los médicos desde luego no lo hicieron. Aparte de que tampoco era fácil convencer a los ingleses de que los turcos sabían hacer algo digno de emular.
+
+A Jenner empezó a interesarle la viruela nada más comenzar a ejercer la Medicina. Puede que oyera la historia de Lady Mary y puede que no. Lo que es seguro que llegó a sus oídos fue una vieja «superstición» muy difundida en su tierra natal de Gloucestershire, a saber, que la viruela bovina (una enfermedad del ganado que podían contraerla las personas) estaba «reñida» con la viruela humana. La persona que contraía una de ellas -decían los granjeros de Gloucestershire con un sabio movimiento de la cabeza- no contraía la otra.
+
+Jenner se preguntó si sería o no realmente una superstición. Era proverbial, por ejemplo, la hermosura de las vaqueras, y por aquel entonces estaban de moda en Francia las piezas de teatro en las que la protagonista era una vaquera o una pastora de singular belleza. ¿Quizá por la tersura de su rostro, rara vez marcado por la viruela? ¿O porque, al estar en contacto con el ganado, contraían la viruela bovina en lugar de la otra, menos benigna?
+
+Jenner comenzó a observar de cerca los animales domésticos.
+
+Los caballos padecían una enfermedad, llamada viruela equina, que cursaba con bultos y pústulas en las patas del animal. Los mozos de cuadra curaban a veces las pústulas y atendían luego a las vacas lecheras. La vaca no tardaba en contraer la viruela bovina. Al mozo o la moza le salían poco después algunas pústulas, pero casi siempre en las manos (que estaban en contacto con la vaca) y nunca en la cara, cuya desfiguración era lo más temido. Por otro lado, la gente que, por su profesión, tenía que estar en contacto con animales domésticos parecía realmente inmune a la viruela.
+
+Jenner llegó a la conclusión de que la viruela equina y la bovina eran una forma de viruela. Su tesis era que la enfermedad, al pasar por un animal, se debilitaba en gran medida. Los granjeros tenían razón: unas cuantas pústulas de viruela bovina en las manos, y no hacía falta preocuparse ya de la muerte o desfiguración por la viruela.
+
+El 14 de mayo de 1796 tenía ya Jenner suficiente confianza en su teoría para aceptar sobre sí una responsabilidad escalofriante. Buscó primero una vaquera que tuviera la viruela bovina. Tomó luego un poco de líquido de una pústula de la mano y se lo inyectó a un niño. Dos meses después volvió a inocular al niño, pero esta vez no con viruela bovina, sino con viruela de verdad. El niño no enfermó. ¡Era inmune!
+
+Jenner decidió repetir la prueba para cerciorarse. Tardó dos años en encontrar a una persona que presentara un caso activo de viruela bovina; imaginamos su impaciencia durante todo ese tiempo, pero se abstuvo de publicar prematuramente sus resultados y esperó. En 1798 encontró por fin el caso que buscaba, repitió el experimento con otro paciente y comprobó exactamente lo mismo. Ahora ya podía publicar sus resultados y anunciar al mundo que había encontrado la manera de derrotar a la viruela.
+
+La viruela bovina se llama vaccinia en latín, así que Jenner acuñó la palabra «vacunación» para describir su método de inocular viruela bovina con el fin de crear inmunidad contra la viruela.
+
+El trabajo de Jenner era tan meticuloso que sólo se atrevieron a rechazarlo algunos médicos conservadores. Culpables de verdaderos perjuicios fueron algunos desaprensivos que empezaron a inocular sin tomar las debidas precauciones y propagaron infecciones graves. Las vacunaciones se extendieron a todas las partes de Europa.
+
+La familia real británica se vacunó, y en 1803 se fundó la Royal Jennerian Society (presidida por Jenner) para promover campañas de vacunación. El número de muertes por viruela se redujo a un tercio en dieciocho meses.
+
+En Alemania, donde el aniversario del nacimiento de Jenner es día festivo, el estado de Baviera decretó la obligatoriedad de la vacuna en 1807. Otras naciones siguieron su ejemplo, e incluso la atrasada Rusia adoptó la práctica. El primer niño que se vacunó allí recibió el nombre de Vaccinov y su educación corrió a cargo del Estado.
+
+Inglaterra fue la más perezosa en honrar a Jenner. En 1813 se le propuso como candidato al Colegio de Médicos de Londres. Pero el Colegio se empeñó en examinarle de los clásicos, es decir, de las teorías de Hipócrates y Galeno. Jenner se negó; pensaba que su victoria sobre la viruela bastaba como recomendación. Los caballeros del Colegio no pensaban igual y no le eligieron.
+
+Jenner murió el 24 de enero de 1823, sin ser miembro del Colegio, pero con toda la gloria que podía tener un médico.
+
+La viruela es hoy día una enfermedad muy rara, gracias a las vacunas. En la mayoría de los países se vacuna a todos los niños desde edad muy temprana. Y basta que surja un solo caso de viruela en alguna ciudad (importada casi siempre por barco desde alguna región atrasada) para que se recomiende revacunar a todos los habitantes de la ciudad, evitando así cualquier riesgo de epidemia.
+
+Pero esto es sólo parte de la historia, y quizá no la más importante; porque Jenner había descubierto una manera, no de curar la enfermedad, sino de prevenirla, y fue el primero que lo consiguió. El método consistía en utilizar la propia maquinaria del cuerpo para crear la inmunidad, fundando así la ciencia de la inmunología.
+
+Desde entonces los médicos han tratado de hallar nuevos medios de inducir al cuerpo a crear inmunidad contra enfermedades peligrosas, obligándole a que fabrique defensas químicas («anticuerpos») contra versiones benignas de la enfermedad. Los líquidos que causan esa enfermedad benigna siguen llamándose «vacunas», aunque ya no tienen nada que ver con las vacas.
+
+Un ejemplo reciente es la vacuna Salk, conseguida por el doctor Jonas Salk. El virus que causa la parálisis infantil muere a manos de productos químicos para que no pueda seguir causando la enfermedad. Pero sigue reteniendo una parte suficiente de sus propiedades originales para hacer que el cuerpo produzca anticuerpos que sean efectivos contra el virus vivo. La inyección de la vacuna Salk aumenta la inmunidad a la parálisis infantil sin que el sujeto tenga que pasar por la enfermedad propiamente dicha.
+
+Las vacunas también ayudan a combatir enfermedades como la fiebre amarilla, la fiebre tifoidea, la gripe, la tuberculosis, etc.
+
+La importancia de los trabajos de Jenner no estriba sólo en que acabara con la viruela. Señalaron el camino para acabar con otras enfermedades muy temidas por el hombre; y este camino quizá lleve algún día a eliminar todas las enfermedades infecciosas.
+
+14. Louis Pasteur
+
+Louis Pasteur nació el 27 de diciembre de 1822. En la escuela no brilló como estudiante y en la universidad sólo se desenvolvió con cierta soltura en la asignatura de química. La ambición no prendió en él hasta después de licenciarse y asistir a las lecciones de Jean B. Dumas, gran químico francés. Fue entonces cuando decidió dedicar su vida a la ciencia.
+
+Pasteur inició sus investigaciones estudiando dos sustancias químicas: el ácido tartárico y el ácido racémico. Ambos parecían iguales en todo, menos en un aspecto: el ácido tartárico ejercía un extraño efecto de rotación sobre ciertas clases de luz; el ácido racémico no poseía ese efecto.
+
+Los amigos de Pasteur se reían de él y le decían que para qué se preocupaba de un problema tan absurdo. Pero Pasteur siguió impertérrito. Obtuvo cristales de ambos ácidos y los estudió al microscopio. Los cristales de ácido tartárico eran todos idénticos; los de ácido racémico eran de dos tipos. Uno de ellos se parecía a los cristales de ácido tartárico; los del otro tipo eran imágenes especulares del primero. (Era como mirar un montón de guantes, unos de la mano derecha y otros de la izquierda.)
+
+Pasteur, con paciencia infinita, separó los cristales de ácido racémico en dos montones. Los cristales que se parecían a los de ácido tartárico giraban la luz en la misma dirección que el ácido tartárico; los otros cristales también la giraban, pero en sentido contrario.
+
+Pasteur había descubierto que las moléculas podían ser «dextrógiras» o «levógiras». Este descubrimiento condujo en último término a nuevas y revolucionarias ideas acerca de la estructura de las importantes sustancias químicas que componen los tejidos vivos.
+
+El hallazgo de Pasteur encontró un reconocimiento inmediato, pese a contar sólo veintiséis años: se le con-cedió la Legión de Honor francesa.
+
+En 1854 fue nombrado decano de la Facultad de Ciencias de la Universidad de Lille, en el corazón de la región vinícola, donde empezó a estudiar los problemas de la importante industria de vinos francesa. El vino y la cerveza, al envejecer, se agriaban con facilidad, causando pérdidas de millones de francos. ¿No habría algún producto químico que, añadido al vino, evitara esa catástrofe? Los viticultores y cerveceros acudieron al joven y famoso químico en busca de consejo.
+
+Pasteur volvió a echar mano del microscopio. Estudió los posos de vino sano y los comparó con los del vino agriado. Ambos contenían células de levadura, pero la forma de las células era diferente. Había una clase especial de levadura que avinagraba el vino.
+
+La solución era matar esa levadura, dijo Pasteur: una vez formado el vino o la cerveza había que calentarlo suavemente hasta unos 48° C, matando así cualquier resto de levadura, incluida la indeseada que pudiera introducirse durante el proceso de fabricación. Sellando luego las cubas, el líquido no se agriaría.
+
+Los fabricantes se horrorizaron ante la perspectiva de calentar el vino. Pasteur decidió convencerles. Calentó unas muestras, dejó sin calentar otras y pidió a los fabricantes que esperaran unos meses. Al abrir las muestras calentadas se vio que estaban en perfectas condiciones, mientras que algunas de las no calentadas se habían estropeado. Los viticultores retiraron sus objeciones.
+
+Desde entonces se llama «pasteurización» al proceso de calentar lentamente un líquido para matar organismos microscópicos indeseables. Por eso pasteurizamos la leche que bebemos.
+
+Pasteur llegó en el curso de sus investigaciones a la conclusión de que toda fermentación y descomposición era obra de organismos vivos.
+
+La gente se opuso a esa teoría, porque la carne, aun hervida para matar las bacterias, se pudre al cabo de un tiempo. Pasteur replicó que lo que ocurre es que hay gérmenes por todas partes y que éstos caen en la carne desde el aire.
+
+Para demostrarlo tomó extracto de carne, lo hirvió y lo dejó expuesto al aire, pero disponiendo las cosas de manera que éste sólo pudiera entrar a través de un largo y estrecho cuello de botella en forma de S. Las partículas de polvo (y los gérmenes) se quedaban retenidos en el fondo del codo. La carne no se pudrió. En la carne hervida no había gérmenes, y el proceso de descomposición no podía tener lugar en ausencia de ellos. Pasteur había refutado de una vez para siempre la teoría de la «generación espontánea» (la creencia de que los organismos vivos podían surgir de materia inanimada).
+
+En 1865 se trasladó Pasteur al sur de Francia para estudiar una enfermedad del gusano de la seda que estaba poniendo en peligro la industria entera de este tejido; en juego había entonces millones de francos al año.
+
+Pasteur volvió a utilizar su microscopio y localizó un diminuto parásito que infestaba a los gusanos y a las hojas de morera que les servían de alimento. El consejo de Pasteur fue destruir todos los gusanos y hojas infestados y empezar de nuevo con gusanos sanos y hojas limpias, atajando así la plaga. El consejo surtió efecto. Se había salvado la industria de la seda.
+
+Quien estuvo a punto de no salvarse fue el propio Pasteur. En 1868 tuvo un ataque de parálisis y durante un tiempo pensó que le había llegado su hora. Por fortuna se recuperó.
+
+En 1870 surgieron hostilidades entre Francia y Prusia. El poderío militar de los prusianos había ido creciendo paulatinamente bajo una política de «sangre y hierro». La guerra cogió a los franceses faltos de preparación. Louis Pasteur acudió inmediatamente a alistarse. Pero su oferta fue rechazada enérgicamente.
+
+«Señor Pasteur», le dijeron los oficiales, «tiene usted cuarenta y ocho años y ha sufrido un ataque de parálisis. A Francia la puede servir mejor fuera del ejército».
+
+Francia sufrió una derrota desastrosa. Los vencedores impusieron una indemnización de cinco mil millones de francos a los franceses, pensando dejar así indefenso al país durante años. Pero Francia dejó asombrado al mundo entero al pagar la indemnización en el plazo de un año; el dinero salió en parte de la labor de Louis Pasteur, que había salvado y saneado varias industrias francesas vitales.
+
+Algunos médicos empezaron a ver entonces la importancia que tenían los descubrimientos de Pasteur y pensaron que ciertas enfermedades humanas podían estar causadas por parásitos microscópicos.
+
+En Inglaterra, el cirujano Joseph Lister veía con preocupación que la mitad de los pacientes se le morían de infección después de una intervención feliz. En otros hospitales la cifra llegaba al 80 por 100. Lister pensó entonces en «pasteurizar» las heridas e incisiones quirúrgicas, matando así los gérmenes, lo mismo que Pasteur mataba la levadura en el vino.
+
+En 1865 comenzó a aplicar ácido carbólico a las heridas. En tres años rebajó la tasa de mortalidad postoperatoria en dos tercios: había inventado la «cirugía antiséptica». Hoy día imitamos a Lister cada vez que aplicamos yodo a una cortadura.
+
+Pasteur llegó a las mismas conclusiones que Lister en 1871, después de la guerra. Anonadado por la tasa de mortalidad de los hospitales militares, obligó a los médicos (a menudo contra su voluntad) a hervir los instrumentos y vendajes. Matad los gérmenes -insistía Pasteur-, matadlos. Y la tasa de mortalidad descendió.
+
+(Aproximadamente veinticinco años antes, el médico austriaco Ignaz Semmelweis había tratado de imponer la desinfección a los médicos. Semmelweis opinaba que los médicos eran asesinos que portaban la enfermedad en sus manos y recomendó que se las lavaran con una solución de cloruro de cal antes de acercarse al paciente. Fracasó en todos sus intentos y murió en 1865 tras contraer él mismo una infección por accidente. No llegó a ver cómo Lister y Pasteur le daban la razón.)
+
+Pasteur fue gestando poco a poco lo que él llamó la «teoría germinal de las enfermedades», es decir, que cualquier enfermedad infecciosa está causada por gérmenes; y era infecciosa porque los gérmenes podían propagarse de una persona a otra. Si se lograba localizar el germen y se hallaba un modo de combatirlo, la enfermedad quedaría resuelta.
+
+El médico alemán Robert Koch elaboró técnicas para cultivar gérmenes patógenos fuera del cuerpo. Junto con Pasteur halló la manera de combatir una enfermedad tras otra: franceses y alemanes unidos para servir a la humanidad. Los años ochenta del siglo pasado fueron los más espectaculares de la vida de Pasteur: descubrió cómo inocular contra las enfermedades animales del ántrax (que desolaba el ganado bovino y ovino) y el cólera de las gallinas, y también cómo proteger al hombre contra la temible enfermedad de los perros rabiosos, la hidrofobia.
+
+Pero esta época, con ser espectacular, no fue sino la consecuencia natural de la teoría germinal de las enfermedades, cuyos inicios datan de sus primeros trabajos. Cuando Pasteur murió el 28 de septiembre de 1895, la medicina moderna era ya una realidad.
+
+De todos los descubrimientos médicos de la historia, el más grande quizá sea el de la teoría germinal de Pasteur. Una vez adoptada esa teoría fue posible combatir sistemáticamente las enfermedades. Podía hervirse el agua y tratarla químicamente; la eliminación de desperdicios se convirtió en una ciencia; en los hospitales y en la preparación comercial de productos alimenticios se adoptaron procedimientos estériles; se crearon desinfectantes y germicidas; y a los portadores de gérmenes, como los mosquitos y las ratas, no se les dio ya tregua.
+
+La adopción de estas medidas trajo consigo una disminución de la tasa de mortalidad y un aumento de la esperanza de vida. La esperanza de vida del varón norteamericano era de treinta y ocho años en 1850; hoy es de sesenta y ocho. A Louis Pasteur y a sus colegas científicos hay que agradecerles esos treinta y ocho años de regalo.
+
+15. Gregor Johann Mendel
+
+En el año 1900, tres científicos convergieron en una encrucijada de la investigación: cada uno de ellos, sin previo conocimiento de la labor de los otros dos, había hallado las reglas que gobiernan la herencia de caracteres físicos por los seres vivos. Los tres hombres eran Hugo de Vries, holandés; Carl Correns, alemán, y Erich Tschermak, austrohúngaro.
+
+Los tres se aprestaron a anunciar al mundo su descubrimiento, mas no sin hojear antes diversas publicaciones científicas y comprobar si había trabajos anteriores en ese campo. Su asombro fue mayúsculo cuando encontraron un increíble artículo de un tal Gregor Johann Mendel, en un ejemplar de una oscura publicación de hacía treinta y cinco años. Mendel había observado en 1865 todos los fenómenos que los tres científicos se disponían a exponer en 1900.
+
+Los tres tomaron la misma decisión, y con una honradez que es una de las glorias de la historia científica abandonaron toda pretensión de originalidad y llamaron la atención sobre el descubrimiento de Mendel. Los tres se limitaron a exponer su labor como mera confirmación.
+
+Gregor Johann Mendel nació en 1822 en el seno de una familia campesina. Su vida transcurrió tranquila y sin grandes avatares (exceptuando su gran descubrimiento); primero fue monje y más tarde abad en el monasterio de agustinos de Bruenn, Austria. (La ciudad se llama hoy Brno y pertenece a Checoslovaquia.)
+
+Mendel tenía dos aficiones, la estadística y la jardinería, y de la combinación de ambas sacó buen partido. Desde 1857, y durante ocho años, se dedicó a cultivar guisantes. Con sumo cuidado autopolinizó varias plantas, cerciorándose de que las semillas así obtenidas heredasen sólo las características de uno de los padres. Pacientemente fue recogiendo las semillas producidas por cada planta autopolinizada, las plantó una por una y estudió la nueva generación.
+
+Comprobó que si plantaba semillas de guisantes enanos sólo crecían guisantes enanos. Y las semillas producidas por esta segunda generación también daban guisantes enanos exclusivamente. Las plantas enanas del guisante se reproducían «fielmente», digámoslo así.
+
+Las semillas de las plantas grandes de guisante no siempre se comportaban de esa manera. Algunas de ellas (aproximadamente un tercio de las que crecían en el jardín) se reproducían fielmente y daban plantas grandes en todas las generaciones. Pero no así en el resto, que era la mayoría. Las semillas de algunas de ellas daban plantas grandes, mientras que las de otras engendraban plantas enanas. Y estas semillas producían siempre tres veces más de las primeras que de las segundas.
+
+Evidentemente, había dos clases de plantas grandes del guisante: las que se reproducían fielmente y las que no.
+
+Mendel avanzó entonces otro paso. Cruzó plantas enanas con plantas grandes de las que se reproducían fielmente. Las semillas serían ahora el producto de dos progenitores desiguales. ¿Qué pasaría? Los descendientes ¿serían unos enanos v otros grandes?
+
+Pues no; cada una de esas semillas «híbridas» engendró una planta grande. Parecía que la característica del enanismo había desaparecido.
+
+Mendel autopolinizó luego cada una de las plantas híbridas y estudió los resultados: los descendientes eran todos ellos del tipo de reproducción infiel. Una cuarta parte de las semillas engendraron plantas enanas de reproducción fiel; otra cuarta parte dio lugar a plantas grandes de reproducción fiel; y la mitad restante engendró plantas grandes de reproducción infiel.
+
+Es claro que las plantas grandes de reproducción infiel albergan en sí ambas características, la de planta grande y la de planta enana. Cuando se hallaban presentes ambas características, sólo se ponía de manifiesto la del tamaño grande, que era, por tanto, «dominante». Pero el enanismo, aunque era «recesivo» y no visible, seguía estando allí y aparecía en la siguiente generación.
+
+Mendel halló así su «primera ley de la herencia». Estudió también la herencia de otras características y elaboró las correspondientes reglas.
+
+Pero Mendel era sólo un aficionado y no logró que ningún científico importante se interesara en su trabajo. Publicó un artículo en un pequeño periódico local y nadie le prestó atención. Y así pasó inadvertido durante treinta y cinco años.
+
+Mendel murió en 1884, sin proseguir el trabajo que había terminado en 1865 y sin ver reconocida su labor.
+
+La ciencia que fundó Mendel se llama hoy día «genética». Es una ciencia joven, en la que quedan muchas cosas por descubrir. El estudio detenido de cómo se heredan ciertas anomalías físicas ayudará algún día a los médicos a recomendar o desaconsejar ciertos matrimonios, así como a prever la posible aparición de enfermedades como la diabetes en una persona concreta.
+
+La genética mira tanto hacia el pasado como hacia el futuro. El estudio, por ejemplo, de la distribución de los grupos sanguíneos heredados revela hasta cierto punto las rutas que siguió el hombre primitivo en sus migraciones. Por otro lado, la genética de los microorganismos ha adquirido una importancia singular. La manera en que se hereda la capacidad de realizar ciertas síntesis químicas en diversos hongos y bacterias ha revelado a los bioquímicos los caminos exactos por los que se forman determinadas sustancias químicas del cuerpo. Por un trabajo de este tipo recibieron el Premio Nobel los doctores G. M. Beadle y E. L. Tatum.
+
+16. Roentgen y Becquerel
+
+El profesor Wilhelm Roentgen estaba fascinado con ese resplandor misterioso que salía del tubo de vacío (un tubo del que se había extraído el aire por bombeo) al producirse una descarga eléctrica.
+
+La extraña luz en el interior del tubo parecía salir del electrodo negativo o «cátodo», por lo que el fenómeno recibió el nombre de «rayos catódicos». Al golpear los rayos contra el vidrio del tubo, éste resplandecía con luz verdosa. Y algunas sustancias químicas, colocadas cerca del tubo, resplandecían con luz aún más brillante que la del vidrio.
+
+Roentgen tenía especial interés en estudiar esa luminiscencia. El 5 de noviembre de 1895 metió el tubo de rayos catódicos en una caja de cartulina negra y oscureció la habitación, con la idea de observar la luminiscencia sin perturbaciones de luces exteriores.
+
+Conectó la electricidad e inmediatamente observó un destello luminoso que no provenía del tubo. Fue a inspeccionar y comprobó que a bastante distancia del tubo había una hoja de papel recubierta de platinocianuro de bario, que utilizaba en sus experimentos porque esta sustancia resplandecía al colocarla cerca del tubo de rayos catódicos. Pero en las condiciones en que estaba trabajando ahora, con el tubo dentro de la caja de cartón, ¿por qué relucía?
+
+Roentgen desconectó la electricidad: el papel recubierto se oscureció. Volvió a conectarla: el papel volvió a relucir. Se trasladó a la habitación vecina con el papel en la mano, cerró la puerta y volvió a conectar la electricidad: el papel seguía brillando mientras el tubo estuviera en funcionamiento. Había descubierto algo invisible que se dejaba «sentir» a través del cartón y de las puertas.
+
+Otro científico le preguntó años más tarde sobre esa experiencia: «¿Qué pensabas?» Y Roentgen le contestó: «No pensaba. Experimentaba.» La respuesta de Roentgen fue una respuesta a bocajarro, claro está, porque pensar sí que pensaba… y muy profundamente.
+
+Wilhelm Conrad Roentgen nació el 27 de marzo de 1845 en Lennep, una pequeña ciudad de la región del Ruhr, al oeste de Alemania. Durante la mayor parte de su juventud vivió, sin embargo, fuera de Alemania; recibió su educación en Holanda y fue a la universidad en Zurich, Suiza.
+
+El trabajo de su vida no lo halló hasta después de terminar sus estudios universitarios. En 1868 se licenció en ingeniería mecánica. Luego decidió cursar estudios superiores en Zurich, donde conoció al famoso físico August Kundt. A su lado Roentgen empezó a trabajar en física y se doctoró en este campo. Profesor y estudiante trabajaron desde entonces durante seis años, hombro con hombro.
+
+Kundt ocupó sucesivamente una serie de puestos en Alemania y Roentgen le acompañó. Poco después Roentgen estaba ya enseñando e investigando por su cuenta.
+
+Roentgen fue subiendo puestos dentro de su profesión. En 1888 se creó un nuevo instituto de física en la Universidad de Würzburg, en Baviera, y le ofrecieron el cargo de director. Fue allí donde descubrió los rayos penetrantes y donde adquirió fama mundial.
+
+Los misteriosos rayos que hacían que ciertas sustancias químicas resplandecieran al otro lado de puertas y cartones recibieron el nombre de «rayos Roentgen» en honor de su descubridor. Roentgen, en atención a la naturaleza ignota de los rayos, los designó con el símbolo de lo desconocido: «rayos X». Ese es hoy el nombre más usual.
+
+Roentgen siguió experimentando con gran entusiasmo y trató de ver qué espesor de distintos materiales podían atravesar los rayos X. Descubrió que los rayos eran capaces de velar una placa fotográfica, igual que 1% luz del sol. Cuando publicó los resultados el 28 de diciembre de 1895, dejó asombrado al mundo científico.
+
+Algunos físicos cayeron entonces en la cuenta de que en sus trabajos se habían cruzado alguna vez con estos rayos misteriosos. William Crookes, un científico inglés que había trabajado con rayos catódicos, había notado en varias ocasiones que se le velaban las placas fotográficas cercanas. Pero pensando que era un accidente, no prestó mayor atención. Y el físico americano A. W. Goodspeed obtuvo, en 1890, lo que hoy llamamos una fotografía de rayos X; pero el fenómeno no le interesó lo bastante para estudiarlo y comprobar su naturaleza.
+
+La labor de Roentgen prendió en la imaginación del científico francés Henri Antoine Becquerel, siete años más joven que aquél. Becquerel era hijo de un célebre científico que había estudiado cierto tipo de luminiscencia llamado «fluorescencia». Los materiales fluorescentes resplandecían al exponerlos a la luz ultravioleta (o a la luz del sol, que también contiene rayos ultravioletas).
+
+Becquerel se preguntó si esta fluorescencia no albergaría los misteriosos rayos X. En febrero de 1896 envolvió una placa fotográfica en papel negro, la colocó a la luz del sol y puso encima del papel un cristal de una sustancia fluorescente en la que su padre había mostrado especial interés: un compuesto de uranio.
+
+Al revelar la película, Becquerel vio que estaba velada. La luz del sol no podía atravesar el papel negro, pero los rayos X sí. Becquerel llegó a la conclusión de que la sal de uranio emitía rayos X al fluorescer.
+
+Luego se nubló el cielo durante unos días y Becquerel no pudo proseguir sus experimentos. Hacia el 1 de marzo no aguantaba ya de impaciencia. Los cristales y las placas fotográficas envueltas yacían hacía días en el cajón de la mesa. Becquerel decidió revelar de todos modos algunas de las películas: podía ser que persistiera un poco de la fluorescencia original, que hubiera un velado débil pese a que los cristales no habían estado expuestos a la luz solar durante días; al menos dejaba de estar con los brazos cruzados.
+
+Su asombro fue grande al comprobar que la película estaba tan velada como en otras ocasiones. En seguida vio que la exposición a la luz del sol era innecesaria. Las sales de uranio emitían constantemente radiación, incluso más penetrante que los rayos X.
+
+En 1897 quedó aclarada la naturaleza de los rayos catódicos. J.J. Thomson, el físico inglés, demostró que los rayos eran partículas diminutas que se movían a velocidades de vértigo. Y además eran mucho más pequeñas que los átomos. Fueron las primeras «partículas subatómicas» que se descubrieron, y se les dio el nombre de «electrones».
+
+Cuando estos electrones chocaban contra un átomo, liberaban una forma de energía parecida a la luz ordinaria, sólo que más energética y penetrante. Estos veloces electrones (o rayos catódicos), al chocar contra el ánodo de un tubo de rayos catódicos, producían rayos X. Y los rayos X eran parte del espectro electromagnético, del que la luz visible es otra porción.
+
+En cuanto a los rayos que Becquerel descubrió que emitía el uranio, resultó que consistían en tres partes. La porción más penetrante, llamada radiación gamma, era semejante a los rayos X, pero más energética. El resto de la radiación estaba compuesto de electrones y núcleos de helio.
+
+La física experimentó una revolución total. Hasta 1896 se pensaba que el átomo era una partícula diminuta e indivisible, la porción más pequeña de materia. De pronto se descubría que estaba compuesto de partículas aún menores, que poseían extrañas propiedades. Algunos átomos, como los de uranio, incluso se desintegraban motu propio en átomos más sencillos.
+
+Esta prueba de que los átomos se desintegran y emiten electrones inauguró todo un mundo nuevo en la ciencia. Luego siguieron sesenta años de rápidos progresos que condujeron a la física nuclear y a la exploración del átomo.
+
+Desde el punto de vista de la ciencia pura, el descubrimiento de Roentgen fue de inmensa importancia. Pero antes de que esto se le hiciera claro al hombre de la calle, hubo un avance inmediato en la medicina que afectó a casi todo hijo de vecino.
+
+Los rayos X atraviesan fácilmente los tejidos blandos del cuerpo, pero son detenidos en gran parte por los huesos y totalmente por los metales. Los rayos X, al atravesar el cuerpo e impresionar una película fotográfica colocada detrás, dan un gris claro allí donde han sido interceptados por los huesos, y un gris más oscuro, en distintas tonalidades, en los demás lugares.
+
+.Los médicos hallaron aquí un medio de mirar dentro del cuerpo humano de una manera rápida, fácil y, sobre todo, sin necesidad de operar. Con los rayos X se podían descubrir pequeñas fisuras en los huesos, trastornos en las articulaciones, focos de tuberculosis en los pulmones y objetos extraños en el estómago; en resumen: el médico tenía en sus manos algo así como un ojo mágico. Cuatro días después de llegar a América la noticia del descubrimiento de Roentgen, se utilizaron allí los rayos X para localizar una bala en la pierna de un paciente. Y también el dentista tuvo a partir de entonces un ojo mágico. Con la radiación invisible de Roentgen podía detectar el comienzo de una caries, por ejemplo.
+
+Los rayos X (y los gamma) son capaces de matar tejido vivo; enfocados convenientemente pueden matar células cancerosas a las que no tiene acceso el bisturí del cirujano. Hoy día se sabe, sin embargo, que hay que utilizarlos con precaución y sólo en caso de necesidad.
+
+Los rayos X encuentran también aplicación en la industria. En estructuras metálicas son capaces de detectar defectos internos que de otro modo serían invisibles. En química se utilizan para investigar la estructura atómica de cristales y de moléculas proteínicas complejas. En ambos casos abren nuevas ventanas a lo que hasta entonces permanecía oculto.
+
+Aunque suene a paradoja, gracias a Roentgen podemos utilizar lo invisible para hacer visible lo invisible.
+
+17. Thomas Alva Edison
+
+A medida que avanzó la Revolución Industrial durante el siglo XIX, las casas y las ciudades del mundo occidental crecieron y se hicieron más prósperas. Pero durante las horas de oscuridad se necesitaba una luz mejor. Todo el alumbrado era de gas, y la llama inquieta que se obtenía por este sistema no proporcionaba luz suficiente. La llama abierta aumentaba además el peligro de fuego, y un escape de gas podía' ser fatal.
+
+Otra fuente de energía era la electricidad, y nadie ignoraba que los cables eléctricos se calentaban al pasar la corriente. ¿No podría calentarse un hilo hasta la incandescencia y utilizarlo para alumbrar?
+
+Durante los setenta y cinco primeros años del siglo xix hubo muchos inventores que intentaron utilizar la electricidad para producir luz. Unos treinta inventores o aprendices de inventores llegaron, lo intentaron y fracasaron. La teoría era clara y elemental, pero parecía imposible superar las dificultades prácticas.
+
+Thomas Alva Edison, que a la sazón contaba treinta y un años, anunció en 1878 que iba a abordar el problema. Inmediatamente se propagó la noticia por todo el mundo. La fe que la gente tenía depositada en su capacidad era tan absoluta, que las acciones del gas de alumbrado bajaron en las Bolsas de Nueva York y Londres. Y es que Edison acababa de hacer hablar a una máquina. Sus prodigios habían convencido a la gente de que podía inventar cualquier cosa.
+
+Thomas A. Edison nació en Milán, Ohio, el 11 de febrero de 1847. De pequeño no mostró ningún signo de genialidad; todo lo contrario: su curiosa manera de formular preguntas pasaba por una «rareza» entre los vecinos. Y su maestro de escuela le llamó en cierta ocasión «cabeza de chorlito». La madre de Edison, que también había sido maestra, montó en cólera y sacó inmediatamente al joven Tom de la escuela.
+
+Tom Edison halló su verdadera escuela en los libros y en sus manos. Leía cuanto caía bajo su vista, fuese cual fuere el tema, y la naturaleza insólita de su mente empezó ya a despuntar. Retenía casi todo lo que leía, y poco a poco aprendió a leer a la misma velocidad con que pasaba las páginas.
+
+Al mismo tiempo que empezó a frecuentar los libros de ciencias comenzó también a experimentar. Para desesperación de su madre montó un laboratorio de química en su casa, pero los productos y los materiales eran caros y no tardó en convencerse de que tenía que ganarse los cuartos por su cuenta.
+
+En primer lugar intentó cultivar hortalizas para vender. Más tarde, a los catorce años, obtuvo un empleo de vendedor de periódicos en el tren que iba de Port Hurón a Detroit (el tiempo de parada en Detroit lo pasaba en la biblioteca); pero como los ingresos no le llegaban, compró una imprentilla de segunda mano y empezó a publicar un semanario. Muy pronto llegó a vender 400 ejemplares de cada número entre los pasajeros del tren.
+
+Con el dinero que ganó instaló un laboratorio de química en el furgón de equipajes, donde podía experimentar a sus anchas. Pero las cosas se torcieron, porque un día, al pasar por un tramo algo irregular, se volcó un matraz lleno de fósforo y provocó un incendio. Aunque se logró apagar el fuego, el conductor, enfurecido, cogió a Edison por las orejas y le puso, junto con el laboratorio, fuera del tren. Allí acabó la aventura.
+
+Edison sufrió por aquella época otro golpe de mala suerte. En cierta ocasión intentó coger un tren en marcha, pero se quedó colgado del estribo, con peligro de caerse y matarse. Uno de los empleados del tren le agarró por las orejas y le subió. Edison salvó la vida, pero a costa del delicado mecanismo del oído interno, quedando parcialmente sordo para siempre.
+
+En 1862 comenzó otra fase de su vida. Un buen día el joven Tom, que tenía entonces quince años, viendo que un vagón de mercancías se abalanzaba sobre un niño que jugaba entre las vías, corrió como una centella hacia el infortunado y le puso fuera de peligro. El padre, lógicamente agradecido, no tenía dinero con qué premiar a Tom, así que se ofreció para enseñarle telegrafía. Para Edison aquello valía más que cualquier fortuna.
+
+Edison se convirtió en uno de los telegrafistas más rápidos de su tiempo. Cuentan que trabajaba de forma tan automática, que cuando recibió por telégrafo la noticia de que habían asesinado a Lincoln, tomó el mensaje mecánicamente, sin darse cuenta de lo que había sucedido.
+
+En 1868 marchó a Boston, donde se colocó de telegrafista. Los demás empleados de la oficina quisieron pasar un buen rato a costa del joven provinciano y le pusieron a tomar los mensajes enviados por el teclista más rápido de Nueva York. Edison recogió sin fatiga todo cuanto salía del hilo. Al terminar, todos le vitorearon.
+
+Edison patentó aquel mismo año su primer invento -un dispositivo para registrar mecánicamente los votos del Congreso-, pensando que así se abreviarían los trámites legislativos. Uno de los diputados le dijo, sin embargo, que no había ningún deseo de acelerar los trámites; las votaciones lentas eran, a veces, una necesidad política. A partir de entonces, Edison decidió no inventar jamás nada sin estar seguro de que se necesitaba.
+
+En 1869 marchó a Nueva York para buscar empleo. Mientras esperaba en la oficina de colocación a que le entrevistaran se estropeó una de las máquinas del telégrafo. Era un aparato que transmitía los precios del oro y de él dependían verdaderas fortunas; de pronto había dejado de funcionar y nadie sabía por qué. La oficina era un verdadero galimatías, y ninguno de los mecánicos acertaba con la avería. Edison inspeccionó la máquina y con toda calma dijo que sabía dónde estaba el fallo.
+
+«Pues venga, arréglala», le gritó el jefe, fuera de sí. Edison lo hizo en cuestión de minutos y consiguió un empleo mejor pagado que ninguno de los que había tenido hasta entonces. Pero no duró mucho tiempo, porque al cabo de pocos meses decidió convertirse en inventor profesional. Para ello comenzó por un indicador de cotizaciones eléctrico y automático que había diseñado durante su estancia en Wall Street; el aparato servía para tener informados a los agentes de Bolsa de los precios de las acciones.
+
+Edison fue a ofrecer el invento al presidente de una gran empresa de Wall Street; pero dudaba entre pedir 3.000 dólares o arriesgarse a subir hasta 5.000. Cuando llegó el momento, perdió los nervios y dijo: «Hágame usted una oferta.» El hombre de Wall Street respondió: «¿Qué le parecen 40.000 dólares?»
+
+A sus veintitrés años, Edison estaba metido de hoz y coz en los negocios. Durante los seis años siguientes trabajó en Newark, New Jersey, inventando, trabajando veinte horas al día, durmiendo a salto de mata y formando un grupo competente de ayudantes. Y, no se sabe cómo, encontró también tiempo para casarse.
+
+El dinero le llegaba a espuertas, pero para Edison el dinero era sólo algo para invertir en nuevos experimentos.
+
+En 1876 montó un laboratorio en Menlo Park, New Jersey, destinado a ser una «fábrica de inventos». Su idea era sacar un nuevo invento cada diez días. El «Mago de Menlo Park» (así se le llamaba) patentó antes de su muerte más de mil, proeza que ningún inventor ha igualado ni de lejos.
+
+Desde Menlo Park, Edison mejoró el teléfono y lo transformó en un instrumento práctico. Y allí inventó lo que sería su creación favorita: el fonógrafo. Recubrió un cilindro con una lámina de cinc, colocó encima una aguja flotante y conectó un receptor para transportar las ondas sonoras a la aguja y desde la aguja. Finalmente, anunció que la máquina hablaría.
+
+Aquello movió a risa a sus colaboradores, incluido el mecánico que había construido la máquina según las especificaciones de Edison. Pero fue éste quien rió el último. Mientras el cilindro recubierto de cinc giraba bajo la aguja, Edison pronunció unas palabras en el receptor; luego colocó la aguja al comienzo del cilindro y salieron las palabras que había pronunciado: «Mary had a little lamb, its fleece was white as snow» (Mary tenía un corderito, de lana tan blanca como la nieve.)
+
+«Gott im Himmel», exclamó el mecánico que había construido la máquina.
+
+¡Una máquina que hablaba! El mundo entero quedó asombrado; no había duda de que Edison era un mago, así que cuando a continuación anunció que inventaría la luz eléctrica, todos le creyeron.
+
+Pero esta vez Edison había subestimado las dificultades. Durante un tiempo pareció que iba a fracasar, pues le costó un año y 50.000 dólares comprobar que los hilos de platino no servían.
+
+Tras cientos de experimentos halló lo que buscaba: un hilo que se pusiera incandescente sin fundirse ni romperse. Y para eso ni siquiera hacía falta un metal, bastaba un hilo de algodón carbonizado; un frágil filamento de carbono.
+
+El 21 de octubre de 1879 montó Edison uno de esos filamentos en una bombilla, que lució ininterrumpidamente durante cuarenta horas. ¡Había nacido la luz eléctrica! El día de Nochevieja de ese año se iluminó eléctricamente la calle principal de Menlo Park, como demostración pública Periodistas de todo el mundo acudieron a cubrir el acontecimiento y a maravillarse ante el más grande inventor de la historia.
+
+Aquel fue el auge de la vida de Edison. Nunca volvió a alcanzar cotas parecidas, aunque siguió trabajando durante más de medio siglo. Aun así patentó inventos cruciales que allanaron el camino del cinematógrafo y de toda la industria de la electrónica. Hasta su muerte a los ochenta y cuatro años, ocurrida el 18 de octubre de 1913, el taller de Edison fue un caudal inagotable de inventos.
+
+Quizá no sea preciso decir que Edison no fue un científico; tan sólo descubrió un nuevo fenómeno, el efecto Edison, que patentó en 1883. El efecto consistía en el paso de electricidad desde un filamento a una placa metálica dentro de un globo de lámpara incandescente. El descubrimiento recibió poco eco en su tiempo, y ni siquiera Edison prosiguió su estudio; pero fue el germen de la válvula de radio y de todas las maravillas electrónicas de hoy.
+
+El conocimiento abstracto no le interesaba; era un hombre práctico que quería transformar descubrimientos teóricos en artilugios útiles.
+
+Pero quizá tampoco sean los inventos en sí lo que hay que destacar entre las aportaciones de Edison a nuestras vidas. Porque aunque es cierto que hoy disfrutamos del fonógrafo, del cine, de la luz eléctrica, del teléfono y de mil cosas más que él hizo posibles o a las que dio un valor práctico, hay que admitir que, de no haberlas inventado él, otro lo hubiera hecho, tarde o temprano; eran cosas que «flotaban en el aire».
+
+No; Edison hizo algo más que inventar, y fue que dio al proceso de invención un carácter de producción en masa. La gente creía antes que los inventos eran golpes de suerte. Edison sacaba inventos por encargo y enseñó a la gente que no eran cuestión de fortuna ni de conciliábulo de cerebros. El genio, decía Edison, es un uno por ciento de inspiración y un noventa y nueve por ciento de perspiración. Inventar exigía trabajar duro y pensar firme.
+
+Y así es cómo la gente comenzó a habituarse a que los inventos y los perfeccionamientos fueran lloviendo en la vida cotidiana como el fenómeno más natural del mundo; se hizo a la idea del progreso material y empezó a dar por descontado que los científicos, ingenieros e inventores no pararían de encontrar maneras nuevas y mejores de hacer las cosas.
+
+Es difícil decir cuál de los inventos de Edison fue su máxima aportación. Su contribución a la ciencia fue la idea general de un progreso continuo e inevitable, materializado gracias a esforzados investigadores que trabajan en grupo o en solitario, con el objetivo de ensanchar el horizonte del hombre.
+
+18. Darwin y Wallace
+
+Uno de los libros más asombrosos que jamás se hayan escrito apareció en 1859, hace más de un siglo. Sólo se tiraron 1.250 ejemplares, y al día siguiente de salir a la calle no quedaba ni uno en las librerías. Se hicieron reimpresiones y desaparecieron con la misma celeridad.
+
+El libro desató una enconada batalla de polémicas, donde fue objeto de ataques y de defensas; pero, finalmente, se alzó con la victoria. El libro es científico y no fácil de leer, y en algunos puntos está ya anticuado, pero jamás perdió popularidad.
+
+El título completo es Sobre el origen de las especies a través de la selección natural, o la preservación de las razas favorecidas en la lucha por la vida. Hoy día lo conocemos sencillamente por El origen de las especies. El autor era un naturalista inglés, de nombre Charles Robert Darwin.
+
+Charles Robert Darwin nació en Inglaterra, el 12 de febrero de 1809 (el mismo día que, en una lóbrega choza de los bosques americanos, nació Abraham Lincoln). Darwin, a diferencia de Lincoln, nació en el seno de una
+
+distinguida familia, rodeado de comodidades. El padre y el abuelo de Darwin eran médicos, y su abuelo Erasmus Darwin era también poeta y naturalista.
+
+La educación académica de Darwin apuntó en un principio hacia la Medicina, e incluso llegó a marchar a Edimburgo para iniciar su formación médica. Pronto comprobó que aquello no le interesaba. Sin embargo, fue en aquella época cuando conoció y trabó amistad con varios científicos y descubrió que quería ser naturalista, como su abuelo.
+
+Su vida dio el giro decisivo en 1831, cuando se enroló en el Beagle, un buque que estaba haciendo un periplo de cinco años por todo el mundo para explorar diversas costas y engrosar los conocimientos geográficos de aquel entonces. Darwin se enroló en calidad de naturalista, encargado de estudiar la vida animal y vegetal de lugares remotos.
+
+La primera escala fue Tenerife, en las islas Canarias, y Brasil la segunda. Darwin capturó allí insectos y ñandús (grandes aves que han perdido la capacidad de vuelo). A medida que fueron bajando hacia el Sur observó que con el cambio de clima también cambiaban los tipos de plantas y animales. En la costa occidental de Sudamérica, donde el clima es distinto del de la oriental, observó muchos tipos que sólo se daban allí, y no en la otra costa. Por otro lado, desenterró esqueletos de animales fósiles que no eran iguales que los de la actualidad.
+
+Darwin observó una cosa curiosa acerca de las «especies». (Una «especie» es una clase de planta o animal que sólo procrea entre individuos pertenecientes a ella. Los perros y los zorros son especies distintas, por ejemplo; pero en cambio no lo son los collies y los terrier.) Darwin observó que en las islas Galápagos (un grupo de islas frente a la costa de Ecuador, en Sudamérica) cada isla tenía su propia especie de pinzón (hoy se les sigue llamando «pinzones de Darwin»). Encontró nada menos que 14 tipos, cada uno de ellos ligeramente distinto de los demás. Unos tenían pico largo, otros corto, poco fino algunos, curvado otros, etc.
+
+¿Por qué cada islote tenía su propia especie? ¿Sería que en un principio había una sola especie y que al vivir en islas distintas se había ramificado en varias, cada una de ellas provista de un pico especialmente apto para capturar el alimento (semillas, lombrices o insectos) de que se nutría ese tipo concreto de pinzón? Una especie ¿podía transformarse en otra?
+
+Tras abandonar las islas Galápagos, el Beagle cruzó el Pacífico y recaló en diversos puertos e islas de Australia. Darwin se preguntó por qué el canguro, el vombat y el valabi vivían sólo en Australia y en ninguna otra parte, y lo explicó de la siguiente manera: Australia es una isla muy grande que en tiempos formaba parte de Asia hasta que el nivel del mar subió y la separó del continente. Al quedar así aislada, cambiaron los seres vivientes de la isla y aparecieron nuevas especies. Darwin llegó así a la conclusión de que las especies sí cambian.
+
+Finalizado el viaje, Darwin dedicó muchos años a estudiar estos cambios en las especies. Hasta aquel momento eran muy pocos los que creían en la posibilidad de que una especie sufriera transformaciones, y nadie había encontrado una razón convincente que explicara el cambio. Darwin necesitaba hallar esa razón.
+
+Hacia aquella época cayó en sus manos un libro famoso escrito por un clérigo llamado T. R. Malthus. Malthus afirmaba que la población crecía siempre más deprisa que los recursos alimenticios, de manera que siempre habría algunos que morirían de hambre.
+
+¡Claro! pensó Darwin. Todos los animales engendran muchas más crías de las que pueden vivir con los recursos alimenticios disponibles. Algunas tenían que morir para dejar el sitio a las demás. Y ¿cuáles morirían? Evidentemente, las que fuesen menos aptas para vivir en su medio.
+
+Para aclararlo un poco más, supongamos que llevamos cierto número de perros a Alaska y otros tantos a Méjico. Los perros de Alaska que, por casualidad, tuvieran un pelaje más espeso sobrevivirían mejor en el gélido clima nórdico. Los perros de Méjico que hubiesen nacido con un pelaje ligero soportarían mejor el clima caluroso. Al cabo de un tiempo sólo existirían perros muy lanudos en Alaska y perros de poco pelo en Méjico, amén de otros cambios debidos a otras diferencias ambientales. Al cabo de miles de años habría tantas diferencias, que los dos grupos de perros ya no podrían cruzarse entre sí. En lugar de una especie habría ahora dos. He ahí un ejemplo de lo que Darwin llamó «selección natural».
+
+En 1858, Darwin seguía trabajando en un libro que había empezado en 1844. Los amigos le apremiaban, advirtiéndole que le iban a pisar la idea. Pero a Darwin no había quién le metiera prisa… y en efecto, hubo quien se le adelantó: Alfred Russel Wallace, inglés igual que Darwin, pero catorce años más joven.
+
+La vida de Wallace fue muy parecida a la de Darwin: su afición a la naturaleza la tuvo desde pequeño y también participó en una expedición a islas lejanas.
+
+Wallace estuvo en la Sudamérica tropical y en las Indias Orientales. Aquí observó que las plantas y animales que vivían en las islas más al Este (las que continúan hasta Australia) eran completamente distintos de los de las islas del Oeste (las que prosiguen hasta Asia). La línea entre los dos tipos de vida era nítida y serpenteaba el archipiélago: hoy día se sigue llamando «línea de Wallace».
+
+En 1855, durante su estancia en Borneo, le vino la idea de que las especies tenían que cambiar con el tiempo. Y, en 1858, empezó a reflexionar también, igual que Darwin, sobre el libro de Malthus, llegando a la conclusión de que los cambios tienen lugar por selección natural, que él llamó «la supervivencia de los más aptos».
+
+Pero había una diferencia entre Darwin y Wallace: después de catorce años, el primero estaba trabajando aún en el libro, mientras que Wallace, de otro talante, concibió la idea, se sentó a escribir y lo despachó en dos días.
+
+¿Y a quién diremos que envió Wallace el manuscrito para su lectura y crítica? Al famoso naturalista Charles Darwin, naturalmente.
+
+Cuando éste lo recibió se quedó de piedra: eran exactamente sus mismas ideas, e incluso expresadas en un lenguaje parecido. Darwin era un auténtico científico: aunque había trabajado durante tanto tiempo en la teoría (y tenía testigos para demostrarlo), no trató de arrogarse el mérito. Inmediatamente pasó la obra de Wallace a otros científicos de talla. Y ese mismo año apareció en el Journal of the Linnaean Society un artículo firmado por ambos.
+
+Al año siguiente terminó finalmente Darwin su gran libro, El origen de las especies, que el público esperaba ya con impaciencia.
+
+La mayor laguna en el razonamiento de Darwin es que no sabía exactamente cómo los padres transmitían sus caracteres a la descendencia, ni por qué los descendientes diferían entre sí. La pregunta la contestó Mendel en 1865, sólo seis años después de publicarse el libro de Darwin; pero la obra de Mendel permaneció inédita hasta 1900 (véase pág. 81). Darwin murió el 19 de abril de 1882 y nunca llegó a conocer bien las leyes de la herencia. Wallace vivió hasta 1913 y él sí conoció la obra de Mendel y de otros genetistas.
+
+La gente suele decir que Darwin fue el creador de la «teoría de la evolución», la teoría de que la vida comenzó en formas elementales, fue cambiando lentamente, se hizo más compleja y desembocó, finalmente, en las especies actuales.
+
+Lo cierto es que él no fue su creador, porque muchos pensadores, entre los que no puede dejarse de señalar al francés Jean Baptiste de Lamarck, habían expuesto ya teorías parecidas (la de Lamarck es cincuenta años anterior). Incluso el abuelo de Darwin tenía una de esas teorías, a la que dedicó un largo poema.
+
+La gran aportación de Darwin y Wallace consistió en elaborar la teoría de la selección natural para explicar los cambios de las especies. Y quizá algo más importante aún: Darwin presentó una cantidad ingente de pruebas y razonamientos lógicos que respaldaban la teoría de la selección natural.
+
+Una vez publicado el libro de Darwin, los biólogos tuvieron que rendirse a la evidencia. Los cambios de las especies habían sido hasta entonces simple especulación. A partir de 1859 hubo que aceptarlo como un hecho. Y así sigue siendo.
+
+La idea de Darwin Wallace revolucionó la concepción de los biólogos: convirtió las ciencias de la vida en una sola ciencia. El hombre pasó a ocupar el lugar que le correspondía en el esquema de la vida, pues también él, como las demás especies, provenía de formas más elementales.
+
+19. Marie y Pierre Curie
+
+La joven pareja, Pierre y Marie Curie, comenzó por hacerse con una tonelada de ganga de las minas de St. Joachimsthal, en Bohemia. Los dueños de la mina no opusieron ningún reparo, pero les advirtieron que tendrían que costear ellos el transporte hasta París.
+
+La pareja pagó religiosamente y se quedó sin blanca.
+
+El siguiente paso era encontrar un lugar dónde trabajar. Marie daba clases en una escuela femenina, en cuyos terrenos había un cobertizo medio derruido y abandonado. Preguntaron si podían utilizarlo y el director de la escuela, encogiéndose de hombros, contestó: «Por mí…»
+
+El techo tenía goteras, prácticamente no había calefacción y tampoco manera de utilizar aparatos químicos decentes. Pero los Curie se instalaron.
+
+Los trozos de roca negra eran muestras de un mineral llamado pechblenda, que contenía pequeñas cantidades de uranio. Hacía sólo dos años que Henri Antoine Becquerel había descubierto que el uranio emite radiaciones penetrantes.
+
+Los Curie andaban, sin embargo, detrás de algo más que uranio. Disolvieron trozos de pechblenda en ácidos, lo trataron con diversos productos químicos y separaron algunos de sus elementos; de este modo dividieron la pechblenda en fracciones, conservando aquéllas que contenían el material que buscaban. Y lo que buscaban eran radiaciones más fuertes que las del uranio, mucho más fuertes.
+
+Combinaron las fracciones deseadas de diferentes lotes de pechblenda y dividieron otra vez el material en fracciones más pequeñas.
+
+Así pasaron semanas, meses, años… Un trabajo agotador. Pero las fracciones eran cada vez más pequeñas y las radiaciones que emitían, cada vez más fuertes.
+
+En 1902, al cabo de cuatro años, la tonelada de pechblenda había quedado reducida a un gramo de polvillo blanco: un compuesto de un nuevo elemento que jamás había visto nadie hasta entonces. Sus radiaciones eran tan intensas, que el recipiente de vidrio que lo contenía resplandecía en la oscuridad.
+
+Ese resplandor retribuía con creces los cuatro años de trabajo de los Curie: habían escrito el fenómeno de la radiactividad en el mapa de la ciencia, y con letras bien grandes.
+
+Marie Sklodowska nació en Varsovia el 7 de noviembre de 1867. Polonia no era por entonces un buen sitio para vivir, sobre todo para una joven devorada por la curiosidad de aprender cosas sobre el mundo. Aquella parte de Polonia estaba bajo el dominio de la Rusia zarista, que no fomentaba la educación entre los polacos y ni siquiera permitía que las mujeres asistieran a la universidad.
+
+Pero Marie no conocía obstáculos. Al terminar la escuela secundaria, consiguió libros prestados y empezó a estudiar química por su cuenta. Trabajando de tutora e institutriz logró ahorrar dinero bastante para enviar a una hermana suya a París, y en 1891 hizo ella lo propio. La tradicional simpatía de los franceses hacia los polacos oprimidos era una historia que se remontaba a los tiempos de Napoleón. Muchos polacos hallaron refugio en París. Marie podía estar segura de encontrar amigos.
+
+Pero, más que amigos, lo que necesitaba era una formación universitaria, así que se matriculó en la universidad más famosa de Francia, la Sorbona, y comenzó a estudiar todo lo que se le ponía por delante. Dormía en áticos sin calefacción, y comía tan poco, que más de una vez se desmayó en clase. Pero acabó siendo la número uno de la clase.
+
+En 1894 le sonrió por segunda vez la suerte: conoció a un joven llamado Pierre Curie y se enamoraron. Pierre tenía ya un nombre en la física: él y su hermano Jacques habían descubierto que ciertos cristales, al someterlos a presión, adquirían una carga eléctrica positiva en un lado y otra negativa en el otro. Cuanto mayor era la presión, más grande era la carga. El fenómeno se denomina «piezoelectricidad» (del griego piezein, presionar). Hoy día encuentra aplicación en los micrófonos, radioreceptores y fonógrafos. Cualquier radiotransmisor se mantiene en frecuencia gracias a un cristal piezoeléctrico.
+
+Marie y Pierre se casaron en 1895. Marie, que estaba haciendo el doctorado, obtuvo permiso para trabajar con su marido, de manera que ambos combinaron trabajo y vida doméstica. Su primera hija, Irene, nació en 1897.
+
+El mundo de la ciencia se hallaba por entonces al borde de una revolución. El aire estaba cargado de ideas nuevas. Roentgen había descubierto los rayos X. Becquerel había descubierto que la radiación de los compuestos de uranio era capaz de descargar un electroscopio, y logró demostrar cualitativamente que eran varios los compuestos de ese elemento que poseían tal propiedad, aunque el instrumental de que disponía era demasiado tosco para realizar mediciones cuantitativas precisas. El electrómetro diseñado por Pierre Curie y su hermano Jacques, basado en la piezoelectricidad, podía medir cantidades muy pequeñas de corriente. Marie Curie decidió utilizar el aparato para estudiar cuantitativamente la radiación del uranio.
+
+El principio era el siguiente: los rayos del uranio golpeaban contra electrones de los átomos de aire y los expelían, dejando atrás «iones» que eran capaces de transmitir una corriente eléctrica. Así pues, la intensidad de los rayos del uranio cabía determinarla midiendo la cantidad de corriente eléctrica que permitían al aire transportar. La corriente podía medirse equilibrándola en uno de los cristales de Pierre, con diferentes presiones. A una determinada presión, el cristal adquiría una carga suficiente para frenar la corriente.
+
+Marie Curie halló que la cantidad de radiación es siempre proporcional al número de átomos de uranio, independientemente de cómo estén combinados químicamente con otros elementos. Y descubrió que otro metal pesado, el torio, también emitía rayos parecidos.
+
+Apenas había cumplido los treinta y hacía sólo seis años que había llegado a París, pero su nombre ya empezaba a sonar. Pierre, viendo claramente que su joven y brillante esposa iba camino de convertirse en algo grande, abandonó su línea de investigación y se unió a la de ella.
+
+El metal de uranio se obtenía principalmente del mineral pechblenda. Cuando los Curie necesitaban más uranio, tenían que extraerlo de un trozo de mineral. Pero no sin antes comprobar que ese trozo tenía suficiente uranio para que mereciera la pena, lo cual requería medir la radiactividad del mineral.
+
+Un buen día, en el año 1898, dieron con un trozo de pechblenda tan radiactivo, que tendría que haber albergado más átomos de uranio en su seno que los que realmente cabían.
+
+Los Curie, asombrados, llegaron a la única conclusión posible: en la pechblenda había elementos aún más radiactivos que el uranio. Y como semejantes elementos no se conocían, tenía que tratarse de alguno que aún no se hubiese descubierto. Por otro lado, jamás se habían observado elementos extraños en la pechblenda, por lo cual debían de hallarse presentes en cantidades muy pequeñas. Y para que cantidades tan pequeñas mostraran tanta radiación, los nuevos elementos tenían que ser muy, muy radiactivos. La lógica era aplastante.
+
+Los Curie comenzaron por fraccionar la pechblenda, sin perder la pista de la radiactividad. Eliminaron el uranio y, tal y como esperaban, la mayor parte de la radiactividad persistió. Hacia el mes de julio de ese año habían aislado una traza de polvo negro que era 400 veces más radiactiva que el uranio; este polvillo contenía un nuevo elemento que se comportaba como el telurio (un elemento que no es radiactivo). Decidieron bautizar al nuevo elemento con el nombre de «polonio», en honor de la patria de Marie.
+
+Pero con ello sólo quedaba explicada parte de la radiactividad, así que siguieron fraccionando y trabajando sin tregua. En diciembre de ese año tenían una preparación que era aún más radiactiva que el polonio: contenía un nuevo elemento que poseía propiedades parecidas a las del bario, un elemento no radiactivo que ya se conocía. Los Curie lo denominaron «radio».
+
+Con todo, incluso sus mejores preparaciones sólo contenían ligeras trazas del nuevo elemento, cuando lo que necesitaban era una cantidad suficiente para verlo, pesarlo y estudiarlo. En la pechblenda había tan poco de ese elemento, que había que empezar con una cantidad muy grande de mineral. Así que los Curie se procuraron otra tonelada y trabajaron durante otros cuatro años.
+
+Marie Sklodowska Curie presentó en 1903 su trabajo sobre la radiactividad como tesis doctoral y recibió su título de doctora. Probablemente haya sido la tesis doctoral más grande de la historia: ganó, no uno, sino dos Premios Nobel. En 1903 se les concedió a ella y a Pierre, junto con Henri Becquerel, el Nobel de Física por sus estudios de las radiaciones del uranio. Marie Curie recibió en 1911 el de Química por el descubrimiento del polonio y del radio.
+
+El segundo premio lo recibió Marie en solitario; Pierre Curie había muerto trágicamente en 1906 en un accidente, arrollado por un coche de caballos.
+
+Marie siguió trabajando. Tomó posesión de la cátedra de la Sorbona que había dejado vacante Pierre y se convirtió en la primera mujer que enseñó en esta institución. Trabajaba sin interrupción, estudiando las propiedades y peligros de sus maravillosos elementos y exponiéndose ella misma a las radiaciones para estudiar las quemaduras que producían en la piel.
+
+En julio de 1934, venerada por el mundo entero como una de las mujeres más grandes de la historia, Marie Curie murió de leucemia, causada probablemente por la continua exposición a las radiaciones radiactivas.
+
+De haber vivido un año más habría visto cómo se concedía el tercer Premio Nobel a los Curie, esta vez a su hija Irene y a su yerno Frederic, que habían creado nuevos átomos radiactivos y descubierto la «radiactividad artificial».
+
+En 1946 se descubrió en la Universidad de California el elemento 96, al que se le llamó «curio», en eterno honor de los Curie.
+
+Roentgen y Becquerel iniciaron, con el descubrimiento de radiaciones misteriosas, una nueva revolución científica, semejante a la de Copérnico en 1500.
+
+La revolución copernicana la había puesto en escena Galileo con su telescopio. La segunda también precisaba de un dramaturgo, alguien que sacara a las radiaciones de las revistas científicas y las llevara a la primera plana de los periódicos. Ese papel lo desempeñaron los Curie y su nuevo elemento, el radio.
+
+No hay duda de que su trabajo tuvo importancia científica (y también médica, porque el radio y otros elementos parecidos sirvieron para combatir el cáncer). Pero por encima de eso hay que decir que su labor fue inmensamente espectacular: en parte porque en ella intervino una mujer, en parte por las grandes dificultades que hubo que superar, y en tercer lugar por los resultados mismos.
+
+No fueron los Curie, por sí solos, los que lanzaron a la humanidad a la era del átomo; los trabajos de Roentgen, Becquerel, Einstein y otros científicos fueron en este sentido de mayor importancia aún. Pero la heroica inmigrante de Polonia y su marido crearon la expectativa de nuevos y más grandes acontecimientos.
+
+20. Albert Einstein
+
+El 29 de marzo de 1919 tuvo lugar un eclipse de sol que estaba llamado a ser uno de los más importantes de la historia de la humanidad. Los astrónomos de la Real Sociedad de Astronomía de Londres habían aguardado ansiosamente durante años a que llegara ese eclipse que les iba a permitir comprobar una nueva teoría física, revolucionaria, propuesta cuatro años antes por un científico alemán llamado Albert Einstein.
+
+El día del eclipse había un grupo de astrónomos en el norte de Brasil y otro en una isla frente a las costas de África Occidental. Cámaras de gran precisión se hallaban listas para entrar en acción y, en el momento del eclipse, tomar fotografías; pero no del propio sol eclipsado, sino de las estrellas que súbitamente aparecerían en el cielo oscurecido alrededor del sol.
+
+Einstein había dicho que la posición aparente de esas estrellas daría la sensación de haber cambiado, que la masa del sol doblaría los rayos de luz estelar al pasar a su lado. Aquello sonaba a imposible, porque la luz, que era algo inmaterial, ¿cómo iba a verse afectada por la masa del sol? Si Einstein tenía razón, habría que retocar la imagen del universo que el gran Isaac Newton había construido más de doscientos años antes.
+
+Por fin llegó el eclipse. Se hicieron las fotografías, se revelaron y se midieron con sumo cuidado las distancias entre las imágenes de las estrellas y el sol y entre una estrella y otra. Finalmente, se compararon estas mediciones con otras hechas sobre un mapa estelar de la misma región, sólo que tomado de noche y sin el sol en las cercanías.
+
+No había duda. Los astrónomos anunciaron los resultados: la atracción del sol doblaba los rayos luminosos y los apartaba de la trayectoria rectilínea. Einstein tenía razón. Una de las predicciones de su teoría estaba verificada.
+
+Albert Einstein nació en Alemania, el 14 de marzo de 1879. De niño tuvo problemas para aprender a hablar, y sus padres llegaron a pensar que padecía retraso mental. En la escuela secundaria no fue un estudiante brillante y se aburría con los monótonos métodos de enseñanza que se utilizaban en aquel tiempo en Alemania; así que no consiguió terminar sus estudios. En 1894 fracasó el negocio de su padre y la familia marchó a Milán. El joven Einstein, quien ya mostraba afición por la ciencia, partió para Zurich para matricularse en su famosa escuela técnica, donde se puso de manifiesto su insólita aptitud para las matemáticas y la física.
+
+Cuando Einstein se licenció en 1900 no consiguió un puesto docente en ninguna universidad, pero tuvo la suerte de encontrar un empleo administrativo en la oficina de patentes de Berna: no era lo que él quería, pero al menos tendría tiempo para estudiar y pensar.
+
+Y había mucho sobre lo que pensar: la vieja estructura de la física, construida a lo largo de siglos, estaba siendo reestudiada a la luz de los nuevos conocimientos.
+
+Los físicos pensaban, por ejemplo, que la luz se propagaba por el espacio vacío. Como la luz consistía en ondas, tenía que existir algo en el espacio que sirviera de soporte a esas ondulaciones. Los físicos llegaron a la conclusión de que el espacio estaba lleno de algo llamado «éter» y de que era la vibración de éste lo que formaba las ondas luminosas.
+
+Se pensaba también que el movimiento verdadero de la tierra podía medirse tomando como punto de referencia el éter: bastaría comparar la velocidad de la luz en la dirección del movimiento de la tierra con su velocidad en la dirección perpendicular (igual que se puede saber a qué velocidad baja un río si se mide la velocidad a la que podemos remar a favor de la corriente y la comparamos con la velocidad a la que podemos remar perpendicularmente a la corriente, cuando no hay ayuda del agua).
+
+Este experimento lo realizaron con cuidado exquisito Albert A. Michelson y E. W. Morley, dos científicos norteamericanos, en 1887. Y vieron con asombro que no podían detectar diferencia alguna en la velocidad de la luz. ¿Habría algún error?
+
+El descubrimiento y estudio de la radiactividad por Becquerel y los Curie ocasionaron otra explosión. Elementos como el uranio, el torio y el radio emitían cantidades ingentes de energía. ¿De dónde salía? La estructura entera de la física se basaba en el hecho de que ni la materia ni la energía podían destruirse ni crearse. ¿Habría que derribar todo el edificio de la física?
+
+En 1905, a los veintiséis años, Albert Einstein publicó sus ideas acerca de todas estas cuestiones. Supongamos -dijo- que la luz se mueve con velocidad constante sea cual sea el movimiento de su punto de origen, como parecía demostrar el experimento de Michelson-Morley. ¿Cuáles serían entonces las consecuencias?
+
+Las consecuencias las expuso con ayuda de unas matemáticas claras y directas. Según Einstein, no podía existir movimiento absoluto ni falta absoluta de movimiento. La Tierra se mueve de una cierta manera al comparar su posición espacial con la del Sol; de otra distinta al compararla con la posición de Marte, pongamos por caso. Es más, al medir longitudes, masas o incluso tiempos, el movimiento relativo entre el objeto medido y el observador que mide influye en los resultados de la comparación.
+
+Materia y energía -dijo Einstein- eran aspectos diferentes de la misma cosa. La materia se puede convertir en energía y la energía en materia. Lo que sucedía en la radiactividad es que un trozo diminuto de materia se transforma en energía; pero la cantidad de materia convertida es tan pequeña que no puede pesarse con los métodos corrientes. En cambio, la energía creada por ese trocito de materia era lo bastante grande para detectarla.
+
+Todo aquello parecía violar el sentido común, pero el caso es que las piezas encajaban perfectamente. Y además explicaba algunas cosas que los científicos no acertaban a explicar de otra manera.
+
+La fama que adquirió Einstein por sus teorías le valió en 1909 una cátedra en la Universidad de Praga, y en 1913 fue nombrado director de un nuevo instituto de investigación creado en Berlín, el Instituto de Física Kaiser Wilhelm.
+
+Dos años más tarde, en 1915, durante la Primera Guerra Mundial, publicó un artículo que ampliaba sus teorías y exponía nuevas ideas acerca de la naturaleza de la gravitación. Las teorías de Newton, según él, no eran suficientemente precisas, y la imprecisión se ponía claramente de manifiesto en la vecindad inmediata de grandes masas, como la del Sol.
+
+Las teorías de Einstein explicaban la lenta rotación de la órbita del planeta Mercurio (el más próximo al Sol), rotación que las teorías de Newton no podían explicar; y predecían también que los rayos luminosos, al pasar cerca del Sol, se apartarían de su trayectoria rectilínea. El eclipse de 1919 demostró que la predicción era correcta e inmediatamente se vio que Einstein era el pensador científico más grande que había habido desde Newton.
+
+Einstein recibió el Premio Nobel de Física en 1921, pero no por la relatividad, sino por dar una explicación lógica del «efecto fotoeléctrico», resolviendo así el enigma de cómo la aplicación de luz era capaz de hacer que los electrones saltaran de la superficie de ciertos materiales. También se le premió por sus teorías del «movimiento browniano», el movimiento de partículas diminutas suspendidas en un líquido o en el aire, fenómeno que venía intrigando a los físicos desde hacía casi ochenta años.
+
+Alemania vivió luego días muy aciagos. Adolf Hitler y los nazis iniciaron la conquista del poder, propugnando una forma nueva y brutal de antisemitismo; y Albert Einstein era judío. En enero de 1933, cuando los nazis ganaron finalmente las elecciones, dio la casualidad de que Einstein se hallaba en California; prudentemente decidió no regresar a Alemania, sino que marchó a Bélgica. Los nazis confiscaron sus propiedades, quemaron públicamente sus escritos y le expulsaron de todas las sociedades científicas alemanas.
+
+Luego emigró a los Estados Unidos, donde fue bien acogido (en virtud de un decreto especial adoptó en 1940 la ciudadanía norteamericana). Einstein aceptó la invitación de trabajar en el Instituto de Estudios Avanzados de Princeton, New Jersey.
+
+Mil novecientos treinta y cuatro fue el año en que el físico italiano Enrico Fermi comenzó a bombardear elementos con unas partículas subatómicas recién descubiertas, llamadas «neutrones». Al bombardear uranio observó resultados peculiares, pero no halló ninguna explicación satisfactoria. (La importancia de este trabajo fue reconocida en 1938, cuando se le concedió a Fermi el Premio Nobel de Física). Pocos años después, el químico Otto Hahn descubría en Berlín que al bombardear uranio con neutrones se producían átomos de aproximadamente la mitad de peso que los del uranio.
+
+Lise Meitner y O. R. Frisch, dos físicos alemanes refugiados que investigaban en Copenhague, dieron en 1938 una posible explicación del trabajo de Hahn. Según ellos, cuando los neutrones chocaban contra los átomos de uranio, algunos de éstos se partían en dos: el fenómeno recibió el nombre de «fisión del uranio». La fisión del uranio liberaba mucha más energía que la radiactividad ordinaria, y además liberaba neutrones que podían provocar nuevas escisiones. El resultado podía
+
+llegar a ser la explosión más tremenda que jamás se había visto. El experimento de Hahn demostró que la masa y la energía guardaban estrecha relación, tal y como había predicho Einstein.
+
+En enero de 1939 llegó el físico danés Niels Bohr a los Estados Unidos para pasar varios meses en Princeton, donde tenía la intención de estudiar diversos problemas con Einstein. Allí anunció las observaciones de Hahn y la explicación de Frisch y Meitner. Su teoría llegó rápidamente a oídos de Fermi, quien había huido de Italia (aliada por entonces con la Alemania de Hitler) y trabajaba en la Universidad Columbia.
+
+Fermi estudió el tema con los físicos John R. Dunning y George Pegram, de Columbia, y decidió que Dunning realizara cuanto antes un experimento para comprobar los resultados de Hahn y la teoría de Frisch y Meitner. Trabajando contra reloj durante varios días, Dunning realizó el primer experimento, de los efectuados en Estados Unidos, que demostraba la posibilidad de escindir el átomo.
+
+En el verano de 1939 se estudiaron con Albert Einstein todos estos hallazgos. Einstein escribió entonces una carta al presidente Flanklin D. Roosevelt, comunicándole que la bomba atómica era una posibilidad real y que no debía permitirse que las naciones enemigas se adelantaran en su fabricación.
+
+Roosevelt se mostró de acuerdo con Einstein y proveyó inmediatamente fondos de investigación. La Era Atómica comenzaba a despuntar.
+
+Albert Einstein murió el 18 de abril de 1955. Hasta ese mismo día urgió al mundo a llegar a algún acuerdo que desterrara para siempre las guerras nucleares.
+
+Einstein fue el Newton de esa revolución científica que había comenzado con Roentgen y Becquerel. Sus teorías permitieron a los científicos predecir descubrimientos e investigarlos. Así ocurrió, por ejemplo, con la fisión del uranio: en cuanto fue descubierta, se vio que las teorías de Einstein ofrecían la posibilidad de la bomba y de la energía atómica.
+
+Todo lo que en el futuro ocurra en torno a la energía atómica -para bien o para mal- tuvo su origen en las ecuaciones que inventó un joven empleado de la oficina de patentes para expresar la relación entre materia y energía.
+
+21. Rutherford y Lawrence
+
+Ernest Rutherford andaba detrás de caza mayor… o por lo menos era caza «mayor» en el mundo de la ciencia, porque la pieza que quería cobrar era el diminuto átomo, cuyo diámetro sólo alcanza algunas milmillonésimas de centímetro. La pregunta era: ¿que había dentro de ese átomo?
+
+Durante un siglo los científicos habían creído que el átomo era la partícula más pequeña que podía existir y que tenía la forma de una bola de billar. En la última década del siglo pasado se descubrieron partículas aún más pequeñas y se comprobó que los átomos radiactivos se desintegran y lanzan partículas «subatómicas» en todas direcciones.
+
+Rutherford, para averiguar lo que ocultaba el minúsculo átomo, lo bombardeó con partículas aún más pequeñas: con esas partículas subatómicas que los átomos radiactivos dispersaban en todas las direcciones.
+
+Estas partículas eran tan pequeñas y se movían tan deprisa, que atravesaban láminas finas de materia sin enterarse. Interponiendo una fina lámina de metal entre un estrecho haz de partículas y una placa fotográfica, el haz dejaba un punto oscuro en ésta después de atravesar la lámina. Rutherford notó en 1906 que el metal tenía un extraño efecto: el punto oscurecido era difuso, como si algunas de las partículas, al pasar por el metal, hubiesen sufrido una desviación.
+
+Rutherford y Hans Geiger, su ayudante, decidieron investigar en 1908 el fenómeno, lanzando partículas contra un pan de oro de unas cuantas diezmilésimas de centímetro de espesor; aun así, constituía un muro de 2.000 átomos de anchura. El razonamiento de Rutherford era que si los átomos llenaban por completo el espacio, las partículas no tendrían ninguna probabilidad de atravesar la lámina.
+
+Pero las partículas sí pasaban; prácticamente todas llegaron al otro lado en línea recta. Algunas, muy pocas, salían con cierto ángulo, como una bola de billar golpeada de lado. Y una de cada 20.000 rebotaba incluso hacia atrás.
+
+¿Cómo podía ser eso? Rutherford diría más tarde que era como disparar un cañón contra un papel de celofán y que la bala retrocediera hasta el cañón.
+
+Finalmente halló la explicación: la mayor parte del átomo era espacio vacío, a través del cual podían pasar fácilmente las partículas subatómicas; pero en el centro de cada átomo había un núcleo diminuto en el que se concentraba prácticamente toda la masa del átomo. Este núcleo estaba rodeado por partículas que giraban alrededor de él en órbitas, como los planetas.
+
+Rutherford fue así el primero en descubrir la estructura interna del átomo. Los experimentos se realizaron en 1908; ese mismo año recibió el Premio Nobel de Química, por trabajos que había realizado anteriormente, es decir, sus aportaciones más importantes vinieron después de otorgársele el premio.
+
+Ernest Rutherford fue realmente un científico del Imperio Británico. Trabajó en Canadá y en Inglaterra, pero nació en Nueva Zelanda, el 30 de agosto de 1871. En la universidad, donde puso por primera vez de manifiesto su talento para la física, obtuvo una beca de la Universidad de Cambridge. Allí estudió con el gran científico británico J. J. Thomson.
+
+Rutherford trabajó primero en el campo de la electricidad y el magnetismo; pero en 1895 (el año en que aquél llegó a Inglaterra) Wilhelm Roentgen conmovió el mundo científico con el descubrimiento de los rayos X. Thomson decidió inmediatamente seguir por esa dirección, y Rutherford le acompañó encantado.
+
+La valía de Rutherford estaba ya por entonces fuera de toda duda, de manera que cuando quedó una vacante en el claustro de profesores de la Universidad McGill en Montreal, Thomson le recomendó. En 1898 salió Rutherford para Canadá.
+
+Al año siguiente descubrió que las sustancias radiactivas emitían por lo menos dos clases de radiaciones; las llamó «rayos alfa» y «rayos beta», por las dos primeras letras del alfabeto griego. Más tarde se comprobó que los dos rayos eran chorros de partículas subatómicas. Los rayos alfa estaban compuestos de partículas de gran masa, y Rutherford los utilizó posteriormente como proyectiles para sondear el átomo. En 1903, él y un estudiante llamado Frederick Soddy elaboraron las fórmulas matemáticas que describían la tasa de desintegración de las sustancias radiactivas.
+
+En 1908 había descubierto ya cómo detectar una a una las partículas subatómicas: la partícula, al chocar contra una película de sulfuro de cinc, provocaba un brevísimo destello. El sulfuro de cinc «centelleaba». Rutherford, con ayuda de esta «pantalla de centelleo», podía seguir y contar cada partícula.
+
+Con los proyectiles que había descubierto y el contador que había fabricado, estaba en condiciones de explorar el interior del átomo. Diez años más tarde consiguió algo mucho más asombroso: utilizar sus proyectiles no en metales, sino en gases.
+
+Al bombardear hidrógeno gaseoso con rayos alfa, éstos chocaban contra los núcleos de los átomos de hidrógeno, compuestos de partículas elementales llamadas «protones». Cuando los protones chocaban contra una pantalla de sulfuro de cinc, se observaba un tipo especial de destello brillante. Si se bombardeaba oxígeno, anhídrido carbónico o vapor de agua, no ocurría nada especial. Pero cuando el blanco era nitrógeno, volvían a aparecer los centelleos característicos de los protones.
+
+¿De dónde salían esos protones? Sólo había una respuesta posible: los rayos alfa, al chocar contra el núcleo del átomo de nitrógeno, arrancaba protones del mismo. El nitrógeno se transformaba así en un isótopo raro del oxígeno, y como consecuencia de la reacción se observaba el protón. Rutherford fue el primero en transmutar un elemento (nitrógeno) en otro (oxígeno): había conseguido (1909) la primera reacción nuclear artificial.
+
+Con el paso de los años aumentó el número de investigaciones sobre la estructura del átomo, para las cuales se necesitaban proyectiles subatómicos más rápidos y en mayor cantidad. Los rayos alfa cumplían bien su propósito, pero no tenían una energía suficientemente alta, mientras que las sustancias radiactivas que emitían rayos alfa no eran fáciles de conseguir.
+
+Los científicos probaron con los protones, que podían obtenerse fácilmente a partir del hidrógeno. Los protones no eran tan pesados como las partículas de los rayos alfa, pero podían acelerarse hasta energías muy altas mediante un campo eléctrico, mientras una serie de imanes mantenían a las partículas en la trayectoria deseada. El hombre que mostró la mejor manera de hacerlo fue otro Ernest: Ernest Orlando Lawrence, nacido en Cantón, Dakota del Sur, el 8 de agosto de 1901.
+
+Fue en 1930, en la Universidad de California, cuando Lawrence empezó a estudiar el problema de acelerar protones. La dificultad era que siempre acababan por zafarse del dominio de los imanes que intentaban mantenerlos en la trayectoria deseada. Había que hallar un modo de retenerlos dentro del instrumento hasta que adquirieran suficiente velocidad para ser útiles. ¿Por qué no hacer que giren en círculos?, pensó Lawrence.
+
+Dicho y hecho: colocando una serie de imanes de una cierta manera construyó rápidamente un instrumento de fabricación casera. Los protones se veían obligados a seguir una trayectoria circular, acelerando continuamente, hasta salir finalmente despedidos del instrumento con una fuerza tremenda. Lawrence llamó «ciclotrón» al aparato, por ser circulares las trayectorias que seguían las partículas.
+
+En 1931 se terminó de construir un ciclotrón más grande que el modelo original, a un coste de 1.000 dólares y capaz de producir protones de más de un millón de electrón-voltios de energía. Poco después, utilizando ciclotrones aún mayores, se consiguió comunicar a las partículas energías de 100 millones de electrón-voltios. Hoy día hay instalaciones, basadas en ese mismo principio del ciclotrón, que pueden producir partículas del orden de miles de millones de electrón-voltios de energía.
+
+Los primeros «proyectiles» de Rutherford habían sido mejorados increíblemente. Ahora se podía destrozar un átomo y estudiar sus desechos como no se habría podido ni soñar pocos años antes.
+
+Rutherford murió en 1937, pero llegó a ver el ciclotrón en funcionamiento. Lawrence vivió lo suficiente para ver cómo su máquina enriquecía los conocimientos atómicos hasta el punto de hacer de la energía atómica una realidad. Durante la década de los cuarenta participó incluso en la investigación que desembocó en la construcción de los primeros reactores nucleares. Dirigió un programa para separar cantidades industriales del isótopo uranio-235 y producir el elemento artificial plutonio. Los átomos de ambos podían escindirse en una reacción continua que proporcionase energía útil o que diese lugar a la devastadora explosión de una bomba atómica. Lawrence murió en 1958.
+
+Mientras la radiactividad fue sólo una propiedad insólita de ciertos elementos raros, su importancia estuvo circunscrita a la física teórica y su influencia sobre las actividades del hombre fue muy pequeña.
+
+Lo que hizo Ernest Rutherford fue transformar la radiactividad, de un mero fenómeno, en una herramienta. Utilizó las partículas subatómicas como proyectiles con los cuales romper el átomo y explorar el núcleo atómico.
+
+Ernest Lawrence inventó un instrumento mejor para hacer lo mismo. Como resultado del trabajo de ambos, el interior del átomo reveló sus secretos en un plazo increíblemente breve. Veintitrés años después de la primera reacción nuclear artificial, la humanidad sabía ya cómo iniciar una de esas reacciones y tenerla controlada como una especie de «horno» nuclear. Hace miles de años, el hombre había aprendido, de manera muy parecida, cómo hacer fuego y servirse de él.
+
+Las conflagraciones nucleares pueden ser un gran peligro para la humanidad; pero lo mismo puede decirse de las guerras convencionales. El hombre ha obtenido beneficios ingentes del fuego, pese a sus peligros. ¿Será igual de sabio con los fuegos nucleares que ahora tiene en su poder?
+
+22. Robert Hutchings Goddard
+
+La gasolina se mezcló con el oxígeno líquido y ardió; el cohete ascendió tronando por la atmósfera. Al cabo de poco tiempo se agotó el combustible, el cohete siguió subiendo hasta un máximo y luego cayó.
+
+La escena no es Cabo Cañaveral, años cincuenta, sino una granja cubierta de nieve en Auburn, Massachusetts. La fecha, el 16 de marzo de 1926. Un científico llamado Robert Hutchings Goddard ensayaba el primer cohete de combustible líquido que jamás salió disparado hacia los cielos.
+
+El cohete sólo subió a una altura de 61 metros y no alcanzó una velocidad superior a los 90 kilómetros por hora; pero el experimento fue tan importante como el vuelo del Kitty Hawk de los hermanos Wright, con la diferencia de que lo de aquí no le importaba a nadie Goddard, que puso, él sólo, los fundamentos de la cohetería norteamericana, siguió siendo un desconocido hasta el día de su muerte.
+
+Robert Goddard nació en Worcester, Massachusetts, en 1882. Se doctoró por la Universidad Clark en 1911 enseñó en Princeton y volvió a Clark en 1914. Allí comenzó a hacer experimentos con cohetes.
+
+En 1919 escribió un pequeño libro de 69 páginas sobre la teoría de cohetes. El título era Un método de alcanzar altitudes extremas. Durante la década anterior, un ruso llamado Ziolkovsky había escrito sobre temas muy parecidos, y no deja de ser un dato curioso que ya en aquella época Rusia y Norteamérica compitieran en el campo de la cohetería, sin saberlo ninguna de las dos.
+
+Goddard fue el primero en poner en práctica la teoría. En 1923 probó su primer motor de cohete, utilizando combustibles líquidos (gasolina y oxígeno líquido). En 1926 lanzó el primer cohete. Su mujer le hizo una fotografía junto al artefacto: era un ingenio de 1,20 metros de alto, 15 centímetros de diámetro e iba sostenido por un bastidor parecido a un taca-taca de niño. Ese fue el abuelo de los grandes monstruos de Cabo Cañaveral.
+
+Goddard consiguió que la Smithsonian Institution le concediera algunos miles de dólares para proseguir sus trabajos. En julio de 1929 lanzó un cohete algo mayor cerca de Worcester, Massachusetts. El nuevo modelo alcanzó más velocidad y altura que los anteriores; pero además llevaba a bordo un barómetro y un termómetro, así como una cámara para fotografiar ambos instrumentos. Fue el primer cohete que transportó instrumentos de medida.
+
+Su fama de «chalado» que pretendía llegar a la luna (lo cual le dolía, porque detestaba la publicidad y lo único que le interesaba era estudiar la atmósfera superior) le trajo luego problemas. Tras el lanzamiento de su segundo cohete hubo llamadas a la policía, que le prohibió realizar ningún experimento más en Massachusetts.
+
+Tuvo entonces Goddard la fortuna de que un filántropo llamado Daniel Guggenheim le diera suficiente dinero para poder montar una estación experimental en un lugar solitario de Nuevo Méjico, donde construyó cohetes aún más grandes y elaboró muchas de las ideas que hoy siguen explotándose en este campo. Diseñó cámaras de combustión de forma idónea y quemó gasolina con oxígeno con el fin de que la rápida combustión sirviera para refrigerar las paredes de la cámara. Inmediatamente vio que la raíz del problema era conseguir velocidades de combustión muy rápidas con respecto al cuerpo del cohete.
+
+Entre 1930 y 1935 lanzó cohetes que alcanzaron velocidades de hasta 880 kilómetros por hora y alturas de 2,5 kilómetros, y diseñó sistemas de guía y giroscopios para mantener el rumbo deseado.
+
+Finalmente patentó la idea de los cohetes de fases múltiples.
+
+El gobierno norteamericano nunca llegó a interesarse en sus trabajos; tan sólo le prestó apoyo durante la segunda guerra mundial, pero fue para que diseñara pequeños cohetes que ayudaran a despegar a la aviación desde el portaaviones.
+
+Mientras tanto, un grupo de científicos construía en Alemania grandes cohetes basados en los principios de Goddard; así llegaron al V-2, que, de haber sido perfeccionado antes, podría haber dado la victoria a los nazis.
+
+Cuando los expertos en cohetería alemanes llegaron a América después de la guerra y les preguntaron sobre su ciencia, contestaron mudos de asombro: pero ¿por qué no preguntan a Goddard?
+
+Demasiado tarde; Goddard había muerto el 10 de agosto de 1945, justo en el momento en que comenzaba a despuntar la Era Atómica.
+
+Hoy día vivimos en plena época de los descubrimientos de Goddard. Es imposible decir exactamente qué beneficios se derivarán de la conquista del espacio, pero lo que es seguro es que enriquecerá los conocimientos del hombre. Y también sabemos que cualquier incremento de los conocimientos ayuda a la humanidad, a veces por caminos impensados. (Ha habido casos en que el mal uso de los conocimientos ha perjudicado a la humanidad; pero eso es culpa de los hombres, no del conocimiento.)
+
+Sea cual sea el futuro de los cohetes, el hecho es que comenzó con el pequeño cohete de Goddard, ése que se elevó 60 metros por encima de un campo nevado de Auburn.
+
+Cronología
+
+13/06/2008

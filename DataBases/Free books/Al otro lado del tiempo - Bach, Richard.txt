@@ -1,0 +1,1037 @@
+Al otro lado del tiempo
+
+Richard Bach
+
+Al otro lado del tiempo
+
+1
+
+CAPÍTULO 1
+
+L PROBLEMA ERA LA PORTEZUELA
+
+. No quería permanecer abierta.
+
+En los Piper Cub la puerta viene en dos piezas: un trapezoide ancho para la mitad superior, con plexiglás a modo de ventana, y otro para la mitad inferior, cubierto de tela amarilla, igual que el resto del aeroplano. La mitad inferior funciona bien, porque en cuanto se la destraba cae directamente hacia abajo y su peso la mantiene allí.
+
+En cambio, la mitad superior gira hacia afuera y tiene una traba, pequeña y débil, para mantenerla abierta mientras el piloto o el pasajero entra en la cabina o sale de ella. La traba retiene la puerta levantada durante el correteo y el despegue.
+
+La vista desde un Cub con la portezuela abierta es una pantalla panorámica tecnicolor tridimensional con sonido estéreo, la hierba y las copas de los árboles se alejan, y el corazón remonta vuelo. El viento corre como un convertible 28 a toda marcha por la curva de la montaña, con el costado abierto en vez de la capota baja. Para chapotear en ese viento… Por eso es que la gente como yo disfruta entre aeroplanos.
+
+Sólo que la mitad superior de la portezuela se cerraba con un golpe. Si superaba los ciento cuatro kilómetros por hora, la presión del viento podía más que la traba y ¡pam! ahí estaba yo, en una cabina medio cerrada, aislado de mi río de viento. Fastidioso, fastidioso.
+
+E
+
+2
+
+Pasé días enteros pensándolo desde que me encontré con el problema. No me dejaba en paz.
+
+En el trabajo, mientras trataba de escribir, allí estaba, la imagen de la traba, girando lentamente en el espacio entre mis ojos y la pantalla del ordenador. Una traba del mismo tipo pero más grande no era la solución: la fuerza del viento aumenta en proporción al cuadrado de la velocidad. Yo lo sabía. La portezuela se bajaría a ciento doce kilómetros por hora, en vez de hacerlo a ciento cuatro. ¿Retirar la puerta? Pensé que no. A veces, en invierno, durante las tormentas de lluvia… No quiero que el costado del aeroplano quede perpetuamente abierto.
+
+Un gancho, un gancho para puertas mosquiteras. ¿En un avión? ¿Adónde lo atornillaría, a la tela del ala?
+
+Mientras vagaba por los pasillos de la ferretería, la imagen vagaba conmigo.
+
+Imanes no, ni trabas a presión, ni fallebas. Nada serviría. No había modo de sujetar la traba al ala. La imagen se esfumó cuando me fui a dormir.
+
+Por la mañana temprano, apenas despierto, allí estaba otra vez, flotando, la imagen de la traba. Gemí al verla. ¿Iba a seguirme por un día más, importunándome por mi ineptitud mecánica?
+
+Pero cuando volví a mirar, a mirar con atención, la traba no era la misma que la del día anterior. De ningún modo. Estaba sujeta al ala por dos tornillos de expansión modificados, que no se atornillaban a la tela, sino al marco de aluminio que estaba detrás de ella. Una abundante superficie de apoyo allí, que sostiene una traba de diferente diseño, una que se desliza por sobre el marco mismo de la puerta, como para poner y sacar con un toque, pero que retiene la portezuela como una morsa.
+
+Esa imagen flotó en la luz temprana sólo el tiempo suficiente para que yo entendiera; luego desapareció. Nada de imágenes en el aire, nada de problemas que me humillaran, nada de nada. Aire vacío.
+
+3
+
+No hacía falta que me azuzaran. Manoteé el bloc de apuntes que tenía junto a la cama e hice el bosquejo del nuevo diseño. ¿Funcionar? ¡Por supuesto que funcionaría! ¿Cómo fue que la fábrica de Piper Cub no diseñó una traba así en
+
+1939?
+
+En cuestión de horas el artefacto estaba hecho, con el bronce de la traba pulcramente taladrado, los pequeños tornillos de expansión reducidos a dos pestañas cada uno y bien atornilladas en su sitio, sobre el ala.
+
+Saqué el aeroplano del hangar, lo lancé al aire, a ciento setenta y seis kilómetros por hora. La puerta, incólume, sólida como el ala misma.
+
+No soy incompetente. Soy un genio del diseño. No veo la hora de detenerme junto al primer Cub que vea, para examinar su endeble traba de portezuela y susurrar: "Malo, malo…" a un piloto que sepa perfectamente lo malo que es y esté dispuesto a dar cualquier cosa, a cambiar sus mejores guantes de piloto, por una traba que más o menos funcione.
+
+Y ése fue el fin del asunto. Con el tiempo, la felicidad que me brindaba mi traba se fusionó con una felicidad general; en la actualidad, si tuviera que dibujarla de memoria, probablemente no podría hacerlo. Pero antes de que pasara un mes volvió a suceder.
+
+Según parece, no había ajustado del todo la tapa del aceite en el motor del Cub; un día en que volaba alto por sobre el bosque encontré una súbita corriente descendente, una fuerte sacudida al aeroplano. En el mismo instante vi pasar un canario junto a la portezuela abierta.
+
+Qué extraño dije en voz alta, volviéndome a mirar la mota amarilla que se perdía de vista. ¿Qué hace un canario volando a esta altura y sobre un lugar tan desolado?
+
+Finalmente llegué a la conclusión de que debía ser un canario escapado, libre por fin, flexionando con deleite sus alitas.
+
+Pocos minutos después detecté algunas gotas de aceite en el montante de sustentación, junto a la portezuela abierta. Luego, muchas gotas más. Después,
+
+4
+
+aceite en el lado derecho del parabrisas, láminas de aceite por el costado del avión.
+
+Extrañado, me desvié hacia un henar ancho y parejo. ¿Se nos habrá roto un caño de aceite? ¿Qué está pasando?
+
+De pronto entendí ¡No era un canario lo que había pasado sobre el bosque! ¡Era la tapa del aceite! Era mi tapa, pintada de amarillo canario, y ese aceite era el lubricante de mi motor, que volaba desde el tanque sin tapa. Era hora de aterrizar.
+
+Esa noche, una tapa de aceite giraba en el aire, entre la pantalla de mi computadora y yo. ¿Cómo haces, Richard, para asegurarte de no perder nunca más una tapa de aceite? En algún vuelo futuro no ajustarás con férrea firmeza esa varilla medidora, verás otro canario y susurrarás: "Oh, no…".
+
+No puedo atornillarla ni enroscarla con una abrazadera que, conociéndome bien, terminará dentro del tanque. Tiene que haber algún modo de asegurarla…
+
+Pero la tapa ha sido diseñada simplemente para enroscarla con fuerza. Y sé que algún día me olvidaré de ajustarla. ¿Cómo evitar que la tapa gire hasta desprenderse y despegue por sí misma en un último vuelo solitario?
+
+Desperté temprano, antes de que aclarara, y encontré la imagen brumosa tal como estaba la noche anterior, flotando ante mí: era un problema no resuelto.
+
+Pero observé con atención, sin pensar en nada. Sólo observé. Con paciencia.
+
+Entonces sucedió algo extraño. Hubo un susurro en el aire, la imagen se disolvió y apareció una tapa de aceite distinta. Y mientras yo la observaba, por unos brevísimos segundos, vi una forma detrás de la pieza: un encantador rostro humano, entrevisto como se puede entrever, a través del vidrio, en el momento en que entregan la correspondencia. La cara de la persona que entrega la correspondencia.
+
+En ese instante hubo un destello de sorpresa, al encontrarse sus ojos con los míos, que observaban; ella ahogó una exclamación y desapareció.
+
+5
+
+En el aire, centelleante, giraba una tapa de aceite con un cordón enganchado, de cuero, como el de una bota. Un extremo se sujetaba a la tapa por una diminuta conexión de alambre; el otro iba atado a la grapa de la capucha, justo bajo el cilindro trasero derecho del motor. Con la grapa en su sitio no había modo de que ese artefacto saliera disparado. Tal vez pudiera aflojarlo algún tornado, pero no se apartaría del Cub a menos que se desprendiera toda la parte delantera del avión.
+
+Solución simple, definitiva, obvia.
+
+Por la noche estaba en el taller; perforé un agujero diminuto en el costado de la tapa para la conexión, inserté un alambre para sujetar el cordón, até el cuero a la grapa de la capucha y lo instalé en el Cub. Funcionaba perfectamente. Aun aflojando la tapa y tirando con fuerza para arrancharla del tanque, no se deslizaba más de dos o tres centímetros desde la abertura; la varilla medidora se mantenía en el tubo de llenado y el cordón no cedía. ¡Sí! ¡Nunca más otro canario!
+
+Mientras volvía a la casa, esa noche, me pregunté: "¿Por qué un cordón de cuero? ¿Por qué no un cable de acero?". Hoy en día, en la aviación, todo el mundo usa cables de acero. ¿Por qué se me había ocurrido de cuero?
+
+Mientras me lo planteaba, recordé el momento en que había aparecido la solución y vi nuevamente esa cara encantadora y fugaz, con un lápiz de madera para dibujo enhebrado de forma casual en el pelo oscuro, la sorpresa honda en los ojos pardos al encontrarse con los míos. Y después, el desvanecimiento instantáneo.
+
+Alguien pronunció las palabras con mi voz cuando me detuve en el camino, recordando. ¿Quién? ¿Era? ¿Ésa?
+
+6
+
+Cerré la boca, pero la pregunta no cesó. ¿Cómo había podido olvidar esos ojos? Aquello no era una simple visión interior matutina que había resuelto mis problemas de aviación. ¡Allí había aparecido una mujer!
+
+No se necesita ser un especialista en mecánica cuántica para imaginar el problema con el que luché esa noche, y al día siguiente y al otro. El hecho de que algo suceda en una fracción de segundo no significa que no haya sucedido, como te lo puede decir cualquier paloma de terracota para tiro al blanco.
+
+Y yo había sido destrozado en muchos pedazos por ese único disparo. No había error. Según me han dicho, nuestra facultad de reconocer objetos al azar falla en exposiciones inferiores a medio segundo. En cuanto a objetos geométricos, en menos de una quincuagésima de segundo. Pero nuestra percepción de una sonrisa se mantiene aun con un destello de una milésima de segundo, tan sensible es nuestra mente a las imágenes del rostro humano.
+
+A la tarde siguiente piloteé el Cub; desde el suelo debe haber sido una imagen indolente: el pequeño aeroplano girando con lentitud, relajadas en el viento sus alas color limón; el motor, apenas un susurro.
+
+Para mí no era indolente. "Podría volar con este avión a cualquier lugar del mundo", pensaba. "Con tanques de combustible de tamaño especial, no hay en el planeta lugar al que un Piper Cub no pueda llegar". Pero ¿adónde ir a buscar a la persona que me entregó ese diseño tan sencillo?
+
+Aminoré la marcha del motor en unos cuantos cientos de revoluciones, hasta impulso cero, con la hélice girando apenas lo suficiente para hacer fuerza con su propio peso. Con esa potencia el Cub se convirtió en un planeador pintado de sol, un kayak de nueve metros navegando a la deriva por el cielo. Se elevaba y descendía suavemente en las olas de aire que pasaban bajo sus alas.
+
+Si mi encantadora mensajera existía en algún lugar, ¿por qué no la había visto resolver el primer problema? ¿Por qué no la vi alcanzarme la traba para la portezuela por correo especial? Fruncí el entrecejo al recordar. Cuando vi la traba no había quedado rastro alguno de un mensajero, sólo el mensaje mismo,
+
+7
+
+elegante solución a un problema encerrado en la mente. Había estado esperando que yo despertara, abriera los ojos y tomara nota.
+
+El Cub giraba, suave y lento como un ave marina, sobre tierras de cultivo que parecían un edredón a cuadros dorados en la tarde. Siguió el ronroneo de su pequeño motor y se elevó quince metros en una ola de aire cálido; la cruzó mientras agitaba el cielo con una estela invisible, y surcó serenamente el canal más fresco que venía luego.
+
+Era un día encantador para navegar por el aire. Mi espíritu estaba en otra parte.
+
+Por supuesto. La primera vez no la vi porque ya se había ido; la mensajera, tras dejar su paquete, había continuado su camino. La segunda vez, en cambio, el cliente estaba esperando su correspondencia. Yo la había estado esperando. "Si aguardamos lo suficiente junto a nuestro buzón", pensé, "¿podemos sorprendernos cuando aparece el cartero?"
+
+Era perfectamente lógico, el problema estaba resuelto: quién era ella, por qué yo la había visto.
+
+Las respuestas, desde luego, no resuelven nada. El misterio no consistía en descubrir diseños para arreglar mi avión. El misterio se había tornado tan profundo como el mismo cielo: ¿de dónde surgían esos diseños?
+
+Hace mucho tiempo aprendí que todo es exactamente como es por una razón. La migaja queda en nuestra mesa no sólo para recordarnos la galleta de esa mañana, sino también porque hemos decidido no quitarla. No hay excepciones. Todo tiene un motivo y el detalle más ínfimo es una clave.
+
+Desde la altura, literalmente, surge la perspectiva. La cabina de un pequeño aeroplano, una vez que se convierte en hogar, es un nido perfecto donde resolver los problemas.
+
+La sorpresa en sus ojos. Si ella es el cartero, ¿por qué se sobresalta al encontrarse con el destinatario que está esperándola?
+
+8
+
+El Cub flotó en torno de una pequeña nube. Más avanzada la tarde ese pompón sería un gigante: enorme, imponente. Por ahora era sólo una oveja esponjosa y juguetona que corría junto a mis alas.
+
+"Se sobresaltó porque no sucede nunca", pensé. "Se supone que, cuando ella entrega la correspondencia, sus clientes están durmiendo. Cuando uno en un millar está bien despierto y la mira fijamente cuando llega, por supuesto que se sobresalta."
+
+El lápiz en su pelo. En su lugar, ¿por qué tendría un lápiz ahí?
+
+Porque lo uso prácticamente a cada momento. Porque lo uso tan a menudo que alargar la mano para tomarlo es una pérdida de tiempo.
+
+Pero, ¿por qué uso tanto el lápiz?
+
+A la distancia, a ochocientos metros, un avión de aprendizaje Cessna. Hice oscilar las alas del Cub. Hola, te tengo a la vista. Para mi sorpresa, las alas del Cessna también oscilaron. Es una antigua costumbre de los aviadores, no muy practicada en estos tiempos. ¿Por qué necesito el lápiz tan a menudo que prefiero ensartármelo en el pelo? Porque hago muchas líneas sobre el papel. Porque me paso el tiempo dibujando.
+
+Porque soy diseñador. De partes. ¡De piezas de avión!
+
+"No puede ser", pensé. "Los diseñadores no usan lápices. Usan computadoras. Hacen sus bosquejos con máquinas para diseño asistido por computación, o sea CAD, con un mouse y una pantalla. Si no usas CAD no eres diseñador; has sido arrollado por el progreso."
+
+Por entonces, al calentarse la tierra, las ondas del océano aéreo aumentaban de tamaño. De vez en cuando una ola de calor ascendente rompía bajo el morro del Cub con un estremecimiento y una sacudida, lanzando una llovizna de gotas celestes a tres metros en el aire.
+
+9
+
+"Su pelo", pensé, "recogido en oscuro volumen y sujeto en la nuca; no lo hace para lucir anticuada. Es toda practicidad; esta persona no finge ser lo que no es. Hay un motivo…"
+
+Volví a vivir ese momento. ¿Qué otras claves? ¿Qué había pasado por alto?
+
+La boca apenas abierta, en gesto de sorpresa. Un cuello blanco, recatadamente abotonado, un broche oscuro de forma oval engarzado en plata a la altura del cuello. El lápiz de madera sin pintar, sin goma, listo para usar. Luz amarilla en el fondo, el color del sol contra la madera. Nada más. Los ojos encantadores.
+
+Pude observar que ése no era el cubículo muy iluminado de una división can dentro de alguna gran empresa. Era casi como si… ¿Por qué una diseñadora muy práctica y eficiente utilizaría el lápiz con tanta frecuencia como para tenerlo en…?
+
+Usaba lápiz, me dije, porque no tenía computadora. ¿Por qué no tenía computadora? Hay una razón para todo. ¿Por qué el cuello recatado, el broche? ¿Por qué vestía de modo tan diferente a las demás? ¿Por qué la luz amarilla?
+
+En el indolente Cub, a ochocientos metros de altura, erguí bruscamente la espalda.
+
+Mi diseñadora no tiene CAD porque las computadoras no han sido inventadas. Usa ropas anticuadas no para diferenciarse de quienes la rodean, sino para ser igual. Si parece salida del ayer es porque viene de un tiempo diferente.
+
+Mi pequeña navegación terminó súbitamente. Apagué el motor, puse el Cub en posición invertida y me dejé caer como un clavadista hacia la tierra.
+
+Tenía que volver al suelo, sacudirme la bruma de otro mundo del vuelo. Debía descubrir si lo que sabía podía ser la verdad.
+
+10
+
+CAPÍTULO 2
+
+UIEN DIJO
+
+: "E
+
+L PLACER ESTÁ EN EL VIAJE Y NOEL LA LLEGADA
+
+" no iba camino al otro lado del tiempo.
+
+Una semana después de mi vuelo en el Cub no me había acercado un centímetro al sitio del que provenían las imágenes de mis piezas para aeroplano.
+
+Ni una sola vez volví a ver el rostro de esa encantadora mensajera. Mi curiosidad, mi deseo de espiar su mundo, eso era mi problema; ella parecía estar diciéndome algo; no tenía intención alguna de ayudarme en un plan no autorizado por su empleador. A juzgar por las evidencias que pude reunir en toda una semana de astutas planificaciones para que apareciera, ella no existía.
+
+Por la noche me acurrucaba en el sofá, frente a mi pequeño hogar, contemplando las llamas. Cuando entrecerraba los ojos, la luz parecía parpadear también en algún otro lugar: un cuarto con sillas de cuero de respaldo alto. No veía las sillas, pero las percibía, percibía la presencia de otros en la habitación, un murmullo indistinto de voces, alguien que pasaba caminando, sin reparar en mí, no muy lejos. Sólo veía el fuego y sombras en un cuarto que no era el mío.
+
+Sacudí la cabeza y la visión, frágil, se desintegró.
+
+Después de un rato se me ocurrió una respuesta. Para incitarla a regresar, ¡basta con que le presente un problema para resolver! Y cuando se acerque con la solución, allí estaré para pedirle que espere.
+
+Q
+
+11
+
+De inmediato me dediqué a diseñar un juego de cuñas para las ruedas del avión. ¿Necesitaba algo que se plegara en caso de que el viaje sufriera un colapso y que también pudiera mantener al Cub en una tormenta de viento? Imaginé algunas cuñas lamentables, que flotaron en mi mente antes de dormir, como señuelo.
+
+Nada. Al llegar la mañana aún estaban allí las mismas cosas endebles y miserables. Las deseché. A la noche siguiente le pedí ayuda para inventar algo que impidiera la entrada de la lluvia en el tanque de combustible, algo que no fuera una lata de tomates invertida. ¿Algo de aluminio, quizá?
+
+Silencio. No hubo respuesta. Se mantenía indiferente a los problemas fingidos, a diseños para cuñas cuando lo mejor eran las de madera, a tapas de combustible para un avión que está siempre en el hangar, a montajes sin terminar cuyo verdadero objetivo era tentarla a mostrarse otra vez. Por la mañana todos flotaban delante de mí tal como la noche anterior; eran sólo señuelos y no me interesaban, a menos que pudieran mostrarme sus ojos una vez más.
+
+Después de dos semanas tuve la idea de que esa forma quedaría sin respuesta por años; afligido por eso, en la aurora silenciosa me disculpé por haber tomado el camino incorrecto. Había cubierto con un manto de ardides mi deseo de verla. ¿Qué esperaba conseguir con engaños? ¿Que ella se presentara, confiada, a decirme "hola" de un lado del tiempo al otro?
+
+Un mes después, aún pasaba las veladas contemplando el fuego, el viejo reloj de la repisa, reconstruyendo lo sucedido paso a paso. Esos diseños habían surgido de algún lugar; cada uno de ellos estaba instalado en ese momento en mi Piper J-3C, felizmente tridimensional, que pasaba en el hangar ese invierno de
+
+1998.
+
+Yo no los inventé; cuando aparté los problemas para dormir no tenía idea de cómo resolverlos. No eran travesuras holográficas de algún vecino que apuntara secretamente con un proyector láser a través del alba. No eran
+
+12
+
+alucinaciones. Eran simples pero ingeniosos… Eran diseños funcionales que resolvían problemas reales.
+
+Además pensé que no llevaban ningún adorno moderno. Nada de materiales ni procesos exóticos, nada de sutiles advertencias de riesgo, nada que sugiriera determinadas bases de datos computadas para mecanismos enmarañados.
+
+Su cara me perseguía. Expeditiva, práctica, tan completamente concentrada en el trabajo, en hacer bien lo suyo, que con sólo verse observada por mí se borraba, desaparecía.
+
+Estudié las llamas, la danza de las sombras. Hay un lugar. Hay una habitación, tan sólida, tibia e invariable en su mundo como este cuarto lo es en el mío. No es Aquí, es Cuándo…
+
+Muy bien, Gaines, prueba por la mañana, si quieres. Llévate el Efe-ZetaZeta. Y a ver si lo traes en una sola pieza.
+
+No fue dicho en voz alta, no era alguien que hablara junto al sofá. Lo que me sobresaltó fue la naturalidad cotidiana de las palabras que sonaban en mi cabeza; el filo de vidrio de esa frase tan sencilla cortó mi calma. Sentí un cosquilleo en la nuca. ¿Qué? como si al tomarla por sorpresa, al gritar en mi sala silenciosa como un sepulcro, pudiera obtener alguna respuesta. ¿Qué?
+
+El reloj seguía andando, midiendo cuidadosamente el tiempo.
+
+13
+
+Solo en la casa, no me importaba quién me oyera. ¿EfeZetaZeta? No hubo respuesta. ¿Gaines?
+
+Toc, toc, toc, toc. ¿Estás jugando conmigo? Se apoderó de mí una cólera anhelante. ¿Qué juego es éste?
+
+14
+
+CAPÍTULO 3
+
+ESPUÉS DE UNAS SEMANAS
+
+,
+
+YO SABIA
+
+lo obvio. No iba a resolver mi examen con prepotencia, golpeándolo ni implorándole que hiciera algo a lo que se oponía. Apareció la pregunta: ¿era posible que la búsqueda de una traba efectiva para la portezuela me hubiera hecho perder la cordura? Esa fantasía era un callejón sin salida, ¿cómo iba a saberlo?
+
+Como último recurso, en las raras ocasiones en que las cosas no marchan bien para mí, arrastro mi saco de dormir hasta el Cub, pongo en marcha el motor, vuelo por sobre un horizonte hacia el crepúsculo y aterrizo en una pradera para pasar la noche. Entonces contemplo el cielo, atento el oído a las voces de amigos que no puedo ver.
+
+A veces la única manera de triunfar es rendirse. Y rendido me tendí en la hierba, bajo el ala de mi pequeño bote aéreo, interrogando a las estrellas.
+
+Si he de entender lo que me está sucediendo susurré hacia Arturo, muéstrenme lo que debo saber. No comprendo cuál es el próximo paso. Es de ustedes. Lo dejo ir. Una levísima brisa susurró a su vez, viento entre hierba que suspiraba desde hacía un millar de años.
+
+Déjalo ir.
+
+D
+
+15
+
+CAPÍTULO 4
+
+STOY TENDIDO EN LA NOCHE
+
+;
+
+LA
+
+oscuridad es una manta que me arropa; respiro lenta, lenta y profundamente. Me relajo. El misterio no es tuyo. No tienes que resolver nada. Lo que es, es. Tu tarea: estar quieto. Tu misión: estar callado.
+
+Adentro, aire profundo; espera; afuera, aire lento. Larga, lenta espera. Aire fresco, adentro; espera; aire tibio, afuera. Mi única responsabilidad es ser.
+
+El aire oscuro se arremolinaba a mi alrededor, a través de mí; la noche se convertía en mí. Una curiosa sensación de ascenso, de perder peso y de fundirme en el mismo instante, infinitamente pesado, con la tierra. Mientras miraba, apenas percatándome, la escena empezó a deslizarse a mi alrededor, tal como se desliza afuera el panorama nocturno cuando el tren empieza a moverse. Un levísimo susurro de aceleración, inaudible en la oscuridad. "No te preocupes, Richard", pensé; "no tiene importancia. Permite. Acepta." Tan confortante era el pensamiento que no me importó que los muros de mi espacio estuvieran cambiando. Todo estaba bien.
+
+Respiraba con calma, lentamente, sin preocuparme; ante mí, un suave resplandor. Cuando los muros se detuvieron sin ruido ya había aclarado.
+
+Yo descansaba sobre hierba esmeraldina, abajo un cielo intenso. El Cub y la noche habían desaparecido. Estaba tendido cerca de un sendero, en una elevación del terreno, y me recordaba: "lento, sin prisa, toma tu tiempo". Muy
+
+E
+
+16
+
+cuidadosamente me incorporé hasta quedar sentado y después, de pie. En ese momento, subieron truenos distantes detrás de mí. Me volví y observé.
+
+El techo del hangar era un arco largo y poco profundo, de quince metros de altura. Debajo del arco, una ancha banda de ventanas, cientos de ventanas.
+
+Debajo de las ventanas, puertas gigantescas, de nueve metros de altura. El trueno, intenso y bajo, era el ruido de una de esas enormes puertas al abrirse.
+
+Observé sin moverme.
+
+Voces a la distancia, ininteligibles. Una risa. Los hombres usaban ropa de trabajo blanca. "Son mecánicos", pensé; luego corregí: "Son ingenieros". El rumor intenso continuaba, un alto rectángulo negro del interior que se iba ensanchando. Al fin el rumor cesó y la puerta quedó abierta.
+
+Cerca, un pájaro entonó cuatro notas repentinas hacia el sol, un canto que no reconocí.
+
+Entonces surgió un avión desde el interior del hangar: un pequeño biplano abierto, gradualmente remolcado hacia el día. Las alas plateadas, el color del metal escamado por el torno. Un fuselaje de menta polvorienta, de nuevo las superficies plateadas del timón de cola y de los elevadores. Un mecánico tiraba de cada punta de ala; otro, junto a la cola, empujaba una carretilla sobre la que descansaba el patín de cola.
+
+La brisa traía sus voces, aunque la distancia mezclaba los sonidos y no pude entender ni una palabra.
+
+Sé mucho de aeropuertos y los amo; los aeropuertos siempre han sido para mí un hogar, no importa el punto del planeta en que me encuentre. Nada en qué pensar, entonces. Eché a andar a lo largo del camino, rumbo al hangar.
+
+"No es un Thomas-Morse Scout", pensé. "¿Es un Avro 504? Una máquina que,nunca he visto en persona; la conozco sólo por fotos. ¿Estoy en Inglaterra?"
+
+Campiña suavemente ondulada, dos kilómetros cuadrados de césped parejo en torno del hangar. Ni pistas de despegue ni de circulación. No es lo que se dice un aeropuerto, sino un aeródromo.
+
+17
+
+El camino se curvó a la derecha; luego, otra vez a la izquierda. Por un rato el hangar quedó oculto por un seto que bordeaba el sendero. Cuando desapareció me sentí nervioso, como si al perder esa brújula pudiera ser derribado en la oscuridad.
+
+Pero pocos minutos después el seto se redujo a una hilera de flores plantadas con cuidado: prímulas. Primaveras las llamarían aquí.
+
+Ahora el hangar se alzaba a mi izquierda, enorme. Frente a él había un edificio de madera y piedra; a la izquierda, un aparcamiento. Allí donde me detuve otra vez. En la grava había siete vehículos motorizados. No reconocí ninguno. Pequeños casi todos, algo cuadrados, de metales opacos y de metales brillantes. Los automóviles nunca han sido mi pasión. Ojalá pudiera describirlos mejor. Pero hasta yo podía determinar la época a la que correspondían… un período posterior a 1910 y anterior a 1930. Una motocicleta desmañada, casi una bicicleta a motor, pintada de verde oliva, se mantenía en equilibrio sobre un frágil sostén.
+
+El sendero rodeó el aparcamiento y se convirtió en una acera de adoquines, que se convirtió en un breve tramo de peldaños de madera, que se convirtieron en una senda techada hacia un gran edificio construido contra el hangar. Un letrero tallado en madera junto a los peldaños que conducían a la senda, las primeras palabras que veía en ese lugar:
+
+A
+
+VIONES
+
+S
+
+AUNDERS
+
+–V
+
+IXEN
+
+S.R.L.
+
+18
+
+CAPÍTULO 5
+
+NTE LOS PELDAÑOS ME DETUVE
+
+,
+
+CON
+
+la mano en la barandilla. Sabía que mi cuerpo descansaba soñando más atrás en la hierba, respirando profundamente, bajo las estrellas. Sabía que podría despertar cuando quisiera. Sabía que cuanto tenía a la vista era mi propia imaginación. Pero hacía ya mucho tiempo que había desechado la frase "sólo imaginación". Convencido de que todo en el mundo físico es imaginación disfrazada de sólido, no iba a despertar de ese lugar ni a restarle importancia.
+
+"Es tan real y tan irreal como el mundo de mi vigilia", pensé. "Sólo necesito saber dónde estoy y qué significa este lugar."
+
+En el extremo de la pasarela de madera, bajo el letrero de Saunders-Vixen, se abrió la puerta y apareció un joven que llevaba un rollo de papel vegetal.
+
+Estaba seguro de que él no podía verme, pues yo no pertenecía a su tiempo.
+
+Estaba viendo ese sitio en mi mente, sin afectarlo en modo alguno.
+
+Lo estudié mientras se acercaba. Vestía un traje de mezclilla, con trama cruzada de un suave color beige, camisa de cuello blanco, corbata oscura con un dispositivo de alambre dorado para que no se levantaran las puntas del cuello.
+
+En la manga de la chaqueta tenía una mancha que parecía de aceite lubricante.
+
+Rubio, alegre, silbó durante un momento por lo bajo, con la cara de un formal estudiante de comercio. Lo observé sin moverme mientras se aproximaba, apreciando todos los detalles. En el bolsillo, dos lápices y una
+
+A
+
+19
+
+estilográfica. "Demasiado joven para ser un ejecutivo", pensé. ¿Era dibujante, algún tipo de ingeniero? Aminoró el paso al final de los escalones y casi pareció que me miraba, como si percibiera mi presencia.
+
+"Algo de intelectual", pensé; "no pasa mucho tiempo al aire libre." Aspecto de tener una mente desarreglada, no del todo ordenada.
+
+En vez de caminar a través de mí, se detuvo y me miró directamente.
+
+Buenos días dijo. ¿Me permite, por favor?
+
+Me sobresalté. ¿Yo?
+
+Sí. ¿Puedo pasar? ¡Claro! Por supuesto dije. Cómo no. Discúlpeme.
+
+Gracias.
+
+El rollo de papel vegetal me rozó el suéter con un sonido crepitante.
+
+Un momento después, mientras yo me recuperaba de la sorpresa, se oyó la patada y el ruido de la motocicleta, que se ponía en marcha detrás de mí; cuando me volví, el joven se estaba poniendo un par de antiparras. Casco no, sólo las anticuadas antiparras. El motor, en punto muerto, despedía bocanadas irregulares de humo azul.
+
+Me miró por un momento, inexpresivo, más atento al motor que a mí; luego saludó con la cabeza, agitó la mano y, con un bufido de acelerador, partió por el camino hacia la ruta. Finalmente el ruido se apagó entre los arbustos y se hizo nuevamente el silencio.
+
+"Saunders-Vixen", pensé. "Nunca he oído mencionar esa fábrica de aviones, pero aquí está."
+
+Subí la escalera, escuchando el sonido: zapatos contra madera. Ni fantasmagórico ni invisible.
+
+Hacia adentro, la antesala de una oficina, un mostrador bajo, un escritorio de madera oscura, una recepcionista de pie ante un archivero de roble, que se volvió cuando entré.
+
+20
+
+Buenos días, señor dijo. Bienvenido a Saunders-Vixen.
+
+Su manera de vestir no era muy diferente de la mujer de mi correo psíquico.
+
+Falda larga y oscura, blusa blanca con muchos botones y muchas alforzas ceñidas, un pequeño camafeo de coral a la altura del cuello. Pelo rubio oscuro, recogido apretadamente en un moño sobre la nuca.
+
+Buenos días sonreí. ¿Me esperaba? ¿Sabe quién soy?
+
+Déjeme adivinar dijo ella, fingiendo solemnidad. ¿Es un diseñador de aeroplanos? ¿Le ha llevado mucho tiempo encontrarnos? Ahora que está aquí, ¿le gustaría visitar la planta?
+
+Tuve que reír. ¿No soy el primero? Ella pulsó un botón.
+
+Señor Derek Hawthorne dijo, tiene un visitante en el escritorio de recepción levantó la vista. De ningún modo es el primero, señor.
+
+Encontrarnos es difícil, pero no imposible.
+
+Afuera se sintió el resoplido apagado de un motor que arrancaba con el acelerador a fondo, se apagaba y volvía a arrancar. Comprendí que era un motor rotativo. Habían puesto en marcha el Avro. Eso sería… ¿1918?
+
+Detrás del escritorio se abrió una puerta, entró un joven. El pelo oscuro, la cara ancha y franca de quien no tiene nada que ocultar. Traje de mezclilla, bufanda de seda blanca, chaqueta de cuero para pilotos; me vio escuchar el sonido.
+
+21
+
+Ése es el Morton que arranca. Motor viejo. Si no se acelera a fondo, se apaga.
+
+Su apretón de manos fue firme. "Años en la planta de montaje", pensé.
+
+Richard Bach dije..
+
+Derek Hawthorne, de Saunders-Vixen, Limitada, a su servicio. ¿Nos ha visitado anteriormente?
+
+Miró a la recepcionista, que meneó la cabeza: un callado "no".
+
+Está en un 1923 paralelo, por supuesto. Supo que yo no entendería, vio venir mi pregunta. No es su pasado, pero corre junto con su tiempo. Parece complicado, pero en realidad no lo es.
+
+Derek Hawthorne recogió una chaqueta de cuero que colgaba de un perchero cerca de la puerta y me la alcanzó.
+
+Supongo que esto le va a hacer falta. Todavía hace algo de frío.
+
+"En la imaginación", pensé, "puede suceder cualquier cosa." Sin embargo, era la primera vez que mi imaginación me veía también a mí.
+
+Acepté la chaqueta, que tenía una etiqueta con letras doradas en la cara interior del cuello. Leí: "Chaqueta usada en agradecido homenaje al querido animal que dio su vida terrena para proteger a un aviador del viento y el frío".
+
+Lo miré. Él asintió sin sonreír.
+
+Sin sonreír, agradeciendo en silencio a una vaca que no me había sido presentada, me la puse.
+
+Hawthorne abrió la puerta entre la sala de recepción y un largo pasillo que conducía al hangar, un pasillo de madera oscura, con pinturas de aviones.
+
+Apostaría a que usted quiere ver nuestras máquinas.
+
+Sí, pero ¿una pregunta?
+
+Por supuesto. Podemos parecer un poquito misteriosos al principio, pero no es así.
+
+Por el pasillo, pasamos frente a varias puertas: Ventas, Comercialización, Contaduría, Motores y Sistemas, Diseño de Fuselaje, CAD. En el momento en
+
+22
+
+que cruzábamos ante esa puerta, se abrió y allí, mirando hacia arriba, con el lápiz enhebrado en el pelo, ojos oscuros como la noche, estaba la cara que yo había visto desde otro tiempo. ¡Oh! dijo.
+
+En ese instante el mundo desapareció.
+
+23
+
+CAPÍTULO 6
+
+OMO SI HUBIERA CAÍDO DE UN
+
+TEJADO
+
+, desperté bruscamente en el henar, bajo estrellas que parpadeaban más allá del ala del Cub. La noche estaba fría como el acero. ¡Ay! dije, hecho una bola de frustración. ¡Bah!
+
+Busqué la linterna y mi diario, dejé a un lado el frío y escribí cuanto había visto y oído: la mañana en Inglaterra, los hangares de la Compañía Aviones Saunders-Vixen, S.R.L., el aparcamiento, el edificio, escritorio, mostrador, recepcionista, Derek Hawthorne, todos los detalles. La cara que había hecho desaparecer el mundo.
+
+Estremecido, busqué fuera de mi saco de dormir la cubierta del motor del Cub y me envolví en ella.
+
+Era un recuerdo delicioso, ese momento, ese rostro, y corrí de regreso a mi imaginación.
+
+Pero aunque gradualmente entraba en calor bajo la cubierta del avión, en mi mente sólo encontraba preguntas. ¿Qué es Saunders-Vixen? ¿Por qué existe? ¿Qué tiene para decirme? ¿Quién es esta mujer? ¿Cómo hago para regresar?
+
+Preguntas, durante todo el amanecer. Ninguna respuesta.
+
+C
+
+24
+
+CAPÍTULO 7
+
+OMO ÉL HABÍA DICHO CON TANTA
+
+NORMALIDAD
+
+, fingí que era un asunto normal. Existe una dimensión, paralela a la nuestra, en la cual todavía es algo así como 1923.
+
+En esta dimensión existen hangares y oficinas, motocicletas y automóviles, gente que se gana la vida trabajando con aviones: los diseña, los fabrica, los pone en funcionamiento, los vende y los repara. Sin duda existen también granjas, pueblos y ciudades, pero yo sólo había imaginado con certeza las instalaciones de la Compañía Aviones Saunders-Vixen, S.R.L., y las personas que trabajaban allí.
+
+Había diferencias curiosas. Ese 1923 no era el nuestro. La moda de las mujeres, por ejemplo, era más de nuestro 1890 que de 1920. Sin embargo, su conciencia y la tranquila satisfacción de vivir en un mundo paralelo al nuestro eran considerablemente más avanzadas que las mías frente a semejante idea.
+
+Sin poder escribir, con el Cub de nuevo en el hangar, la lluvia castigando el techo, contemplé nuevamente el fuego desde la comodidad de mi sofá, un sitio del que no me había movido en varias horas.
+
+Computadoras no, de eso estaba seguro. Sin embargo, la puerta por la que ella había salido decía CAD, en letras negras sobre vidrio estriado.
+
+Desconcertante.
+
+Sonreí. Debíamos dejar de encontrarnos así, con ella siempre sobresaltándose ante mis ojos antes de percatarse de que la observaba.
+
+C
+
+25
+
+Las palabras se repetían en la mente: "Encontrarnos es difícil, no imposible". Otros habían estado allí. Tantos otros que nos llamaban clientes y no se sorprendían ni se asustaban al vernos aparecer en la oficina. ¿Clientes? ¿Parroquianos? Ella había dado por sentado que yo era diseñador. ¿Para qué quería una fábrica de aviones de un tiempo paralelo tener una clientela de diseñadores en nuestro tiempo?
+
+Entorné los ojos frente al fuego. Hazlo simple, Richard. Simple lógica.
+
+Porque presta algún servicio a los diseñadores. ¿Qué posible servicio? El fuego se iba consumiendo. ¿Qué servicio me había prestado Saunders-Vixen?
+
+Contuve el aliento. ¡Los diseños, por supuesto! Cada vez que me empantanaba en un problema de diseño para el Cub (la traba de la puerta, lo que retiene la tapa del lubricante) despertaba por la mañana con la respuesta ya completa.
+
+Saunders-Vixen, de algún modo, se dedica… ¿a qué? ¿A la comunicación psíquica? ¿A los amplificadores de la intuición? ¿A las ideas geniales? ¿SaundersVixen proporciona ideas geniales repentinas a los diseñadores de aviones que se encuentran empantanados en algún problema? ¿Han construido toda una empresa en un tiempo alternativo con el fin de regalarme una traba para portezuela?
+
+Por algún motivo, eso no me parecía del todo racional y finalmente me di por vencido. ¿Qué importancia tenía? Ahora la fascinación estaba en regresar para explorar lo que podía ser esa empresa, quizá para conocer la mente oculta detrás de ese rostro que tanto me había encantado, la mujer de can.
+
+Difícil de hallar, no imposible. El fuego se convertía gradualmente en brasas. A veces, en la vida, me impresiona lo importante que es no dificultarnos demasiado las cosas. "Richard", pensé, como se reflexiona con un niño de seis años, "¿cómo hiciste antes para encontrar ese lugar?"
+
+26
+
+"Bueno, me tendí bajo el ala del Cub e imaginé que me deslizaba hacia otro tiempo…" "¿Y cómo supones", pensé pacientemente, "que podrías hallar el camino de regreso?" "Tendiéndome bajo el ala…"
+
+Agregué pacientemente: "¿Necesitas el Cub? ¿Es indispensable el ala física?". "Poniéndome muy cómodo", pensé, "cerrando los ojos e imaginando…"
+
+No hubo más insinuaciones provenientes de mi adulto interior.
+
+Me acomodé en el sofá. Una inspiración lenta y profunda para relajar el cuerpo. Una inspiración lenta y profunda para relajar la mente, para limpiar la pantalla de todo pensamiento.
+
+Una inspiración lenta y profunda para recordar dónde había estado… El fuego desapareció.
+
+Hola, ¿todavía está con nosotros? Derek Hawthorne alargó la mano para sujetarme por el hombro. Está tambaleando un poco.
+
+Sacudí la cabeza.
+
+Estoy bien, gracias dije. Estoy bien.
+
+La mujer me miró suavemente con esos ojos oscuros.
+
+Se hace más fácil cuanto más se practica dijo.
+
+Hawthorne la observó, me observó.
+
+Señorita Bristol, tengo el gusto de presentarle al señor Richard Bach.
+
+Laura dijo ella, teniéndome la mano.
+
+Hawthorne contuvo una exclamación de asombro ante tanta informalidad.
+
+Ya nos conocemos agregó ella, con una sonrisa que lo dejó asombrado.
+
+Así es dije.
+
+Era alta, su coronilla a la altura de mi hombro, la cara vuelta hacia arriba, la sonrisa. No parecía tan práctica como en el fugaz instante en que nos habíamos conocido.
+
+La traba de la portezuela dijo, ¿funciona?
+
+27
+
+¡Sí! Funciona a la perfección.
+
+No creo que le convenga dar vueltas con la portezuela abierta. A alta velocidad, el viento podría torcer el marco de la ventanilla.
+
+Pero la traba no fallaría, ¿verdad?
+
+Me miró sin alterarse.
+
+La traba no fallará.
+
+Hawthorne carraspeó.
+
+Iba a ofrecer una recorrida a nuestro huésped…
+
+Hasta donde yo podía afirmarlo, aún estaba atónito por el hecho de que la señorita Bristol me hubiera permitido la impresionante intimidad de llamarla por su nombre de pila. Yo quería prolongar el momento. ¿Por qué cuero para el retenedor de la tapa de lubricante? ¿Lo diseñó usted?
+
+Si diseño es la palabra respondió. Sugerí cuero porque sería más fácil, es más barato que el cable de acero, no tiene límite de fatiga, se puede reemplazar en el campo, cualquier parte, su instalación no requiere de herramientas especiales, no habrá hebras afiladas que se rompan cuando se desgaste. Parecía la solución más sencilla para su problema y, probablemente, la más práctica hizo una pausa. Por supuesto que… ¿Por supuesto qué, señorita Bristol? pregunté.
+
+Ella arrugó el entrecejo, desconcertada.
+
+Por supuesto que usted podría ajustar la tapa de aceite antes de despegar.
+
+28
+
+Si sucedió una vez expliqué volverá a suceder. Me quedo con mi retenedor de tapa tal como está, gracias.
+
+No hay por qué otra vez sonrió, complacida de que me gustara su diseño. Se inclinó hacia mí, casi susurrando. Creo que el señor Hawthorne quiere mostrarle la empresa.
+
+Y yo quiero verla afirmé. ¿Algún día me hablará de CAD?
+
+Será un placer saludó con la cabeza a mi guía. Buenos días, señor Hawthorne.
+
+Entonces se volvió y nos dejó a los dos en el pasillo.
+
+Hubo un largo silencio; ambos la observábamos.
+
+Bueno, sí dijo por fin el joven, recobrando la compostura. Primero, señor Bach, supongo que le gustaría ver el hangar.
+
+Puedes decirme Richard.
+
+29
+
+CAPÍTULO 8
+
+IEN EXTENDIDO
+
+,
+
+COMPLETAMENTE
+
+relajado en el sofá, frente al fuego, sabía que podía despertar en cualquier momento. Pero todavía quería descubrir todo lo que pudiera de ese extraño lugar. No importaba que estuviera dentro de mi mente o que ésta fuera su vía de acceso, que fuera objetivo o subjetivo. Saunders-Vixen era tan real, tan imprevisible, su gente me sumergía tan profundamente en ideas nuevas y dulces misterios, que la explicación física del encuentro no tenía importancia.
+
+En el hangar principal, en el extremo del largo pasillo, imperaba el sereno estruendo de la fabricación: el chirrido y el clamor de los tubos de acero, el zumbar de las sierras por aquí; el movimiento y los restallidos de la tela y las agujas de coser por allá. Los aeroplanos eran primero como esqueletos e iban tomando forma gradualmente, a medida que Derek Hawthorne me conducía a lo largo de la línea. Eran Tiger Moths de Havilland.
+
+Pronto descubrí que la Compañía Aviones Saunders-Vixen, S.R.L., no se dedica a suministrar ideas a diseñadores de aviones en problemas de un tiempo diferente. Ése es uno de sus servicios, pero la finalidad de la empresa es construir aviones para comercializar en su propio tiempo.
+
+Ésta es nuestra línea A dijo Hawthorne. Construimos el avión de entrenamiento Kitten, como ves, el SV-6F.
+
+B
+
+30
+
+Estos son montajes de fuselaje, por supuesto; si miras más allá verás que las secciones de ala se unen al proceso bajo ese gran letrero, en el sector E. Aquí, en Duxford, también construimos el avión correo Arrow, es decir, el SV-15, y el Empress 21 C, nuestro bimotor para transporte de pasajeros. Tienen sus propios hangares de montaje. ¿Todos son biplanos?
+
+Por supuesto. Cuando se quiere algo fuerte, cuando se quiere algo confiable, lo mejor es un biplano. Al menos eso es lo que pienso.
+
+Mientras caminábamos a lo largo de la línea, vi cómo iban tomando forma los aviones. De pronto se me ocurrió algo. ¿Los llaman Kitten aquí?
+
+Él asintió gravemente.
+
+Los SV6F, sí. Espera a ver cuando subas a uno para dar una vuelta. Es una maquinita maravillosa.
+
+Pero son Tiger Moths, ¿no? ¿Los que fabrica de Havilland?
+
+Él no me había oído.
+
+Notarás que hemos trasladado el sector central hacia adelante, para que no sea tan molesto para el instructor entrar y salir de la cabina. Así obtenemos esa encantadora ala en flecha arriba, para mantener el centro de presión donde corresponde…
+
+Pero éstos son Tiger Moths, no Kittens, ¿verdad, Derek?
+
+Son como el señor de Havilland quiera llamarlos en tu tiempo. Es uno de nuestros clientes, por supuesto, un tipo brillante. ¿Pretendes decirme que Geoffrey de Havilland? ¿Copió? ¿El diseño? ¿De ustedes? ¿Y lo presentó como suyo?
+
+Hawthorne frunció el entrecejo.
+
+Nada de eso. Un diseñador lucha con un problema hasta quedar bestialmente cansado. Se adormece. Sueña despierto. Duerme. Y de pronto, ¡allí
+
+31
+
+está la solución! La anota en un sobre, en algún trozo de pergamino que tenga a mano, y ¡problema resuelto! ¿De dónde supones que vienen las respuestas?
+
+Mi voz quedó atrapada en las palabras. ¿De aquí?
+
+Los mejores diseñadores son los que saben cuándo dejar de fruncir las cejas y relajarse, los que saben cuándo dejar que un dibujo nuevo use sus manos para colocarse en el papel.
+
+Y los diseños vienen desde aquí.
+
+Desde la CAD, sí. ¿Desde…?
+
+Crosstime Assistance Division. División de Asistencia Transtemporal de Saunders-Vixen Limitada. Es un gran placer ser de utilidad me tocó el hombro y señaló los paneles de ala que pasaban girando en una carretilla empujada por un trabajador vestido de blanco, con el logo de la empresa bordado en negro.
+
+Mira eso. Las llamamos "aletas auxiliares móviles". A baja velocidad esas aletas se abren, la corriente de aire se desliza hacia arriba detrás de ellas, por sobre el ala, y en vez de frenar las puntas de ala obtienes más impulso ascendente.
+
+Ingenioso, ¿no te parece?
+
+Yo estaba detenido en una idea distinta. ¿De quién es el diseño de esas aviones? ¿De ustedes o de él?
+
+Se volvió hacia mí, empeñado en explicar.
+
+32
+
+El diseño existe, Richard; la posibilidad de combinar estos mismos elementos con esta misma interrelación. El diseño de esta máquina existía desde el mismo momento en que se inició el espacio tiempo. El primero en dibujar los planos tiene derecho a llamarlo como quiera. Cada mundo tiene sus propias leyes y sus ideas sobre quién es dueño de qué cosa; casi todas son diferentes.
+
+Frunció el entrecejo, concentrado.
+
+Nosotros llamamos Kitten a este diseño; en nuestro mundo es un SV-6f de Saunders-Vixen, debidamente patentado y protegido por ley. Geoffrey de Havilland, en su tiempo, es decir, en lo que tú denominas tu pasado, le da el nombre de Tiger Moth, patentado por la Havilland Aireraft Company.
+
+Genevieve de la Roche, en su tiempo, lo llama Papillon, registrado bajo la marca de Avions la Roche. Entiendes, ¿verdad? Es algo sin fin.
+
+Hawthorne casi había agotado sus palabras. Me pareció que le preocupaba que yo, de algún modo, siguiera sin comprender.
+
+El diseño no importa, ¿comprendes? dijo. El diseño es la estructura invisible de una cometa grandiosa; siempre lo ha sido y siempre lo será, aunque nadie lo descubra. ¡Y vuela como un zorro! agregó con una sonrisa. Como solemos decir por aquí.
+
+Lo haces muy bien, Derek dije. En poco tiempo más es posible que llegue a comprender de qué estás hablando.
+
+Me miró por un segundo, con sus ojos azules preocupados. Una sonrisa rápida.
+
+También yo.
+
+Hacia el final de la línea las piezas se unían para el montaje en el arco iris de los colores escogidos por los clientes. En algunos, marcas de empresas; en otros, los nombres de sus pilotos y propietarios; una serie de aviones para entrenamiento con letras en secuencia, altas mayúsculas de imprenta J, K, L en los timones de cola.
+
+33
+
+Afuera, el sonido de motores que se ponían en marcha, aceleraban, volvían a disminuir la velocidad.
+
+Pensé en la sensación de llegar un día a la empresa para recibir el propio biplano de madera y tela, flamante.
+
+Supongo que los motores no son Gipsy Majors de Rolls-Royce. ¿Qué crees tú?
+
+Que no contesté.
+
+Usamos el Trevayne Mark 2, Circe.
+
+Por supuesto. Yo lo llamaría un Gipsy Major.
+
+Claro dijo, solemne.
+
+Seguimos conversando sobre los aviones, deteniéndonos de vez en vez cuando él me señalaba partes ingeniosas de las máquinas, por si yo no hubiera reparado en ellas.
+
+No parecía saber que yo estaba tan fascinado por su tiempo como por sus aviones.
+
+Esto no es mil novecientos veintitrés, ¿o sí?
+
+Él inclinó la cabeza, desconcertado.
+
+Por supuesto que es mil novecientos veintitrés. Para nosotros. Es nuestro mil novecientos veintitrés.
+
+El Tiger Moth no fue inventado hasta mil novecientos treinta y pico. Los primeros años de la década del treinta.
+
+Usa la palabra "descubierto". Lo de "inventado", bueno, suena a… tener un propietario, algo así. El diseño siempre ha estado allí.
+
+El Tiger Moth no fue descubierto hasta principios de los años treinta, Derek. ¿Qué está haciendo en mil novecientos veintitrés? ¡No me vas a decir que tu mil novecientos veintitrés es diferente del mío!
+
+En efecto confirmó. Creo que ustedes estuvieron en guerra. ¿La llaman la gran guerra? Bueno, nosotros no. Muchos de nosotros la vimos venir y decidimos no participar en ella. Un derroche.
+
+34
+
+No parecía triste al decirlo; comprendí que no tenía de qué entristecerse.
+
+No sabía cómo era la destrucción.
+
+Al declinar la guerra, nos separamos hacia un tiempo alternativo, donde pudimos concentrarnos en hacer lo que nos gustaba. En nuestro caso, el de Saunders-Vixen, por supuesto, fue descubrir diseños de aeroplanos. Por eso algunos de los nuestros aparecieron antes que los de ustedes, porque no tuvimos que ensuciarnos con aviones de guerra, ni mataron a nuestros diseñadores en el frente, toda esa basura. ¿Se separaron hacia un tiempo alternativo?
+
+Por supuesto. Sucede a cada instante, la gente decide cambiar su futuro.
+
+Ustedes decidieron no desatar una guerra nuclear, creo que en su mil novecientos sesenta y tres. Estuvieron cerca, pero decidieron no hacerlo.
+
+Muchos otros tomaron una decisión diferente: la de que una guerra respondía a sus necesidades. Tiempos distintos: divergentes, convergentes, paralelos. Los nuestros son paralelos.
+
+Por eso puedo venir de visita.
+
+No. Puedes venir de visita porque te gustan las mismas cosas que a nosotros. Te gusta andar por ahí en un biplano de primera. A nosotros nos gusta construirlo.
+
+Así de simple.
+
+Casi dijo él. Y somos seguros.
+
+Seguros.
+
+Por cierto se detuvo ante el ala de un Kitten amarillo margarita, en el extremo mismo de la línea de producción; sacudió una mota de polvo invisible de la escarapela británica pintada en el fuselaje. Este lugar te atrae porque nos parecemos lo suficiente a tu propio pasado como para ser conocidos. Aquí no caben dudas de cómo resultará todo. Este mundo no está por estallar en llamas.
+
+Puedes contar con que el tiempo de Saunders-Vixen siempre tendrá grandes aeródromos de césped sembrando la campiña, circos aéreos volando de un lado
+
+35
+
+a otro, llevando pasajeros por pocos chelines el paseo, motores y estructuras lo bastante simples y sencillas como para que los pilotos puedan arreglarlos con una o dos llaves inglesas, emparchar un agujero con tela y barniz, y dejar en casa el diploma de electrónica y física de alta energía. ¿Aquí no puedo matarme volando?
+
+Supongo que es posible. Lo decía como si nunca lo hubiera pensado.
+
+De vez en cuando se estrella alguno. Pero nadie parece salir muy lesionado se le iluminó la cara. Nos gusta pensar que es porque fabricamos un aparato muy bueno.
+
+Pasó delante de mí por una puerta del hangar y un momento después estábamos parpadeando bajo la luz del sol. Era un espectáculo que se me grabó en la memoria al mismo tiempo que lo evocaba, como si hubiera estado antes allí.
+
+La rampa del aparcamiento de concreto blanco estaba invadida por el césped, verde como un mar interior, que lamía la superficie dura. Se extendía a nuestro alrededor en un amplio cuadrado y, a la distancia, el verde se elevaba en lentas y suaves ondulaciones, acolchadas por los cultivos, florecidas en robles.
+
+Era el paraíso de los pilotos. Cualquiera fuese la dirección del viento, había hierba suave bajo las ruedas para aterrizar. Así era la historia antes de que se inventaran las pistas estrechas con vientos cruzados, una delicia para la vista y el corazón.
+
+Habría unos veinte Kittens sobre la dura superficie; la mayoría, aparatos ya en funcionamiento, que estaban allí para mantenimiento; algunos, recién sacados de la línea de montaje, esperando al piloto para su primer vuelo de prueba. Uno decía a lo largo del fuselaje: Escuela de Pilotos Saunders-Vixen. El instructor y el alumno se estaban instalando en las dos cabinas; uno le pasaba al otro una carta aérea plegada. Al otro lado, empequeñeciendo a los aviones de entrenamiento, se destacaba un elegante biplano con cabina que debía de ser el Empress.
+
+36
+
+Pero más cerca de nosotros se hallaba, con la cubierta levantada, uno de los últimos aparatos salidos de la línea de producción Kitten; un mecánico terminaba de regular el carburador y estaba retirando su caja de herramientas. De pie junto a Hawthorne, esperé a que pusieran en marcha el motor mientras disfrutaba de la mañana y del momento. ¿Unas vueltas? dijo el piloto, desde la cabina.
+
+Era un aeroplano encantador, un blanco encaje con galones dorados que salían como flechas a lo largo de las superficies superiores. En el fuselaje de popa, las letras de registro: G-FMLF.
+
+Las ocho aspas respondió el inspector, tomando la hélice negra de madera por un aspa. ¿Contacto apagado?
+
+Contacto apagado confirmó el piloto. Hizo girar la hélice a mano, en el sentido de las agujas del reloj.
+
+Nuestros motores giran en sentido inverso al de ustedes dijo Hawthorne casi en un susurro, para explicar algo que podía resultar extraño al visitante.
+
+Inmediatamente se corrigió. No quiero decir nuestros Saunders-Vixen, por supuesto, quiero decir nuestros, británicos.
+
+Asentí. Me caía simpático lo que decía ese hombre. Se cuidaba de aclarar las cosas tanto como podía.
+
+Cuando quiera dijo el mecánico en tierra. ¡Contacto!
+
+Oímos el clac metálico de la llave bajo el guante del piloto.
+
+El mecánico le dio a la hélice una vuelta entera con energía; surgió una perezosa bocanada de humo de un cilindro, otra, una o dos revoluciones silenciosas, luego tres cilindros se pusieron en marcha y, finalmente, los cuatro se encendieron y un humo gris azulado fue despedido hacia atrás y se fragmentó en el viento espiralado.
+
+Observé que el piloto, con su casco de cuero, saludaba al mecánico con la cabeza y le agradecía por el buen arranque, con los pulgares hacia arriba,
+
+37
+
+mientras el veloz trueno se disponía a una marcha lenta y fácil, con alguna pausa de vez en cuando, por el motor aún frío.
+
+En ese momento deseé que el tiempo se convirtiera en cristal, que se detuviera en la mañana fresca, el suave sonido de la máquina, la promesa del despegue, de un vuelo por sobre esa campiña encantadora, del regreso a la tierra, un susurro en la hierba.
+
+El tiempo, obediente, hizo justamente eso. No llegó a detenerse, pero todo se puso en cámara lenta, mientras yo saboreaba el aire, el color, el pequeño avión. Contemplé el disco ancho de la hélice, un destello solar chispeante de blanco; sentí el sonido de la madera lustrada contra el aire fresco, arrastré los pies al compás del lento traqueteo del motor.
+
+"Aquí está", pensé. "En este momento estoy viendo el magnetismo del vuelo. Los motores de hierro negro y alas de tela, fáciles de tocar, son un polo.
+
+El otro es la vida y la libertad en el cielo, el aliento del espíritu en nuestras manos." En ese momento los vi a ambos, sentí que sus encantamientos tiraban de mi cuerpo.
+
+Ven susurraban. ¡Puedes volar! Quería permanecer eternamente en el marco de ese cuadro pintado.
+
+Muy lentamente, el mecánico se acercó otra vez a la cabina y las dos cabezas se inclinaron sobre el tablero de instrumentos.
+
+Luego, poco a poco, el ruido aumentó, el acelerador hacia adelante, el pequeño Kitten forcejeando contra las cuñas de las ruedas, el murmullo del aire de la hélice perdido en el grave poder de un motor a tres cuartos de su velocidad.
+
+Se mantuvo así por un largo instante, intensas ráfagas de viento golpeaban la ropa de trabajo blanca del mecánico y la inscripción negra Saunders-Vixen entre sus hombros se sacudía hasta convertirse en un borrón.
+
+Por fin el mecánico asintió y lentamente la potencia se redujo otra vez, con los cuatro cilindros calientes y bien despiertos, sin interrupciones.
+
+38
+
+Después de un minuto el motor se apagó súbitamente; la hélice giró por sí sola durante varios segundos, se hizo más lento el golpeteo apagado de las varillas aceitadas, hasta que finalmente se detuvo.
+
+El piloto se quitó el casco para escuchar mejor la conversación. La cabellera oscura cayó sobre sus hombros y, preocupada, pidió al mecánico su veredicto.
+
+Parpadeé ante lo inesperado de la escena.
+
+Esto no es el paraíso, ¿verdad, Hawthorne?
+
+No está muy lejos de serlo respondió, si te gustan los aeroplanos.
+
+Caminamos hacia el avión de encaje y oro. ¿Cuántas personas de mi tiempo… de otros tiempos visitan este lugar?
+
+Miró hacia arriba por un momento, calculando.
+
+Unos cuantos, en realidad. Quienes disfrutan imaginando, los que disfrutan del juego, cruzan bastante bien. Claro que, como sabes, cada vez resulta más fácil. ¿Pilotos todos ellos?
+
+La mayoría. Es de esperar, desde luego. Con Saunders-Vixen y un aeródromo en el umbral, Duxford es una ciudad de pilotos. Si te gusta el mar me imagino que aparecerías en Portsmouth, Copenhague o Marsella se encogió de hombros. Como no hace falta pasaporte, cualquiera a quien le guste puede venir. Unos cuantos deciden quedarse…
+
+Dejó morir la frase. ¿Cuando en casa se les hace demasiado difícil?
+
+Yo no diría eso. Después de un tiempo prefieren estar aquí. Tal vez sea el clima. Lo miré con atención, vi su sonrisa. ¿Visitas nuestro tiempo alguna vez, Derek?
+
+Se echó a reír.
+
+Nunca. Soy demasiado gatito mimoso, diría, para ese desorden de ustedes.
+
+39
+
+En vez de interrumpir la conversación ante el Kitten caliente, se volvió de nuevo hacia el hangar, dejó atrás la línea de montaje, sin que nadie nos echara una mirada.
+
+Tu gira apenas comienza dijo. La empresa tiene secciones que no puedes imaginar. Yo mismo sigo descubriéndolas. ¿Todavía sigues descubriéndolas?
+
+Ante todo hacemos aeroplanos, pero también somos algo así como una empresa de servicios.
+
+Se hizo un largo silencio; esperé a que continuara.
+
+Así que empresa de servicios… lo aguijoneé.
+
+Resolvemos problemas.
+
+Problemas de diseño de aviones.
+
+Sí, pero no sólo eso. Otros problemas.
+
+Y voy a tener que sacártelo por la fuerza.
+
+Probablemente.
+
+Me abrió la puerta, de vuelta al largo pasillo que conducía a la sala de recepción; el ruido de la fábrica se apagó. Los aviones pintados en los cuadros del corredor me eran familiares en su mayoría. Todos eran diseños de SaundersVixen.
+
+Tiempo de sobra para descubrimientos dijo por fin. A menos que no pienses regresar. En ese caso no hay nada que averiguar, ¿verdad?
+
+Por fin aminoró el paso ante la puerta que decía CAD.
+
+Un momento dijo. Voy a buscar a tu guía de turismo, fase dos.
+
+Mientras aguardaba, estudié las pinturas. Aquí, un Piper Cub, espejo del mío, el mismo color amarillo intenso, y una inscripción: S
+
+AUNDERS
+
+–V
+
+IXEN
+
+K-1,
+
+C
+
+HICKADEE
+
+. No había otra diferencia que yo pudiera detectar examinando la obra, salvo que yo sabía que no era un motor Continental el que estaba pintado allí, como el que estaba bajo la cubierta de mi Cub. Si Hawthorne me decía que era un
+
+40
+
+Bumble-Dart de Greeves lo que propulsaba al Chickadee, yo lo aceptaría sin parpadear.
+
+Por fin reapareció.
+
+Parece que la señorita Bristol no está por aquí dijo. Lo lamento.
+
+Me condujo a la oficina de recepción. ¿Me guste o no, mi visita ha terminado?
+
+Para ser una primera visita, ha durado mucho tiempo contestó, bastante animoso. Tantas cosas nuevas cansan; pronto te evaporarás. No hay por qué preocuparse. Cada vez podrás quedarte más, si quieres.
+
+Crucé la puerta que él me abrió para volver a la oficina.
+
+En el mostrador de la recepción había un pequeño cesto de mimbre con caramelos de menta. ¿Existe aquí alguien llamado Gaines? pregunté.
+
+Sí, por supuestorespondió Hawthorne, sobresaltado. ¿Conoces a Ian?
+
+Me quité la chaqueta para devolvérsela a mi anfitrión. ¿Tiene algún proyecto favorito?
+
+En realidad, sí. Es un plan bastante ingenioso pero muy sencillo. Una luz de color al costado de la pista, en ángulo, para indicar cuándo alguien desciende demasiado bajo en la pista de carreteo. Justo el otro día hizo una demostración a la plana mayor de la empresa. Todos salieron bastante complacidos con el señor Gaines. Él estaba feliz como un corcho.
+
+Quise tomar una menta del mostrador, pero no eran caramelos. Eran unos objetos pequeños, el logotipo de Saunders-Vixen. Un óvalo de bronce con una hélice horizontal que atravesaba el centro. "Bonito", pensé, "como recuerdo del lugar, para que sea más fácil volver." ¿Puedo?
+
+La mujer del escritorio asintió con la cabeza.
+
+41
+
+Por supuesto. Pero si usted viene del otro lado, señor, es probable que eso no pueda cruzar. Los objetos no pasan. Sólo las cosas de la mente sonrió. Así me han dicho. Qué sé yo. ¿Usted nunca ha cruzado? Sacudió la cabeza.
+
+Nací y me crié en Duxford dijo, y agregó en tono confidencial. ¡Y estoy aprendiendo a volar! ¿Quiere que lo acompañe afuera? preguntó Hawthorne. Algunos lo prefieren, otros no. Algunos quieren ver hasta dónde pueden subir por el sendero antes de esfumarse. Los trucos que puede hacer la mente son curiosos.
+
+Voy a probar solo dije. ¿Estarás aquí la próxima vez que yo venga? ¿O todo será distinto?
+
+Quédate tranquilo. Aquí estaremos. Claro que apenas has visto algo. ¿La punta del témpano, como dicen ustedes? En realidad, somos una gran organización.
+
+La próxima vez dije. Hasta entonces.
+
+Apreté con fuerza en la mano el logo de bronce. Si tenía que perderlo no sería por dejarlo escapar.
+
+Salí por la puerta que había cruzado menos de una hora antes, atravesado por una extraña calidez. Ese lugar me gustaba. Me gustaba mucho. ¿Hasta dónde podría ir? Salí por la acera techada, bajé los peldaños, y la grava del aparcamiento crujía bajo mis pasos. Me volví a mirar el edificio una vez más, para fijarlo en la mente. El hangar gigantesco, las oficinas alineadas, lejos del aeródromo.
+
+Me pareció que había visto muy poco. Una sala de recepción, un pasillo, un hangar, una rampa de aparcamiento. Un vistazo a la campiña. ¿Por qué la ausencia de Laura Bristol, después de haberse ofrecido a acompañarme? ¿Cuántas personas trabajan para la empresa y qué hacen? Una organización de servicios, había dicho Hawthorne. ¿Qué clase de servicios? Diseños de aviones, sí. ¿Qué más? Regresé a la colina desde donde se veía el aeródromo. El
+
+42
+
+Kitten de encaje y oro tenía la cubierta cerrada y el motor en marcha otra vez, un susurro a través de la distancia; ahora avanzaba hacia el césped, carreteando en su primer vuelo.
+
+La escena no se esfumó. Observé largamente. "La próxima vez voy a volar", pensé. Una inspiración profunda para relajar el cuerpo. Otra para relajar la mente. Otra para… ¡Richard! una voz de mujer, desde lejos. ¡Espera, Richard!
+
+Miré camino abajo. Laura Bristol estaba de pie en el aparcamiento. Cuando me volví, ella agitó la mano.
+
+Sólo un minuto pidió.
+
+Nos encontramos junto al seto que bordeaba el sendero hacia el hangar.
+
+Discúlpame por no haber estado allí, hace un rato dijo. Había una reunión. Me habría gustado mucho servirte de guía.
+
+Gracias respondí. A mí también me habría gustado. ¿La próxima vez?
+
+Necesito tu consejo. ¿Te importaría, por un momento?
+
+Tantos momentos como se me permita quedarme.
+
+Pensé que era una delicia que me invitaran a intercambiar con esos ojos oscuros algo más que una rápida mirada.
+
+Seré breve dijo ella. La empresa me ha ofrecido un puesto en diseño de discos de presión parcial. Es muy excitante, pero me gustaría saber si tú… Tú estás más cerca de ese tiempo. Me pregunto si piensas que podría ser una buena idea. ¿Discos de presión parcial? Temo que eso no me suena mucho.
+
+Sin entristecerse por mi ignorancia, se apresuró a explicarlo.
+
+Es un sistema de viaje aéreo. Uno controla la presión sobre la superficie de un disco y la atmósfera empuja el disco hacia la zona de baja presión. Es posible moverse a muy alta velocidad; el límite de la velocidad del sonido no es un factor, pues en realidad el aparato no se mueve por el aire, sino a través de un vacío parcial en su centro…
+
+43
+
+Me miró a los ojos y se interrumpió.
+
+No viene al caso dijo. El hecho es que me han ofrecido trabajo en una división de la compañía que está a varios siglos en el futuro. Pero se mantiene paralela a tu tiempo. Se me ocurrió que podrías decirme si te gusta la época en que vives. Me han dado un rápido panorama de ese mundo; es muy excitante, pero allí hay mucha tecnología y reconozco que no estoy tan habituada a eso.
+
+Yo habría debido contarle, al menos, un punto fuerte y uno o dos puntos débiles de la vida en medio de una tecnología más elevada que la de Duxford, pero hablé antes de que la cortesía se mezclara con la razón.
+
+No vayas.
+
+Sus ojos se dilataron, su cabeza se inclinó interrogativa, sus labios se entreabrieron con asombro.
+
+No te pedía una decisión, Richard. Esperaba que pudieras… ¡Qué tonto soy! dije. Discúlpame busqué una explicación y la expresé de inmediato. Soy un refugiado de la tecnología, Laura. Por eso estoy aquí. En el mundo de donde vengo mi pequeño Cub tiene casi setenta años; es una antigüedad. Todo lo demás…
+
+Ella asintió. ¿Hacía falta decir algo más?
+
+Es una gran oportunidad adujo Laura. ¿Para qué? ¿Una gran oportunidad…?
+
+Para aprender. Crecer. Cambiar.
+
+Piloteas un Kitten, ¿no? Asintió, perpleja.
+
+La empresa se empeña en ayudarnos a volar. Hace un año que tengo mi licencia clase A.
+
+Así que vas al siglo veintitrés, diseñas sistemas para discos que se mueven a hipervelocidad. ¿Dónde está el viento?
+
+Estudió mi rostro.
+
+44
+
+Lo echarás de menos advertí. El sonido de los cuatro cilindros y la hélice de madera, el sonido del viento en los cables. Y echarás de menos esta gente, los que conocen esa música, los que la construyeron.
+
+Y si me quedo, vas a preguntar, si no voy a ese siglo, ¿echaré de menos la tecnología? los ojos oscuros no se apartaban de los míos.
+
+Preguntaría eso.
+
+Suavemente nos tocó la brisa, rozó el césped, alisándolo, suavizándolo, aquietándolo para que descansara. También la calmó a ella.
+
+Uno ansía lo que el corazón ha negado dijo.
+
+No necesitabas ningún consejo, ¿verdad, Laura?
+
+Oh, estás muy equivocado se apresuró a decir. Luego hizo una pausa, pensativa. Me has sido muy útil. No lo olvidaré.
+
+Para mi sorpresa, se acercó y me besó en la mejilla.
+
+No me tambaleé, pero ésa fue mi sensación, como si resbalara y cayera de la rama de algún árbol encantado. Indemne pese al impacto, abrí los ojos.
+
+Las brasas del hogar eran plumas grises bajo la parrilla. Se oía el tictac del viejo reloj. No había pasado ni una hora.
+
+La lluvia se inició afuera, con la noche. Mi puño, bien apretado sobre el logo de bronce, estaba vacío. Al revés que mi corazón, que estaba extrañamente colmado. Laura Bristol tomaría una decisión; cualquiera que fuese, sería la elección correcta para ella.
+
+Me acerqué al hogar, puse un leño sobre las brasas.
+
+Pensé que en cuarenta años de vuelo he conocido a miles de pilotos, a miles más que aman el cielo. ¿Cuántos habrían descubierto ese lugar antes que yo? ¿Cuántos, aquí y ahora, se escabullían hacia Saunders-Vixen por pura diversión, se deslizaban suavemente para volar en un aire mucho más simple que el nuestro, bajo un sol diferente, para trabajar en los aparatos que en nuestro tiempo no existían, para encontrar amigos y amores que les faltaban aquí? A menos que ellos me lo dijeran, ¿cómo podía yo saber dónde habían estado?
+
+45
+
+Más allá de este cuarto, junto a este minuto, flota la aldea de Duxford, libre de guerras. Pase lo que pase en mi siglo veintiuno, a sólo tres inspiraciones de distancia se levantan los hangares de la Compañía Aviones Saunders-Vixen, S.R.L., a salvo en su año 1923, un pasado que espera ser mi futuro en cuanto yo imagine el viaje. Allí viven Derek Hawthorne y Laura Bristol, junto a otras personas que todavía no conozco: mecánicos y empresarios, diseñadores y pilotos, de los que aún tengo mucho que aprender.
+
+Hawthorne tenía razón: nuestro mundo es un desorden, no es el lugar para los gatitos mimosos.
+
+Pero de algún modo, me alegro de haber descubierto su tierra, me alegro de poder elegir.
+
+Document Outline RICHARD BACH RICHARD BACH RICHARD BACH AL OTRO LADO DEL TIEMPO DEL TIEMPO
+
+OUT OF MY MIND
+
+þÿ
+
+þÿ
+
+þÿ
+
+þÿ
+
+þÿ
+
+þÿ
+
+þÿ
+
+þÿ
+
+14/11/2008

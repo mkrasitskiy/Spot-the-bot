@@ -1,0 +1,905 @@
+Sir Gawain y el caballero verde
+
+Anónimo
+
+Sir Gawain y el caballeroverde
+
+P R Ó L O G O
+
+Una manera de acercarse a la literatura del pasado es, lisa y llanamente, conocerla. Para ello sólo se necesita curiosidad y una biblioteca nutrida y poco atenta a los vaivenes de la moda.
+
+Otra manera de cercar la fortaleza de lo pretérito y, al cabo, conquistarla es quizá menos exquisita que la anterior, pero igualmente enriquecedora: se trata de acudir a los mejores escritores contemporáneos y extraer conclusiones de sus lecturas.
+
+La única conclusión posible que depara una historia o un poema es otra historia u otro poema. Si el autor elegido se llama, por ejemplo, Jorge Luis Borges, los poemas o historias suscitados serán, obligatoriamente, bellos, satisfactorios y divertidos. Resulta aleccionador descubrir la epopeya de Gilgamés entre las páginas de un ensayo borgiano, aunque el contacto posterior con la cosa-en-sí constituye -está claro el hecho auténticamente importante.
+
+He mencionado a Borges y la gesta de Gilgamés. En el caso de Sir Gawain y el Caballero Verde hay que hablar, ineludiblemente, de J. R. R. Tolkien. Para muchos lectores de habla inglesa reacios a perderse en la intrincada selva trazada por los eruditos, el poema de Sir Gawain and the Green Knight existe porque a Tolkien, un estudioso oxoniense de reconocida solvencia corno medievalista, se le ocurrió, además de combatir diariamente con fascinantes manuscritos y tediosos colegas, inventarse una historia maravillosa, probablemente la invención fantástica más coherente, hermosa y perfecta del siglo xx. Me refiero a The Lord of the Rings. Pues bien, fue el propio Tolkien, en colaboración con E. V. Gordon, quien publicó la edición canónica de Sir Gawain (Oxford, 1952), y ha sido su hijo Christopher quien ha editado póstumamente (Londres, 1975) la espléndida versión que del poema (junto con Pearl y Sir Orfeo) dejara impublicada su padre al morir en 1973.
+
+Estoy seguro de que estos datos ya predisponen a más de un lector en favor o en contra del texto medieval que anuncia este prólogo. Con escritores como Tolkien o Borges no es posible permanecer indiferentes. Y, guste o no a los especialistas, Sir Gawain and the Green Knight está siendo leído, fundamentalmente, en todo el mundo por su relación con el creador de los hobbits, no por sí mismo. Otra cosa es que sus méritos propios sean -que lo son- relevantes. Pero los éxitos populares resultan siempre incomprensibles cuando la calidad los justifica, y Tolkien -con Cervantes, Shakespeare, Homero- es uno de esos casos raros.
+
+Hasta 1377 sólo reinan Eduardos en Inglaterra. Ricardo II completaría el siglo XIV. Un siglo que contempla la aparición de una nueva clase social con gran empuje y fuerza: la burguesía. Un período en que la Muerte Negra devasta Europa. El siglo de Juan Ruiz en España, de Froissart en Francia, de Petrarca y Boccaccio en Italia. El tiempo en que Juan de Ruysbroeck exalta con pasión el amor en Cristo y la dulcedo Dei. La época en que mueren meister Eckhart y Guillermo de Ockham. El mundo en que aparecen los Flagelantes y menudean las revueltas sociales.
+
+Comenzada ya la contienda que enfrentará a Francia e Inglaterra por espacio de un siglo, los artesanos de París, con Étienne Marcel a la cabeza, se sublevan contra sus amos. Los Jacques, campesinos de Normandía, Champaña y Picardía, recorren en partidas el norte del país, asaltando e incendiando castillos, destruyendo los campos. En Flandes, Felipe van Artevelde capitanea un grupo de desheredados contra la autoridad de su conde. Un motín popular agita Florencia, dirigido por el cardador de lana Michele di Lando. En Roma, un tribuno de origen humilde, Cola di Rienzo, se hace con el poder e instaura una fugaz república. En Cataluña, los payeses se alzan contra los tristemente célebres malos usos. En Inglaterra, John Ball y Wat Tyler protagonizan sendas rebeliones contra el orden establecido (Ball, sacerdote y capitán de los insurrectos, decapitado el 30 de noviembre de 1381, había dicho antes de morir: "Mis queridos hermanos, las cosas no marcharán bien en Inglaterra hasta que todo sea común, hasta que no haya señor ni vasallo; hasta que no haya ningún amo, ni los señores ni vosotros") y John Wyclif inicia la Reforma casi doscientos años antes que Lutero.
+
+Eduardo de Woodstock, llamado "el Príncipe Negro", acompaña a su padre Eduardo III de Inglaterra -el mismo que fundó la orden de la jarretera y el bicameralismo inglés en la jornada victoriosa de Crécy, donde el ejército francés de Felipe IV sería aniquilado. Más tarde, con sus famosas Compañías Blancas, devolvería el trono de Castilla a Pedro I el Cruel. Es el Príncipe Negro, y su alter ego y antagonista, Beltrán Du Guesclin, un espléndido símbolo del siglo que les tocó vivir. Lujo, color, brutalidad, banquetes fastuosos, torneos y batallas desmedidas, luchas sociales, guerras de familia, fiestas galantes y cabalgadas implacables por tierras enemigas: todo en un plano al mismo tiempo "enorme y delicado", como calificara Paul Verlaine al Medievo.
+
+De los muchos manuscritos reunidos en el siglo XVII por Sir Roben Cotton, entre los que se encontraban el códice de Beowulf y los dos textos del Brut de Layamon, hay un modesto tomo en cuarto conocido como Nero A X. Comprado en Yorkshire, se salvó de un incendio en 1731, antes de pasar a los fondos de la British Library, donde continúa actualmente. El tal manuscrito está formado por cuatro poemas aliterativos escritos en letra del último tercio del siglo XIV. Acompañando al texto hay doce ilustraciones de factura muy elemental que se refieren a episodios de algunos de los poemas. Ninguno de los textos lleva título, pero han sido llamados, siguiendo el orden en que están recogidos en el códice: Pearl, Purity (o Cleanness), Patience y Sir Gawain and the Green Knight.
+
+De Pearl también tenemos una versión moderna de Tolkien; es un poema acerca de un sueño alegórico, con un trasfondo teológico evidente y de gran calidad estética. Purity y Patience son paráfrasis bíblicas.
+
+Parece indudable que Pearl, Purity y Patience son obras de una sola mano. Sir Gawain es distinto. Hay quien duda en atribuirle el mismo origen, pero son muchas las semejanzas estilísticas entre las cuatro piezas.
+
+En el siglo XIV, la aliteración resucita en las letras inglesas. Se llega incluso a utilizar en un poema como Vision concerning Piers the Plowman, cuyo contenido de crítica social refleja de un modo tan claro la época en que fue compuesto. Sir Gawain consta de más de 2500 versos agrupados en una curiosa forma irregular de estrofa formada por un número incierto de ellos (entre 16 y 20), en su mayor parte sin rimar y sin metro, pero regularmente aliterados. El esquema parece revelar que los que volvieron a poner de moda la aliteración se daban cuenta de que no podían supeditarse a ella con exclusividad, sino que precisaban también de metro y rima, aunque fuese en pequeña proporción y con no demasiada frecuencia. De ser un elemento "sustentante" en poesía, la aliteración se va convirtiendo en elemento "decorativo", hasta llegar al simple y precioso artificio que constituye, por ejemplo, un verso de Gray (weave the warp and weave the woof, "urde la urdimbre y teje la trama"), en pleno siglo XVIII.
+
+El dialecto empleado por el autor de Sir Gawain es el de las tierras del interior del noroeste de Inglaterra, un lenguaje remoto y difícil de entender por los habitantes de Londres, cuya norma lingüística prevalecería después, vía Chaucer.
+
+Sir Gawain and the Green Knight es, sin duda, el mejor texto artúrico inglés. Aunque ejemplifica las virtudes caballerescas del valor y la lealtad, no es sólo un relato al servicio de una moral, sino un relato en sí, como las obras de Chrétien de Troyes: fresca y bellísima literatura.
+
+Los dos temas básicos de la obra se encuentran por separado en fuentes francesas o célticas, pero los encontramos combinados por vez primera en el poema inglés (pudo haber una fuente francesa, hoy perdida, que combinara ya el juego degollatorio con la tentación de la dama). El asunto está admirablemente bien montado. Un elemento sobrenatural, procedente de las versiones artúricas francesas y también del sustrato céltico, tan sumamente activo en Inglaterra, y un elemento naturalista, derivado de la atenta observación de la realidad y de una imagen miniaturista de la vida, se funden en Sir Gawain íntimamente, convirtiendo el poema en un magnífico ejemplo de realismo fantástico avant la lettre.
+
+Movimiento, color, viveza en los detalles: son las características esenciales del autor de Gawain, que demuestra un ingenio y agudeza poco comunes, además de un finísimo sentido del humor.
+
+Los diversos episodios parecen tapices o láminas de un libro de horas. Pero si nos ceñimos, por ejemplo, a la descripción de las estaciones, hallamos que no es, como en el mundo de los manuscritos mimados, un haz de topoi visuales, ni tampoco es un simple ejercicio literario. El autor vive el paso del tiempo desde dentro, desde el alma y desde los ojos, desde la experiencia y el corazón. No son, por tanto, sólo palabras, sino hechos reales y profundos, los "carámbanos de hielo sobre las rocas", las "henchidas corrientes" y las "delgadas fibras de la niebla sobre las colinas" (el invierno es, sin duda, la estación favorita del poeta, y no sólo porque la acción tenga lugar en esa época del año).
+
+Lo mismo ocurre con las escenas de caza. El autor ha vivido lo que cuenta. No utiliza cuaderno de notas. Todo tiene el calor y la vida de la experiencia y la complicidad. Los paisajes, la atmósfera, los sonidos. Todo se inscribe en el relato con una enorme libertad que racionaliza el prodigio y da un rostro a la maravilla.
+
+Y qué habilidad en los diálogos, sobre todo en los de Gawain y la señora del castillo, modelo de soltura y naturalidad dentro de una estética dominada aún por las teorías del amor cortés desarrolladas, dos siglos atrás, por Andrés el Capellán en sus De amore libri tres. Qué habilidad en el desarrollo simultáneo de las acciones (caza /conversación en el castillo), parangonable a la de Homero en la Odisea. El autor de Gawain es un auténtico gigante de la literatura universal.
+
+¿Y Gawain, su protagonista? Aparece en la saga artúrica por vez primera en la Historia Regum Britanniae, de Geoffrey de Monmouth, donde es llamado Walwanius, y en la historia de Guillermo de Malmesbury (ca. 1120), donde hay una referencia al descubrimiento de su tumba en Walwyn's Castle, en Pembrokeshire. Se parece al Gwalchmai de la leyenda céltica y al Cuchulainn de la épica irlandesa. Como este último, posee características solares, tal como el incremento de sus fuerzas a medida que el sol va acercándose al mediodía, y su declive a partir de entonces. Geoffrey lo hace sobrino del rey Arturo. Héroe folklórico por excelencia, es figura central de historias célticas muy antiguas, y poco a poco se convierte en un personaje artificial y literario.
+
+En Sir Gawain and the Green Knight, el sobrino de Arturo es ya un caballero cortés, paradigma de perfecciones. Es también el servidor de Nuestra Señora, cuyo emblema lleva en su escudo, en el pentáculo que simboliza los Cinco Gozos de María y las Cinco Llagas de Cristo.
+
+Y el poema no es otra cosa, en mi opinión, que la ordalía de Gawain, su juicio divino. Se purificará en valor y lealtad a lo largo de su aventura. La dama del castillo lo hará rico en templanza. Y al final, de regreso en la corte de Arturo, habrá vencido todos los riesgos, incluso el riesgo de extraviarse en el futuro. Al fin y al cabo, el Caballero Verde no ha sido más que una disculpa para volver a casa renovado.
+
+LUIS ALBERTO DE CUENCA
+
+Madrid, 21 de junio de 1982
+
+SIR GAWAIN Y EL CABALLEROVERDE
+
+I
+
+1.
+
+uando terminó el asedio y asalto de Troya, y sus desmoronadas murallas quedaron reducidas a ascuas y cenizas, el traidor que tramó la estratagema fue juzgado por su traición, la más probada de la tierra. Después, el noble Eneas y su orgullosa estirpe sometieron extensos territorios, convirtiéndose en los dueños de casi todas las riquezas de las Islas Occidentales. El gran Rómulo se dirigió a Roma; allí fundó la ciudad con gran pompa y esplendor, y le dio su propio nombre, que aún hoy ostenta; Ticio marchó a Toscana, donde levantó pueblos; Longobardo erigió castillos en Lombardía; y más allá de las aguas francesas, Félix Bruto creó Britania sobre anchas y numerosas colinas, llena de hermosura y de gracia, en la que fueron constantes las guerras, las luchas, los prodigios, y la dicha y el dolor se sucedieron sin cesar [1].
+
+2.
+
+Y una vez fundada Britania por tan valeroso señor, dio ésta hombres esforzados y amantes de la lucha que promovieron múltiples acciones turbulentas en su tiempo. En ella acontecieron muchos más prodigios, que yo sepa, que en ningún otro lugar, desde los tiempos antiguos. Y de todos los reyes que gobernaron Britania, Arturo[2] fue el más noble, según he oído decir. Por tanto, quiero rememorar aquí cierta maravilla que algunos presenciaron, y una de las más admirables aventuras que se cuentan entre los prodigios de Arturo. Si prestáis atención un momento a este lai[3], os lo contaré tal como lo he oído yo en la ciudad, y ha sido escrito en forma de historia atrevida y valerosa, y durante tanto tiempo conservado con letra segura.
+
+3.
+
+Pasaba este rey en Camelot los días de Navidad, en compañía de numerosos y buenos señores, vasallos muy nobles y miembros todos de la Tabla Redonda, entre espléndidas fiestas y despreocupada alegría. Allí celebraban torneos y justas los gallardos caballeros, y acudían después a la corte a participar en los bailes y canciones de Navidad. Pues la fiesta duraba quince días enteros sin que languideciese, y durante ese tiempo se gozaba de cuantos platos y placeres era capaz de idear el hombre; y era glorioso oír aquel júbilo y alegría, tantos clamores de voces durante el día, y tantos bailes por la noche. Las damas y los señores disfrutaban de una dicha infinita en las salas y aposentos, según apetecían. Juntos, los caballeros más famosos después de Cristo, las damas más hermosas de cuantas existieron, y él, el más encantador de los reyes, dueño de aquella corte, participaban de toda la felicidad de este mundo. Pues toda aquella gente hermosa estaba en la flor de la edad, y era la más afamada bajo el cielo; y su rey, el más orgulloso; a tal punto, que sería difícil nombrar una hueste más probada.
+
+4.
+
+Aquel día, primero de Año Nuevo, cuando llegó el rey con sus caballeros, concluidos los cánticos del coro en la capilla, se sirvió doblemente a los comensales del estrado. Clérigos y laicos anunciaron con gran clamor la Navidad, nombrándola muchas veces. Luego acudieron los nobles con presentes de Año Nuevo, anunciando aguinaldos, y distribuyéndolos en festiva competencia y debate. Las damas reían dichosas aunque salieran perdedoras, en tanto que el que ganaba, como es de imaginar, no se sentía precisamente el más desventurado. Tales diversiones tenían lugar hasta el momento de servirse los manjares; entonces se lavaban y pasaban a ocupar los asientos según su dignidad, los más altos de los cuales estaban siempre reservados a los más nobles. La alegre Ginebra ocupaba el centro del estrado suntuoso, adornado a ambos lados con costosas colgaduras de espléndida seda, y por encima de su cabeza un dosel de ricos tejidos de Toulouse y tapices de Tharsia, bordados y orillados con las más brillantes gemas que el dinero haya podido comprar. Era esta reina una hermosísima mujer de ojos grises; ningún hombre habría podido decir en verdad que hubiese visto otra más bella.
+
+5.
+
+Pero Arturo no comía en tanto no fuesen servidos todos. Era muy alegre, y su ánimo tenía algo de infantil. Amante de la vida animada, no gustaba de permanecer mucho tiempo inactivo, de modo que le dominaban su sangre joven y su talante antojadizo. Y una nueva ocurrencia vino a inquietarle
+
+en esta sazón, y anunció que no probaría ningún manjar de aquel grandioso festín, mientras no le contasen alguna historia extraña, alguna proeza inusitada o emocionante maravilla que él pudiese creer, alguna nueva aventura sobre la caballería o la nobleza, o bien hasta que alguien pidiese a algún caballero que se enfrentase con él en una justa, exponiendo vida contra vida, y dejando cada uno que la suerte se inclinase del lado del otro si así le quería favorecer. Tal era la costumbre del rey, cada vez que reunía a su corte en torno a estos famosos banquetes, juntamente con sus leales, y así lo manifestó. poniéndose de pie, cuan alto era, y joven como el mismo año que empezaba.
+
+6.
+
+Y de este modo estaba el poderoso rey, de pie ante la más alta mesa, departiendo amigablemente. El buen Gawain se había sentado junto a la reina Ginebra, la cual tenía a Agravain à la Dure Main [4] al otro lado, hijos los dos de la hermana del rey, y muy leales caballeros. El obispo Baldwin tenía el privilegio de encabezar la mesa, y junto a él comía Iwain[5], hijo de Urien. Todos ellos estaban en el estrado, donde eran servidos con la dignidad debida, en tanto que muchos poderosos señores se acomodaban abajo, ante largas mesas. Y llegó el primer plato al resonar de las trompetas, de las que pendían espléndidos blasones, se oyó el estrépito de los tambores y los sones agudos y vibrantes de las flautas, y muchos corazones se enardecieron al oírlos. Se sirvieron a continuación platos delicados y exquisitos y carnes tiernas en tantas fuentes que apenas había espacio delante de las gentes para colocar la vajilla de plata repleta de manjares. Cada individuo se servía a su gusto sin reparo; había doce platos para cada dos invitados, buena cerveza y espléndido vino.
+
+7.
+
+No hablaré más de sus comidas, pues como todos pueden imaginar, allí nada faltaba. Y entonces, de repente, se oyó un ruido enteramente nuevo, quizá para que al fin el soberano pudiera sentarse a comer. Pues apenas hacía un instante que el toque de trompetas había cesado, y había sido servido el primer plato en la corte tal como era costumbre, cuando irrumpió por la puerta un caballero de aspecto impresionante, el más tremendo del mundo en estatura; tan sólido y ancho desde el cuello hasta los muslos, y tan grandes sus costados y piernas, que si no era un gigante, sí declaro al menos que podía tenérsele por el hombre más corpulento sobre la faz de la tierra. Sin embargo, a pesar de su estatura, parecía el más atractivo y apuesto de cuantos montaban a caballo; porque si bien su pecho y su espalda eran de una anchura terrible, su cintura y caderas eran correctamente delgadas, y perfectamente proporcionados todos los rasgos de su persona, según podía verse. Los hombres se quedaron boquiabiertos de estupor ante el aspecto de su atuendo y su semblante: parecía un ser sobrenatural y terrible, cubierto todo de un verde resplandeciente.
+
+8.
+
+Todo en aquel desconocido era del más puro verde: el brial ajustado y ceñido en la cintura; su rica capa, sobre el brial, forrada de finísima piel, con la caperuza retirada y echada sobre los hombros; calzas elegantes del mismo color, ajustadas hasta arriba y cogidas en la pantorrilla, con tintineantes
+
+espuelas de brillante oro debajo, sujetas sobre bandas de seda bordada; pero los pies del jinete estaban desnudos de toda armadura. En verdad, sus vestidos eran de vivo verde, así como los tachones de su cinto y las piedras ricamente dispuestas en sus hermosísimos atavíos y en la silla, sobre gualdrapas de seda. Sería tedioso enumerar una décima parte de los detalles bordados y repujados que llevaba, pájaros y mariposas de llamativos matices de verde adornados con hilo de oro. La gualdrapa delantera del caballo, su grupa arrogante, los clavos y botones de la brida, así como los estribos donde apoyaba los pies, eran todos del mismo color; y lo mismo el arzón resplandeciente y centelleante de preciosas piedras verdes. En cuanto al corcel, era en todo semejante al jinete que lo montaba: verde, tremendo, fogoso, brusco… ¡un corcel digno de su dueño!
+
+9.
+
+Muy alegre iba este hombre ataviado de verde. Su cabello se correspondía con la crin de su caballo, y le flotaba delicadamente en abanico alrededor de los hombros; una barba grande y frondosa se le desparramaba sobre el pecho, recortada igual que el espeso cabello, por debajo de los hombros, de forma que la parte superior de los brazos le quedaba oculta como por una esclavina. La crin de aquel corcel poderoso, peinada y rizada como la barba del caballero, formaba múltiples trenzas hábilmente cogidas con un hilo de oro que se enroscaba alrededor del verde prodigioso, alternándose las trenzas con las doradas cintas; llevaba igualmente rizados la cola frondosa y el mechón de la frente, atados con cintas de verde brillante, y adornado el extremo con piedras preciosas, mientras que una correhuela fuertemente sujeta en lo alto ensartaba una multitud de bruñidos cascabeles de oro tintineante. Jamás se vio en toda la tierra montura semejante, ni jinete como aquel que la montaba, pues un relámpago parecía, mirando cuanto había en torno suyo. Ningún hombre, pensaron todos, sería capaz de resistir sus mandobles mortales.
+
+10.
+
+Sin embargo, no vestía cota, ni yelmo, ni peto, ni pieza alguna de armadura, ni escudo y lanza con que parar y atacar, sino que traía en una mano un ramo de acebo, planta que ostenta el verde más intenso cuando los árboles se ven pelados y sin hojas, y en la otra, una hacha enorme y monstruosa, arma despiadada para quien tuviese que describirla: tenía su hoja una ana de largo, y su punta era de verde oro batido y acero; bruñida y de ancho filo, era tan afilada como una navaja barbera. El feroz desconocido la tenía cogida por su sólido mango forrado de hierro y con preciosos adornos grabados en verde. Enroscándose en ella, la recorría de un extremo al otro una cinta con abundantes y costosas borlas y adornos de reluciente verde ricamente bordados. Así entró el desconocido en el salón, sin bajar del caballo, y se dirigió al estrado sin temor a ningún peligro. A nadie dirigió saludo alguno, sino que miró a todos fieramente. Y sus primeras palabras fueron:
+
+–¿Dónde está el que manda en esta asamblea? Deseo vivamente conocerlo, y tener con él unas palabras.
+
+Y fue pasando su mirada de un cortesano a otro, al tiempo que hacía girar y encabritarse su montura; luego, se detuvo a escrutar quién podía ser.
+
+11.
+
+Los presentes se quedaron inmóviles, con los ojos clavados en el desconocido; los hombres se preguntaban maravillados qué podía significar el que un jinete y su caballo fueran tan verdes como la yerba, y más brillantes que el esmalte sobre el oro. Los que estaban de pie le examinaron y se acercaron precavidamente, preguntándose qué haría. Pues habían visto visiones asombrosas, pero ninguna como ésta; y le tuvieron por un fantasma surgido del reino de las hadas. De tal modo, que ni siquiera los más valientes caballeros se atrevieron a responder, permaneciendo petrificados en sus asientos, aterrados por su voz sobrecogedora. En toda la grandiosa estancia se había hecho de repente un impresionante silencio, como si el sueño se hubiese adueñado de todos, y hubiesen perdido la voz; pero supongo que no todos callaban por temor: algunos guardaban un silencio deferente, a fin de que fuera el rey quien hablase al desconocido invitado.
+
+12.
+
+Así, pues, se quedó Arturo mirando a aquel prodigio que tenía delante del estrado; y dado que no era ningún cobarde, le dirigió este saludo:
+
+–¡Señor caballero, sé bienvenido a esta reunión! Yo soy el señor de esta corte; Arturo es mi nombre, y ruego te dignes desmontar y quedarte entre nosotros; después tendrás tiempo de exponer el objeto que te trae.
+
+–No; bien sabe el que está sentado en las alturas -dijo el caballero- que no es mi propósito demorarme en este lugar. Sin embargo, tu fama, señor, es muy grande, y tu castillo y tus caballeros son considerados los mejores, los más fuertes de cuantos cabalgaron armados, los más esforzados y dignos del mundo, y los más valientes compitiendo en nobles juegos[6]; y dado que hasta mí ha llegado que hacéis gala de las virtudes de la caballería, esto es lo que me trae aquí. Por este ramo puedes ver que vengo en son de paz y que no busco peligro. Si me moviesen ideas de lucha, traería la cota y el yelmo, mi escudo, mi lanza brillante y afilada, y otras armas que esgrimir; pero dado que no ansío combatir, mis ropas son suaves. No obstante, si eres tan valeroso como todos dicen, con gusto me concederás el reto que pido por derecho.
+
+Aquí contestó Arturo, y dijo:
+
+–Señor, noble caballero: si lo que deseas es luchar despojado de toda armadura, no quedarás decepcionado.
+
+13.
+
+–No; no es luchar lo que deseo; te doy mi palabra. En todos esos bancos no veo sentados sino jóvenes imberbes. Si yo viniese montado en un gran corcel y cubierto de armas, ninguno de entre vosotros podría medirse conmigo…; vuestra fuerza es muy poca. Vengo, pues, a esta corte a reclamar un juego de Navidad, ya que estamos en Pascua y Año Nuevo, y tanto abundan aquí los hombres jóvenes. Si hay alguno en esta corte que se tenga por espíritu audaz, y de sangre y alma fogosa, y que se atreva a descargar un golpe a cambio de otro, le daré como presente esta hacha costosa; esta hacha, bastante pesada, para que él la utilice a su gusto. Yo esperaré el primer golpe, tan desarmado como voy montado aquí. Si hay algún hombre tan fiero que quiera probar lo que aquí propongo, que venga a mí sin más demora y se haga cargo de esta arma; se la entrego para siempre. Entre tanto, yo aguardaré impasible su golpe, a pie firme, en el mismo suelo, con tal que pueda yo asestarle otro sin reparo. Sin embargo, le concederé el plazo de un año y un día. ¡Así que venga pronto ahora, quienquiera que se atreva a responder!
+
+14.
+
+Si pasmados los había dejado al principio, más callados aún se quedaron cuantos había en la gran sala, desde los más poderosos a los menos. El jinete se volvió sobre la silla, y sus ojos rojos y feroces abarcaron a todos los presentes, arqueando sus erizadas y verdes cejas, y moviendo la barba al girar para ver quién se levantaba. Como nadie dijese una palabra, se aclaró la garganta, se irguió orgullosamente, y exclamó:
+
+–¿Cómo, es ésta la corte de Arturo -dijo-, cuya fama tanto se ha extendido por todos los reinos del mundo? ¿Dónde están ahora vuestra arrogancia, vuestras proezas, vuestras victorias y valor, y el arrojo del que os jactáis? La alegría y la fama de la Tabla Redonda han sido sofocadas, ahora, por la palabra de un hombre; ¡veo que todos se encogen y tiemblan, antes de haber sentido el golpe!
+
+Dicho esto, soltó una carcajada tan ruidosa que el rey se sintió vejado, y su hermoso semblante enrojeció de vergüenza. Rugió como un vendaval, a la vez que sus leales. Y el rey, que no se arredraba ante nada,– se fue derecho al caballero.
+
+15.
+
+Y dijo el rey:
+
+–Señor, lo que pides es locura; pero, puesto que tan obstinadamente lo buscas, bien mereces encontrarlo. Ninguno de los aquí reunidos se siente amedrentado ante tus clamorosas palabras. Dame, pues, esa hacha, en nombre del cielo, que yo te impartiré la merced que has venido a pedir.
+
+Saltó velozmente hacia él, le quitó el arma de la mano, y el desconocido caballero saltó al suelo con fiero gesto. Arturo cogió entonces el hacha por el mango, y empezó a esgrimirla sombríamente calculando el golpe. El poderoso desconocido se quedó plantado ante él, con su enorme estatura; le sacaba una cabeza o más a todos los presentes. Se acarició la barba con expresión ceñuda y se retiró el brial con gesto impasible, menos inmutado por los amagos amenazadores del rey que si uno de los invitados le hubiese servido una copa de vino. Entonces Gawain, que estaba sentado junto a la reina Ginebra, se inclinó ante el rey, y dijo:
+
+–Os ruego, señor, delante de todos los aquí presentes, que deleguéis en mí este reto.
+
+16.
+
+–Dadme licencia, mi noble señor -dijo Gawain al rey-, para abandonar mi asiento y acercarme a vos, a fin de que pueda dejar la mesa sin caer en gran descortesía, y si ello no causa desagrado a mi señora la reina. Deseo aconsejaron delante de estos leales cortesanos. Pues me parece impropio, de acuerdo con las normas, que vos aceptéis tan altivo desafío, aunque es cierto que lo hacéis de buen grado, cuando en los bancos de vuestro alrededor hay tantos esforzados caballeros; y aquí sostengo que no hay otros bajo el cielo más animosos y valientes en el capo de batalla. Yo soy el más débil, lo sé; y el menos asistido de sabiduría. En cuanto a mi vida, si la pierdo, será la menos lamentada. Mi único honor está en teneros por tío, y ningún mérito hay en toda mi persona salvo vuestra sangre. Y puesto que este lance es demasiado insensato para que recaiga en vos, y soy yo el primero en solicitarlo, os ruego que me lo concedáis a mí; pero si juzgáis que mi petición no es justa y correcta, dejad que opine esta corte.
+
+Los caballeros consultaron entre sí, en voz baja, y todos fueron de un mismo parecer: que el rey coronado debía abstenerse, y dejar el desafío a Gawain.
+
+17.
+
+Entonces el rey ordenó al caballero que se levantase al punto. Se puso en pie éste, se acercó, hincó una rodilla ante su señor, y le cogió el arma; y el rey, al entregársela, alzó la mano y le bendijo, instándole graciosamente a que conservase fuertes la mano y el corazón.
+
+–Procura, sobrino -dijo el rey-, asestar el golpe de una vez; que si das con acierto, tengo por seguro que no te vendrá peligro alguno del golpe que él te devuelva.
+
+Cogiendo la enorme hacha, Gawain se dirigió al desconocido que aguardaba a pie firme sin muestra alguna de temor. Y entonces dijo a sir Gawain el caballero de verde:
+
+–Sellemos ahora nuestro pacto, antes de proseguir. Quiero saber tu nombre; dímelo, a fin de poder fiar en tu palabra.
+
+–Sabe de buena fe -dijo el noble caballero-, que me llamo Gawain, y como tal te asestaré este golpe, ocurra lo que ocurra después; que en el plazo de doce meses me tendrás a tu merced, a fin de que puedas devolvérmelo con el arma que prefieras, y que no te enfrentarás con nadie más que conmigo.
+
+El otro contestó:
+
+–Me doy por más que satisfecho. Ahora, sir Gawain, a ti corresponde descargar el golpe primero.
+
+18.
+
+–Por mi fe -dijo el Caballero Verde-, sir Gawain, que me alegra recibir de tu mano el favor que busco. Puntualmente y sin desmayo has repetido y expuesto el pacto que acabo de pedir al rey; pero tienes que asegurarme, por tu honor, que irás a buscarme a aquella parte del mundo, próxima o remota, donde creas que me encuentro, para darte yo el mismo pago que ahora recibo de ti en presencia de todos estos caballeros.
+
+–¿Cómo podré encontrarte? ¿Dónde hallaré tu morada? – dijo sir Gawain-; en el nombre del Dios que me creó, caballero, que ignoro cuál es tu nombre y tu corte. Pero indícame el camino y dime cómo te llamas, que yo pondré todo mi empeño en encontrarte; ¡por mi honor te duro que lo haré!
+
+–Eso es suficiente para Año Nuevo; ¡no hace falta nada más! – dijo el corpulento hombre de verde al cortés Gawain-. En verdad, cuando haya recibido el golpe que tu diestra. mano me ha de dar, al punto te informaré de mi corte y mi tierra y mi nombre. Entonces, cumpliendo este pacto, podrás preguntar y buscarme; pero si no obtuvieras de mí una sola palabra, podrás vivir en paz y sin preocuparte de más pruebas. Empuña ahora con firmeza esa arma terrible. Veamos hoy tu modo de emplearla.
+
+–En verdad que me place, señor -dijo Gawain, acariciando el acero del hacha.
+
+19.
+
+De pie, el Caballero Verde se preparó, inclinando levemente la cabeza y dejando al aire la carne; levantó sus largos, hermosos cabellos por encima de la coronilla, y mostró, el cuello desnudo tal como se requería. Cogió el hacha Gawain, la levantó, avanzó el pie izquierdo, y descargó la afilada hoja que segó el hueso, se hundió en la carne, la seccionó en dos, y su centelleante acero fue a clavarse en el suelo. Saltó del cuello la hermosa cabeza, rodó por tierra, y las gentes la rechazaron con el pie; la sangre brotó del cuerpo a borbotones, brillante sobre el verde. Sin embargo, el feroz desconocido ni cayó ni vaciló, sino que avanzó con firmeza, seguro sobre sus piernas; se abrió paso entre las filas de los nobles, agarró la espléndida cabeza y la sostuvo en alto. Luego se dirigió rápidamente a su caballo, cogió la brida, metió un pie en el estribo, y montó sin dejar de sujetar la cabeza por el pelo. Se acomodó en la silla como si nada le hubiese ocurrido, aunque estaba sin cabeza. Giró entonces el tronco aquel horrible cuerpo sangrante, y profirió unas palabras que llenaron a muchos de terror.
+
+20.
+
+Su mano sostenía en alto la cabeza, con la cara dirigida hacia los más leales del estrado. Alzó ésta los párpados, y con ojos centelleantes los miró a todos de forma amenazadora. Y su boca pronunció estas palabras:
+
+–Prepárate, Gawain, a cumplir lo prometido; búscame fielmente hasta encontrarme, mi buen señor, tal como aquí has jurado, en presencia de estos caballeros. Ve a la Capilla Verde, y no dudes que allí recibirás un golpe como éste. Porque en justicia lo has ganado el día de Año Nuevo. Como el Caballero de la Capilla Verde soy conocido por muchos; búscame, pues, y como tal me encontrarás. No dejes de hacerlo; ¡de lo contrario, pasarás por un cobarde!
+
+Con esto, giró salvajemente dando un tirón de las riendas, y salió velozmente por la puerta de la gran sala con la cabeza en la mano, arrancando chispas de las piedras los cascos de su montura, sin que ninguno de los presentes supiera en qué dirección, ni pudiera explicar de qué país procedía. Entre tanto, el rey y sir Gawain reían a costa del Caballero Verde. Pero todos tuvieron el hecho por algo prodigioso.
+
+21.
+
+Aunque el noble rey Arturo se sentía maravillado, no dejó que su semblante revelara signo alguno, sino que dijo en voz alta a la atractiva reina, con palabras corteses:
+
+–No os alarméis hoy, mi querida señora; tales artes son muy propias de las Navidades, como las representaciones de misterios, los cantos, las risas y las danzas con que damas y señores se solazan. Pero ahora ya puedo ponerme a comer, pues no hay que negar que he presenciado una maravilla. – Miró a sir Gawain, y añadió alegremente-: Ahora, señor, cuelga tu hacha; bastante has cortado hoy con ella.
+
+Y la colgaron sobre la mesa, en el cortinaje de atrás, donde todos pudieran verla y asombrarse, y por su veraz testimonio, contar el prodigio de tal aventura. Luego volvieron juntos a la mesa, aquellos dos señores, el rey y el leal caballero, y les fueron servidos dobles manjares, de los más exquisitos, y toda clase de carnes, acompañados por la música de los juglares. Y pasaron gozando todo el día, hasta que la noche cayó sobre la tierra.
+
+¡Ahora, sir Gawain, pon atención, no te vaya a dominar el miedo, y te impida éste ir en busca de la empresa que has reclamado para ti!
+
+II
+
+on este signo de noble aventura empezó Arturo el nuevo año, ansioso ya por escuchar las proezas que prometía. Si al principio, cuando se sentaron a la mesa, faltaban comentarios de esta clase, ahora tuvieron todos sobrado motivo de conversación. Gawain había estado alegre al empezar aquellos juegos; pero no os extrañéis de que al final se le viera taciturno, porque si bien los hombres se sienten alegres y animados después de beber copiosamente, un año pasa pronto, y nunca concluye igual: rara vez concuerda el final con el principio. Y así pasó la Pascua y el año que a ella seguía, y corrieron las estaciones una tras otra en rápida sucesión. Después de la Navidad llegó la severa Cuaresma, que prescribe para el cuerpo pescado y austeros alimentos. Luego vino el tiempo que combate al invierno en el mundo: el frío mengua y retrocede; las nubes se disipan, la lluvia brillante se derrama en cálidos aguaceros sobre los campos y se abren las flores; la yerba y los árboles se visten de verde; las aves se afanan construyendo sus nidos y cantan animadas a la espera del dulce verano que ya no tardará; las yemas y capullos se hinchan y revientan en alegres y espléndidos colores, y una música gloriosa se difunde por el bosque.
+
+23.
+
+Luego llega el verano con sus brisas mansas, cuando el céfiro suspira entre yerbas y semillas. Las plantas se alegran y se abren, y sus hojas gotean de rocío y brillan luminosas bajo los dorados rayos del sol. Pero viene de pronto la cosecha, y urge al grano a madurar, presintiendo ya el invierno. Produce polvo con su sequedad, lo levanta de la tierra y lo agita en lo alto; los vientos iracundos del cielo declaran la guerra al sol, arrancan y esparcen las hojas de los tilos, y la yerba antes verde se vuelve toda gris. La que ayer se alzaba lozana, hoy madura y se pudre… y así discurre el año, dejando atrás muchos ayeres, y se encamina hacia el invierno, según impone el curso de las cosas. Y llegó la luna de San Miguel, precursora del invierno. Y entonces pensó Gawain con pesar en el viaje que pronto había de emprender.
+
+24.
+
+Sin embargo, permaneció hasta el Día de Todos los Santos con Arturo, quien ordenó que para tal ocasión se celebrase un gran banquete en torno a la Tabla Redonda, en honor de Gawain. Los caballeros famosos, las nobles damas, todos estaban hondamente conmovidos a causa del amor que sentían por Gawain; sin embargo, se esforzaban en mostrar alegría, bromeando sin gana a fin de infundirle ánimos. Éste, al terminar de comer, recordó gravemente a su tío que se acercaba el momento de su partida; y dijo con sencillez:
+
+–Ahora, señor, dueño de mi vida, ruego que me deis permiso para partir.
+
+Ya conocéis los términos del pacto; no hay que volver sobre las circunstancias de este lance, salvo en un punto: al alba habré de ponerme en busca del hombre de verde, si Dios se digna ayudarme.
+
+Allí se reunieron los más afamados varones del castillo: Iwain, Eric[7] y muchos otros; sir Doddinel le Savage[8], el duque de Clarence[9], Lanzarote[10]; y Lionel[11], y Lucán el Bueno[12], sir Bors[13] y sir Bedivere [14], hombres fornidos los dos, y muchos y muy destacados caballeros, junto con Mador de la Porte[15].
+
+Toda esta compañía se acercó al rey, con el corazón lleno de inquietud, a fin de consolar al caballero. Gran aflicción causaba en el castillo que un varón tan cumplido como Gawain tuviese que partir en busca de aquel golpe riguroso, y no volver a empuñar más la espada. El caballero, sin embargo, dijo alegremente:
+
+–¿Por qué voy a desmayar? Sea adverso o favorable, ¿qué otra cosa puede hacer el hombre más que afrontar su destino?
+
+25.
+
+Permaneció allí todo aquel día; y a la madrugada siguiente pidió sus armas, y le fueron traídas todas ellas. Primero extendieron en el suelo una alfombra bermeja sobre la que relucían las brillantes piezas de su arnés. Se acercó el fornido caballero, y empezó a manipular el acero: se puso un jubón adamascado de Tharsia; y sobre él, una graciosa caperuza forrada con fina piel de armiño. Cubrieron luego sus pies con calzado de acero, le envolvieron las piernas con grebas arrogantes, completadas con bruñidas y relucientes rodilleras de dorada charnela; después le pusieron bellos quijotes, bien sujetos con correas, que cubrieron hábilmente sus muslos musculosos. A continuación, sobre el rico tejido que envolvía al guerrero, colocaron la cota de malla, hecha con relucientes anillas de acero; bruñidos brazaletes sobre ambos brazos, con brillantes codales, plateados guanteletes, y el resto de la hermosa armadura, para protegerle de cuanto pudiera acontecer: rica cota de armas, orgullosas espuelas de oro, y espada bien ceñida, con cinturón de seda, al costado.
+
+26.
+
+Puestas las armas, el arnés adquirió un aspecto rico y espléndido: el oro relucía en el cordón y en el lazo más pequeños. Y armado de este modo, oyó misa, ofrecida y celebrada en el altar mayor; fue luego al rey y a sus compañeros de la corte, y afectuosamente se despidió de los señores caballeros y las damas, quienes le besaron y escoltaron, y le encomendaron a Cristo. A la sazón, Gringolet[16] había sido preparado, habiéndosele aparejado una espléndida silla, adornada con numerosos flecos de oro, y recién claveteada para tan noble ocasión. La brida, toda ribeteada de oro, traía adornos repujados, así como los jaeces y gualdrapa, armonizando asimismo la baticola y caparazón con ambos arzones: todo iba guarnecido de rojo, y ricamente tachonado de oro, de modo que brillaba y centelleaba como los rayos del sol. Tomó entonces en sus manos el yelmo, fuertemente forrado y reforzado, y lo besó a toda prisa; se lo ajustó en lo alto de la cabeza, asegurándolo por detrás; y en torno a la babera le pusieron un fino pañuelo con las piedras más brillantes entre sus anchos bordados de seda, y orillado de pájaros pintados, papagayos arreglándose las plumas, tórtolas y flores; todo con tanta profusión, como si en esa labor hubiese trabajado un grupo de mujeres siete inviernos seguidos. La pequeña y costosísima diadema que le adornaba la cabeza iba completamente engastada en diamantes que refulgían con vivos destellos.
+
+rajeron[17] luego su escudo, que era de gules brillantes, con un pentáculo pintado en oro muy fino. Lo cogió por el tahalí, y pasándose éste por el cuello, se lo colgó de forma digna y acorde con su persona. Quiero contaros ahora, aunque esto demore mi historia, por qué ostentaba el pentáculo tan noble príncipe. Es el símbolo que un día concibiera Salomón para anunciar la sagrada verdad, cosa que tal figura podía hacer en justicia, ya que. tiene cinco puntas, y cada línea cruza y se une a otra, y es interminable en una y otra dirección; y he oído decir que los ingleses lo llaman, en todas partes, Nudo Sin Fin. De modo que se ajustaba muy bien a este caballero y a sus armas inmaculadas; pues, siendo fiel en cinco cosas, y cinco veces en cada una de ellas, Gawain era tenido por noble, como el oro fino, exento de toda villanía, y adornado con todas las virtudes. Y así, como hombre probado y caballero cumplido, ostentaba el nuevo pentáculo sobre el escudo y la cota que vestía.
+
+28.
+
+Primero, no se le encontraba tacha en sus cinco sentidos; después, jamás falló en sus cinco dedos, y toda su fe tenía puesta en las cinco llagas que Cristo había recibido en la Cruz, como el credo nos enseña. Y cada vez que tomaba parte en alguna batalla, tenía puesto el pensamiento en esto más que en ninguna otra cosa, y todo su valor dependía de los Cinco Gozos puros que la Santa Reina del Cielo recibiera de su hijo. Por ello, el cortés caballero llevaba la imagen de la reina pintada en la cara interior del escudo, a fin de que, viéndola, no desfalleciese su corazón. Las cinco quintas virtudes que este famoso hombre practicaba eran la liberalidad y la bondad, luego la castidad y cortesía, que nunca se corrompieron en él; y como virtud más destacada, la piedad. Estas cinco perfecciones estaban más hondamente arraigadas en él que en hombre alguno. Y tenía, en verdad, la serie de cinco muy trabadas y unidas entre sí, sin interrupción alguna, y fijas en cinco puntos que jamás fallaban, de modo que ni se agrupaban todas a un lado, ni se separaban, ni había extremo alguno, según he podido ver, donde el dibujo empezara o terminara. Así, sobre su espléndido escudo, llevaba magníficamente trazado dicho nudo en oro rojo sobre gules. Tal es el puro pentáculo, como los sabios enseñan. Ahora Gawain estaba preparado: cogió su lanza al fin, y se despidió de todos, convencido de que era para siempre.
+
+29.
+
+Espoleó a su corcel y emprendió veloz su camino, tan fieramente que las piedras despedían chispas a su paso. Todos los que le veían suspiraban con tristeza, y decían afligidos por tan buen caballero:
+
+–¡Por Cristo, que es mala fortuna, señor, que vayáis a vuestra perdición, gozando de vida tan noble!
+
+–¡No es fácil, no, encontrar entre los hombres a otro que le iguale! Más prudente habría sido obrar con cordura, y haber nombrado a tan caro señor duque de este reino; podía haber llegado a ser un brillante capitán de los caballeros; y habría tenido un destino más feliz que el que ahora le aguarda: morir decapitado por un ser infernal a causa de una vana arrogancia. ¿Quién recuerda que un rey haya prestado jamás oídos a un engaño así en su corte, durante los juegos de Navidad?
+
+Muchas fueron las lágrimas que derramaron los ojos aquel día, viendo salir del castillo a tan apuesto señor. Y sin demorarse, emprendió él su marcha por caminos extraños y tortuosos, según cuentan las historias.
+
+30.
+
+Bajo el favor de Dios cabalga ahora sir Gawain, recorriendo el reino de Logres, sin un pensamiento que le distraiga. Durante las largas noches, suele descansar a solas y en completo aislamiento, y sin haber tenido ante sí comida que le plazca. Y sin otro amigo en los bosques y montañas que su propio caballo, ni otro compañero de viaje que Dios, llegó al norte de Gales. Conservando siempre a su izquierda las islas Anglesey, cruzó los vados de las tierras llanas junto al mar; pasó después por la Santa Cabeza, y se adentró de nuevo en el territorio desértico de Wirral, donde había poca gente que viviera en el temor de Dios y el amor de los hombres. Y a todo aquel con quien se cruzaba preguntaba si había oído hablar de un caballero todo de verde, o si sabía en qué lugar se hallaba la Capilla Verde. Y todos decían que no, que jamás en su vida habían visto a nadie de tal color. Iba el caballero por caminos extraños, inhóspitos y solitarios, y muchas veces mudó su humor sin que dicha capilla apareciese.
+
+31.
+
+Escaló acantilados de regiones desconocidas, lejos de sus amigos y de toda compañía. En casi cada vado o corriente cuyas aguas debía cruzar, se topaba con algún fiero y horrible enemigo con el que se veía obligado a luchar. Con tantas maravillas se tropezó en las montañas, que sería tedioso narrar aquí una décima parte. Sostuvo luchas mortales con dragones y con lobos; peleó unas veces contra los salvajes[18], que vagan por los despeñaderos, y contendió otras con toros y osos y jabalíes, y con ogros que le acosaban desde lo alto de los cerros escarpados. Y de no haber sido firme en resistir, e inquebrantable en su fe en Dios, sin duda habría sucumbido más de una vez. Sin embargo, poco le arredró la lucha. Lo peor era el invierno, cuando caía el agua fría y clara de las nubes, helándose antes de tocar la tierra baldía. Yerto de frío a causa de la cellisca, dormía en su armadura, noche tras noche, entre rocas desnudas, donde los fríos arroyos saltaban salpicando de las altas crestas o colgaban en carámbanos por encima de él. Y así, arrostrando sufrimientos y peligros, recorrió la región, hasta que llegó el día de la Noche Buena. Entonces oró el caballero, pidiendo a Santa María que le guiase en el camino y lo condujese a algún refugio.
+
+32.
+
+Esa mañana, cabalgaba alegremente por una montaña hacia un espeso bosque con altos y escarpados cerros a uno y otro lado, y enormes robles centenarios en el fondo; el avellano y el espino se enredaban en intrincada maraña, el musgo tosco y andrajoso colgaba por todas partes, y en las ramas peladas los pájaros cantaban ateridos. Por debajo de ellos el valeroso caballero cabalgaba sobre Gringolet; cruzaba solitario pantanos y lodazales, temeroso de no poder asistir, por
+
+mala fortuna, al oficio del Señor, que esa misma noche había nacido de virgen para redimirnos de nuestras aflicciones. Y suspirando, decía:
+
+–Te suplico, Señor, y a ti, María, la más dulce y querida de las madres, que encuentre un refugio donde pueda oír misa con el debido recogimiento, y maitines por la mañana: humildemente lo pido, y rezo el padrenuestro y el avemaría y el credo.
+
+Y se santiguó y lloró por sus pecados, exclamando, mientras espoleaba al caballo:
+
+–¡Que Cristo ampare mi causa, y su Cruz me guíe!
+
+res veces había hecho sobre sí la señal del Salvador, cuando divisó en el bosque un recinto rodeado por un foso, en lo alto de un otero que se elevaba sobre un llano, entre una maraña de ramas y troncos tremendos. Era el más atractivo castillo que nunca poseyera rey alguno, construido en una planicie, rodeado por un parque, una empalizada inexpugnable de estacas puntiagudas, y numerosos árboles en un círculo de dos millas o más. El esforzado caballero contempló desde un extremo la fortaleza que reverberaba entre las hojas brillantes de los árboles. Luego, humildemente, se quitó el yelmo y dio gracias a Jesús y a San Julián, generosos los dos, por haberse dignado escuchar la gracia que pedía.
+
+–¡Ahora lo que os ruego es que me concedáis un albergue! – exclamó el caballero.
+
+Picó luego a Gringolet con sus espuelas doradas, y salió éste por ventura al camino, llevando a su amo hasta el extremo del puente. Dicho puente estaba levantado; atrancadas las puertas, y dispuesta la sólida muralla a resistir impasible el más furioso asedio.
+
+34.
+
+Se quedó detenido el caballero, montado en su corcel, junto al borde del doble foso profundo que cercaba la fortaleza. La muralla, que se sumergía en las aguas oscuras y se elevaba a una altura prodigiosa, estaba hecha de piedra labrada hasta la alta cornisa, fortificada con almenas del mejor estilo, y jalonada con bellas torres sobresalientes, provistas de múltiples aspilleras desde las que se dominaba una amplia perspectiva. Jamás caballero alguno había contemplado barbacana mejor construida. Y en su interior vio alzarse la espléndida torre del homenaje, coronada de torreones, todos almenados, con preciosos pináculos a lo largo de sus tramos y coronamientos hábilmente labrados. Vio también multitud de chimeneas blancas como la creta, en lo alto de las torres, que centelleaban de blancura, y numerosos pináculos sembrados por todas partes, agrupados con tal profusión, que más parecían adorno de papel: Montado en su Gringolet, el noble caballero meditó largo rato si habría algún medio de entrar en aquel recinto, y recogerse en él y solazarse, en tanto durase el sagrado día. Llamó entonces, y apareció en lo alto un centinela, quien saludó cortésmente, dio la bienvenida al errante caballero, y prestó oídos a lo que éste pedía.
+
+35.
+
+–Buen señor -dijo Gawain-, ¿queréis transmitir mi mensaje al gran señor de este castillo pidiendo albergue?
+
+–Así lo haré, ¡por San Pedro! – replicó el centinela-. Y seguro estoy de que os podréis alojar el tiempo que os plazca, señor caballero.
+
+Desapareció a toda prisa, y regresó sin tardanza con criados para recibir al caballero. Bajaron el puente, salieron a su encuentro, e hincaron la rodilla en la fría tierra rindiéndole así honrosa acogida. Le franquearon la gran puerta; y tras pedirles él que se levantasen, cruzó el puente montado a caballo. Varios criados le sujetaron la silla para que desmontase, y un nutrido grupo de hombres recios se hicieron cargo del caballo, conduciéndole a los establos, mientras bajaban nobles y caballeros, a fin de llevar al huésped a la gran sala. Cuando éste se quitó el yelmo, muchos acudieron presurosos a tomarlo de sus manos, y a servir a hombre tan esforzado, haciéndose también cargo de su espada y su pavés. Saludó él graciosamente a cada uno de ellos, y fueron numerosos los nobles arrogantes que se acercaron a este príncipe, a fin de testimoniarle respeto. Vestido con su armadura, fue conducido a la gran sala donde ardía un fuego de resplandecientes llamas. Entonces, abandonando su cámara el señor de aquellos dominios, bajó cortésmente al encuentro del caballero. Y dijo:
+
+–Sed bienvenido a esta casa, y quedaos el tiempo que gustéis. Disponed de cuanto hay aquí como si fuese enteramente vuestro.
+
+–¡Os doy las gracias! – dijo Gawain-; ¡y que Cristo os premie por esto!
+
+Dicho lo cual, los dos hombres se estrecharon en un fuerte abrazo.
+
+36.
+
+Gawain observó con atención al que con tanto calor acababa de saludarle, y comprendió que el castillo contaba con un señor valeroso, muy grande, y en la plenitud de sus fuerzas, de barba ancha y lustrosa, color del pelo del castor, ancho y recio sobre unas piernas robustas, la cara fiera como el fuego, y francas sus palabras: en todo parecía, verdaderamente, príncipe de señores, vasallos muy leales y esforzados. Le condujo este príncipe a una cámara, ordenando que se le asignase un hombre para que lo asistiese en todo, y al punto acudió un nutrido grupo de criados a servirle, los cuales le pasaron a un hermoso aposento en el que había un espléndido lecho: tenía cortinas de sedas costosas con brillantes y dorados galones, colchas primorosamente bordadas y preciosas pieles. Unas anillas de oro corrían las cortinas sobre cordones. Había tapices de Toulouse y de Tharsia en las paredes; y a los pies, en el suelo, finas alfombras tan ricas como aquéllos. Allí fue desvestido el caballero entre charlas alegres, y despojado de su cota de malla y su espléndida armadura. Le fueron traídos ricos vestidos para que él eligiese los mejores. Y tan pronto como hubo escogido uno con amplias faldas que le sentaba muy bien, y se lo hubo puesto, pareció a cuantos le rodeaban que su rostro era una visión de la Primavera, y que sus miembros, debajo, estaban dotados de hermosos y espléndidos matices; de modo que pensaron que jamás había creado Cristo caballero más hermoso. Viniera de donde viniese, le tuvieron por príncipe sin par en el campo donde los hombres se medían.
+
+37.
+
+Ante la chimenea, donde ardía el carbón, dispusieron para sir Gawain una silla ricamente cubierta de preciosos cojines sobre tela acolchada. Luego echaron sobre sus hombros una suntuosa capa de seda bordada y forrada de pieles costosas, toda orillada de armiño, con una caperuza de idéntico valor.
+
+Y se sentó en aquella silla digna y principesca, y se calentó y cobró ánimos. Poco después, fue armada una mesa sobre finos caballetes; la cubrieron con un mantel de inmaculada blancura, y sobre éste pusieron un paño, salero, y cubiertos de plata.
+
+Se lavó entonces el caballero, y se dispuso a comer. Los criados, respetuosos y atentos, trajeron diversas y finas sopas, exquisitamente sazonadas, servidas en dobles raciones, tal como se debía, y diversas clases de pescado; unos horneados en pan, otros asados sobre brasas, otros hervidos, otros en salsas con especias; tan hábilmente condimentados todos que le procuraron el más grande placer. De modo que el buen caballero no tuvo sino palabras de cortesía para lo que él calificó muchas veces de verdadero banquete mientras los demás, a la vez que le servían, le aconsejaban:.
+
+–Servíos tomar este alimento de penitencia, que pronto podréis resarciros.
+
+Y con ello, el caballero recobraba su alegría y humor; pues el vino caldea siempre el ánimo.
+
+38.
+
+Le interrogaron entonces con discreción acerca de él; a lo cual explicó que venía de la corte del magnánimo Arturo, el rey más noble de la Tabla Redonda; y que a quien ahora tenían allí sentado era al propio sir Gawain, el cual había llegado por ventura, a causa de la Navidad. Muy fuerte rió el señor del castillo cuando supo quién era el caballero al que la fortuna había traído a su morada, transmitiendo su dicha y alegría a cuantos hombres se alojaban en su casa, los cuales acudieron ansiosos por ver y conocer a aquel que reunía en su persona todo el valor, donosura y modales, y conquistaba incesantes alabanzas; pues era el más elogiado de los hombres en la tierra. De modo que cada uno de los caballeros comentaba en voz baja a su vecino:
+
+–Ahora podremos apreciar los más finos modales, y las maneras más gentiles del diálogo. Sin haberlo pedido, vamos a escuchar el estilo impecable de la conversación, ya que tenemos entre nosotros a este padre de la buena crianza. Dios ha sido verdaderamente generoso con nosotros, al traernos a un huésped como Gawain, a la hora en que los hombres se sientan gozosos en torno a la mesa a cantar en honor del nacimiento de Cristo. Este caballero nos enseñará, espero, lo que es el amor cortés[19].
+
+39.
+
+Cuando el noble caballero terminó de comer y se levantó era ya casi de noche. Los capellanes se dirigieron a sus capillas e hicieron repicar profusamente las campanas, como era obligación, para las solemnes vísperas de tan solemne festividad.
+
+El señor del castillo encabeza la marcha; junto a él va también su esposa, que entra en su elegante y espacioso oratorio. Gawain se dirige allí de buen grado, pero el señor le retiene por la manga y le guía a un asiento, saludándole y llamándole por su nombre, y diciendo que es el huésped al que con más cariño acoge del mundo. Gawain le expresó su agradecimiento; se abrazaron los dos y permanecieron sentados con grave actitud mientras se desarrollaba el oficio. La dama sintió luego deseos de observar al caballero; y salió de su pequeño retiro acompañada de preciosas doncellas. Su rostro, la carne y el color de su piel, la proporción de su cuerpo y el encanto de sus ademanes la hacían la más hermosa de las mujeres, aventajando a la propia Ginebra a juicio de Gawain. Cruzó éste el presbiterio y fue a presentar sus respetos a la bellísima dama. Conduciéndola de la mano izquierda, iba otra dama de más edad, con aspecto de anciana, por la que los hombres que la rodeaban manifestaban gran respeto. Pero era muy distinto el aspecto de estas dos mujeres; pues si la una era joven, la otra en cambio tenía la tez amarilla. Un rico matiz sonrosado encendía el rostro de una; profundas arrugas surcaban las mejillas de la otra. El tocado de la una estaba adornado con múltiples perlas, y su cuello blanco y desnudo y su pecho brillaban como la nieve caída sobre las montañas; la otra, al contrario, envolvía su cuello con un griñón y ocultaba oscura su barbilla con velos blancos. Llevaba la frente envuelta en seda tan apretada y recargada de abalorios, que nada de esta dueña asomaba, salvo las cejas negras, los dos ojos, la nariz y los labios desnudos; y aun éstos con una mueca espantosa y desdibujada: ¡venerable dama podía decirse que era, vive Dios, con su cuerpo pequeño y ancha cintura, y sus grandes nalgas abultadas! Ella hacía aún más atractiva a aquella a la que guiaba.
+
+40.
+
+Cuando vio Gawain su gracia y donosura, pidió licencia al señor para acompañar a las damas; saludó a la de más edad con una profunda reverencia, y abrazó brevemente a la más hermosa, la besó cortésmente, y le habló como cumplido caballero. Mostraron ellas deseos de conocerle, y él suplicó que le permitiesen ser su fiel servidor, si así gustaban. Lo cogieron entre las dos; y charlando, le condujeron a un aposento, junto a la chimenea encendida; y antes que nada pidieron especies, que los criados se apresuraron a traer en abundancia, y vino con que alegrar el corazón. El señor bailó jubiloso repetidamente, e ideó muchas diversiones a fin de procurar alegría; se quitó la caperuza, y colgándola en lo alto de una lanza, la ofreció como trofeo a aquel que trajese más diversión durante esas Navidades.
+
+–iY por mi fe que, antes que perder esta prenda, trataré de competir con el mejor, con ayuda de mis amigos!
+
+Así reía y bromeaba el señor esa noche, ordenando que se celebraran alegres juegos en el castillo, con objeto de agasajar a Gawain; hasta que mandó que encendiesen las luces. Entonces sir Gawain pidió permiso, y se retiró a descansar.
+
+41.
+
+Por la mañana, cuando los hombres conmemoran la hora en que, para morir por nosotros, nació Nuestro Señor, la alegría por El despierta en todos los hogares del mundo. Y así aconteció allí en aquel día de fiesta: y tanto en las comidas sencillas como en las solemnes, los criados, exquisitamente vestidos, sirvieron raros y delicados manjares. La dama vieja ocupó el sitio de honor en la mesa, y a su lado se sentó cortésmente el señor del castillo, según creo. Gawain y la alegre dama se pusieron juntos en el centro de la mesa, donde primero fue traída la comida; y de allí, de acuerdo con sus méritos y distinciones, fueron cumplidamente servidos todos los caballeros que había en la sala. Y hubo comida en abundancia, y mucho contento y alegría; a tal punto, que sería tedioso demorarme aquí en los detalles. Pero sé que Gawain y la hermosa dama gozaron en discreta compañía, entregados a dulces y limpias confidencias, con cuyas delicias ninguna principesca diversión se puede comparar. Tocaron trompas y tambores, y ejecutaron las flautas muchos aires; cada uno procuró su propio gozo, mientras ellos dos se abandonaban a aquel que compartían.
+
+42.
+
+Hubo muchas diversiones ese día, y el siguiente, y lo mismo el tercero; y era un placer oír el contento que reinaba en el día de San Juan, y último de las fiestas, según tenía previsto la gente, pues había invitados que debían partir con las primeras luces del alba. Así que celebraron una gran velada, bebieron vino, bailaron y cantaron canciones de Navidad. Finalmente, tarde ya, los que vivían lejos se despidieron y emprendieron el camino de regreso. Gawain quiso despedirse también; pero el buen anfitrión le hizo demorarse; y llevándole junto a la chimenea de su propia cámara, le retuvo allí, agradeciéndole con afecto el esplendor y alegría que su presencia le había traído, honrando su casa en tan alta ocasión, y dignándose adornarla con su favor.
+
+–Tengo por seguro, señor, que mi suerte prosperará mientras viva, ahora que Gawain ha sido mi huésped en la festividad del propio Dios.
+
+–Os doy las gracias, señor -dijo Gawain-. En buena fe, vuestro es todo el mérito… ¡quiera el Altísimo compensaron!
+
+A vuestro servicio me pongo, dispuesto a cumplir lo que a bien tengáis mandarme, ya que, para bien o para mal, estoy obligado a vos por derecho.
+
+El señor pidió al caballero que demorase aún más su partida. Pero a eso Gawain replicó que de ningún modo podía acceder.
+
+43.
+
+Entonces el señor, con cortés deferencia, quiso saber de Gawain qué empresa extrema le había sacado con tanta premura de la regia corte de Camelot, en aquellas festividades, poniéndole solo en camino, sin esperar a que hubiesen concluido las celebraciones en todos los hogares de los hombres.
+
+–En verdad que bien podéis extrañaros, señor -admitió el caballero-. Una alta y urgente misión me ha sacado de ese castillo. Pues me he comprometido a buscar un lugar, aunque no sé a qué parte del mundo dirigirme para encontrarlo. Ni por todas las tierras de Logres quiero estar lejos de él la mañana de Año Nuevo… con la ayuda de Dios. Por tanto, señor, esto es lo que os pido: que si en verdad sabéis algo de la Capilla Verde, o en qué tierra se puede encontrar, y del caballero de verde color que la guarda, al punto me lo digáis. Ya que hay establecido un pacto entre nosotros, por el cual, si estoy vivo, debo ir allí a enfrentarme con él. No falta mucho para Año Nuevo; así que, con la ayuda de Dios, antes prefiero ir en su busca que ganar cualquier fortuna. Os ruego, pues, que me deis licencia, pues debo irme ahora; apenas me quedan ya tres días para atender a este asunto, y antes quisiera caer muerto que dejarlo sin cumplir.
+
+A lo que, riendo, dijo el señor:
+
+–Entonces bien podéis quedaros algún tiempo más, que cuando llegue el momento de vuestra cita, yo os mostraré el camino de la Capilla Verde; de modo que no os preocupéis. Retiraos a dormir sin temor, señor, hasta bien entrado el día. Cuando sea primero de año, yo haré que esa misma mañana estéis allí. Quedaos, pues, hasta Año Nuevo. Llegado ese día, podréis levantaros y dirigiros allí. Ya os diremos el camino; apenas queda a dos millas de esta casa.
+
+44.
+
+Entonces se alegró Gawain, y exclamó jubiloso:
+
+–Os doy las gracias sinceramente por esto, más que por ninguna otra cosa. Ahora que veo cumplida mi demanda, quedaré, como es vuestro deseo, y haré todo aquello que gustéis.
+
+Le cogió el señor entonces, y le sentó junto a él; y con el fin de que les alegrasen, mandó llamar a las damas, en cuya dulce compañía gozaron de tranquilo solaz. Y tan transportado y fuera de sí estaba el señor, que apenas se daba cuenta de lo que decía. Y dijo al caballero, hablando a grandes voces:
+
+–Habéis prometido hacer aquello que os pida; ¿daréis cumplimiento a esa promesa aquí, ahora mismo?
+
+–Por supuesto, señor -replicó el esforzado caballero-. En tanto esté en este castillo, obedeceré vuestros deseos.
+
+–Pues bien, habéis venido de muy lejos, y os he tenido en vela mucho tiempo; aún no os habéis repuesto del todo; y lo cierto es que necesitáis descanso y alimento. Os quedaréis arriba en vuestro aposento, a vuestra entera comodidad, hasta el momento de la misa de mañana; luego comeréis a la hora que más os plazca, con mi esposa, a fin de que su compañía os alegre, hasta mi regreso. Quedaos; yo me levantaré temprano, pues quiero salir a cazar.
+
+Gawain asintió con una inclinación de cabeza, como cortés caballero que era.
+
+45.
+
+–Sin embargo -dijo el señor-, acordaremos una cosa más: aquello que yo consiga en el bosque será para vos; a cambio, me daréis lo que vos obtengáis aquí. Juremos hacerlo así, mi buen amigo, sea la suerte flaca para el uno, y mejor para el otro.
+
+–¡Por Dios -exclamó el buen Gawain- que accedo en todo, y me agrada el juego que proponéis!
+
+–¡Hecho, pues! ¡Así será el trato! ¿Quién nos trae de beber? – dijo el señor de aquella tierra.
+
+Y todos rieron. Y bebieron, bromearon y disfrutaron cuanto quisieron, dichos señores y las damas. Luego, siguiendo la costumbre de Francia, y con muy corteses y refinadas palabras, se levantaron hablando en voz baja, y se despidieron con un beso.
+
+Con fieles criados y antorchas encendidas, fueron escoltados finalmente hasta sus aposentos. Sin embargo, antes de dormirse, Gawain meditó largamente sobre los términos de aquel extraño trato: sin duda el viejo señor de aquellas gentes sabía jugar al juego aquel.
+
+III
+
+as gentes se levantaron antes de que despuntase el día: los huéspedes que iban a marcharse llamaron a sus criados, quienes corrieron a ensillar en seguida los caballos, aparejarlos y ajustar en ellos los bagajes; los dispusieron en línea sus señores, preparados para montar, saltaron ágilmente sobre la silla y, cogiendo las riendas, emprendieron el camino, cada uno adonde más le convenía.
+
+No fue el último, el señor de aquellos dominios, en encontrarse dispuesto para emprender también la marcha, con un grupo de sus hombres; tomó una breve colación después de oír misa, requirió su cuerno, y salió a toda prisa hacia el campo de caza. Cuando asomaron las primeras claridades ya se encontraban él y sus cazadores sobre sus altos caballos. Los encargados de los perros los ataron en traíllas, abrieron la puerta de la perrera, – los llamaron e hicieron sonar tres veces los cuernos de caza. Entonces empezaron los perros a ladrar y a alborotar, y ellos los hostigaron y azuzaron, a fin de que buscasen un rastro. Un centenar he oído contar que iban, y que eran de los mejores. Llegados a sus puestos de caza, los hombres que los llevaban los soltaron y el bosque vibró con las resonantes llamadas de los cuernos.
+
+47.
+
+A la primera explosión de ladridos, todos los animales salvajes se estremecieron. Los ciervos cruzaron desolados el valle y huyeron a las alturas; pero allí los contuvieron con grandes voces los ojeadores apostados. Dejaron pasar a los machos de airosa cabeza, y a los fiamos orgullosos de anchas palas en su cornamenta: el noble señor tenía prohibido perseguir en tiempo de veda a uno solo de los machos. En cambio detuvieron a las ciervas con grandes gritos, y a voces las dirigieron hacia los valles profundos. Allí los hombres podían verlas correr y dispararles sus flechas; a cada carrera que daban por el bosque, un flecha afilada venía hiriente a hincárseles en su piel tostada. ¡Ah, cómo balaban y sangraban, yendo a morir a las laderas, acosadas siempre por los perros, y tras ellos los cazadores, con tales clamores de sus grandes cuernos que más parecía que eran las rocas que reventaban! Si un animal escapaba al tiro de los arqueros, era abatido en el siguiente apostadero, después de hacerlo bajar de las alturas y dirigirlo hacia las aguas. Los hombres emboscados demostraron ser tan hábiles y astutos, y sus galgos tan ágiles, que en seguida los cogían y derribaban, de forma que todo concluía en un abrir y cerrar de ojos. El señor, exultante de gozo, cabalgaba y desmontaba una y otra vez, y pasó el día ocupado y feliz, hasta que se hizo de noche.
+
+48.
+
+Así el señor, entregado a su deporte, corre por los linderos del bosque, y el buen Gawain descansa en blanda cama, bajo hermoso dosel, cubierto de cortinas, mientras la luz del día alumbra los muros. Y sumido en un sueño ligero, oye un leve y furtivo rumor en su puerta, que se abre silenciosamente; saca la cabeza de entre las ropas, alza el borde de la cortina, y se asoma cautamente en esa dirección para ver quién es. Era la dama, la mas bella que pudiera contemplarse, que, sigilosa, había cerrado calladamente la puerta tras ella y se dirigía a la cama. El caballero sintió que le invadía la vergüenza; se tumbó astutamente, y fingió dormir. Se acercó ella a la cama con paso quedo, retiró la cortina, se sentó en el borde, y allí se estuvo tiempo y tiempo, observando cuándo despertaba. El caballero siguió echado largo rato, acechando y preguntándose en qué podía parar esta situación, pues sin duda era asombrosa. Pero finalmente se dijo a sí mismo: "Más correcto será preguntarle qué desea". De modo que, haciendo como que se despertaba, se volvió hacia ella, alzó los párpados, y se mostró asombrado; y para sentirse más a salvo, se santiguó con la mano. Con la barbilla y mejillas sonrosadas y blancas, el gesto lleno de gracia, y una leve sonrisa en los labios, exclamó alegremente la dama:
+
+49.
+
+–Buenos días, sir Gawain; sois un durmiente descuidado, ya que cualquiera puede deslizarse hasta aquí. Habéis sido cogido por sorpresa; y a menos que lleguemos a un acuerdo, os ataré a vuestra cama, tenedlo por seguro -bromeó entre risas la señora.
+
+–Buenos días, señora -dijo lleno de contento Gawain-. Disponed de mí como os plazca; será para mí un placer, y me apresuro a someterme y suplicar clemencia; es, creo, lo mejor que puedo hacer. – Y prosiguió, bromeando entre risas-: Pero permitid, señora, que vuestro prisionero se levante; pues deseo abandonar esta cama y arreglarme, a fin de sentirme más cómodo con vos.
+
+–Desde luego que no, señor -dijo la encantadora dama-; no os levantaréis de vuestra cama; así os tendré más a mi merced. Os envolveré por este lado, y por el otro, y después charlaré con el caballero que tengo atrapado; pues sé muy bien que sois sir Gawain, y que todo el mundo os adora dondequiera que vayáis; vuestro honor, vuestra donosura, son objeto de alabanza entre los señores y sus damas, y entre todos cuantos viven. Ahora estáis aquí, a solas conmigo. Mi señor y sus hombres se encuentran muy lejos; los que se han quedado están acostados, y mis doncellas también; la puerta está bien cerrada y segura; y puesto que tengo aquí al caballero que a todos agrada, pasaré el tiempo que pueda en dulce conversación con él. Disponed de mi cuerpo; la necesidad me inclina a ser vuestra sierva, y lo quiero ser.
+
+50.
+
+–En verdad -dijo Gawain-, me considero afortunado; aunque no soy ese del que habláis; y sé muy bien que no soy digno de alcanzar el honor que decís. Por Dios que sería un honor, si mis palabras o servicios lograsen complaceros como merecéis: sería para mí una pura dicha.
+
+–Verdaderamente, sir Gawain -dijo la dulce dama-, que sería descortesía despreciar o rebajar la gallardía y el valor que los demás aprueban; pero hay bastantes damas, noble señor, que más quisieran teneros ahora como os tengo yo aquí, y gozar de vuestra cortés conversación y solazarse y satisfacer sus cuidados, que todos los tesoros que poseen. Así que agradezco al Señor que reina en los cielos tener aquí por su gracia, en mi mano, lo que todas desean.
+
+De este modo le acogió aquella mujer de rostro radiante. Y el caballero, con palabras puras, contestó:
+
+51.
+
+–Madame -dijo alegremente-, que la Virgen María os recompense; pues veo, en verdad, que sois de generosa nobleza. Muchos son los que reciben honores de otros hombres por sus acciones; en cuanto a los que a mí se me tributan, no los merezco; sólo a vos encuentro digna de esas glorias.
+
+–Por la Virgen María -dijo la noble dama-, que no lo creo así. Pues aunque valiese yo lo que todas las mujeres vivas, y todas las riquezas del mundo estuviesen en mi mano, y pudiese, a cambio de todo ello, conseguir un señor con las nobles cualidades que ahora aprecio en vos, vuestra belleza, vuestras gentiles maneras y vuestra gran cortesía, de las que antes había oído hablar y ahora tengo por probadas, a ningún hombre de la tierra escogería entonces sino a vos.
+
+–En verdad os digo, señora -dijo el hombre-, que ya habéis elegido a otro mejor; pero me siento orgulloso de la gloria que ponéis en mí, y como fiel servidor, os tendré por mi soberana, y seré vuestro caballero; ¡que Cristo os lo premie!
+
+De este modo hablaron sobre muchas cosas, hasta pasada la media mañana, la dama manifestando siempre que le amaba mucho, mientras que el caballero estaba a la defensiva, sin dejar por ello de conducirse. con gentileza. Aunque fuese la más espléndida de cuantas mujeres recordaba, el caballero sentía poca inclinación por el amor, a causa del destino que buscaba sin desfallecer: el golpe que debía destruirle, y que irremediablemente iba a recibir.
+
+Así que la dama pidió permiso para retirarse, y él, al punto, se lo dio.
+
+52.
+
+Le deseó ella entonces buenos días; y tras dirigirle una mirada, se echó a reír, asombrándole con la fuerza de sus palabras:
+
+–¡El que todo lo oye os premie por el placer de vuestra conversación! Aunque no acabo de creer que seáis Gawain.
+
+–¿Por qué? – preguntó el caballero, temiendo haber fallado en sus modales.
+
+Pero la dama le bendijo, y dijo de esta manera:
+
+–Quien es justamente tenido por el galante Gawain, cuya cortesía ha sido siempre tan completa, no habría podido estar tanto tiempo con una dama sin haberle solicitado un beso como cumple a un caballero cortés, con alguna discreta alusión.
+
+Por lo que dijo Gawain:
+
+–Muy bien, sea como deseáis; os besaré como pedís, como caballero, a fin de no causaros agravio; así que no supliquéis más.
+
+Se acercó ella entonces, le rodeó con sus brazos, e inclinándose delicadamente, lo besó. Se encomendaron luego a Cristo cortésmente el uno al otro y, sin otra cosa, se dirigió ella a la puerta. Gawain se levantó a toda prisa, llamó a su chambelán, eligió sus ropas, y ya vestido, acudió alegre a misa. Luego se sentó a la mesa, que aguardaba bien provista, y pasó el día en alegres juegos, hasta que salió la luna. Jamás hubo caballero más galante entre tan digno par de damas, vieja la una y joven la otra, disfrutando juntos lo indecible:
+
+53.
+
+Entretanto, el señor de aquella tierra seguía gozando lejos, por bosques y brezales, en pos de las ciervas estériles. Cuando el sol comenzó a declinar había muerto ya tal número de gamas y otras clases de venado, que parecía cosa de maravilla. Entonces acudieron al fin los hombres en tropel, e hicieron un inmenso montón con todos los venados muertos. Allí llegó el señor con suficiente compañía; escogió las piezas más hermosas, y ordenó que las abriesen como la práctica requiere. Examinaron el corte de algunas de ellas y comprobaron que la que menos tenía dos dedos de grasa. A continuación abrieron la abertura, agarraron el primer estómago, lo cortaron con un cuchillo afilado, y ataron la tripa. Cercenaron las cuatro patas y rasgaron la piel. Luego abrieron el vientre, sacando hacia afuera las entrañas con cuidado de que no se soltase la ligadura del nudo. Cogieron después el cuello, separaron con destreza el esófago de la tráquea, y extrajeron los intestinos. Desprendieron las espaldillas con afilados cuchillos, y las levantaron por un pequeño agujero, a fin de tener los trozos enteros; abrieron luego el pecho partiéndolo en dos, y volvieron nuevamente a la garganta, cortando con rapidez hasta la horquilla; sacaron las asaduras, y desprendieron después con presteza las membranas pegadas a las costillas. Partieron la pieza a lo largo del espinazo, hasta la cadera, la abrieron, la levantaron entera, y le quitaron los despojos, como creo que se llaman. Por la cruz de los muslos volvieron las dos mitades hacia atrás, a fin de desgajarlas a lo largo de la espina dorsal.
+
+54.
+
+Cortaron a continuación la cabeza y el cuello, separaron el lomo del costillar, y arrojaron algunos trozos a un matorral, para los cuervos. Ensartaron los costados por entre las costillas, y cada hombre cogió dos piernas que le correspondían como gratificación, colgándolas del corvejón. Sobre la piel del precioso animal alimentaron entonces a los perros, con el hígado, los pulmones y la piel de la panza, mezclando con ello pan empapado con sangre. Hicieron sonar vigorosamente los cuernos en medio de los ladridos de los perros; y cargando luego con la carne de la caza, emprendieron el regreso haciendo sonar con fuerza los cuernos de trecho en trecho. Cuando ya se apagaban las luces del día, llegaron puntualmente al magnífico castillo donde descansaba plácidamente el caballero, junto a un fuego encendido y animado. Entró el señor, salió Gawain a su encuentro, y se saludaron los dos con gran alegría.
+
+55.
+
+Mandó entonces el señor que se reunieran todos los hombres en aquella sala, y que bajasen las dos damas con sus doncellas. Y cuando estuvieron todos presentes, ordenó a sus hombres que trajesen la caza. Llamó graciosamente a Gawain, le mostró, por las colas, el número de preciosos animales, y le enseñó la brillante grasa sacada de los costillares de todos ellos.
+
+–¿Qué os parece la caza? ¿No merezco un elogio? ¿No he ganado un sincero agradecimiento por mi habilidad?
+
+–Así es, verdaderamente -dijo el otro caballero-; hay aquí los más preciosos trofeos de caza logrados en época de invierno, que he visto en siete años.
+
+–Todo os lo doy, Gawain -dijo entonces el señor-; pues, por el pacto que acordamos, bien lo podéis reclamar como vuestro.
+
+–Así es -dijo el caballero-, y lo mismo he de deciros: que os haré entrega de aquello de valor que he ganado entre estos muros -y rodeando con sus brazos el cuello del noble señor, le besó con todo el cariño que fue capaz de manifestar-. Tened; esto os doy. No he conseguido otra cosa. Os aseguro que más os daría, si más hubiera alcanzado.
+
+–Bien está -dijo el buen señor-; y mucho os lo agradezco. Y es tal, que quizá convenga que digáis en dónde habéis ganado esta riqueza por vos mismo.
+
+–Eso no entra en nuestro acuerdo -dijo él-; no pidáis más, ya que habéis obtenido cuanto os corresponde.
+
+Se echaron a reír, y con palabras alegres y de encomio, se fueron a cenar, cambiando nuevas y numerosas cortesías.
+
+56.
+
+Más tarde, sentados junto a la chimenea de la cámara, fueron abundantemente servidos con el mejor vino; y otra vez, entre bromas, acordaron cumplir por la mañana el mismo pacto acordado anteriormente: pasara lo que pasase, intercambiarían sus trofeos, fuera lo que fuese aquello que ganaran, al volverse a reunir por la noche. Y acordaron dicho pacto en presencia de toda la corte. Trajeron entonces de beber, entre bromas, y al final se separaron con afecto, retirándose cada cual en seguida a descansar. Cuando el gallo cantó por tercera vez[20], saltó el señor de su lecho, así como cada uno de sus servidores, de forma que despacharon la comida y la misa, y estuvieron camino del bosque, antes de que asomasen los primeros clarores del día. Cruzaron a toda prisa la llanura cazadores y cuernos, mientras los perros corrían sueltos entre los espinos.
+
+oco después, ladraban en pos de una pista por un paraje pantanoso. El cazador incitó a los perros que olfatearon el rastro, jaleándolos a gritos. Los perros, al oírle, corrieron afanosos, cayendo veloces cuarenta de ellos sobre el mismo rastro. El clamor de voces y ladridos resonó entre las rocas de los alrededores. Los cazadores excitaban a los perros con gritos y toques de cuerno; luego echaron a correr todos juntos entre una charca de aquel bosque y la áspera pared de un despeñadero. Seguidos de los hombres, prosiguieron la búsqueda por entre una maraña de arbustos al pie del acantilado sembrado de rocas; fueron rodeando riscos y arbustos, hasta que descubrieron allí dentro el animal que delataba el ladrido de los sabuesos. Batieron entonces los arbustos para obligarle a salir, y surgió salvajemente, embistiendo a los hombres a su paso: era un jabalí prodigioso, una vieja bestia solitaria que había abandonado hacía tiempo la manada, un animal musculoso, el más grande y formidable cuando gruñía. Fueron muchos los que se asustaron, pues a la primera embestida hizo rodar a tres por los suelos, y salió lanzado a gran velocidad sin hacer caso de los otros. Estos gritaron: "¡Eh!, ¡hey!"; y llevándose el cuerno a la boca, lo hicieron sonar, llamando al resto de la partida. Muchas fueron las voces excitadas de los hombres, muchos los ladridos de los perros que corrían tras él para matarlo, y muchas las veces que aguantó firme los ataques, mutilando a la jauría que le cercaba, hiriendo a los perros, que se apartaban aullando y gimiendo malheridos.
+
+58.
+
+Los hombres se apresuraron entonces a arrojarle sus dardos, acertándole a menudo, aunque las puntas que le daban no llegaban a penetrar su dura piel, ni a clavarse en su frente, y la afilada flecha se partía en pedazos, y rebotaba su punta allí donde golpeaba. Sin embargo, los lances más rigurosos hicieron mella en él, y enloquecido de tanto hostigamiento se revolvió contra los hombres, y cargó contra ellos ferozmente, haciéndolos retroceder. Pero el señor, montado en ágil caballo, corrió tras él, como hombre atrevido en campo de batalla, tocó el cuerno llamando a su compañía, y lanzó su corcel por entre espesos matorrales, en pos del feroz jabalí, persiguiéndolo hasta la puesta del sol. Y pasaron el día en estas acciones, mientras descansaba Gawain en su lecho, entre colchas de ricos colores. No olvidó la dama entrar a saludarle, empezando su asedio muy temprano para hacerle ceder en su determinación.
+
+59.
+
+Se acercó a las cortinas, y echó una ojeada al caballero. Al verla sir Gawain la saludó con cortesía; contestó ella de igual modo, con gran ansiedad en sus palabras, se sentó suavemente a su lado, y de repente se echó a reír. Y tras una mirada cautivadora, empezó con estas palabras:
+
+–Señor, si sois Gawain, me parece extraño que un hombre tan dispuesto siempre al bien no sepa nada de las costumbres de la gentileza; y si alguna os llega, al punto la echáis de vuestra mente. Habéis olvidado muy pronto lo que ayer os confié con las razones más sinceras y claras que podía.
+
+–¿De qué habláis? – dijo el caballero-. En verdad que no sé nada de eso. Pero si es cierto lo que decís, mía ha de ser toda la culpa.
+
+–Sin embargo, esto os enseñé sobre los besos -dijo la hermosa dama-: dondequiera que encontréis el favor, cogedlo pronto, como conviene a un caballero cortés.
+
+–Guardad, mi querida señora, esas palabras -dijo el bravo caballero-; pues no me atreveré a tal cosa por temor a ser rechazado. Y si lo fuera, la culpa sería toda mía.
+
+–A fe -exclamó la noble dama-, que quizá no seáis rechazado; sois bastante fuerte para tomar por la fuerza lo que queréis, si alguien cometiera la villanía de negároslo.
+
+–Por Dios -dijo Gawain- que es bueno vuestro discurso. Sin embargo, la coacción, y todo favor no ofrecido gustosa y libremente, son innobles en el país de donde vengo. Estoy a vuestra entera disposición para besarme cuanto queráis. Podéis hacerlo como os plazca, y dejarlo cuando juzguéis oportuno.
+
+Se inclinó entonces la dama, y le besó galantemente en la cara, iniciando luego una larga conversación acerca de favores y males de amor.
+
+60.
+
+–Desearía saber, señor -dijo entonces la noble dama-, si no os importa que os pregunte, cuál es la razón de esto, dado que sois joven y animoso, y tenéis tanta fama de cortés y caballero, y siendo el sincero ejercicio del amor lo más precioso y excelso de toda la caballería, y doctrina de las armas, pues es título y texto de las obras que narran las empresas de estos esforzados barones: cómo por su sincero amor ponen estos hombres en peligro sus vidas, soportan la prueba de trances penosos, y vengados después por su valor, y libres de cuidados, alcanzan la dicha en su morada por sus virtudes. Vos sois el caballero más galante y conocido de nuestro tiempo, y vuestra fama y vuestro honor han llegado a todas partes. Y aunque he venido a sentarme a vuestro lado por segunda vez, no os he oído pronunciar una sola palabra de amor, por pequeña que sea. Sin embargo, ya que sois galante y consciente de vuestras promesas, deberíais revelar y enseñar a una joven alguna muestra de la ciencia del amor. Pues ¡qué! clan ignorante sois, con todo el renombre de que gozáis, o acaso me creéis demasido tonta para escuchar vuestras palabras de amor? ¡Qué vergüenza! Sola he venido a sentarme aquí, dispuesta a que me enseñéis algún juego; así que mostradme lo que sabéis, mientras mi señor está ausente.
+
+61.
+
+–¡Que Dios os premie, en verdad! – dijo Gawain-. Es un gran placer para mí, y una gran alegría, que una señora tan noble como vos se digne venir, se tome tantos trabajos con caballero tan pobre, y se contente con distraerse con él. ¡Pero tomar sobre mí la empresa de enseñar el verdadero amor, y explicar para vos su valor en los relatos caballerescos, cuando es seguro que poseéis mucha más habilidad en este arte que cien como yo, tal como soy o seré mientras viva, sería en verdad completa tontería, mi señora! Bien quisiera dar cumplimiento a todos vuestros deseos si pudiese, pues os estoy inmensamente agradecido, y más que nunca quiero ser vuestro servidor; ¡pido al Señor que me asista en ello!
+
+De este modo le insistió la noble dama y le probó muchas veces, con el fin de seducirle, fuera lo que fuese lo que ella guardase en el fondo. Pero él se defendió con tal firmeza, que no reveló flaqueza alguna en su conducta, ni mal de ninguna clase, sino alegría. Y rieron y charlaron largo rato, hasta que al final decidió ella besarle, y despedirse graciosamente, y marcharse sin más demora.
+
+62.
+
+Entonces se levantó el caballero para asistir a misa. Después fue puesta la mesa, y honrosamente servida la comida. Pasó el día en compañía de las damas, mientras el señor de aquellas tierras andaba persiguiendo a aquel maligno jabalí que corría veloz por las laderas, y destrozaba los lomos de sus mejores sabuesos cada vez que encontraba donde protegerse las espaldas; pero los arqueros, acosándole, le desalojaban a pesar de sus colmillos, y salía de nuevo enfurecido: tanto arreciaban las flechas cuando las gentes se agrupaban. Entonces, hasta el más robusto de los hombres retrocedía. Por último, iba tan cansado, que ya no fue capaz de correr. Con el aliento que aún le quedaba, llegó a una oquedad que había en una elevación, junto a una roca, donde discurría una corriente. Se situó de espaldas al agua, y empezó a rascar la tierra con su pezuña; una espuma espantosa le brotaba de los cantos de la boca, mientras afilaba sus blancos colmillos. Como él, estaban exhaustos todos los hombres osados que le rodeaban, aunque ninguno se atrevía a acercarse por miedo al peligro. Ya había deudo heridos a muchos, y nadie quería dejarse despedazar por aquellos colmillos de la bestia furiosa.
+
+63.
+
+Al fin acudió el propio caballero forzando al caballo, y vio que lo tenían acorralado, y que lo cercaban sus hombres. Desmontó ágilmente, dejó su corcel, sacó su brillante espada, avanzó con paso firme, y cruzó la corriente hasta donde estaba el animal. La fiera bestia, al percibir su presencia arma en mano, erizó sus gruesas cerdas, y resopló tan furiosamente que muchos temieron que le fuese a suceder lo peor al caballero. El jabalí se lanzó derechamente sobre él con tal fuerza, que bestia y caballero fueron a caer en lo más fuerte de la corriente, tocando la parte peor al animal, ya que el hombre logró apuntarle bien en la primera embestida, le clavó certeramente la afilada hoja en el hoyo del cuello, y se la hundió hasta el puño, de forma que le atravesó el corazón. Y con un gruñido, la bestia se hundió en el agua en seguida. Un centenar de perros lo agarraron con frenéticas dentelladas, lo sacaron los hombres a la orilla, y allí lo remataron los perros.
+
+64.
+
+Hicieron sonar los cuernos repetidamente, y dieron voces llamando a cuantos hombres les oyesen; los perros, principales cazadores en esta persecución, ladraban a la bestia, tal como sus amos querían. Luego, uno de los hombres que era experto en cacerías en el bosque procedió a cortar el jabalí con hábil diligencia: primero cortó la cabeza levantándola en alto; luego lo abrió brutalmente a lo largo, extrajo los intestinos, los asó en las brasas, los mezcló con pan y premió con ellos a los perros; partió después al animal en dos grandes pedazos y quitó convenientemente los despojos. Ató juntas las mitades enteras, y las colgó de un palo. Y así preparado el jabalí, emprendieron el regreso. Delante del caballero llevaban la cabeza del animal que él mismo había abatido en el agua con la fuerza de su brazo. Le pareció una eternidad, hasta que vio a sir Gawain en el castillo. Lo llamó entonces, y acudió él a recibir lo que le correspondía.
+
+65.
+
+El señor se echó a reír a grandes carcajadas al ver aparecer a sir Gawain, y le saludó con alegría. Fueron llamadas las damas, y reunidas las gentes del castillo. Mostró entonces las dos mitades, y contó con detalle la jornada. Habló del gran tamaño del animal, y también de su maldad, acometividad y furia durante su huida por el bosque. El otro caballero elogió la aventura con gentileza, y admiró el gran valor que había demostrado tener, pues confesó que jamás había visto un animal tan musculoso, ni tales costillares en un jabalí. Le enseñaron luego la enorme cabeza, y el noble caballero la alabó y manifestó espanto ante ella, a fin de que lo oyese el señor.
+
+–Bien, Gawain -dijo el noble señor-; vuestra es esta caza, según nuestro común y firme acuerdo, como bien sabéis.
+
+–Así es -replicó-; y con la misma certeza, os doy cuanto he conseguido yo aquí, por mi honor.
+
+Se abrazó a su cuello, le besó galantemente, y volvió a besarle otra vez del mismo modo.
+
+–Ahora quedan zanjados -dijo-, por esta noche, todos los pactos que hemos acordado desde que yo estoy aquí.
+
+Y el señor replicó:
+
+–¡Por San Gil, que sois el mejor que he conocido; no tardaréis en haceros rico, si seguís con este intercambio!
+
+66.
+
+Armaron a continuación las mesas sobre los caballetes, echaron los manteles encima, encendieron brillantes luces en las paredes, pusieron hachones de cera, se sentaron los hombres, y acudieron los criados en seguida a servir. Entonces empezó gran alboroto de voces y alegría en torno al fuego encendido en el suelo, y durante la cena, y después, se cantaron muchas y nobles canciones, cánticos de Navidad y bailes nuevos, en medio de toda la alegría que el hombre es capaz de expresar cortésmente. Y durante todo el tiempo estuvo nuestro noble caballero junto a la dama. Y mostró ella una actitud tan cautivadora hacia el caballero, con furtivas y halagadoras miradas, que le hizo sentirse asombrado, y hasta molesto consigo mismo. Sin embargo, por buena crianza, no quiso corresponder con frialdad a sus insinuaciones; así que la trató con cortesía, aunque la situación era contraria a la virtud. Después de gozar cuanto quisieron en la gran sala, les llevó el señor a una cámara, y se sentaron junto a la chimenea.
+
+67.
+
+Bebieron y charlaron allí, y decidieron acordar otra vez el mismo negocio para la Noche Vieja. Sin embargo, el caballero expresó su deseo de emprender el viaje por la mañana, ya que estaba cerca el plazo al que se encontraba ligado. El señor, contrariado, quiso retenerle algún tiempo más, y dijo:
+
+–Os doy mi palabra, como fiel caballero que soy, de que estaréis en la Capilla Verde para cumplir aquello que os trae, el día de Año Nuevo, mucho antes de despuntar el sol. Así que quedaos en vuestra cámara y descansad a gusto. Yo saldré al bosque a cazar, y mantendré nuestro pacto de intercambiar lo que ganéis, por lo que yo traiga de allí; pues os he probado dos veces, y las dos os he encontrado fiel. A la tercera va la vencida; tenedlo presente mañana Disfrutemos entre tanto y pensemos en el goce, que el dolor puede alcanzar al hombre cuando quiera.
+
+Accedió Gawain de buen grado a quedarse, le sirvieron de beber, se retiraron todos, acompañados con luces. Sir Gawain duerme profundamente toda la noche. El señor, en cambio, muy de madrugada, se dispone a emprender su cacería.
+
+68.
+
+Después de misa, él y sus hombres tomaron un bocado. La mañana era alegre. A continuación, pidió su montura. Todos los cazadores que debían acompañarle estaban preparados, montados en sus caballos, ante las puertas del castillo. Los campos ofrecían un aspecto maravilloso, todavía cubiertos de escarcha. El sol tiñó de rojo encendido el celaje, y emprendió, purísimo, la marcha por el cielo poblado de nubes. Llegados al lindero del bosque, los cazadores sueltan a los perros y hacen resonar las rocas con el toque de sus cuernos; algunos de los perros dan con el rastro de un zorro que cruza muchas veces de un lado a otro astutamente, a fin de confundirlos; un perro empieza a ladrar; lo azuza el cazador; sus compañeros se le unen resoplando excitados, y corren en tropel tras el rastro verdadero, mientras el zorro huye delante de ellos. Muy pronto le descubren, y al verle le persiguen excitados, ladrando con furioso alboroto, mientras él se hurta y cambia de rumbo, corre por los sotos intrincados, tuerce y se oculta tras los setos. Finalmente, junto a una pequeña zanja, salta por encima de un espino, se agazapa en la linde de un soto, y cree estar fuera del bosque, lejos del acoso de los perros; con ello, 'se coloca sin saberlo ante un puesto de ojeo, donde tres furiosos perros grises se abalanzan sobre él, y tiene que salir osadamente, lleno de pánico, hacia el bosque.
+
+69.
+
+Fue un placer oír los ladridos cuando la jauría se echó sobre él en confuso montón, chillándole al verle tales imprecaciones sobre su cabeza, que las paredes de los despeñaderos amenazaban derrumbarse: aquí le gritaban los cazadores que se topaban con él, allá era atacado con furiosos gruñidos, acullá le llamaban ladrón; y los perros siempre detrás de su rastro, de forma que no podía parar un instante. A menudo veía que se le echaban encima, cada vez que salía a terreno despejado; entonces daba un quiebro y volvía a la espesura: tan sutil era la astucia de Renart. Y así tuvo al señor y a sus hombres tras él, por los montes, hasta mediada la mañana. Entre tanto, en el castillo, el cortés caballero dormía un sueño reparador detrás de costosa cortina, en la fría mañana. Pero el amor no dejaba dormir a la dama, ni quería sofocar ella los anhelos de su corazón; así que se levantó apresuradamente, fue a su aposento vestida con un rico manto largo hasta el suelo, forrado con finas pieles primorosamente ordenadas, sin otro adorno en la cabeza que las piedras preciosas que se distribuían por docenas en su redecilla. Con su dulce rostro, su cuello desnudo, y al aire la espalda y el pecho, traspuso la puerta de la cámara cerrando tras ella; abrió la ventana y llamó al caballero, saludándole con graciosas palabras para animarle.
+
+–¡Ah, señor!, ¿cómo podéis dormir con una mañana tan clara?
+
+Él, aunque profundamente dormido, oyó que le llamaban.
+
+70.
+
+Sumido en inquieto sueño, como el hombre que es asaltado por lúgubres pensamientos, el noble caballero murmuró algo acerca de qué le depararía el destino el día en que se enfrentase con el hombre de la Capilla Verde, y recibiese el golpe que justamente le correspondía sin que mediase combate. Pero al entrar la encantadora dama, recobró su conciencia, desechó aquellos malos sueños, y contestó apresuradamente. Se acercó ella sonriendo dulcemente; e inclinándose sobre su rostro hermoso, lo besó hábilmente.
+
+El caballero la acogió con alegre saludo; y al verla tan espléndidamente vestida, tan perfecta en su semblante y tan graciosa en sus facciones, al punto se le inflamó el corazón. Con dulces y tiernas sonrisas, intercambiando amables palabras henchidas de felicidad, no tardó en reinar la alegría entre ellos, y el contento en animar sus corazones. Sobre los dos se cernía un grave peligro, de no ser porque María medió en favor de su caballero.
+
+71.
+
+Pues le apremió de tal modo aquella excelente princesa, y le llevó tan cerca de los límites, que finalmente se vio en la necesidad de rechazar sus favores con ofensas, o tomarlos. Le preocupaba su cortesía, ya que no quería ser tenido por miserable; pero aún le preocupaba más el agravio que infligiría si cometía pecado y traicionaba al señor del castillo, su anfitrión. "¡Que Dios me salve", exclamó, "de una traición así!" Y con afable sonrisa, soslayó las dulces palabras de amor que brotaban de los labios de ella. Y dijo entonces la señora al caballero:
+
+–Merecéis reproche, si no amáis a la que yace sola junto a vos con el corazón más herido que ninguna mujer en el mundo, a no ser que os debáis a otra, por la que sentís más amor y a la que habéis ligado tan fuertemente vuestra fidelidad, que no deseáis romper ese lazo… cosa de la que ahora estoy convencida. Os ruego que me lo digáis con sinceridad, por todos los amores que existen en la vida; no me ocultéis engañosamente la verdad.
+
+–¡Por San Juan, que no! – exclamó entonces el caballero sonriendo-. Ni la tengo en este instante, ni la deseo tener.
+
+72.
+
+–Esas palabras -dijo la dama- son las peores de todas. Pero me habéis respondido, aunque me resulte doloroso; dadme un beso cortésmente, y al punto me marcharé; tal vez mi sino sea llorar como una doncella profundamente enamorada.
+
+Y se inclinó, suspirando, y lo besó dulcemente. Después se levantó; y ya de pie, dijo:
+
+–Ya que vamos a separarnos, amor mío, concededme un deseo: dadme alguna de vuestras prendas, un guante por ejemplo, por la que pueda yo recordaros y endulzar mi dolor.
+
+–En verdad -dijo el caballero- que quisiera tener aquí para complaceros la cosa más preciada de cuantas poseo en mi casa; pues repetidamente habéis merecido más recompensas de las que yo pueda daros ahora. Sin embargo, escaso valor tendría como prenda de amor lo que yo pueda cederos. No es propio de vuestro honor guardar tan sólo un guante de Gawain. Por lo demás, estoy aquí de paso hacia lugares que desconozco, y no traigo hombres que carguen con cofres de cosas preciosas; circunstancia que esta vez lamento, señora, a causa de vuestro amor. Cada hombre ha de cumplir según la situación del momento; así que no os aflijáis ni apenéis.
+
+–No lo haré, nobilísimo caballero -dijo aquella encantadora dama-; y aunque nada he obtenido de vos, tendréis una cosa de mí.
+
+73.
+
+Le tendió un rico anillo de oro rojo trabajado, en el que destacaba una piedra que despedía centelleos tan vivos como el sol. Podéis creer que era de un valor inmenso. Pero el caballero se negó a cogerlo; y dijo con prontitud:
+
+–No quiero regalos, por Dios, mi señora. No tengo con qué corresponderos, de modo que nada os tomaré.
+
+Ella insistió en que lo cogiese; pero él rechazo su ofrecimiento, jurando por su fe que no lo haría. Entonces, entristecida por esta negativa, exclamó:
+
+–Ya que rechazáis el anillo, por pareceros demasiado valioso, y no queréis tener tan alta deuda conmigo, os daré mi cinturón, para que tengáis una prenda menos costosa.
+
+Se quitó el cinto que ceñía su cintura sobre el vestido, por debajo del precioso manto. Era de seda verde y estaba adornado con hilo de oro, y bordado con hábiles dedos. Ofreció dicha prenda al caballero, y le suplicó sonriente que, si bien carecía de valor, consintiese en cogerlo. El caballero contestó que no, que de ningún modo quería tocar ni oro ni joya alguna, antes de que Dios le concediese la gracia de ver cumplida la suerte que le había traído hasta allí.
+
+–Os ruego, pues, que no lo toméis a agravio; desistid más bien de este empeño, pues nunca accederé a vuestra pretensión. Con todo, os estoy profundamente agradecido por vuestra disposición hacia mí, y siempre seré vuestro servidor, en la suerte y en la desgracia.
+
+74.
+
+–¿Rechazáis esta seda -dijo la hermosa dama- por lo humilde que es, y parece en sí misma? Pues bien, es pequeña, y más pequeño su valor. Sin embargo, quienquiera que conozca las virtudes de sus bordados, la tendrá en mayor estima; pues no habrá hombre alguno bajo el cielo capaz de hacer pedazos al caballero que se ciña este cinto verde, ni podrán matar al que lo lleve por ninguno de los medios terrenales.
+
+Meditó entonces el caballero, se dijo para sus adentros que sería de inmenso valor en la peligrosa prueba a la que debía someterse. Si, cuando llegase a aquella capilla para sufrir su sentencia, lograse escapar sin daño por medio de algún artificio, la estratagema sería en buena lid. Depuso, pues, toda resistencia, y accedió a lo que se le pedía, y la hermosa dama le ciñó el cinto que tan encarecidamente le había ofrecido. Le dio él las gracias, y la dama le suplicó que, por ella, no lo revelase jamás, sino que guardase lealmente el secreto ante su señor. El caballero dijo entonces que así lo haría, que nunca hombre alguno lo sabría, sino únicamente ellos dos. Se lo agradeció él muchas veces, y muy vehementemente, de palabra y de corazón. Y por tercera vez besó la dama a este cumplido caballero.
+
+75.
+
+Se despidió ella a continuación, y le dejó, ya que no podía conseguir de este hombre más satisfacción. Cuando se hubo marchado, sir Gawain se levantó y se vistió con nobles vestidos. Guardó la prenda de amor que la dama le había dado, ocultándola cuidadosamente donde pudiese encontrarla más tarde. Se dirigió después a la capilla del castillo, se acercó discretamente al sacerdote, le suplicó que le iluminase y le mostrase el modo de salvar el alma, tan pronto como saliese de este mundo. Luego se confesó y declaró sus faltas, las grandes y las pequeñas, y pidió clemencia y la absolución de todas ellas al hombre santo; le absolvió éste, y le dejó tan limpio y a salvo como para el Día del Juicio, si hubiese sonado esa mañana. Después disfrutó en compañía de las nobles damas, cantando villancicos y entregándose a toda clase de diversiones, como no lo había hecho en su vida, hasta que cayó la noche. E hizo tanto honor a todos los presentes, que dijeron:
+
+–¡Verdaderamente, jamás se le había visto tan alegre como hoy desde que llegó!
+
+ue siga ahora allí, bajo los cuidados del amor. Entre tanto, el señor de aquella tierra cabalga por los campos a la cabeza de sus hombres. Ha abatido al zorro que durante tanto tiempo perseguía: al saltar un espino en busca del perverso animal, por donde había oído a los perros excitados, le salió Renart al camino de entre unos espesos matorrales, con toda la jauría detrás de sus talones. El señor, al darse cuenta de su trayectoria, se apostó a esperarle.
+
+Sacó su espléndida espada, y se la lanzó al animal. Esquivó éste el arma afilada, y quiso retroceder, pero un perro se abalanzó sobre él, lo agarró antes de que lo consiguiera, y entre todos lo abatieron a los pies del caballo, atacando al astuto animal entre ladridos furiosos. Desmonta entonces el señor con presteza, lo arranca de la boca de los perros, lo levanta por encima de su cabeza, y llama a grandes voces, mientras ladran furiosos los perros. Allá acudieron corriendo los cazadores, tocando llamada con sus cuernos, hasta donde estaba su señor. Cuando estuvieron al lado del noble, hicieron sonar el cuerno quienes lo llevaban, y saludaron con la voz los que no; y fue el cántico que allí se elevó por el alma de Renart la más gozosa de las músicas que el hombre haya oído. Después, premiaron a los perros, y les frotaron y acariciaron la cabeza. Cogieron luego a Renart, y le despojaron de su piel.
+
+77.
+
+A continuación, emprendieron el regreso, ya que pronto iba a ser de noche, sin dejar de tocar sus cuernos sonoros. Al fin descabalgó el señor en su bienamado castillo, en cuya sala encontró el fuego encendido, y sentado junto a él, a sir Gawain de buen humor, indeciblemente dichoso entre las damas. Vestía una túnica azul hasta el suelo; y su manto forrado de piel de pelo fino, así como la caperuza que descansaba sobre sus hombros, iban orillados de blanca piel de armiño. Acudió al encuentro del señor; le saludó sonriente en el centro de la estancia, y dijo con cortesía:
+
+–Esta vez cumpliré yo primero nuestro pacto, que acordamos y sellamos bebiendo en abundancia.
+
+Abrazó al señor, y le besó tres veces con toda la morosidad y deleite de que fue capaz.
+
+–¡Por Cristo -exclamó el otro caballero-, que habéis tenido fortuna al conseguir tal mercancía, si es que habéis hecho bien el intercambio!
+
+–No os preocupéis por el precio -contestó en seguida Gawain-; pagado está cuanto haya conseguido.
+
+–¡Santa María! – exclamó el señor-; cierto que tiene menos valor el precio, pues yo he pasado todo el día cazando, y no traigo otra cosa que esta sucia piel de zorro… que el demonio se lleve; muy pobre precio es para el tesoro que acabáis de darme con esos tres besos tan tiernos.
+
+–Es suficiente -dijo sir Gawain.
+
+–¡Os lo agradezco, por la Cruz!
+
+Y pasó el señor a contar a los presentes cómo había sido abatido el zorro.
+
+78.
+
+Con alegría, cantos de juglares y comida en abundancia, se solazaron cuanto es capaz de solazarse el hombre. No podían sentirse más felices Gawain y el señor de aquella tierra, en medio de las risas y las bromas de las damas, a menos de caer en la embriaguez y el embotamiento. Y siguieron el señor y su compañía con las bromas, hasta que llegó el momento de separarse, en que finalmente se retiraron a descansar todos ellos. Con una inclinación de acatamiento, el noble caballero se despidió del señor, expresándole graciosamente su agradecimiento:
+
+–Que el Sumo Rey os premie por esta maravillosa acogida que he tenido aquí, y por la cortesía de este gran festín. Deseo que dispongáis de mí como uno de los vuestros. Sin embargo, como sabéis, debo marcharme mañana, si me dais un hombre que me guíe, como habéis prometido, hasta las puertas de la Capilla Verde, a fin de que, con la ayuda de Dios, afronte la suerte que el destino me reserva para el día de Año Nuevo.
+
+–Por mi fe -exclamó el buen señor-, que cumpliré con gran placer cuanto os he prometido.
+
+Seguidamente le asignó un criado que le guiara sin demora por los caminos, entre agrestes parajes y bosques. Volvió a expresar Gawain su agradecimiento al señor por los favores que le concedía, y se despidió de las dos nobles damas.
+
+79.
+
+Las besó con pesar y se despidió de ellas, y les dio las gracias sinceramente muchas veces. Respondieron ellas de la misma manera, y le encomendaron a Cristo entre tristes suspiros. Después se despidió de las gentes del castillo cortésmente; de cada uno de los hombres que había conocido, manifestando su agradecimiento por sus servicios y atenciones, y por las diversas molestias que con diligencia se habían tomado por servirle; y cada uno de ellos sintió pena de decirle adiós, como si toda la vida hubiera estado a su servicio. Luego, con hombres y luces, fue conducido a su cámara y le ayudaron cariñosamente a acostarse, a fin de descansar. No me atrevo a decir si esa noche tuvo un sueño reparador, ya que la mañana le traería muchas cosas en las que ocupar el pensamiento, si quería. Dejémosle descansar; cerca tiene ya la cita que buscaba. Si guardáis silencio un momento, os contaré lo que luego aconteció.
+
+IV
+
+l Año Nuevo se acerca a medida que pasa la noche y viene el día barriendo tinieblas, tal como el Señor tiene ordenado. En la tierra despierta el tiempo riguroso: las nubes derraman un frío penetrante, y el gélido aliento del norte aguijonea la carne. La nieve cae espesa, helando la vegetación; las ráfagas de viento bajan aullando desde las alturas, y llenan los valles de grandes ventiscas. El caballero escucha echado en su lecho. Aunque tiene cerrados los ojos, duerme poco; y cada canto de gallo le recuerda la cita. Se levantó rápidamente, antes de amanecer, a la luz de la lámpara que alumbraba su cámara. Llamó a su chambelán, que contestó en seguida, y le ordenó que le trajese su cota de malla y la silla del caballo. Se levantó éste a toda prisa, trajo la armadura, y vistió a sir Gawain con gran ceremonia: primero le puso las ropas para protegerle del frío, y luego el arnés, que le había guardado fielmente; había bruñido todas las piezas, inferiores y superiores, y limpiado las anillas de su rica cota, de forma que todo estaba tan nuevo como el día que lo estrenó, cosa que sir Gawain le agradeció satisfecho. Y el más claro caballero que ha habido desde los tiempos de Grecia se puso cada una de las piezas, todas limpias y brillantes, y pidió que le trajesen su caballo.
+
+81.
+
+Entre tanto, se puso lo más noble de su atuendo: la cota de armas, con el símbolo de las acciones puras, sobre terciopelo rodeado de virtuosas piedras y franjas bordadas, y espléndidamente forrada de pieles costosas. No olvidó Gawain, pensando en su propio bien, la cinta que la dama le había dado. Cuando se hubo ceñido sobre sus finas caderas el cinto de la espada, pasó dos veces la prenda de amor en torno suyo, y se la ató con afecto en la cintura. Muy bien le sentaba sobre su regia ropa roja de rica apariencia, pero no se puso este ceñidor por su mera belleza, ni por el valor de sus relucientes colgantes, ni por el oro que brillaba en sus bordes, sino porque podía salvarle cuando tuviese que someterse a la prueba fatal sin defenderse con espada ni cuchillo. Una vez preparado el esforzado caballero, salió, dando las gracias de nuevo a todos los criados.
+
+82.
+
+Ahora, el grande y alto Gringolet, que había descansado digna y confortablemente, estaba aparejado y mostraba deseos de emprender el galope. Se llegó el caballero a él, lo examinó, y juró lleno de convicción:
+
+–Hay aquí, en este castillo, una gente cuidadosa del honor; ¡muy orgulloso debe sentirse el señor que lo gobierna! ¡Ojalá encuentre la hermosa señora amor en la vida! ¡Ya que de este modo cuidan por caridad a los huéspedes, y mantienen tan alto el honor de su casa, quiera Dios velar por que lo conserven siempre así, y a todos vosotros también! Si me fuese dado vivir algo más en este mundo, y pudiese, con gusto os traería alguna cosa en recompensa.
+
+Puso el pie entonces en el estribo, y montó sobre su caballo; su criado le tendió el escudo, y él se lo colgó en el hombro. Espoleó a Gringolet con sus dorados talones, y emprendió la marcha sobre el pavimento, sin demorarse más ni hacer encabritarse su montura. Su criado estaba ya a caballo también, llevándole lanza y venablo.
+
+–¡A Cristo encomiendo este castillo; que Él le conceda buena suerte!
+
+83.
+
+El puente está bajado, y las anchas puertas abiertas de par en par sobre sus goznes. Se santigua el caballero y cruza las tablas. Encomienda también al guardián de la puerta que, arrodillado ante el príncipe, pide a Dios que ampare a Gawain, y vele por él ese día. Y sigue la marcha acompañado del hombre que debe mostrarle el camino a aquel peligroso lugar donde habrá de recibir el doloroso golpe. Recorren laderas pobladas de arbustos pelados, coronan acantilados cubiertos de frío. El cielo está alto; pero debajo de él, una bruma húmeda y amenazadora flota en los páramos y se disuelve en los montes; un inmenso manto envuelve cada colina; los arroyos irrumpen y hierven por todas las laderas, saltando brillantes a tierra, donde corren con fuerza. El camino que recorren por el bosque es prodigiosamente intrincado; hasta que, llegado el momento, surge el sol. Se encontraban entonces en lo alto de un monte rodeados de blanca nieve. Entonces el hombre que le daba escolta pidió que se detuviesen.
+
+84.
+
+–Hasta aquí llego con vos, señor. Ya no estáis lejos de ese famoso lugar que con tanto afán andáis buscando. Pero os hablaré con sinceridad, dado que os conozco, y sois persona a la que quiero; si hacéis lo que os aconsejo, saldréis bien parado de esto: el lugar al que corréis está guardado por hombres peligrosos, y habita su soledad el más malvado caballero de la tierra: un hombre fuerte y feroz, sediento de lucha, más poderoso que ninguno, y cuyo cuerpo es más grande que el de los cuatro mejores caballeros de la corte de Arturo, que Héctor, y que ningún otro. Siempre sale airoso de sus enfrentamientos en la Capilla Verde; nadie logra vencerle en ese lugar, por orgulloso que sea con sus armas; y muere bajo el golpe de su mano; pues es un hombre descomunal que no conoce la clemencia, y aun si fuese campesino o capellán el que osara acercarse a su castillo, o monje o sacerdote o cualquier otro santo varón, juzgaría conveniente matarle de igual modo. Por ello digo que, tan cierto como estáis sentado en esa silla, si vais allí, moriréis, según los designios del caballero. Tomad por cierto lo que digo, aunque tuvieseis veinte vidas que perder. Hace mucho tiempo que vive allí, promoviendo luchas en estas tierras, y no podréis defenderos contra sus golpes terribles.
+
+85.
+
+Por tanto, mi buen sir Gawain, olvidad a ese hombre y coged otro camino, en nombre de Dios. Partid hacia cualquier otra región, donde Cristo pueda asistiros; por mi parte, me apresuro a regresar, y os prometo jurar por Dios y por todos sus buenos santos, y con toda la fuerza y vehemencia de los más graves juramentos, que guardaré vuestro secreto, y que jamás contaré que os he visto huir de ningún caballero.
+
+–Te lo agradezco -dijo Gawain; y añadió con disgusto-:
+
+bien veo, hombre, que deseas mi bienestar, y creo firmemente que sabrías guardar fielmente el secreto. Pero por muy callado que lo tuvieras, si yo me marchara de aquí, y por miedo huyese de la forma que dices, sería para siempre un caballero cobarde sin posibilidad de disculpa. Así que quiero ir a la capilla, cualquiera que sea la suerte que me espere, y decir exactamente las palabras que me plazcan, sea malo o bueno lo que el destino me depare. Quizá resulte difícil doblegar al caballero del hacha; sin embargo, bien podría el Señor interceder para salvar a uno de sus siervos.
+
+86.
+
+–¡Santa María! – exclamó el hombre-; si tan claro tienes ahora que vas en busca de tu propia perdición, y te place perder de ese modo la vida, no soy quién para impedirlo. Ponte el yelmo en la cabeza, toma la lanza con la mano, y baja por el sendero que pasa junto a aquella roca, hasta llegar al fondo de ese valle escarpado; luego mira un poco hacia la llanura, a tu izquierda, y verás en una ladera la mismísima capilla, y al fornido caballero que la gobierna. Ahora me despido. Que Dios se apiade de ti, noble Gawain. Ni por todo el oro del mundo te acompañaría, ni daría contigo un paso más en este bosque.
+
+Dicho esto, el hombre tira de la rienda, da la vuelta hacia el bosque y, picando espuelas cuanto puede, cruza el campo al galope dejando solo al caballero.
+
+–¡Por Dios vivo -exclama Gawain-, que no voy a llorar ni a gemir! A la voluntad de Dios me someto, y a Él me acojo.
+
+87.
+
+Espolea entonces a Gringolet, desciende por aquel sendero, y recorre la áspera falda, derecho hacia el valle. Mira entonces a su alrededor; el paraje le parece sombrío, pero no descubre signo de morada por ninguna parte, sino altas y empinadas pendientes a uno y otro lado, enhiestos y escarpados picos de tosca roca cuyas cimas parecen rozar los cielos. Detiene entonces al caballo, y mira en todas direcciones buscando la capilla. Extrañamente, no ve nada parecido por ninguna parte, excepto una pequeña elevación que se adentra un poco en el llano, un montículo suave al borde de un río, cuyas aguas corren allí precipitadamente, y borbotean como si estuviesen hirviendo. El caballero pica a su caballo, y se acerca a dicha elevación; descabalga allí ágilmente, y ata la rienda a la gruesa rama de un tilo. Se acerca y da la vuelta alrededor del montículo, deliberando consigo mismo sobre qué puede ser. Encuentra una abertura en el extremo y otras dos a ambos lados; ve que está cubierto por grandes rodales de yerba, y que es todo hueco por dentro: se trata tan sólo de una vieja caverna, quizá la grieta de un antiguo peñasco; no sabe exactamente cómo calificarla.
+
+–¡Dios mío! – exclama el noble caballero-, ¿será esto la Capilla Verde? Aquí podría cantar el propio Diablo a media noche sus maitines.
+
+88.
+
+"Verdaderamente -se dijo Gawain-
+
+–, es éste un lugar desolado; un horrendo oratorio cubierto de yerba, muy apropiado para que el Caballero de Verde cumpla aquí sus devociones con el Diablo. Ahora veo con claridad que el Enemigo me ha atrapado con este pacto para destruirme. Ésta es una capilla de desdicha… ¡Mal haya este lugar, pues es la iglesia más maldita en que he puesto yo jamás los pies!"
+
+Con el noble yelmo en la cabeza, la lanza en la mano, sube a lo alto de aquella rudimentaria morada. Entonces oyó, desde allí arriba, en una roca de difícil acceso al otro lado del arroyo, un ruido prodigioso y sobrecogedor. ¡Cómo resonaba chirriante entre las rocas, igual que una muela afilando la guadaña! ¡Cómo zumbaba y siseaba, igual que el agua de un molino! ¡Cómo rodaba y resonaba y sobrecogía el oírlo!
+
+–¡Vive Dios -exclamó Gawain- que ese ingenio suena en mi honor, y me da la bienvenida como corresponde a un caballero! Sea lo que Dios quiera, puesto que no se digna ayudarme ni una pizca. Pero, aunque aquí deje yo la vida, no me amedrentará ningún ruido.
+
+89.
+
+Entonces el caballero gritó muy alto:
+
+–¿Dónde está el señor de este lugar, que me ha emplazado? Aquí tiene al valeroso Gawain, que ha venido. Si algún caballero quiere algo, que venga aquí, ahora o nunca, y despache pronto aquello que le incumbe.
+
+–Espera -dijo alguien desde la falda del monte, por encima de su cabeza-, y en seguida tendrás lo que una vez te prometí.
+
+Sin embargo, siguió aquel ruido chirriante y prodigioso, y no paró de afilar; hasta que al fin decidió descender. Se abrió paso por un despeñadero, y salió de una abertura, apareciendo con un arma feroz, con la que devolver el golpe, una hacha danesa acabada de afilar, cuya tremenda hoja de cuatro pies de ancho se curvaba sobre el mango. Su cordón brillaba con vivos centelleos. En cuanto al hombre, iba vestido de verde como antes, con el semblante, las piernas, el cabello y la barba del mismo color; caminaba con pie firme sobre el suelo, apoyando el mango en las piedras y avanzando con él. Al llegar a la corriente, la saltó y siguió andando arrogante, con ademán feroz, por el ancho campo cubierto de nieve. Sir Gawain salió a su encuentro, sin saludarle ni hacer gesto alguno de respeto; y dijo el otro:
+
+–Bien, mi buen señor; veo que eres fiel a la cita.
+
+90.
+
+–¡Que Dios te proteja, Gawain! – exclama el Caballero Verde-. Bienvenido seas a mi morada; veo que has calculado muy bien tu viaje, como hombre digno de palabra, y que no has olvidado la cita acordada entre los dos: hace doce meses cumpliste tu parte; hoy, en este día de Año Nuevo, me toca a mí corresponder. Aquí, en este valle, estamos completamente a solas; nadie nos vendrá a estorbar, y podremos tratar esto como nos plazca. Quítate el yelmo ya, a fin de que yo te dé tu pago; no interpongas más discursos de los que yo presenté cuando segaste mi cabeza de un solo tajo.
+
+–¡Por el Dios que me dio el alma -exclamó Gawain-, que no presentaré ningún agravio al mal que voy a sufrir! Pero hazlo de un solo golpe, que yo me tendré con firmeza sin oponer resistencia.
+
+Inclinó el cuello, dejando al aire la carne desnuda, y adoptó una actitud impasible, ya que no quería demostrar temor.
+
+l enorme hombre de verde se colocó en posición, y alzó su siniestro instrumento, dispuesto a asestar el golpe a Gawain. Lo enarboló con toda la energía de su cuerpo, en ademán de destruirle. Descargó el golpe, y allí mismo habría muerto el más bravo caballero de cuantos existieron, bajo este golpe certero. Pero al ver Gawain descender el hacha en el espacio luminoso, dispuesta a acabar con él, sus hombros se estremecieron esperando el hierro. El otro contuvo entonces el arma con vivo movimiento, y reprendió al príncipe con orgullosas palabras:
+
+–Tú no eres Gawain -exclamó-, de quien se dice que es tanto su valor, que jamás le arredró ejército alguno ni por montes ni por valles; tú te encoges de temor antes de sentir el daño. Jamás he oído acusar a tal caballero de semejante cobardía. Tampoco vacilé yo, ni me encogí, cuando descargaste el golpe tú, ni proferí objeción alguna ante la corte del rey Arturo. Mi cabeza cayó a mis pies; sin embargo, no huí. A ti, en cambio, antes de haber recibido ningún daño, se te encoge el corazón. Soy yo, pues, quien debe ser tenido por el mejor caballero de los dos.
+
+–Una vez me he inmutado -dijo Gawain-, pero no volverá a suceder. Aunque, si cae mi cabeza entre las piedras, no la podré recuperar.
+
+92.
+
+"Prepárate, por tu vida, y cumple en esta cuestión. Descarga sobre mí el golpe fatal, y hazlo sin demora; que yo aguardaré a pie firme, sin un solo sobresalto, hasta que caiga el hacha; te doy mi palabra".
+
+–¡Ahí va, pues! – dice el otro; levanta en alto el hacha, loco de furia; descarga un golpe poderoso, pero no alcanza a rozar al hombre. Retira rápidamente la mano antes de que llegue a herir, mientras Gawain aguarda gravemente sin mover un solo miembro, inmóvil como la piedra o el tronco agarrado con cien raíces a un suelo de roca. Y añade sonriente el hombre de verde-: Ahora que ya has recobrado el valor, es cuando puedo descargar mi golpe. ¡Mantén en alto esa dignidad que Arturo te concedió, y prepara el cuello para este momento supremo, si es que te ha de llegar!
+
+A lo que respondió Gawain, lleno de irritación:
+
+–¡Golpea ya, hombre feroz!; te entretienes demasiado amenazando. Creo que es tu corazón el que ahora flaquea.
+
+–En verdad -dijo el otro caballero-, que hablas con vehemencia. No demoraré más el asunto que te ha traído aquí. Se pone en disposición de golpear, frunciendo la boca y el ceño, y no es extraño que el que va a recibir el golpe no espere salvación.
+
+93.
+
+Levanta ágil el arma y la deja caer limpiamente con el filo hacia el cuello desnudo. Pero, aunque baja con fuerza, no llega a producir sino una leve incisión, tras cortar un poco de piel: la afilada arma muerde la carne a través de la blanca grasa, de forma que salta la sangre preciosa de los hombros al suelo. Al verla brillar el caballero en la nieve, dio un brinco de más de una lanza de largo, cogió el yelmo y se lo puso en la cabeza, se descargó el noble escudo, blandió su brillante espada, y exclamó con fiereza -jamás hubo en este mundo hombre nacido de madre la mitad de exultante que él-:
+
+–¡Basta ya de golpes, no descargues más! Ya he soportado uno sin oponer resistencia; si intentas otro, ten por seguro que te lo he de devolver aquí mismo con igual violencia. ¡Sólo un golpe debía recibir en justicia, según lo acordado en la corte de Arturo; así, pues, noble señor, teneos ya!
+
+94.
+
+El hombre se apartó, descansó el hacha en el suelo, se apoyó en ella, y observó al caballero mientras avanzaba por el llano; y al ver a aquel esforzado y valeroso varón, armado y sin miedo, se sintió complacido. Entonces habló con su voz atronadora, y dijo muy alto, sonriente:
+
+–Valeroso caballero: no te muestres tan furioso en este campo; nadie te ha tratado aquí de forma descortés, ni se te ha dado nada que no se acordase en la corte del rey. Yo te prometí un golpe, y lo has recibido; date, pues, por pagado. Te libero de todos los demás derechos que pueda reclamar. Si llego a golpear con energía, quizá te habría causado más dolor. Primero te he amenazado en broma, simulando el golpe tan sólo, y sin infligirte un solo rasguño. Lo he hecho con justicia, por el pacto que hicimos la primera noche, ya que fuiste sincero y me guardaste fidelidad, al darme como caballero leal cuanto ganaste. El otro amago de golpe ha sido por el día siguiente, en que besaste a mi bella esposa, y me devolviste a mí los besos. Por esas dos pruebas te he descargado aquí dos golpes inofensivos: al leal se le paga con lealtad; así que ningún peligro has de temer. Pero fue en el tercero donde fallaste, y por ello has sufrido ese otro golpe.
+
+95.
+
+"Porque es mío el cinto que llevas ceñido: sé que fue mi propia esposa quien te lo dio. Y sé de su conducta y tus besos, y de los requerimientos de ella… porque todo fue preparado por mí. Fin yo quien la envió para probarte; y en verdad, me pareces el caballero más intachable que haya puesto el pie sobre la tierra. Del mismo modo que la perla es de muchísimo más valor que un guisante blanco, así es Gawain, en verdad, comparado con otros nobles caballeros. Pero aquí fallasteis un poco, señor, y os faltó lealtad; aunque no os hizo caer la astuta malicia ni el deseo de amor, sino el apego a vuestra vida; cosa que es más disculpable".
+
+El orgulloso caballero se quedó largo rato perplejo, tan agobiado por la ira que temblaba en su interior. Se le agolpó en la cara toda la sangre del pecho, y se encogió de vergüenza al oír aquellos reproches. Y con las primeras palabras que le vinieron a la boca, exclamó:
+
+–¡Malditas sean tu cobardía y codicia! En ti medra la infamia y el vicio que destruye la virtud -echó entonces mano al lazo del ceñidor, lo desató, y se lo arrojó al caballero-. ¡Ahí va la falsa prenda en hora mala, pues la ansiedad por tu golpe me ha hecho caer en cobardía, de modo que, cediendo a la codicia, renuncié a mi condición, que es la liberalidad y la lealtad, tal como cumple a los caballeros. Yo, que siempre he hecho esfuerzos por huir de la perfidia y la traición, soy ahora falso e imperfecto. ¡Malditos sean este cuidado y esta ansiedad! Aquí mismo os confieso, caballero, que toda la culpa es mía. Imponedme la pena que queráis; que en adelante me portaré con más cuidado.
+
+96.
+
+Entonces el otro caballero se echó a reír, y dijo afablemente:
+
+–Ya está sobradamente restañado el daño que he sufrido. Has confesado y reconocido con toda limpieza tus culpas, y has sufrido penitencia con el filo de mi arma, que te ha absuelto de esa falta, purgándote tan por completo como si nunca hubieses cometido transgresión alguna desde el día en que naciste. Así, pues, señor, te doy este ceñidor adornado con hilo de oro, que es verde como mi atuendo, a fin de que recuerdes este encuentro cuando andes entre príncipes, y sirva de testimonio de la aventura en la Capilla Verde, ocurrida entre esforzados caballeros. Ven otra vez, en este Año Nuevo, a mi morada, y disfrutemos plenamente de esa festividad. – Y añadió para dar mejor fuerza a su invitación-: Estoy seguro de que mi esposa, vuestra ardiente enemiga, se mostrará ahora más amistosa.
+
+97.
+
+–No, excusadme -contestó el caballero, al tiempo que se quitaba el yelmo cortésmente, y daba las gracias al señor-; ya me he demorado bastante. ¡Que la suerte os asista, y Él os colme muy pronto de todos los honores! Presentad mis respetos a vuestra bella esposa; a ella y a la otra, pues las dos son damas muy honradas por mí, pese a que con tanta habilidad han engañado a su caballero. Pero nada prodigioso hay en que un loco cometa locura, y le lleven a la desgracia las argucias de mujer; así sedujo una a Adán en el paraíso, y varias a Salomón; y lo mismo sucedió a Sansón, a quien Dalila llevó a la perdición, y a David, al que dejó ciego Betsabé, y sufrió terriblemente. Por tanto, si sufrieron por las artes de las mujeres, será gran ganancia amarlas y no creerlas. Si es posible: pues éstos fueron en otro tiempo los varones más nobles y favorecidos de la fortuna, y aventajaron a cuantos habitaron bajo el cielo; y todos fueron seducidos por las mujeres con las que tuvieron trato. A mí, sin embargo, aunque hoy he sido seducido, creo que me asiste una excusa.
+
+98.
+
+"¡En cuanto a vuestro ceñidor -dijo Gawain-, que Dios os lo pague! Gustosamente me lo quedo; no por el oro que trae, ni por la seda, ni sus costosos colgantes; no por su riqueza y valor, ni por sus labores espléndidas; sino que lo miraré muchas veces como testimonio de mi culpa, cuando cabalgue glorioso, a fin de recordar con remordimiento la falta y la fragilidad de esta carne perversa, tan expuesta a las seducciones del pecado. Así, cuando el orgullo me hostigue el corazón, apremiándome a buscar proezas de armas, una mirada a esta prenda moderará mis anhelos. Pero una cosa quiero pediros, si no os causa agravio, puesto que sois señor de esta tierra, donde he permanecido, y he sido honrado por vos (que el Señor que gobierna los cielos y los altos lugares os lo pague), y es que me digáis cuál es vuestro verdadero nombre. Eso nada más".
+
+–Te lo diré con franqueza -dijo el otro entonces-. En esta tierra soy Bertilak de Hautdesert [21], y me tiene así encantado y cambiado de color el poder del hada Morgana [22] que habita en mi morada, la cual, por el saber de ciertas artes bien aprendidas, ha llegado a dominar muchos de los poderes de Merlín[23]; pues durante un tiempo compartió un profundo amor con este bondadoso sabio, conocido por todos los caballeros de vuestra corte. La diosa Morgana, se llama; y no hay nadie, por poderoso que sea, a quien ella no pueda someter.
+
+99.
+
+"Ella fue quien me envió de esta forma a vuestra noble corte para poner a prueba vuestro orgullo, y ver si es cierta la fama de la Tabla Redonda. Ella me embrujó de este modo, a fin de confundiros, y de sobrecoger a Ginebra y hacerla morir de terror ante la visión de un hombre hablando horriblemente con la cabeza en la mano, delante de esa mesa tan excelsa. A ella, a esa antigua dama, tengo yo en mi casa: tía tuya es, hermanastra de Arturo, hija de la duquesa de Tintagel, la cual tuvo de sir Uther a Arturo, hoy en la plenitud de su gloria. Por tanto, te insto, caballero, a que vuelvas con tu tía, y alegres mi casa; mis gentes te quieren, y yo te he cobrado afecto como a ningún hombre salido de la mano de Dios, por tu probada lealtad".
+
+Pero el caballero no quiso acceder de ningún modo. Se abrazaron y besaron a continuación, encomendándose el uno al otro al Príncipe del paraíso; y dejaron aquel paraje frío. Gawain, montado en su buen caballo, emprendió rápido retorno a la corte del rey; y el caballero de vivo verde se encaminó adonde quería.
+
+100.
+
+Por caminos abruptos cabalga ahora Gawain sobre su Gringolet, gracias a Dios con vida todavía. Muchas son las veces que es acogido bajo techo, muchas las que tiene que dormir al raso, y muchas las aventuras de las que sale airoso, que no es mi intención recordar aquí. Ha sanado la herida de su cuello, y lleva siempre el brillante cinturón ceñido en bandolera bajo el brazo izquierdo, atado en apretado nudo, en prueba de que fue cogido una vez en falta. Y así llega el caballero a la corte, sano y salvo. Y cuando los nobles supieron la noticia de que el buen Gawain había regresado, el júbilo despertó en aquel castillo. Le besa el rey, también la reina; y después, muchos caballeros deseosos de saludarle. A continuación le hacen multitud de preguntas acerca de su aventura, y él les cuenta los prodigios, y les habla de los trances por los que tuvo que pasar: la aventura de la Capilla, la feliz acogida del caballero, el amor de la dama, y por último, el cinto. Les mostró la señal de su cuello desnudo que recibió, en castigo por su falta de lealtad, de manos del caballero. Y sufrió terriblemente cuando tuvo que contar la verdad: gimió de pesar y de vergüenza, y el rubor se le agolpó en la cara al enseñarla.
+
+101.
+
+–¡Mirad, mi señor! – exclamó el caballero, mostrándole la prenda-, ésta es la cinta por la que llevo este estigma en el cuello; ésta es la afrenta y el menoscabo que allí he recibido por la cobardía y la codicia; ésta es la prueba de la deslealtad en que he sido cogido, y es preciso que la lleve mientras viva. Un hombre puede ocultar su mancha, pero nunca podrá deshacerse de ella; pues, una vez impresa en él, quedará imborrable para siempre.
+
+El rey animó al caballero, y también el resto de la corte; rieron todos de buena gana con este trance, y acordaron jovialmente que todos los señores y damas pertenecientes a la Tabla Redonda, y cada paladín de esta confraternidad, llevasen cruzada una cinta de verde brillante, en prueba de afecto por aquel caballero. Y se acordó reconocer en ella el distintivo de la Tabla Redonda, honrando así eternamente a quien la llevara, tal como cuenta el mejor de los libros sobre romances. Ésta es la ventura que aconteció en tiempos de Arturo, después de que diesen los libros testimonio de Bruto; después de llegar este esforzado varón a Britania; después de terminado el asedio y asalto de Troya. Y son muchas las aventuras como ésta que acontecieron en tiempos pasados.
+
+¡El que ciñe corona de espinas nos conceda su alegría!
+
+AMÉN.
+
+HONY SOYT QUI MAL PENCE[24]
+
+EPÍLOGO
+
+La literatura del Medievo nos queda distante en el tiempo, pero lo que realmente nos separa no es tanto la distancia temporal como los modelos culturales que alejan ambos mundos. Para el hombre medieval, el mundo era representación de otra realidad que no era posible percibir en sí misma. Los astros, los peces, las plantas, los hombres, todo el universo era un inmenso símbolo de lo invisible cuya unidad radical se traduce por las correspondencias misteriosas entre sus más diversas partes. Lo "sobrenatural" -esa experiencia ausente de nuestra cultura- era el barro inspirador de la Imagen del Mundo. Los pilares de su modelo se construyen bajo estas nociones. Por ello, no es de extrañar que la literatura tomara raíces en este sentimiento alegórico de las cosas, ni que gran parte de los- llamados romans d'aventure no fueran para su época simples fantasías de fácil maravilla, sino que encerraran un sentido simbólico bajo sus imágenes.
+
+En los lapidarios y los bestiarios, encontramos en cada animal una enseñanza moral, o en cada piedra un fundamento de la simpatía universal. Para el Trobar Clus, el trovar más oscuro y difícil, el sentido literal puede esconder otro argumento que el que nos da la letra. "Mi verso -dice Alegret- parecerá insensato al tonto, si no tiene doble entendimiento… Si alguno quiere contradecirlo, adelántese, y le diré cómo me fue posible poner palabras de diverso sentido". En la misma Vita Nuova de Dante hay complicados juegos numéricos, y uno de los editores advierte que la obra no puede ser interpretada literalmente.
+
+El sensus allegoricus de los exégetas se convierte también para los hombres de letras y los humanistas medievales en el instrumento principal para desarrollar el contenido de su lenguaje. No es una estética de la imaginación pura, ni una estética de la razón pura. Se funda esencialmente en el dinamismo heterogéneo de las imágenes. Bajo la guía de la imaginación la razón se eleva a otra visión, de doble o múltiple significado. Y como la unidad de significación no es adecuadamente representable por palabras o con una sola imagen, es natural que las representaciones se multipliquen con sus analogías y oposiciones para sugerir o manifestar el contenido.
+
+Por meros hábitos culturales nos negamos a establecer coherencia interna en una sucesión de imágenes fantásticas. Para nuestro mundo, estructurado en la hipertrofia de la razón, el juego parabólico del símbolo es una pura suplantación de la realidad. Pero en la Edad Media lo "fantástico" era tan concebible como la espada, pues el "otro mundo" era la otra parte de la realidad y estaba íntimamente interrelacionado por medio de los símbolos, o los "oscuros" designios divinos.
+
+Sir Gawain and the Green Knight es un pequeño diamante de alegorías. Como literatura nos quedan vivas sus ricas y complejas imágenes, singularmente tejidas en la rara perfección de su argumento. En ellas, nada hay del realismo crítico que podemos apreciar en Chaucer, ni de la crisis de valores que pesaba sobre su tiempo. Observamos que los protocolos se cumplen con rigor, que las escenas de caza son directas y minuciosas; incluso el detallado desollamiento de las presas es una lección del oficio. Estas tonalidades realistas, que nos hacen evocar la época, contrastan con las secuencias intemporales de las "aventuras" y "maravillas" del reino de Arturo. Si éstas dan el sentido simbólico al cuento, no están aisladas como endebles figuras de una alegoría abstracta, y se arraigan en el mundo cotidiano medieval con sus reglas y costumbres.
+
+El poema da comienzo, durante la celebración de la Navidad en Camelot, con la llegada inesperada de un inmenso y pavoroso caballero verde, que irrumpe bruscamente en la corte, empuñando una horrible y grande hacha de muerte. Éste propone a la corte el juego de la Decapitación, cuyo modelo se remonta seguramente, según Jean Maréale, a las iniciaciones guerreras de los celtas. Encontramos este tema en la épica irlandesa del siglo IX, en el Festín de Briciu. Este relato narra cómo un gigante, Uath mac Immain (Terror, hijo del Gran Miedo), propone a Cuchulainn jugar este juego en los mismos términos: "Haremos lo siguiente -dice-: aquí está mi hacha; es preciso que uno de vosotros la tome y me corte la cabeza. Pero mañana será preciso que yo le corte la suya". Cuchulainn acepta, toma el hacha y le sesga la cabeza. "Uath se levantó, tomó su cabeza contra el pecho, recogió con una mano el hacha y se precipitó hacia el lago". Al día siguiente, Cuchulainn vuelve y coloca la cabeza sobre una piedra delante de Uath. Entonces el gigante volteó tres veces el hacha, sin abatirla, y declara a Cuchulainn vencedor.
+
+Este hermoso fragmento arcaico, u otras posibles fuentes del tema de las decapitaciones, como dice Tolkien, interesaban poco al hombre cultivado del siglo XIV. A éste no le importaba buscar los orígenes de la historia; le atraía el significado directo de las figuras del cuento*, o de los modelos emblemáticos que van apareciendo a lo largo de la historia. Siguiendo esta pauta, el poeta describe con minucioso cuidado, en la vigesimoséptima estrofa, el blasón de Sir Gawain con el Pentáculo y la Virgen "pintada en su cara interior".
+
+En aquella época, la heráldica tenía gran importancia no sólo como signo de poder, sino como cifra simbólica. El escudo era una protección que salvaguardaba, pero también una enseña que exponía el emblema moral y espiritual del caballero. Aunque, a partir del siglo XI, el blasón se convertiría en hereditario, aquí guarda un claro sentido alegórico de la figura de Sir Gawain.
+
+El escudo en su cara exterior es de "gules brillantes" **, con una estrella de cinco puntas en oro. Este emblema es un modelo particular del poema, pues Gawain, en las demás versiones artúricas, siempre tiene un león o una águila pintada en sus armas. No se encuentra en literatura inglesa de la época, aunque sí existen pentáculos en diversos manuscritos e iglesias. En todo caso, los arduos exégetas ya habían observado que el hombre puede definirse sea por las cinco extremidades de la cabeza, de los pies y de las manos, sea por los cinco sentidos que expresan la vida de la carne. En el Génesis los animales fueron creados el quinto día; por esta razón la vida animal se expresa por los cinco sentidos. Y como el hombre ha pecado por los cinco sentidos ha de ser rescatado por las cinco llagas del Salvador, como dice San Agustín. Éste es el sentido teológico del escudo, aunque el símbolo en sí sea más extenso y no se circunscriba necesariamente a una sola significación.
+
+El Pentáculo para Agripa de Nettesheim es el símbolo del Hombre y el Microcosmos. Si se dibuja, puede trazarse sin levantar el lápiz e infinitamente; por ello, acaso, sea llamado por el autor "Nudo Sin Fin". Además, el 5 es un número circular, porque al multiplicarse vuelve a sí mismo sin cesar: 5 X 5 = 25; 25 X 5 = 125; 125 X 5 = 625…
+
+Siguiendo la historia, el héroe se adentra en bosques desconocidos, cruza vados y encuentra "maravillas", combate con dragones y hombres salvajes en los despeñaderos, hasta que súbitamente se le aparece el castillo. Este pasaje incorpora el tema de las tentaciones y el intercambio de trofeos de caza. Las tres historias están intrincadamente ligadas con gran sutileza: Sir Gawain, incapaz de hallar la Capilla Verde, encuentra su opuesto correspondiente en el castillo donde se hospeda, que es la otra cara de su aventura. La bella mujer de su huésped visita su lecho tres veces, proponiéndole con perspicacia el deleite. En sus cortas venidas, el autor, sonrientemente, escenifica una alta comedia donde Sir Gawain ha de rechazar los delicados avances de la dama sin caer en descortesía. A ello, el poeta ha añadido tres espléndidas escenas de caza, en las que el huésped del castillo, durante los tres días de la seducción, caza los venados, el jabalí y el zorro. Es obvio que estos tres episodios son paralelos a los del aposento. El gozo físico de la caza se corresponde al gozo del cuerpo y su animal. Los encantos de la dueña concluyen con el contraste del ceremonial de desollamiento, que semeja, como en sueño, una cruda imagen carnal de obediente represión, ya que Sir Gawain ahoga su cuerpo por mantenerse firme en el ideal de la pureza.
+
+Cada animal parece claramente tener una cualidad simbólica particular de acuerdo con el comportamiento del caballero; lo que ilustra con cierto humor el juego de los intercambios. El ciervo y el jabalí son instintos, fieras más o menos puras o domesticables. Pero el zorro, en los bestiarios y fábulas medievales, es una imagen frecuente del diablo y sus tretas. Así, el tercer día, la dama, "con astuta malicia", ofrece al caballero su anillo. Pero él se resiste, porque un anillo implica fidelidad y entrega. La dama persevera con sutileza y logra que acepte el cinto verde para hacerle invulnerable. La prenda, entonces, se carga de poder mágico: "pues no podrán matar al que lo lleve por ninguno de los medios terrenales".
+
+Sir Gawain no se ata a ningún vínculo de amor, pero acepta servirse de la prenda mágica que le confía la dama para protegerse, pues siente miedo del misterio que le aguarda en la Capilla Verde. En el Castillo de la Tentación, en aquella magnífica morada de gozos y esparcimiento, que puede entenderse como una alegoría del cuerpo, Gawain no se abandona al solaz de los cinco sentidos, fiel al Pentáculo de la pureza. Pero el personaje cobra realidad humana, tiene debilidades, de alguna formase aparta de su Dama del Corazón, de su fe en la Virgen, para aliarse con la magia femenina.
+
+El resto de la historia nos es conocida: el caballero cruza un sombrío y descarriado valle hasta llegar a la boca de la Capilla Verde, que es una caverna ancestral, y allí, como Cuchulainn, vence la prueba. El romance parece perder intensidad y profundidad con la explicación de la aventura de Gawain, que no es un simple examen de lealtad caballeresca, cuyos ideales, además, ya estaban algo oxidados y resecos en el último tercio del siglo XIV. No sabemos si el autor quiso encubrir la tensión simbólica del cuento involuntaria o consentidamente. Ni siquiera podemos estar seguros si se propuso profundizar en los componentes míticos que había manejado con tanta fortuna. Aun así, la historia no deja de perder su grandeza arcaica ni su fuerza intemporal.
+
+Sir Gawain, en esta obra, es la imagen del caballero cristiano en su encrucijada, pero, fuera de todo contexto histórico o religioso, es el hombre arquetípico frente a lo femenino y sus símbolos. Inicia su andadura protegido por el escudo de la Virgen para enfrentarse a la magia de Morgana. La Virgen y Morgana son dos símbolos femeninos de la Luz y de la Noche. De la pureza del hombre y del poder oscuro de la mujer, de la Madre primitiva, el eterno contrario maldito por los siglos.
+
+Estos dos símbolos, que no eran en la Edad Media figuras lógicas sino identidades ocultas, conforman la aventura simbólica de Gawain. El Caballero Verde no es una figura independiente, sino un "fantasma del reino de las hadas", una apariencia poderosa de las artes de Morgana. En realidad a quien se enfrenta Sir Gawain es a las sombras de esta hechicera. Su lucha es una especie de combate interior con lo femenino en el anverso y reverso del Castillo o la Gruta, con su hermosa dueña o su abominable verdugo.
+
+La vieja y sabia Morgana hace ver que el deseo y el miedo pueden hacer perder la cabeza, que simbólicamente es el espíritu. Pero esta simple perogrullada es el umbral a la prueba que lleva al reino de las hadas, a la noche femenina, donde lo masculino siempre ha levantado su escudo de luz como Perseo. La pureza y el Logos están inscritos en el Pentáculo para vencer a otra Medusa: Morgana, en cuyo reino el hombre heroico entrará con su valor luminoso…
+
+El dilema del cuento sigue abierto.
+
+No por estas tenues observaciones vamos a cercar el área de significación del poema. Nada puede encerrar la fuerza poética y reveladora de las imágenes medievales que por su naturaleza simbólica tienen sentido diverso.
+
+En nuestra cultura este lenguaje está ausente del espíritu desde que Descartes inició el modelo de la mecánica del mundo objetivo. La Imago Mundi ha cambiado, eso es todo. Y el horizonte de toda significación es ahora la acción y extensión de la palabra. El medio unificador de lo claro y lo oscuro, el símbolo, se ha perdido en el olvido deslumbrado por el Logos. Los fenómenos naturales y metafísicos han sido arrancados del círculo analógico y dinámico del mito para entrar en el sistema de comprensión lógico.
+
+La antigua encrucijada de Sir Gawain ha muerto para la conciencia moderna, que anda demasiado ocupada en sí misma. Pero esto no quiere decir que los mismos símbolos, que sus mismas sombras, no sigan obsesionando al hombre actual.
+
+El pasado no es un inmóvil museo de reliquias.
+
+JACOBO F. J. STUART
+
+[1] De acuerdo con las nociones medievales de la Historia, Eneas de Troya y sus descendientes conquistaron y bautizaron diversos reinos, y Félix Bruto, después de cruzar el canal de la Mancha, "las aguas francesas", funda Britania. El traidor al que se refiere la segunda línea es, según I. Gollancz, Antenor, que en la Eneida es un leal consejero, pero aparece como un traidor en los escritos pseudoclásicos de las versiones posteriores de la historia de Troya. Este marco histórico se basa en un conjunto de leyendas y temas memorables de la literatura que recogieron y desarrollaron, no sin talento, Nennio (s. IX) y Geoffrey de Monmouth (s. XII). En el fondo no hacían sino cumplir el modelo de la Historia que se tenía en el Medievo, en el cual al estudiar el pasado no se pretendía hacer acopio exhaustivo de datos, sino más bien ensalzar las virtudes en aventuras y hechos de armas, ya fueran reales o imaginarios, para dar "ejemplos" al porvenir. Desde este punto de vista, digamos didáctico, el relato y la crónica no se solían diferenciar. Además, ninguna "filosofía de la historia" tenía lugar en un mundo gobernado por Fortuna, de cuyo aciago devenir sólo podía salvar la Providencia.
+
+[2] Arturo: debemos a Geoffrey de Monmouth por su Historia Regum Britanniae la incursión de Arturo en la historia de los reyes de Inglaterra y, en parte, la gran propagación de su aureola mítica. Por lo demás, los escasos documentos históricos sobre un posible rey Arturo en la antigüedad tienen poco valor documental. Este famoso rey parece ser un legado legendario del mundo celta, transmitido por la tradición oral y el folklore, cuyos temas evolucionarían en la literatura a partir del siglo XII, tomando forma en las costumbres y en la imaginación de la época. En los romans, Arturo es rey de Bretaña, hijo de Uterpendragón y de Ygerne. Está casado con la reina Ginebra, la dama más bella del reino, y tiene dos hermanas, Morgana y Anna o Enna, con la que se acostará sin conocer su sangre, y de la que tendrá un hijo incestuoso, Mordrez (Mordret), que le traicionará nombrándose rey en ausencia de Arturo y queriéndose casar con Ginebra. Arturo librará con él la trágica batalla de Salebieres (Salisbury), donde perecerán todos los caballeros de la Tabla Redonda. Herido de muerte por su hijo, el rey Arturo es recogido en una barca por Morgana y sus doncellas, que le llevarán a la isla de Avalón para curarle sus heridas. De su misterioso viaje final se divulgaron numerosas leyendas que grabaron en la memoria de los pueblos la esperanza de que algún día volvería para reinar. Esta creencia tardó mucho en eclipsarse, haciendo de Arturo un avatar emanado de las fuentes del Mito. En lo que se refiere a Sir Gawain, Arturo aparece, en cambio, joven y jovial en Camelot, que, más que ser el albergue de los más preciados caballeros errantes de la Cristiandad, es una corte en fiesta que hospeda los lujos y deleites del mundo refinado e invernal de la Edad Media.
+
+[3] Los lais en su origen eran cantos compuestos por bardos bretones que recogieron las leyendas y tradiciones orales difundidas en Bretaña. A partir del siglo XII es una forma poética y musical cultivada por trovadores y trouvères. Para María de Francia rememoraba una aventura de un pasado remoto, y por lo tanto prestigioso. Solía cantarse acompañado de algún instrumento ante una audiencia. El tono de Sir Gawain es el de un poema para ser recitado a la antigua usanza, pero es muy improbable que se hubiera declamado por los castillos de Inglaterra. Es un anacronismo más del refinamiento tardío, como la moda de resucitar el verso aliterativo a finales del siglo XIV (véase María de Francia, Lais, prol. y trad. de Luis Alberto de Cuenca, Madrid, Editora Nacional, 1975).
+
+[4] Agravain á la Dure Main: hermano de Gawain, hijo del rey Lot y de Anna, la hermana de Arturo.
+
+[5] Iwain: hijo de Urien y de Morgana. Es uno de los más destacados caballeros de la Tabla Redonda. Chrétien de Troyes le dedicó una de sus obras más importantes: Ivain, o el Caballero del León. Una historia maravillosa que nos cuenta cómo un joven caballero fue en demanda de la fuente de la vida y cómo la conquistó y ganó a la Dama de la Fuente y la perdió otra vez, pero luego, tras mucha locura y desdicha, pruebas y triunfos, la volvió a descubrir convirtiéndose en señor de la fuente.
+
+[6] "Nobles juegos": es de suponer que se refiera a las justas, en las que sólo participaban dos caballeros, armados con lanza, empeñados en probar su fuerza, y no a los torneos en los que participaban muchos caballeros. Además, estos últimos fueron sometidos a un permiso especial y, a veces, del todo prohibidos en Inglaterra.
+
+[7] Eric: héroe de Erec y Enid de Chrétien de Troyes (existe una traducción de Carlos Alvar, Madrid, Editora Nacional, 1982).
+
+[8] Sir Doddinel le Savage: caballero de la Tabla Redonda, apodado "el Salvaje" por su pasión por la caza (Vulgata II, 171).
+
+[9] El duque de Clarence: es otro primo de Gawain, hijo del rey Nantres y Blasine. Fue hecho duque cuando Arturo se casó con Ginebra (Vulgata II, 127).
+
+[10] Lanzarote del Lago: llamado así porque fue criado y cuidado hasta los diez y ocho años por la Dama del Lago, es uno de los principales y más arquetípicos caballeros de la Tabla Redonda. Traiciona al rey Arturo y al honor caballeresco por su amor a Ginebra que le hace indigno de terminar la demanda del Santo Grial, y cumplirá su hijo bastardo Galaz (Galaad). Su amor por Ginebra acarreará el desastre de la Tabla Redonda. Como dice Heinrich Zimmer (The King and the Corpse): "es una encarnación del ideal varonil que existe no en el mundo de la acción social masculina, sino en las esperanzas y fantasías de la imaginación femenina… es la imagen onírica que habita en la psiquis de la mujer". (El único texto vertido al castellano sobre Lanzarote es una traducción de L. A. de Cuenca y C. García Gual, Lanzarote del Lago o el Caballero de la Carreta, de Chrétien de Troyes, Barcelona, Editorial Labor, 1976).
+
+[11] Lionel: hijo de Bohors, rey de Gaunes y primo de Lanzarote.
+
+[12] Lucán el Bueno: es el copero real. En La mort le roi Artu es, junto con Arturo y Girflet, el último sobreviviente de la batalla de Salebieres.
+
+[13] Sir Bors: o Boores en las versiones castellanas, es hermano de Lionel y uno de los tres caballeros que en la Demanda del Santo Grial acompañan a Galaz a cumplir la aventura del Vaso Santo (existe una versión de la Demanda traducida por C. Alvar en Editora Nacional, Madrid, 1980).
+
+[14] Sir Bedivere: en la Morte d' Arthur, de Malory, es el último superviviente de la batalla contra Mordret (Mordrez en las versiones castellanas). En la Vulgata (II, 439), junto con Arturo y Keu fue al encuentro del gigante del monte St. Michel y batalló prodigiosamente contra los romanos.
+
+[15] Mador de la Porte: es hermano de Gaheris el Blanco de Karaheu, a quien mató la reina Ginebra, por mala fortuna, con una fruta envenenada por Avarlán para asesinar a Sir Gawain (La muerte del rey Artur, Madrid, Ediciones Siruela, 1980, pág. 55).
+
+[16] Gringolet: en principio, fue un regalo del hada Esclarmonde a Escanor el Hermoso. Gawain se lo arrebató en un combate, y el caballo, al cambiar de dueño, se negó a comer, hasta que Felinete le avisó que tenía que despojarle de una bolsa mágica en una de sus orejas. Aparece como nombre del caballo de Gawain en Chrétien de Troyes (Erec, V. 3955). La palabra deriva seguramente de "Gwyngalet", que significa, según Tolkien, "blanco y atrevido".
+
+[17] Esta estrofa tiene en el manuscrito una pequeña letra inicial iluminada a color. Aparte de las iniciales grandes que los editores han tomado normalmente para marcar las cuatro partes centrales del poema, hay sólo cinco de estas pequeñas iniciales en el códice. Hemos respetado en nuestra edición todas las del manuscrito incluyendo el, quizá vano, simulacro de estas pequeñas capitulares. Seguramente, en el original, quieran dar importancia a ciertos pasajes del poema. En este caso, se define el significado del escudo de Sir Gawain, cuyo emblema es un singular pentáculo.
+
+[18] Los hombres salvajes son populares en la zoología imaginaria del Medievo. Poseen signos análogos con los ogros. En la iconografía se los representa como gigantes de incierta estatura, con barba frondosa, cubiertos de pelo espeso como las bestias; así aparecen en un relieve de la catedral de Burgos o en el fresco de la sala de los reyes de la Alhambra. En Iwain, Chrétien de Troyes describe al salvaje como gigante, como pastor con ojos de lechuza, dientes de jabalí y orejas de elefante.
+
+[19] Sir Gawain es, por excelencia, el caballero cortés de los cuentos bretones. Por eso, no es de extrañar que los caballeros del castillo esperen que los instruya con su presencia en las leyes y secretos de la cortesía. Aunque el amor cortés había caído en desuso a finales del siglo XIV, padeciendo a veces los escarnios de la sátira, este pasaje es una bella evocación de la filosofía de la vida en la sociedad refinada del siglo XII. Según el amor cortés -que nació con la poesía provenzal de los trovadores- el caballero debía servir a una dama, y ser su amante en secreto. Para ello tenía que hacerse merecedor de ella cultivando las virtudes o proezas de la caballería, y demostrando ser galante y conocedor de las maneras cortesanas. Estas teorías, con su dosis de sublimación estética, correspondían a una necesidad real de la época de escapar al matrimonio feudal que ataba sórdidamente a los hijos a los intereses de la tierra. Paralelo al florecimiento en Europa de estas ideas elaboradas en las Cortes de Amor, emergió y se propagó el culto a la Virgen. María es la otra cara de lo femenino, es la imagen sensual e inspiradora de la Pureza femenina, su aspecto divino en oposición a Eva. Ella será la dama para muchos trovadores del Trobar Clus o del dolce stil nuovo, para quienes el Amor ha de ser una iniciación, como para Sir Gawain; su escudo lo declara, aunque, muy logradamente, en el cuento es más real y humano de lo que el ideal pueda soñar.
+
+[20] Se refiere ala creencia popular medieval de que el gallo cantaba tres veces durante la noche: hacia las doce, hacia las tres de la madrugada y antes del amanecer.
+
+[21] Bertilak de Hautdesert: aunque el personaje tiene muchos rasgos que bien podrían derivar de los celtas o del antiguo folklore, según Hulbert, el nombre deriva seguramente de Bertolais, que al traducirlo al inglés se convierte en Bertilak. Bertolais, en Merlín, era el instigador de "la falsa Ginebra" en su segundo intento de ocupar el puesto de la reina.
+
+[22] Morgana: siempre se relaciona con el agua y sus criaturas. Es un hada, un espíritu de las aguas, como Melusina o la Dama del Lago. (En el fondo, todas ellas son la misma representación del "eterno femenino" encarnado por diferentes figuras que auxilian, embrujan o seducen al héroe.) Su nombre significa "nacida del mar" y algunos autores la relacionan con Muirgen, la diosa celta de las aguas. En las costas bretonas las sirenas que tientan a los pescadores, matándolos con su abrazo marino, o arrastrándolos a su palacio submarino, eran llamadas Morganas. En el Orlando Innamorato, de Boiardo, hay una fantástica descripción de su magnífica morada en el fondo del lago. Otras veces habita en una isla "al otro lado del mar", como el castillo de Mongibel o la isla de Avalón. En los cuentos bretones es hija de Ygerne, esposa de Urien y hermanastra de Arturo. En L'Estoire de Merlin, éste la instruye en la astronomía y en la magia. Es una hechicera celosa y vengativa, como Medea. Así en el Lancelot, al ser engañada por su amante, encanta el Valle sin Retorno, de tal forma que todos los amantes infieles son retenidos por sus encantamientos. Su odio por Ginebra se relata en Le Livre d'Artus: Morgana tenía relaciones con un primo de Ginebra. La reina lo descubrió y mandó a su primo abandonar el país. Desde entonces, Morgana odia a la reina sor toutes les dames del monde. No sabemos hasta qué punto los hombres del Medievo conocían las fuentes de los fantasmas que obsesionaban su imaginación, pero Giraldus Cambrensis escribió en su Speculum Ecclesiae, con absoluta certeza, que Morgana se relacionó con una diosa celta, dea quaedam phantastica. Es muy probable que sea de este texto por lo que el autor de Sir Gawain la llame "diosa".
+
+[23] Merlín: es un recuerdo de los druidas, con sus poderes mágicos y conocimientos que instruían y aconsejaban a los reyes, es una imagen perdida de los antiguos dioses celtas, degradados a demonios por los cristianos; es el espíritu profético, las diez mil caras del arquetipo del Mago. En las versiones del siglo XIII es hijo del Diablo y de una doncella, conoce el pasado y el futuro, interpreta los presagios, puede cambiar de aspecto y conoce todas las ciencias mágicas. Representa el poder de la Noche, como Morgana, pero Merlín es el guía y fundador de la Tabla Redonda. Sus poderes oscuros se ponen al servicio de la Luz: convoca a los elegidos y los pone a prueba enviándolos a que afronten las pruebas que han de transformarlos para la alta demanda del Grial. En lo que concierne a Sir Gawain, Merlín es la fuente del poder mágico de Morgana que pone a prueba al héroe, ya que la inició en los secretos de la magia.
+
+[24] Esta frase que da colofón al poema es el lema de la Orden de la jarretera. La conjunción del cinto verde con el lema ha hecho pensar a ciertos autores que el poema fue escrito para la institución de la jarretera, a pesar de que la orden fue fundada por Eduardo III en 1347 -fecha anterior a la datación del manuscrito – y la jarretera fuera de terciopelo azul marino bordada de oro y pedrería. Más singular es la hipótesis de que Eduardo, el Príncipe Negro (1330-1376), fuera el modelo de Sir Gawain, y su esposa Jane de la mujer del Caballero Verde que, a su vez, sería Sir Thomas Holland (muerto en 1360), el primer esposo de Jane; el cinto es verde, y no azul como la jarretera, porque Gawain no ha sido del todo leal: el azul es un color puro, mientras el verde -compuesto de azul y amarillo- es impuro.
+
+Estas pequeñas ingeniosidades eruditas no pueden desvanecer la fuerza mítica y profunda del cuento por un lema que fue "añadido al final, seguramente, por un escriba posterior", como señala Gollancz.
+
+La mejor edición del texto original sigue siendo la de I. Gollancz (Londres, Oxford University Press, 1966). Existen, además, tres excelentes traducciones al inglés moderno, llevadas a cabo, respectivamente, por J. R. R. Tolkien (junto con Pearl y Sir Orfeo, Londres, Unwin Paperbacks, 1979), M. Borroff (Nueva York, W. W. Norton, 1967) y B. Stone (Londres, Penguin Classics, 1981).
+
+* En este sentido dice el romance: "Los hombres se preguntaban maravillados qué podía significar que un jinete y su caballo fueran tan verdes como la hierba y más brillantes que el esmalte sobre el oro. Pues habían visto muchas visiones asombrosas, pero ninguna como ésta".
+
+** El campo de gules es de color rojo. Color que en los tratados heráldicos representa el fuego. En un manuscrito galés de 1394, Llytr Dysgread Arfau, se explica que su utilización está prohibida por el código civil excepto para los príncipes.
+
+25/04/2008

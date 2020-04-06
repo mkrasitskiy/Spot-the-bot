@@ -1,0 +1,3821 @@
+Michael Crichton
+
+Twister
+
+INTRODUCCIÓN
+
+Durante el día han caído varias tormentas, y el cielo ha estado cubierto de nubes bajas y oscuras. Ahora, a últimas horas de la tarde, el viento amaina de repente. El aire permanece opresivamente quieto.
+
+Hay silencio, y una sensación de presagio flota en el ambiente.
+
+El cielo adquiere un aspecto amenazador, teñido de púrpura y verde. A lo lejos un débil y perezoso torbellino de polvo gira sobre la tierra.
+
+Está formándose un tornado.
+
+De pronto un embudo gris de condensación surge de las nubes y desciende poco a poco hacia el suelo, como un dedo frágil v nudoso.
+
+Se extiende hacia abajo, en silencio.
+
+Al tocar el suelo, el embudo empieza a girar con mayor rapidez. Se produce un ruido sordo, como el rugido de un enorme tren de mercancías, cuando el tornado comienza a avanzar sobre el terreno, agitando el polvo y los escombros que encuentra a su paso.
+
+Nadie es capaz de predecir lo que sucederá a continuación.
+
+La mayoría de tornados pierden potencia al cabo de pocos minutos, el embudo se reduce, se ladea y se rompe, disipándose tan rápidamente como se ha formado.
+
+En otras ocasiones, por el contrario, la potencia y el estruendo del tornado comienzan de manera uniforme. La base se ensancha, creciendo su diámetro de unos cien metros hasta casi un kilómetro. El viento alcanza los quinientos kilómetros por hora. Estos enormes tornados pueden permanecer sobre la tierra durante una hora, y dejan tras de sí una estela de devastación que puede llegar a tener ciento cincuenta kilómetros de largo y un kilómetro de anchura, hasta desvanecerse finalmente y desaparecer en el cielo, de donde surgieron.
+
+¿A qué se debe que un tornado dure sólo unos pocos segundos y otro, en cambio, se prolongue durante una hora, causando muerte y destrucción? Nadie lo sabe con certeza. Los científicos han realizado complejos modelos informáticos, simulaciones de laboratorio y numerosas observaciones sobre el terreno.
+
+Pero no se ha obtenido una explicación plausible, ni siquiera en la actualidad.
+
+En Estados Unidos se producen más tornados que en cualquier otro país del mundo. Aunque aparecen tornados en cualquier parte del planeta, la geografía estadounidense es singularmente propicia para su formación. Cada primavera el aire frío v seco que desciende de Canadá se encuentra con el aire cálido y húmedo que asciende desde el golfo de México. Estos frentes meteorológicos coinciden sobre las extensas y llanas praderas de la zona central de Estados Unidos, produciendo enormes bancos de nubes tormentosas de gran belleza y potencia. Algunos de esos bancos de nubes tormentosas, quizá uno de cada mil, generan tornados.
+
+En Kansas, Oklahoma y Texas, los tornados son tan habituales que se conoce a la zona desde hace tiempo como el Callejón de los Tornados. Debido a la frecuente aparición de tornados en los estados centrales, éstos se han convertido en el lugar ideal para observar su formación. Cada primavera un grupo de científicos, conocidos familiarmente como «cazadores de tormentas», recorren la región de un lado a otro en busca de tornados y los estudian de diversas formas.
+
+Los cazadores de tormentas son gente poco común. Combinan el rigor de la ciencia pura con el enfoque instintivo de los naturalistas y cazadores. Su temporada de trabajo es corta, ya que sólo dura unos meses al año. Realizan su labor a un ritmo frenético y, a veces, en condiciones peligrosas, ya que estudian uno de los fenómenos más impredecibles y potencialmente mortales de la naturaleza. Deben ser pacientes por encima de todo, pues en un buen año observarán dos o quizá tres tornados, mientras que en un año malo no verán ninguno.
+
+Cada año se producen más de mil tornados en territorio estadounidense, pero la mayoría de ellos son fugaces y sólo duran unos pocos minutos. Son muchos los que ocurren por la noche o en regiones remotas, y no llegan a ser vistos por nadie. Debido a su naturaleza elusiva los tornados han podido ser filmados en muy raras ocasiones, por lo que, generalmente, en las noticias de la televisión sólo podemos contemplar las consecuencias de estos fenómenos -ciudades devastadas, granjas destruidas, etc.-, imágenes grabadas mucho después de que el tornado se haya desvanecido. Antes de 1965 sólo pudieron filmarse dos de estos fenómenos naturales, tan misteriosos y temidos, y hasta entonces vistos por muy pocas personas, quienes los describían como salvajes e imprevisibles.
+
+Esto cambió con la llegada de las cámaras de vídeo a los hogares. A finales de la década de los ochenta había una de esas cámaras en la mayoría de los hogares estadounidenses, y pronto cientos de ciudadanos pudieron filmar tornados en sus diferentes manifestaciones. Gracias a esta fuente de información visual se obtuvo una nueva comprensión científica del fenómeno. Se supo algo más del comportamiento de los tornados, al menos desde un punto de vista descriptivo. Se reconoció, por ejemplo, que tenían un ciclo vital característico, marcado por singulares fases visuales.
+
+Al mismo tiempo hubo avances científicos notorios con respecto a este fenómeno. Gracias al sistema nacional de radar Doppler, los cazadores de tormentas contaron con datos fiables acerca de la zona donde podría producirse un tornado. Además los propios cazadores emplearon técnicas avanzadas, como radares Doppler portátiles, fotogrametría de partículas e incluso, en el caso del pionero Howard Bluestein, un equipo instrumental especial llamado TOTO (observatorio portátil de tornados), transportado en un camión, que se colocaba en medio de la trayectoria del tornado, a fin de que fuera absorbido por éste.
+
+El trabajo de los cazadores de tormentas y la misma espectacularidad de los tornados han interesado desde hace tiempo a mi esposa, Anne-Marie Martin, que en más de una ocasión me comentó que alguien debería hacer una película sobre el tema. Mi respuesta era siempre la misma: es un buen tema, pero ¿cuál es la historia? A finales de 1993 me presentó una estructura muy sencilla, un triángulo amoroso cuyo telón de fondo sería el empeño por colocar un equipo de instrumentos especiales en la ruta seguida por un tornado. En su opinión, la tensión sufrida por los protagonistas de la historia los induciría a comportarse de una manera exagerada, a decir y a hacer cosas que en circunstancias normales no dirían o harían. Me propuso un curso temporal corto e intenso, que no debía durar más de un día o dos. Y argumentó en favor de incluir abundantes diálogos de carácter científico que arrastraran con ellos mensajes de significación personal; éstos se hallarían escondidos tras una superficie técnica. Mostré mis dudas, pues ese procedimiento ya lo había empleado en un guión llamado ER y, hasta entonces, nadie lo había convertido en película.
+
+A pesar de todo, su idea fue arraigando en mí poco a poco. El tema me pareció desde el principio inherentemente visual y, por lo tanto, consideré que debía convertirse en un guión, no en una novela. Los tornados son un tema cinematográfico ideal porque, a diferencia de la mayoría de fenómenos naturales, por sus dimensiones pueden encajar en un encuadre cinematográfico, además, duran poco tiempo y cambian con rapidez; mientras que un huracán, por ejemplo, tiene varios cientos de kilómetros de diámetro y es demasiado grande para verlo en una sola imagen; además, se mantiene durante horas con muy pocos cambios. Los tornados son fenómenos tormentosos más atractivos visualmente.
+
+La investigación preliminar demostró que la premisa era válida, lo que no hizo sino estimularnos a llevar adelante el proyecto. Los científicos no sólo habían tratado de colocar equipos de instrumentos en los embudos, sino que contaban con numerosos episodios grabados de lo que denominan «estallidos» de tornados, durante los que pueden llegar a producirse hasta cien tornados en un solo día, a menudo con muy pocos minutos de diferencia. Eso era precisamente lo que necesitábamos para nuestra historia, y ocurría además en la realidad. Ni siquiera era un fenómeno extraño, ya que en los últimos diez años se han producido estallidos de cuarenta o más tornados. El peor estallido registrado, según Ted Fujita, ocurrió en abril de 1974, cuando se produjeron 148 tornados que dejaron una estela de 3.840 kilómetros de daños.
+
+Así pues, todo parecía indicar que la historia era posible. Finalmente, y no sin cierto entusiasmo, decidimos escribir juntos el guión, que iniciamos en enero de 1994. Ninguno de los dos tenía muy claro qué resultaría de esa experiencia y si podríamos trabajar juntos. Fueron muchas las voces que nos advirtieron que esa clase de colaboración podía significar el fin de un matrimonio. Pero, tal como salieron las cosas, trabajar en equipo nos resulto bastante fácil, no teníamos muy claro como debíamos estructurar el trabajo, pero fue el que hacer diario el que fue dictando los pasos que debíamos dar a continuación invariablemente, redactábamos los episodios y detalles basándonos en acontecimientos reales sin inventar nada, con ello tratábamos de evitar la exageración, ya que los tornados son inherentemente espectaculares y resulta fácil llegar al exceso, a la forma habitual de Hollywood. Nosotros queríamos que lo narrado en la película fuera lo bastante verosímil y tuviera visos de realidad.
+
+Y esa realidad fue siempre preocupante, pues lo que no sabíamos durante la primavera y el verano de 1994 era si sería posible filmar las secuencias que con tanto cariño escribíamos. Confiábamos en los avances llevado a cabo en los últimos años en el campo de efectos especiales por ordenador, aunque sabíamos que sería más complejo simular un tornado mediante proceso informático que aplicar un programa de animación para la creación de un dinosaurio. Por otro lado, Industrial Light and Magic (ILM), de George Lucas, es una de las empresas de efectos especiales por ordenador que ha alcanzado un éxito más continuo en la historia cinematográfica estadounidense. Así, asumimos alegremente que continuarían produciéndose rápidos avances en este campo por parte de la ILM, de modo que cuando termináramos de escribir el guió sería posible simular en la pantalla las condiciones de un tornado. Y así fue. En enero de 1995 vimos una prueba en pantalla que resultó escalofriante por su verosimilitud.
+
+Como sucede con tanta frecuencia con las grandes películas de Hollywood, otras manos se encargaron del proyecto y lo hicieron avanzar en otras direcciones. Lo que verá el públco será el resultado del trabajo de muchos autores cuya tarea no será reconocida; pero quizá a los lectores les interese saber cómo surgió el proyecto en su fase inicial.
+
+Mientras tanto, en el mundo real, Howard Bluestein y otros investigadores han abandonado ya hace tiempo sus intentos por situar un equipo instrumental especial en el embudo de un tomado. Lo intentaron durante cinco temporadas, sin lograrlo en ninguna ocasión, aunque si pudieron determinar que el el TOTO era demasiado ligero y muy sensible a los vientos tormentosos. No obstante, sentimos la mayor admiración por la tenacidad y la osadía de los cazadores de tormentas y, al escribir este guión, confiamos que les divierta descubrir que sus intentos alcanzaron éxito, al menos en las películas.
+
+MICHAEL CRICHTON
+
+TWISTER
+
+Imagen difusa: exterior rural enOklahoma.
+
+Día tormentoso
+
+Primer plano de hierbas altas batidas por el viento.
+
+Una niña de diez años cruza corriendo por la hierba hacia nosotros. El viento le azota el vestido y el cabello.
+
+niña: ¡Mamá! ¡Mamá!
+
+Pasa ante nosotros y continúa hacia la granja. Detrás de ella, el cielo aparece negro y amenazador. El viento ruge con tuna v los árboles se doblan, oponiendo débil resistencia ante semejante fuerza.
+
+Cerca de la casa
+
+El padre de la niña está junto a la puerta abierta del sótano, donde se resguardan durante las tormentas y hace señas a su hija mientras ésta sigue corriendo. Arrecia el viento.
+
+padre: ¡Vamos!
+
+Desciende presuroso al sótano y deja a la niña con la madre, que ya está abajo. Preocupado, mira por ultima vez la tormenta que se avecina, y cierra las puertas haciendo un gran esfuerzo para vencer el ímpetu del viento.
+
+Plano de las puertas
+
+Las puertas tiemblan con un estruendo creciente a medida que la mano invisible del viento trata de arrancarlas con mayor tenacidad.
+
+Desplazamiento lateral de la imagen desde las puertas. La cámara pasa ante las ventanas, que vibran y finalmente explotan, y llega hasta la esquina de la casa. La vivienda se retuerce desde los cimientos, al ser girada en remolino, como si de una mera tapa de rosca se tratase. Luego, arrancada de la tierra, se eleva y vemos la extensión de la cimentación. La intensidad del viento aumenta, de forma que el sonido es ensordecedor, y, de repente, la casa desaparece. La negrura lo envuelve todo.
+
+Un informe de noticias en la televisión
+
+Imagen de un vídeo casero que muestra una visión mas distante de la casa que, según acabamos de ver, ha sido alcanzada y arrastrada por un tornado.
+
+presentador: Esta escena ocurrió hace apenas unos minutos, cuando se desencadeno un tornado cerca de Lancaster. Estamos en la temporada alta de estos fenómenos naturales, por esta razon Oklahoma es conocida como el Callejón de los Tornados.
+
+En la sala de noticias
+
+Detrás del presentador hay un mapa de Oklahoma, donde aparecen señalados los frentes tormentosos
+
+presentado: Según el Servicio Nacional de Meteorologia, esta es la tormenta más violenta que se ha producido desde 1992. Por esta razon y varios equipos de investigadores de esta clase de fenómenos han Ilegado al lugar, procedentes de todo el país Se esperan muchos mas tornados en las próximas veinticuatro horas.
+
+Mientras el presentado habla aparecen unas letras blancas que se deslizan por la parte interior de la pantalla: «alerta, se esperan tornados en los condados de…»
+
+Exterior. Campo de Oklahoma. Díatormentoso
+
+Un cielo negro amenazador se cierne sobre los llanos campos verdes, donde hay una solitaria granja encalada en cuyas paredes reverberan los relámpagos. Un coche pasa por delante
+
+Exterior visto desde el interior deun coche
+
+por el parabrisas
+
+Gruesas gotas de agua salpican el parabrisas. La carretera se extiende ante el vehículo.
+
+Interior del coche
+
+Bill Harding, de treinta y cinco años, con aspecto de vaquero curtido, vestido con tejanos y una camisa de trabajo, conduce concentrado en la carretera.
+
+Junto a él, Melissa Huntley, de treinta años, bonita y elegante. Viste pantalones hechos a medida y una camisa blanca. Mira por la ventanilla.
+
+melissa (preocupada): ¿Crees que llegaremos a tiempo?
+
+bill: Sí, Almont está a ciento cincuenta kilómetros al norte. No te preocupes, estaremos en Phoenix al anochecer.
+
+melissa (lo besa): Estoy impaciente por llegar.
+
+Él trata de prolongar ese instante besándola a su vez.
+
+melissa (con expresión feliz): Está ocurriendo finalmente…
+
+bill: Sí. Sólo hay un problema…
+
+melissa: ¿Quieres volver a hablar de eso?
+
+bill: Quizá sea mejor que lo hagamos.
+
+melissa: Está bien. Cuando la veas, le dirás…
+
+bill (con calma, recitando): Jo, me alegra verte de nuevo. Estoy seguro de que sabes por qué estoy hoy aquí. La verdad es que ya es hora de reconocer…
+
+melissa: De que ambos reconozcamos…
+
+bill (continúa el recitado): Sí, vale…, ya es hora de que reconozcamos que nuestro matrimonio ha terminado. Ahora los dos necesitamos seguir con nuestra vida, cada uno por su lado.
+
+melissa: Bien, bien. (Incitándole a seguir.) Y…
+
+bill: Yo quiero que firmes estas cláusulas y renuncias para el divorcio, Jo.
+
+melissa: Y tienes la pluma preparada…
+
+Bill saca una pluma y la sostiene como un cuchillo.
+
+bill: ¡Está preparada!
+
+melissa: Y sin enfados…
+
+bill: Sin enfados.
+
+melissa: Bien. ¿Quieres volver a repasarlo?
+
+bill (con expresión de perro boxer): No. Ya sé lo que debo decir. Estoy preparado. Lo estoy. Me siento bien.
+
+Exterior. Vista de la carretera
+
+Las gotas de agua golpetean el parabrisas. La carretera se extiende recta. La ciudad ha quedado atrás. Campo abierto. Se oyen truenos. Bill observa el cielo.
+
+bill: Se está formando una torre con una bonita base. Estará por aquí cerca, en alguna parte…
+
+Mientras conduce, mira atentamente por la ventanilla.
+
+bill: ¡Ahí!
+
+En la distancia
+
+La imagen recorre los campos hasta alcanzar a un equipo de cazadores de tormentas: cuatro vehículos polvorientos, aparcados desordenadamente al borde de un camino.
+
+Coche de Bill
+
+Gira por el camino para dirigirse hacia ellos.
+
+Junto a los vehículos aparcados
+
+Bill frena, y antes de descender coge una carpeta con una cinta negra.
+
+melissa: Déjame acompañarte.
+
+bill: No, cariño. Esto es algo que debo hacer yo solo.
+
+melissa: Lo harás muy bien. estoy segura.
+
+Ella le besa apasionadamente, y el tiempo se detiene por un instante. Cuando se separan, Bill la mira a los ojos.
+
+bill: Gracias.
+
+Sale del coche, cierra la puerta y se dirige con paso tranquilo hacia los viejos y destartalados vehículos aparcados.
+
+El equipo de cazadores de tormentas
+
+Son jóvenes estudiantes, de unos veinte años, vestidos con pantalones cortos y camisetas. Su equipo, al igual que sus vehículos, no es desde luego nuevo. Timmy está bajo una camioneta tratando de arreglar la suspensión. Dusty, dentro de otro camión, está recogiendo un fax de una ruidosa máquina portátil arreglada con cinta adhesiva. Rick, con un donut en la boca, endereza una antena giratoria en lo alto de uno de los coches; por un lado cae una maraña de cables. Todos levantan la mirada y sonríen al ver a Bill.
+
+rick: ¡Hola, Bill!
+
+bill: ¡Hola, Ricky!
+
+Dusty se acerca a él y camina a su lado.
+
+bill: ¿Qué tal, Dusty? ¿Cómo va ese viejo fax?
+
+dusty: No sé cómo funciona aún. (Ve la carpeta con la cinta.) ¿Se trata de una visita oficial?
+
+bill: Sólo quiero atar algunos cabos sueltos…
+
+dusty: Jo no tiene un buen día hoy.
+
+bill: Siento oír eso.
+
+Dusty se queda atrás mientras Bill sigue caminando. Timmy sale de debajo de la camioneta y se limpia las manos manchadas de grasa con un trapo.
+
+timmy (traga con nerviosismo): Oooh, muchacho…
+
+Jo Wilder
+
+Está inclinada buscando algo en el maletero de un coche. Lleva unos sucios pantalones cortos de color caqui y una camiseta rota y desteñida. Grita a Larry, su nervioso ayudante, mientras saca una antigua cámara de vídeo VHS y un abultado bastidor impermeable, ahora abierto, delante del cual hay una alidada y una plancheta.
+
+jo: ¡Idiotas!… Hay hierba en la montura del autoenfoque. Por eso está atascado. Maldita sea, Larry, ¿no te dije ayer que la limpiaras?
+
+Bill llega junto a ellos. Larry intenta decírselo a Jo, que está de espaldas.
+
+larry: Lo siento, Jo, pero…
+
+Ella vuelca el bastidor y sacude la hierba.
+
+jo: ¿Lo sientes? ¿Y de qué me sirve que lo sientas? Has estropeado el lector, has echado a perder la fotogrametría, las velocidades de partículas no valen un pimiento, no se pueden leer los vectores, los puntos sigma-K no son tridimensionales. ¡Es como si estuviéramos aquí con una maldita y anticuada Brownie! Vamos, cierra bien esto. No quiero perderme el siguiente tornado por algo tan estúpido.
+
+Cierra de golpe el maletero del coche, todavía furiosa, y entonces advierte la expresión nerviosa de Larry.
+
+jo (enfadada): ¿Qué pasa ahora?
+
+larry: Bill.
+
+Ella se vuelve hacia atrás. Jo tiene la cara manchada de grasa y el cabello alborotado; pero a pesar de su aspecto poco femenino, es una atractiva mujer de treinta y cinco años. Mira a Bill como si tuviera ganas de golpearle, y Larry retrocede. De repente, y ante la extrañeza de ambos, Jo sonríe, aparentemente, complacida.
+
+jo: ¡Bill! ¡Qué sorpresa!… (Como si buscara las palabras.) Bienvenido de nuevo.
+
+bill (controlado, rígido): Hola, Jo. Me alegro de verte.
+
+jo (observa su actitud): Yo también me alegro de verte, Bill.
+
+Larry permanece inmóvil, con una sonrisa forzada. En este momento de tensión, el enfoque se aparta de Jo y se centra en el ayudante.
+
+larry: Hola, Bill.
+
+bill: ¿Qué tal, Larry? ¿Cómo te van las cosas?
+
+larry: Bastante bien. Hoy tenemos un gran frente tormentoso.
+
+bill: Sí, eso parece.
+
+jo (se tira de la camiseta, mientras habla, tratando de arreglarse un poco): ¡El mayor en cuarenta años! Presenta contornos extensos, buenos salientes, un limpio arco ascendente… ¡Bien! Me alegro de que se te haya pasado el enfado y hayas decidido regresar.
+
+bill: ¿Enfado?
+
+jo: ¿Cómo lo llamarías tú?
+
+bill (trata de dominarse): Jo, sabes muy bien por qué estoy aquí hoy. He venido porque…
+
+jo (señala la carpeta): ¿Qué es eso? ¿Se ha muerto alguien?
+
+bill (recitando): He venido porque ya es hora de que ambos reconozcamos que nuestro matrimonio ha terminado…
+
+jo: Sí, lo echamos todo a perder. Lo sé.
+
+bill: Y los dos necesitamos seguir con nuestra vida, cada uno por su lado…
+
+jo: Sí, tienes razón.
+
+bill: Estoy seguro de que estarás de acuerdo conmigo.
+
+jo (extrañada ante su rigidez): Lo estoy…
+
+bill (abre la carpeta): Bien. Sólo necesito que firmes estas cláusulas y renuncias, y el divorcio será definitivo.
+
+Jo se separa con cierta brusquedad, y vuelve a concentrarse de nuevo en su equipo. Rodea el coche.
+
+jo: Ya he firmado eso.
+
+bill (la sigue): No, no lo has hecho.
+
+jo: Bueno, sé que firmé unos papeles.
+
+bill: Pues no era éstos.
+
+jo: Entonces ¿qué fue lo que firmé?
+
+bill (frustrado): ¡No lo sé!
+
+jo: Bill, ¿es necesario que arreglemos esto ahora?
+
+bill: Sí, es necesario.
+
+jo: ¿Ahora que tenemos tan cerca a un verdadero monstruo, y aún nos quedan tantas cosas por hacer antes de que llegue? De hecho, podrías…
+
+bill: No voy a quedarme.
+
+jo (incrédula): Bill, ¡ésta es la que hemos estado esperando! La mayor tormenta desde el cuarenta y nueve, y…
+
+bill: Jo…
+
+jo (bromeando): ¿A qué se deben tantas prisas? ¿Te vas a casar o algo así?
+
+bill: Sí, voy a casarme.
+
+Jo no puede disimular su asombro.
+
+jo: Vaya… ¿Y cuándo será el acontecimiento?
+
+bill: La semana que viene.
+
+jo: Está bien…
+
+Se vuelve hacia el coche para ocultarle sus sentimientos. Está llegando un mensaje al fax portátil situado en el techo del vehículo. El aparato parece tan viejo y usado como el resto del equipo. Está imprimiendo una imagen de la gran tormenta que se avecina.
+
+jo: Entonces, supongo que realmente necesitas que firme esos papeles…
+
+bill: Sí, así es.
+
+Primer plano de Jo, pensativa, mirando el fax.
+
+Primer plano del fax. Se ve impresa la imagen de la tormenta en el papel que se dobla a medida que sale del aparato.
+
+Jo se vuelve hacia Bill.
+
+jo: Está bien. Dame, los firmaré, Bill.
+
+bill (extrañado): ¿Lo harás?
+
+jo: Desde luego. ¿Acaso creías que me interpondría en tu camino? ¿Con quién te casas? (Mira a lo lejos.) ¿Es ella?
+
+bill: Sí.
+
+jo: Me gustaría conocerla. ¿A qué se dedica?
+
+bill: Es psicóloga.
+
+jo: ¡Bien! Me alegro de que por fin te hayas decidido a buscar ayuda profesional.
+
+Jo echa a andar hacia el coche junto al que está esperando Melissa. Bill la sigue.
+
+jo: No tiene aspecto de curalocos. ¿Cómo se llama?
+
+bill: Melissa.
+
+Cuando llegan junto al vehículo, Jo tiende las manos, y estrecha vigorosamente la de Melissa.
+
+jo: Melissa… Me alegro de conocerte. Soy Jo.
+
+melissa (actitud agradable pero recelosa): Hola…
+
+jo: Felicidades por vuestro matrimonio. Estoy segura de que seréis muy felices.
+
+melissa: Gracias…
+
+bill: Jo…, ¿vas a firmar los papeles?
+
+jo: Desde luego. ¿Tienes una pluma?
+
+Bill le ofrece la pluma, pero la acerca tanto a la cara de Jo que ella se ve obligada a retroceder. Coge la carpeta con los documentos de divorcio, la coloca sobre el techo del coche y se dispone a firmar. En los papeles se aprecian numerosas cruces rojas a pie de página.
+
+bill: Donde están las cruces…
+
+jo: Hay muchas… Está bien.
+
+Mientras firma, no deja de mirar a Melissa. Las dos mujeres, recelosas, se estudian sin dejar de sonreír.
+
+jo: Si quieres que te diga la verdad, me alegro de que esto ocurra. Es un alivio saber que todo ha terminado… (Sigue firmando.) ¿Aquí también?
+
+bill: Sólo las iniciales.
+
+Jo continúa firmando una página tras otra. Bill y Melissa intercambian miradas… ¡Está saliendo bien!
+
+jo (sigue firmando): Siento mucho que hayas tenido que desviarte para esto… ¿Adonde os dirigís?
+
+melissa: A Phoenix.
+
+jo: ¿Y qué os lleva a Phoenix?
+
+melissa: Pensamos instalarnos allí.
+
+Jo casi ha terminado de firmar los documentos, y cuando llega a la última página, se detiene.
+
+jo: Me encantaría conocer todos vuestros planes.
+
+Mantiene la pluma en el aire sobre la última página, sin firmar. Bill y Melissa contienen la respiración.
+
+melissa: Bueno…, lo entiendo, pero resulta que…
+
+jo (súbitamente): ¡Estupendo! ¡Hablemos de ello mientras almorzamos! (Cierra la carpeta con los documentos.) Ya terminaré luego con lo de las firmas.
+
+Bill y Melissa se miran. No tienen otra alternativa.
+
+Interior. Salón de Cattleman's. Día
+
+Es un local destartalado, pero el mejor para comer en Winslow, Oklahoma. Fuera, por la ventana, se ven las nubes oscuras de tormenta.
+
+Están sentados a la mesa tomando café. Jo apoya el codo sobre los documentos, aun sin acabar de firmar
+
+melissa: Vamos a Phoenix, porque Bill va a trabajar allí, en una emisora de televisión
+
+jo (impresionada): En la televisión
+
+melissa: Si, de presentador Empezara la semana que viene
+
+jo (mira a Bill): ¿Y en que clase de programa?
+
+bill: Trabajare como…
+
+melissa: Se encargara del parte meteorológico
+
+jo (con sinceridad): ¡El hombre del tiempo de Phoenix! Estupendo Un trabajo fijo…
+
+melissa: Bueno, Bill ha estado tantos años enseñando meteorología en la universidad, que pensamos que este trabajo en la televisión seríaa una excelente salida profesional
+
+jo: Creo que es ideal para Bill ¿Y que harás tu, Melissa?
+
+melissa: Tengo mi propio gabinete Atiendo principalmente a personas con dificultades para tener hijos, y que precisan ayuda psicológica
+
+jo (mirando a Bill): Muy interesante
+
+melissa: Si, lo es Lamentaría tener que dejarlo, pero… Bill y yo tenemos intención de tener hijos cuanto antes
+
+jo: ¡Maravilloso! Me alegro de que le vayas a dar todas las cosas que yo nunca pude…
+
+Mientras habla, abre los documentos y busca la última página.
+
+melissa: Gracias. Aprecio tu forma de llevar este asunto.
+
+jo: Bueno, creo que ya va siendo hora de que todos empecemos a movernos. (Toma la pluma.) Lo pasado, pasado está. (Antes de firmar.) Aunque lamento de veras que Bill se marche precisamente en el momento en que esta investigación va a dar buenos resultados.
+
+bill: Es algo que no me importa en absoluto.
+
+jo (a Melissa): Cada año se producen seiscientos tornados, que dejan devastada la zona por donde pasan. La mayoría se desencadenan aquí, en el cinturón agrícola. Yo crecí en este lugar, y te puedo asegurar que… cuando ves destruida una granja, y a una pobre familia que lo ha perdido todo…
+
+bill: Jo, no sigas por ahí.
+
+melissa: Pero la gente es advertida antes de que suceda el desastre, ¿no es así?
+
+jo: Sí, pero eso sucede poco antes de que se produzca el tornado. Las tormentas como la que se avecina son muy violentas… ese frente (señala hacia la ventana) abarca doscientos cincuenta mil kilómetros cuadrados. Hoy se producirán varios tornados, pero nadie sabe dónde, porque aún no se ha podido explicar por qué un tornado desciende sobre un lugar determinado. (Enfáticamente.) Nunca lograremos comprender la estructura interna de un tornado, a menos que nos metamos dentro de él.
+
+melissa: ¿Quieres meterte en un tornado?
+
+jo: Quiero colocar en la trayectoria del tornado un equipo con instrumentos especiales. Fue una idea de Bill…, situar el instrumental preciso justo en el vórtice.
+
+Exterior del restaurante. Junto alcamión de Jo
+
+Bajo una lona, en la parte trasera del camión, hay tres equipos de instrumentos blancos. Tienen el tamaño de cubos de basura, y están llenos de cuadrantes luminosos y antenas. Pero por su aspecto no parece tratarse de instrumental demasiado sofisticado.
+
+jo: Bill empleó cinco años de su vida en esto…
+
+Él inspecciona los equipos, baja uno del camión y lo coloca en el suelo.
+
+jo: El propósito es situarlos en medio de la trayectoria del tornado, a fin de que éste los absorba por el embudo, donde se abrirán y liberarán cientos de pequeños transmisores…
+
+Bill ha levantado la tapa de la caja, y vemos que está llena de bolas de plástico multicolores, cada una de las cuales contiene aparatos electrónicos.
+
+jo: que efectuarán mediciones simultáneas de todas las partes del tornado.
+
+bill: ¿Has conseguido fijar la transmisión simultánea por vanos canales?
+
+jo: Espectro de amplia frecuencia. Y nuevos sensores laterales y estáticos.
+
+bill (impresionado): Bastante bueno…
+
+Melissa observa el interés de Bill.
+
+jo (a Melissa): Colocando uno de estos instrumentos en la ruta del tornado, conseguiremos un perfil completo del vórtice. Algo que no se ha logrado hasta ahora… Con ello podremos predecir dónde una nube dejará caer un tornado. La señal de alerta se ampliará de cinco a quince minutos. De esta forma podrán salvarse cientos de vidas.
+
+melissa: Pero ¿cómo pensáis meter el equipo dentro de un tornado?
+
+bill: Ese es el problema. Nadie ha conseguido hacerlo. Howie Bluestein lo intentó durante años.
+
+jo (significativamente): Y Jonas ha estado cerca de conseguirlo.
+
+bill (despreciativo): Jonas.
+
+melissa: ¿Quién es Jonas?
+
+jo: Bill y yo trabajábamos para un tipo llamado Jonas Miller. Hasta que él se marchó y…
+
+bill: Olvídalo, Jo.
+
+jo: No, esto es importante…
+
+bill: Ya no lo es.
+
+melissa: ¿Jonas tiene un equipo como éste?
+
+jo: Sí, pero nunca ha logrado su propósito, porque se necesitan condiciones meteorológicas perfectas…, y hoy las tenemos (señala hacia el cielo). El mayor y más extenso frente tormentoso en medio siglo. De índice elevado menos cinco…, dejará caer grandes vórtices en esta zona. F cuatros, e incluso es posible que algún F cinco. Nadie que se ha acercado a un F cinco…, ha logrado vivir para contarlo.
+
+melissa: ¿F cinco?
+
+jo: Escala de Fujita, de cero a cinco. Bill sólo ha conseguido ver un F tres.
+
+Él sigue examinando el equipo. Sin levantar la mirada:
+
+bill: Cuatro.
+
+jo: Tres.
+
+bill: El de Ambrose fue un F cuatro.
+
+jo: Y estuviste muy cerca.
+
+bill: Condenadamente cerca. (Recordando.) Estuve a unos cien metros de los laterales, tan cerca que podía…
+
+Entonces advierte su entusiasmo, y se interrumpe.
+
+jo: Nunca he conocido a nadie que pueda predecir con más exactitud el recorrido de un tornado. Bill tiene un instinto especial para saber lo que van a hacer.
+
+Él vuelve a colocar el equipo de instrumentos en el camión.
+
+bill: Firma esos papeles, Jo.
+
+jo (renuncia, con un gran suspiro): Está bien. Os llevaré de vuelta a vuestro coche, para que podáis seguir vuestro camino.
+
+bill: ¿Y firmarás los papeles?
+
+jo: Claro. Vamos.
+
+Suben al camión de Jo.
+
+Exterior. Conduciendo por lacarretera.
+
+Día tormentoso
+
+Los tres juntos en la cabina. Silencio incómodo. Crujidos en la radio. Diversos informes hablan de la tormenta y de dónde estallará la cabeza. Empieza a llover. Relámpagos. Mientras conduce, Jo levanta la mirada hacia el cielo, y Bill hace lo mismo, pero al advertir que ella ha notado su interés, se retrepa en el asiento y finge indiferencia.
+
+Melissa lo observa todo sin hacer comentarios.
+
+Jo mira hacia la cuneta como si buscara algo, y al ver un fragmento de verja oxidada, sonríe. Gira suavemente el volante y dirige el vehículo hacia el trozo de hierro.
+
+Se produce un ¡bang!, y el camión se tambalea. Jo se detiene al lado de la carretera.
+
+Exterior, En la cuneta. Lluvialigera
+
+Descienden para ver qué ha ocurrido.
+
+jo: ¡Maldita sea! Bill mira debajo del camión.
+
+bill: ¿Dónde está la rueda de recambio? No hay rueda.
+
+Bill mira hacia arriba en un gesto de impaciencia. Jo lo ignora y se dirige a la cabina para llamar por radio. Una pausa…, luego mira por encima del hombro y gira el botón para cambiar de frecuencia; en el tablero hay un letrero que indica: «Rastreo.»
+
+jo (por el micrófono): ¿Dusty? ¿Me oyes? Soy Jo. Hemos tenido un accidente en la carretera nueve, a seis kilómetros al norte de la ciudad. ¿Dusty? Ven a recogernos. Necesitamos ayuda.
+
+Da un portazo con fingido enojo y se apoya contra el camión. Mira a Bill.
+
+El se limita a mover la cabeza sin dejar de observarla. El vehículo está solo en una carretera desierta que se extiende hacia la lejanía y acaba desapareciendo en una nube de niebla y lluvia.
+
+Escuchan un ruido sordo procedente de más allá de la amenazadora noche. Bill frunce el entrecejo. Jo se vuelve hacia la carretera y Melissa se acerca a Bill. El sonido aumenta de intensidad, y empieza a relampaguear.
+
+Su visión de la carretera. Díalluvioso
+
+Surgidas de entre la lluvia, del extremo más lejano de la carretera avanzan, ocupando el ancho del asfalto, cuatro camionetas plateadas Windstar. Cuando las distinguen mejor, Jo, Bill y Melissa observan que se deslizan con precisión militar: dos delante y las otras dos detrás, como si formaran parte de un desfile.
+
+Después se produce otro estudiado movimiento: las dos Windstar que van en cabeza se retrasan y se sitúan junto a las otras dos, una a cada lado, de modo que las cuatro forman ahora una sola línea, y avanzan por la carretera hacia la cámara. Son como los Angeles Azules, pero sobre la tierra.
+
+jo: ¡Mira!
+
+melissa: ¿Quiénes son?
+
+bill: Jonas Míller y su equipo.
+
+Las cuatro camionetas se dirigen directamente hacia nosotros, y aparcan en batería, una tras otra, en el lado opuesto de la carretera, en perfecta formación. Luego, en grupo, retroceden y giran en redondo, de modo que quedan preparadas para reiniciar la marcha en cualquier momento. La pintura plateada de los vehículos está intacta. En el costado de cada camioneta hay un letrero que indica «equipo de investigación atmosférica nssi».
+
+De cada una de ellas saltan con la agilidad propia de un atleta los miembros del equipo, todos de uniforme, con camisetas blancas y pantalones negros y cortos. Permanecen en posición de firmes junto a las camionetas. De la primera desciende Jones Miller, un hombre de cuarenta años, con barba y aspecto duro. Lleva chaqueta de aviador y corbata, lo que le da un aspecto vagamente militar.
+
+En cuanto lo ve, Bill aprieta los puños, en un intento de dominarse En el aire se respira cierta tensión Jonas se acerca haciendo gala de su encanto y simpatía
+
+jonas: He oído tu mensaje, Jo
+
+jo: No me extraña Siempre estas a la escucha
+
+jonas: Estas preciosa Todos te echamos de menos en el laboratorio (Mira la camioneta) ¡Muchachos! ¡Una Firestone 325!, ¡El tiempo se nos echa encima! (mira el reloj)
+
+Al otro lado de la carretera, los hombres de Jonas se afanan por llevar a cabo cuanto antes su misión Abren la parte trasera de uno de los vehículos que contiene un taller completo, zona de reparaciones incluida Hay llantas, herramientas, de todo
+
+jonas: Señora, soy el doctor Jonas Miller, director del Laborátorio de Ciencia Atmosférica de la Universidad ^ohttcmca de Oklahoma
+
+melissa: Melissa Huntley
+
+Jonas le regala una encantadora sonrisa, y se vuelve hacia Bill, ahora con actitud seria
+
+jonas: Bill Estaba seguro de que volverías, tarde o temprano (Extiende la mano) Nada de rencores
+
+Bill no le estrecha la mano Lo mira con frialdad y furia, con las manos caídas a los costados
+
+bill: Si, los hay
+
+Jonas parece extrañarse al observar cuan difícil le resulta a Bill dominarse.
+
+Alrededor de ellos, los hombres de Jonas trabajan coordinados como si formaran parte de un ballet, funcionando como un verdadero equipo.
+
+jonas: ¡Veintisiete segundos! (Se vuelve hacia Jo.) Practicamos mucho fuera de temporada para mantenernos en forma. Siempre digo que ésta es la diferencia entre profesionales y aficionados. (Se dirige ahora a Bill.) No seguirás enojado por ese viejo asunto del equipo de instrumentos de medición, ¿verdad? Al fin y al cabo era mi laboratorio.
+
+bill: Nos robaste la idea.
+
+jonas: Una idea no sirve de mucho si no se lleva a cabo. Hay que colocar ese instrumental en el camino del tornado. Tú nunca podrías hacerlo. Hay una línea seca de ochocientos kilómetros que va de Kansas a Texas, el camino medio seguido por un tornado es de seis coma ocho kilómetros, la duración media sobre el terreno es de dos coma cinco minutos… ¿Cómo vas a llegar allí y dejar el equipo de medición? No puedes. Lo has intentado en muchas ocasiones.
+
+Bill está furioso, Jo, vigilante. Jonas se muestra frío y se limita a exponer la verdad.
+
+jonas: ¿Durante cuántos años lo has intentado, Bill? Has estado corriendo de un lado a otro, sin conseguirlo… Echaste a perder tu posibilidad de trabajar con alta tecnología, del mismo modo que echaste a perder todo lo demás… (deja la frase inconclusa). Nosotros contamos con comunicación vía satélite. Tenemos NEXRAD en tiempo real, con Doppler pulsado a bordo; por eso seremos nosotros quienes llevemos a cabo la proeza. Ya han pasado los tiempos de dedicarse a husmear el terreno, Bill.
+
+La rueda ya está cambiada. Los hombres de Jonas se retiran y se colocan en posición de firmes junto a sus respectivas camionetas.
+
+equipo (al unísono): ¡Terminado!
+
+jonas: Treinta y nueve segundos. ¡Buen trabajo!
+
+Los hombres suben a las camionetas. Los relámpagos cruzan el cielo. Jonas levanta la mirada.
+
+jonas: Bueno, me alegra comprobar que habéis reanudado la tarea. Tened cuidado. Este trabajo es arriesgado cuando no se cuenta con el equipo necesario. (Se vuelve hacia Jo.) Siempre es un placer verte.
+
+Le besa la mano y se dirige a su camioneta. El resto de los vehículos ya se están situando en formación. Jonas salta ágilmente a la cabina del primero, que ya ha iniciado la marcha.
+
+Todos se alejan carretera abajo.
+
+Jo lanza un juramento y los tres suben al camión, cerrando las puertas de golpe.
+
+jo: ¿Sabes a qué viene todo esto? La National Science Foundation ha ofrecido una interesante subvención a quien consiga colocar los instrumentos de investigación en un tornado. Ese dinero significa un gran laboratorio, con el que se podrían conseguir grandes avances en el nuevo sistema de detección de tormentas.
+
+Avanzan carretera abajo.
+
+jo: Si consiguiéramos esa subvención, construiríamos ese sistema de alerta en seis meses, algo que a Jonas le costaría al menos seis años, porque pretende empezar desde cero, mientras que tú y yo sabemos que se puede utilizar la red existente, ya que es perfectamente adecuada. Los patrocinadores de su empresa consideran que este proyecto puede significar un contrato de dos mil millones de dólares con el gobierno. Como supongo que habrás imaginado, no costearon esas vistosas camionetas sólo por amor a la ciencia. A Jonas no le importa lo más mínimo que la gente muera mientras tanto.
+
+Silencio en el camión.
+
+melissa (con tono serio): ¿Puedes derrotarlo?
+
+jo: Podría hacerlo si Bill me ayudara.
+
+Las dos mujeres miran a Bill, que se encoge de hombros, aparentemente indiferente.
+
+bill: Eso ya no es problema mío.
+
+jo: No entiendo cómo puedes mantenerte alejado de todo esto.
+
+bill: Pues lo estoy.
+
+De regreso junto al equipo de Jo enel campo.
+
+Por la tarde
+
+Llueve ligeramente. Los truenos retumban ominosamente; el cielo adquiere un aspecto aún más amenazador cuando el camión de Jo se detiene junto al coche alquilado de Bill. La naturaleza alerta ante el daño inminente…, un tornado puede surgir en cualquier momento.
+
+Los tres descienden del vehículo. Bill, furioso, cierra la puerta con fuerza.
+
+bill: Sabia que esto iba a suceder.
+
+Jo y Melissa permanecen de pie junto al camión. Bill se dirige hacia su coche.
+
+jo: Sólo un día. (Mira a Melissa.) Lo único que pido es un día.
+
+bill: No, Jo.
+
+jo: Firmaré mañana.
+
+bill: ¡No! ¡Se acabó! ¡Nos marchamos!
+
+melissa: Vamos, espera un momento, Bill…
+
+bill (furioso): No. ¡No!
+
+Ambos suben al coche.
+
+melissa (tranquilizadora): Bill, recuerda nuestro objetivo.
+
+bill (furioso): ¡Al infierno con él! No voy a ceder a sus deseos. ¡Siempre quiere salirse con la suya!
+
+melissa: Tienes razón. (Tratando de tranquilizarlo.) Tienes razón.
+
+bill: ¡Que se vaya al infierno!
+
+melissa: Está bien, está bien… Pero sabes que Jo podría hacer que los trámites del divorcio se prolongaran años. Puede hacernos la vida imposible, y no quiero que este asunto se arrastre indefinidamente… Y sabes que eso será lo que sucederá.
+
+Bill mueve la cabeza en un gesto de negación, pero en el fondo sabe que es cierto. Los argumentos de Melissa hacen mella en él.
+
+Luego mira el cielo. La tormenta arrecia.
+
+melissa: Cariño, quédate un día y termina de una vez con este asunto.
+
+bill: ¡Lo que quiero es terminar de una vez con ella!
+
+melissa: Yo también. Sólo un día. Hazlo por nosotros, después nos habremos librado de ella para siempre (lo besa en la mejilla). Podremos soportar cualquier cosa durante un día.
+
+Bill asiente, sale del coche, y dirigiéndose a Jo, levanta un dedo y grita:
+
+bill: ¡Un día!
+
+Jo sonríe burlonamente.
+
+La gran tormenta
+
+La tormenta retumba con violencia y dos relámpagos se dibujan en rápida sucesión. Como una respuesta del cielo, el desafío es aceptado.
+
+En tierra
+
+Arrecia el viento, que agita los documentos de divorcio en manos de Jo. Ella los aprieta con fuerza.
+
+El resto del equipo
+
+Todos miran hacia el cielo, mientras permanecen sentados en los vehículos, escuchando la radio. Los locutores cada vez parecen más excitados.
+
+por la radio: Tres estados permanecen alerta debido a la amenaza de un posible tornado. Según las informaciones llegadas a la redacción se han visto cuatro de estos fenómenos naturales partiendo de Kansas y dirigiéndose al sur, hacia Odessa, Texas. El Servicio Meteorológico Nacional insiste en que las condiciones son extremadamente peligrosas…
+
+Jo, a un lado
+
+Dusty, ayudado por Jo, está cargando los instrumentos del camión en la camioneta. Miran a Melissa, evidentemente enamorada, que está de pie junto a Bill. Rick se acerca a ellos con una cámara.
+
+rick: Llamó tu madre, Jo.
+
+jo (distraída): Está bien…
+
+Jo no puede apartar la mirada de Bill.
+
+dusty: ¿Por qué haces esto, Jo? Deja que se marche.
+
+jo: Sólo quiero una lectura de instrumentos.
+
+dusty: Entiendo.
+
+jo: ¿Cómo quieres que te lo explique? Bill colocará los instrumentos, conseguiremos las lecturas y se largará de aquí. Así, todo el mundo feliz, ¿de acuerdo?
+
+dusty (con incredulidad): Está bien, Jo…
+
+Melissa y Bill
+
+Sonido cercano de un teléfono. Bill no le presta atención, está preocupado observando el cielo. Melissa mira hacia el coche, abre la portezuela, se acomoda en el asiento delantero y saca un teléfono del bolso.
+
+melissa: Doctora Huntley… Sí, bueno, ahora no estoy en la consulta… Entiendo… Bien, si es tan grave, de acuerdo, póngasela… Creí que iba a empezar a tomar Clomed el mes que viene.
+
+Melissa ve que todos empiezan a gritar y a correr hacía los coches.
+
+melissa (con la mano sobre el auricular del teléfono): ¿Qué ocurre?
+
+Rick ante uno de los vehículos
+
+Se sienta y deja la portezuela abierta mientras escucha una radio con los auriculares puestos.
+
+rick: ¡Tornado! ¡En tierra! ¡Está en tierra! Por lo visto está a unos ocho kilómetros al oeste, cerca de la comarcal cuarenta y cinco.
+
+Bill
+
+Entrecierra los ojos para aguzar la mirada y ve:
+
+Un tornado. Tarde
+
+Un embudo alargado y estrecho ha descendido del oscuro cielo a vanos kilómetros de distancia. Es la imagen típica de un tornado: estrecho, con la clásica forma de cono invertido, de un color gris pálido, que se desliza por la tierra con una punta fina. Visto desde lejos, su aspecto grácil y misterioso incita a desear verlo más de cerca.
+
+Melissa
+
+Mira fijamente, como hipnotizada.
+
+Jo
+
+Sube al camión y pone el motor en marcha.
+
+Timmy, en la furgoneta
+
+En el momento en que gira la llave de contacto, Rick entra en la cabina. Dusty va en otro camión. Todos los vehículos se preparan para emprender rápidamente la marcha.
+
+Dusty conduce hacia donde está Melissa
+
+Llega a su lado y le tiende una radio.
+
+dusty: Síganos… Pero quédese a tres kilómetros de distancia cuando nos detengamos.
+
+Todavía al teléfono, Melissa se desliza tras el volante y arranca el motor.
+
+melissa (al teléfono): Ahora no puedo seguir hablando. Le volveré a llamar.
+
+Camión de Jo
+
+En el momento en que Bill abre la puerta del conductor. Ella sonríe.
+
+bill: Pasa al otro lado.
+
+El prácticamente la empuja hacía el asiento del pasajero, mientras sube al camión, luego cierra de un portazo.
+
+jo: Eres un machista.
+
+Bill aprieta el acelerador. Los conductores de los otros vehículos hacen lo mismo y emprenden la marcha a toda velocidad, entre chirriar de ruedas y nubes de polvo. Es una escena de caos frenético.
+
+Melissa
+
+Saluda a Bill, que se aleja. Luego, preocupada, inicia lentamente el seguimiento de la caravana.
+
+En el camión de Jo
+
+Jo mira hacia atrás. Luego, tratando de imitar a un presentador de televisión dice:
+
+jo: Bueno, el tiempo del fin de semana aquí, en Phoenix, no va a ser precisamente agradable. ¡Fíjense en lo que se nos viene encima! Ya pueden ir haciendo acopio de bebidas. Éstas son las cifras: una temperatura máxima de cuarenta y cinco grados, una temperatura mínima de treinta y ocho y, naturalmente, un cero por ciento de humedad relativa. ¡Perfecto!
+
+Mientras avanzan, apenas se oye la voz del informador del servicio meteorológico que anuncia una alerta de tornado, y las demás voces estridentes que suenan por la radio de onda corta, mientras desde todos los puntos del país la gente trata de llegar junto al tornado. (Cada vez que se produzca esta situación escucharemos las mismas voces agitadas.)
+
+Exterior. El camión en la carretera
+
+Bill avanza a ciento treinta kilómetros por hora en dirección cielo oscuro y amenazador, al fondo de la carretera.
+
+Se cruzan con vehículos que corren en dirección opuesta, cuyos conductores miran a menudo hacia atrás, por encima de los hombros. Uno de esos vehículos se desvía hacia Bill, que da un volantazo y lo evita.
+
+En el camión de Jo
+
+Jo observa a Bill mientras éste conduce.
+
+jo: Esa humedad subtropical procedente de Texas provoca algunas tormentas en la zona central de Estados Unidos, pero, como siempre, aquí, en los cielos de Phoenix, no ocurre absolutamente nada. Es muy posible que hoy superemos los cuarenta y cinco grados, así que es un día fabuloso para quedarse en casa, en una habitación a oscuras, con el aire acondicionado a toda potencia.
+
+dusty (por la radio): ¿Jo? Corto,
+
+jo (sena): Si te quedas en Phoenix, la bonita piel de Melissa va a parecer una cartera de pellejo de avestruz.
+
+dusty (por la radio): Jo, soy Dusty. Corto.
+
+jo: ¿Hombre del tiempo? ¿Bromeas?
+
+dusty (por la radio): Jo, contesta. Corto.
+
+bill: (tratando de contenerse): ¿Vas a hablar con Dusty o no?
+
+Jo toma el micro de la radio,
+
+jo (por la radio): Aquí estoy, Dusty.
+
+dusty (por la radio): Estamos en la carretera cuarenta, dirigiéndonos hacia el sur. ¿Dónde estáis vosotros?
+
+jo: ¿Que dónde estamos? No lo sé. Espera un momento.
+
+Mira un mapa.
+
+Bill toma el micrófono mientras conduce.
+
+bill: Dusty, estamos en la cuatrocientos veinticuatro, dirigiéndonos al este.
+
+jo: Al oeste.
+
+bill: ¡Al este!
+
+jo: No, Bill, es al…
+
+bill: ¡Este! ¡Mira el mapa! Sigues sin ser capaz de orientarte con un mapa.
+
+jo: ¡Sé orientarme perfectamente! (Furiosa, mira el mapa.) Bueno, quizá al noreste…
+
+bill: ¡Este!
+
+jo: Está bien… (suspiro.) ¿Por qué nos peleamos? Mira, sólo hemos de soportarnos un día, así que tratemos de llevarnos bien.
+
+bill: De acuerdo.
+
+Ella lo mira, le tiende la mano. Él se inclina hacia ella y se la estrecha.
+
+jo: ¿Amigos?
+
+bill: Amigos.
+
+jo: Bien. Me alegro.
+
+Ambos miran fijamente la carretera.
+
+jo: He estado pensando en nuestro matrimonio, Bill, y la verdad, me he dado cuenta de que no tuviste toda la culpa de que las cosas fueran mal.
+
+bill: Yo, ¿toda la culpa?…
+
+jo: No fuiste el marido perfecto, pero yo tampoco me comporté como se espera que lo haga una esposa. Lo admito.
+
+bill: ¡Ni siquiera fuiste una esposa!
+
+jo (más tensa): Creo que todo habría salido bien, de no haber sido por el hecho de que tenías un problema con mi trabajo.
+
+bill: ¿Tu trabajo? Nuestro fracaso matrimonial nada tuvo que ver con tu profesión.
+
+jo: Pues entonces ¿cómo lo explicarías tú?
+
+bill: Íbamos a comprar una casa, y tú cogiste el dinero de la entrada para pagar un nuevo radar Doppler…
+
+jo: Porque lo necesitábamos. El que teníamos ya era muy viejo y estaba anticuado. Hasta tú mismo lo decías…
+
+bill: ¡Pero ese dinero era para nuestra casa!
+
+jo: Bill, lo siento, pero no me pareció que la casa fuera tan importante.
+
+bill: ¡Lo sé!
+
+jo: No creí que la necesitaríamos entonces.
+
+bill: ¡Lo sé! ¡Y ése es el problema! ¡Lo nuestro nunca ha sido un verdadero matrimonio! Tú siempre hiciste lo que te dio la gana.
+
+jo (levantando las manos): Eso es ridículo.
+
+Bill mira más allá de los campos, hacia el tornado.
+
+bill: (que ya no la escucha): Está bien.
+
+El tornado
+
+Sigue avanzando a lo lejos. Escuchamos un retumbar sordo y lejano.
+
+De nuevo en el camión
+
+Mientras lo persiguen, escuchan la mezcolanza de voces por la radio.
+
+voz uno (por la radio): Es un F uno que avanza hacia el oeste, el vórtice parece (interferencia)… cincuenta metros de diámetro.
+
+voz dos (por la radio):… carretera cuatrocientos veinticuatro. Estamos muy alejados de él. ¿Está girando?
+
+dusty (por la radio): Parece que va a cruzar la carretera, a unos ocho kilómetros de donde estoy. Va hacia… (interferencia).
+
+jo (vuelve a tomar el micro): Repítelo, Dusty.
+
+dusty: Va hacia el este…
+
+jo: ¡Al este!
+
+Bill aprieta el acelerador.
+
+El tornado
+
+Se acerca. Se halla a un kilómetro y medio a la izquierda del camión de Jo, avanzando sobre un campo llano de alfalfa. Corre paralelo a la carretera. Vemos el lugar donde el embudo toca el suelo, formando remolinos de polvo alrededor. Se oye el estrépito atemorizador que produce, semejante al de un tren expreso.
+
+En el interior del camión
+
+Jo y Bill se miran en silencio mientras él conduce.
+
+El tornado
+
+Sigue situado por delante de la cámara, y se acerca a un cobertizo, próximo a la carretera. Lo alcanza… Las maderas salen volando por todas partes, como alfileres.
+
+En el camión
+
+Giran para evitar los maderos desparramados sobre la carretera, y continúan avanzando, ahora por el camino seguido por el tornado, hasta conseguir adelantarlo.
+
+jo: Tienes que ir más deprisa.
+
+bill: Lo sé.
+
+Pronto consiguen ir a unos ochocientos metros por delante del tornado, que ahora vemos por el espejo retrovisor.
+
+jo: Vamos a tener que meternos en el campo.
+
+bill (mira a un lado de la carretera): Lo intentaré.
+
+Avanza a ciento cuarenta kilómetros por hora por la carretera, y gira a la izquierda para meterse en los sembrados, a fin de interceptar el tornado. La cuneta, cubierta de hierba, es un suave talud que conduce a la zanja de irrigación, de poco más de un metro de ancho, paralela a la carretera.
+
+jo: ¡A la cuneta! ¡Ahora, ahora!
+
+bill: Espera un momento, sólo un momento…
+
+jo: ¿Has perdido los nervios?
+
+Ahí está. En una acción espeluznante a ciento cincuenta kilómetros por hora, Bill gira a la izquierda y el camión se tambalea al tomar la pendiente. El vehículo avanza rugiendo por el talud hasta meterse en la zanja. El camión vibra como si corriera sobre una tabla de lavar, y Bill sube las ruedas de la izquierda encima de la zanja.
+
+Jo mira hacia atrás, en dirección al tornado, situado en ese momento a unos ochenta metros campo traviesa. Se vuelve hacia adelante.
+
+jo: Vamos, salgamos de aquí.
+
+Bill tiene problemas para controlar el camión en la zanja, a esa velocidad. El volante tiembla como una taladradora; el vehículo efectúa un viraje repentino y las dos ruedas izquierdas vuelven a meterse en la acequia.
+
+jo: Bill…
+
+bill: Lo intento.
+
+A algo más de medio kilómetro por delante, un canal de riego alto de hormigón bloquea la zanja. Se dirigen hacia él a toda velocidad.
+
+Bill gira el volante hacia la izquierda, para sacar las ruedas de la acequia, pero ésta, más profunda a medida que avanzan, pronto alcanza casi un metro de hondura. Posiblemente, ahora ya no podrá sacar el camión de ella.
+
+Cada vez están más cerca de la construcción de hormigón, a modo de puente.
+
+bill (sarcástico): Tuviste una magnífica idea…
+
+Sólo tienen una salida. Bill pisa a fondo los frenos. El camión coletea, levanta polvo y terrones alrededor y patina, precipitándose hacia el canal de riego de hormigón… Finalmente, se detiene, seis metros antes de ser decapitados.
+
+Ambos saltan del camión. Jo se dispone a sacar el equipo de instrumentos.
+
+bill: ¡Jo!
+
+La coge y los dos echan a correr para ponerse a cubierto.
+
+Resguardados en la zanja de riego
+
+Están abrazados en la acequia, a cubierto bajo el paso elevado de hormigón. Al mirar hacia atrás, pueden ver el camión, jo, sin embargo, observa lo que ocurre más allá, en medio del campo.
+
+Las altas hierbas del talud sufren los azotes cada vez más violentos del temporal, hasta que finalmente quedan aplastadas en la tierra. El rugido del tornado intensifica su furia, hasta hacerse insoportable. El camión empieza a tambalearse.
+
+bill: Retrocede.
+
+Tira de ella, para introducirla más profundamente en el agujero. Ella se desprende de él con un tirón, molesta.
+
+jo: Sé lo que estoy haciendo.
+
+Camión de Jo
+
+De repente, el vehículo es lanzado hacia adelante, como moy ido por una mano gigantesca, y choca contra el talud. El guardabarros abollado queda a pocos centímetros de los rostros de Jo y Bill.
+
+Cuando vuelven a mirar, el camión ha desaparecido.
+
+La zanja de irrigación aparece desierta.
+
+Melissa conduciendo
+
+Mira hacia adelante, preocupada, tratando de encontrar a Bill. De repente, ve caer el camión del cielo, que se estrella contra la carretera, junto a ella y queda destrozado.
+
+melissa (gritando): ¡Bill!
+
+Se detiene, sale precipitadamente del coche y corre hacia los restos del camión.
+
+melissa: ¡Bill! ¡Bill…!
+
+bill: ¡Aquí!
+
+Ella se vuelve hacia atrás. Bill y Jo salen a gatas del talud y se dirigen hacia ella; Jo aferrando el equipo de instrumentos.
+
+melissa: ¡Bill!
+
+bill: ¡Estoy bien! ¡Sube al coche!
+
+Le hace señas para que se siente en el asiento del pasajero y él entra en el coche por la puerta del conductor.
+
+Mientras Bill pone el coche en marcha, Jo sube al asiento trasero, preocupada por el instrumental de investigación que comprueba cuidadosamente.
+
+melissa: Bill, pensé que estabais muertos. Fue una sensación horrible…
+
+bill (concentrado en la actividad frenética que los arrastra): Lo siento, cariño. No pasa nada.
+
+jo (refiriéndose al equipo): ¡No pasa nada! El indicador Gamma V marca 1,2 y se mantiene. ¡Adelante!
+
+En la carretera
+
+El impecable convoy de Jonas pasa a toda velocidad, en persecución del tornado. Evitan el vehículo destrozado y el coche aparcado en la cuneta, como si no estuvieran allí.
+
+jo: ¡Mierda!
+
+Melissa la mira fijamente, Bill, algo confuso.
+
+El tornado avanza por delante de ellos
+
+Sigue paralelo a la carretera, y ahora está a un kilómetro y medio por delante del vehículo de Melissa.
+
+Vista exterior del coche
+
+Se lanzan a toda velocidad tras el tornado. A lo lejos distinguen las camionetas de Jonas.
+
+Interior camioneta de Jonas
+
+En la furgoneta que abre la marcha, va Jonas con los auriculares puestos, controlando un monitor instalado en el panel de instrumentos, a la vez que no pierde de vista el tornado.
+
+El tornado aparece coloreado en la pantalla, donde se aprecia claramente el movimiento giratorio del fenómeno. Destellan pequeñas flechas, y los datos se superponen a la imagen.
+
+jonas: ¿Tenemos un dd cero cuatro? La columna empieza a parecer inestable. ¿Se desvía del cammo seguido, o presenta asimetría?
+
+En la segunda camioneta
+
+Sin ventanillas, luz mortecina, atestada de equipo electrónico. Dos ayudantes controlan los monitores que analizan las imágenes enviadas por satélite, así como las locales recogidas con vídeo, que trazan la estela de devastación y calculan la velocidad del viento.
+
+ayudante uno: Doctor Miller, el nexrad lo da como firme. El chorro de setecientos es estable. Se mantiene en la misma dirección.
+
+jonas: Está bien. Vamos a por él.
+
+ayudante dos: Preparado, doctor Miller.
+
+Sacan su propia cápsula de instrumentos, de colores negro y cromado, un equipo de alta tecnología, con multitud de cuadrantes y luces, sin duda caro y sofisticado.
+
+En la cabina de Jonas
+
+Jonas se inclina hacia adelante, para observar mejor el tornado que avanza delante de ellos.
+
+conductor: Jonas, tenemos acompañantes.
+
+Jonas mira por el espejo retrovisor lateral. Bill intenta alcanzarles.
+
+Jonas hace un gesto despectivo con la mano. Olvídalo.
+
+Interior del coche de Bill
+
+Está llegando a la altura del vehículo de Jonas. Se escuchan voces por la radio. Bill frunce el entrecejo sin dejar de mirar el tornado. Parece preocupado.
+
+bill: No me gusta esto…
+
+jo: ¡Sigue adelante!
+
+Se hace a un lado para adelantar a las camionetas, que le mojan el parabrisas con el agua que levantan a su paso. Todos avanzan a ciento sesenta kilómetros por hora.
+
+La carretera
+
+Los vehículos avanzan en paralelo. Bill adelanta una a una las furgonetas del equipo de Jonas.
+
+En la camioneta de Jonas
+
+conductor: ¿Jonas? Mira eso.
+
+Mira hacia un lado. El coche de Bill se encuentra justo a su derecha. Jo mira por la ventanilla y le sonríe. Levanta los puños y luego le hace una señal despectiva.
+
+jonas (divertido): Esa chica vale mucho, ¿verdad?
+
+Bruscamente, el coche de Bill pierde velocidad y en un momento se queda atrás. Jo muestra una expresión de asombro y aparta la mirada de la ventanilla. Jonas y el conductor observan por los espejos retrovisores.
+
+Ven a lo lejos el vehículo de Bill, y cómo éste lo hace girar en redondo, para alejarse por donde ha venido.
+
+conductor: Están dando la vuelta.
+
+jonas: Probablemente se olvidaron de algo.
+
+Interior del coche de Bill
+
+Jo está furiosa.
+
+jo: ¿Qué demonios estás haciendo?
+
+bill: La zona media de la columna se ha desorganizado. El tornado va a cambiar de trayectoria.
+
+jo: Jonas no parece pensar lo mismo.
+
+bill: Jonas no tiene instinto.
+
+jo: Puede ser, pero está conectado directamente con el centro de la tormenta. Bill. Y se dirige hacia él.
+
+bill: Fíjate en la columna. Observa el ángulo. ¡Míralo!
+
+Jo mira con detenimiento y frunce el entrecejo:
+
+jo: Quizá… ¿Crees que es,…?
+
+bill: Sí, lo creo.
+
+melissa: ¿Qué es?
+
+jo: Va a girar.
+
+bill: ¿No había por aquí una carretera secundaria?
+
+jo: Si, la había
+
+bill: ¡Ahí esta!
+
+Campo situado a su derecha
+
+Un camino de tierra parte desde la carretera Bill lo toma, y el coche ayanza tambaleante debido a los baches
+
+En la carretera, mas abajo
+
+El tornado disminuve su fuerza y se pierde por la derecha Se sigue alejando de nosotros, hasta que dejamos de oírlo
+
+Suena el telefono Melissa contesta
+
+melissa: Doctora Huntley… No, no estoy de servicio… Bueno, si realmente se trata de una emergencia (Cubre el auricular con una mano) Es solo un momento (Por el telefono): ¿Louise?… Vamos, querida, cálmese. Deje de llorar, por favor… Louise, ¿no hablamos ya sobie el tema del pene?… (cubre el teléfono). A mi me parece que todavía sigue la misma trayectoria.
+
+bill: Espera
+
+El tornado
+
+Provocando un gran estrépito y levantando la tierra del campo a su paso, el tornado se dirige directamente hacia una granja situada algo lejos de la carretera.
+
+El tornado visto en un monitor
+
+La imagen aparece coloreada, y Jonas la observa con atención.
+
+jonas: Bien. Muy bien…
+
+El tornado
+
+Cambia súbitamente de dirección, hacia la izquierda, y la granja queda intacta. A continuación, y muy lentamente, dibuja una curva en su recorrido y se aleja de la carretera.
+
+conductor: Jonas…
+
+Este levanta la mirada del monitor y ve que el tornado ha cambiado de trayectoria.
+
+jonas: ¡No! ¡No!
+
+Mira por encima del hombro, y distingue la diminuta figura del coche de Bill, que cruza el campo por un camino adyacente.
+
+jonas: Va a interceptarlo.
+
+En el coche de Bill
+
+Siguen avanzando. Melissa continúa su conversación telefónica, inclinada, y con la cabeza agachada, para evitar en lo posible los ensordecedores sonidos de la radio que se escuchan en el interior del coche.
+
+melissa: Sí, es antinatural…, pero en este caso no tenemos alternativa; dada la motilidad de su marido, es difícil que usted consiga plena satisfacción con la penetración. ¿Por qué llora? ¿Cuánta progesterona ha tomado hoy? Debe afrontar la realidad.
+
+Mientras habla, levanta la mirada y ve el tornado.
+
+El tornado
+
+El estruendo es ensordecedor y ahora está más cerca. El tornado se levanta poderoso y avanza como una fuerza primigenia. A tan poca distancia, su presencia es mucho más aterradora.
+
+En el interior del coche
+
+Melissa se despide con rapidez:
+
+melissa: ¿Louise? La volveré a llamar.
+
+Cuelga. En el interior del coche reina la excitación incrementada por las voces estridentes de la radio.
+
+voz en la radio: Este sudeste, cambia al sur… ¡Va hacia el sur! Es un Fujita dos, con una gran cuña, y muy inestable…
+
+dusty (por la radio): Jo, parece realmente inestable.
+
+jo: Sí, podemos verlo.
+
+Conducen bajo las nubes teñidas de negro. El tornado gira hacia ellos. El campo parece haber sido aplanado por una apisonadora.
+
+voz en la radio: Tiene una cuña de ochenta metros. Las columnas laterales son inestables…
+
+Melissa se da cuenta finalmente de que el tornado se dirige hacia ellos.
+
+melissa: Dios mío…
+
+Un relámpago alumbra el cielo y arrecia la tormenta.
+
+Están cerca del tornado.
+
+Fuera del coche
+
+Dirigiéndose a toda velocidad hacia el tornado, a ciento cincuenta kilómetros por hora, con el sonido de las voces excitadas de fondo.
+
+voz una (por la radio): ¡Condensación rápida! ¡Condensación rápida!
+
+voz dos (por la radio): Es muy grande (interferencia). La cuña del frente levanta el polvo. ¡Flujo ascendente!
+
+En el interior del coche
+
+Se mantiene una conversación, con el fondo constante de las voces que suenan por la radio. Melissa mira fijamente el tornado, mientras se frota las manos contra las rodillas.
+
+melissa (tensa): No nos pasará nada, ¿verdad?
+
+bill: Claro que no. Sabemos lo que hacemos.
+
+El coche, que avanza a ciento veinte kilómetros por hora, se dirige hacia el tornado.
+
+jo: Nunca hemos tenido problemas… Bueno, excepto cuando lo de Ted.
+
+bill: Ted era un estúpido.
+
+jo: El fue el culpable de lo que le ocurrió.
+
+melissa: ¿Qué le pasó?
+
+jo: Se quedó sin gasolina, y un tornado acabó con él.
+
+Jo se inclina y mira el indicador de gasolina.
+
+melissa: ¿Cómo?
+
+La pregunta queda sin respuesta. El coche continúa avanzando hacia el tornado.
+
+bill: No calculó bien sus posibilidades.
+
+voz (por la radio): El Doppler calcula vientos de doscientos noventa kilómetros por hora, así que manteneros alejados…
+
+melissa (que parece tener dudas): Escuchad…
+
+bill (a Jo): Parece un F dos o quizá…
+
+jo: O quizá un F tres. (Mira el equipo de instrumentos.) ¿Qué te parece? ¿Un minuto más?
+
+bill: Sí. Aquí está la lluvia.
+
+La lluvia cae sobre el parabrisas, y Bill acciona el limpiaparabrisas.
+
+bill (explica a Melissa): Primero se ve lluvia, luego granizo, y a continuación el viento arrecia. Después se ven escombros en el aire, lo que significa que el tornado está cerca.
+
+Melissa se aprieta las rodillas con tanta fuerza que tiene los dedos blancos. Trata de estar a la altura de las circunstancias, y pregunta con tanta serenidad como le es posible:
+
+melissa: ¿Cuándo sabéis que está demasiado cerca?
+
+El tornado se encuentra a la derecha, en el lado que ocupa Melissa en el coche; oscuro y girando en remolino a gran velocidad. Ella lo mira horrorizada.
+
+melissa: Empiezo a sentirme realmente mal… Vais a tener que parar…
+
+Bill ni siquiera la escucha. Estudia el tornado con detenimiento. Sabe que están demasiado cerca, y puede ser peligroso.
+
+Melissa está nerviosa. El teléfono vuelve a sonar y ella lo coge furiosamente.
+
+melissa (muy inquieta): ¿Qué? ¿Qué pasa ahora?… Mire, no me importa que a su marido no le gusten los calzoncillos. Dígale que si sigue llevando esos slips tan apretados acabará con los huevos cocidos como auténticas patatas hervidas. ¡Dígaselo así!
+
+Cuelga. Trastea con el aparato, pero está tan nerviosa que no consigue cortar la comunicación.
+
+El tornado ahora ha adoptado una curiosa forma de W, como un pliegue en el embudo.
+
+bill (preocupado): Precesión helicoidal…
+
+jo: Acerquémonos de todos modos.
+
+melissa: No lo hagáis. Parece muy peligroso…
+
+bill: El vórtice se descompone. Quizá aparezcan varios.
+
+melissa: ¿Varios?
+
+jo (levanta la mirada): Es posible que no.
+
+bill (muy serio): Jo… Arriesgas demasiado.
+
+jo: ¡Hazlo!
+
+Aparece el embudo de un segundo tornado a la izquierda de donde ellos se encuentran y entra en contacto con la tierra al otro lado del camino. Ahora hay dos tornados, uno a cada lado del coche.
+
+jo (alegremente): ¡Sí! ¡Esto es un carrusel!
+
+bill: Vamos a salir de aquí.
+
+Espesos torbellinos de polvo se levantan por todas partes. A unos metros por delante de ellos, una vaca vuela hacia la izquierda, arrastrada por el tornado, y cruza el camino, literalmente suspendida en el aire a aproximadamente un metro de altura del suelo.
+
+dusty (por la radio): ¿Jo? Salid de ahí. Os dirigís directamente hacia un gran vórtice de succión, y no podéis verlo.
+
+melissa: ¡Dios mío! ¡Vamos a morir! ¡Bill!
+
+Desde la izquierda, escupida por el nuevo tornado, la vaca sale despedida hacia el otro lado del camino. Bill gira el volante para esquivarla y pisa el freno a fondo. El animal cae muerto en el suelo, a la derecha del coche.
+
+Delante de ellos, a unos cien metros, desciende un tercer vórtice. Es diáfano y casi puede verse a través de él.
+
+Bill maniobra para salir de allí, pero el viento empuja el automóvil, que gira 180 grados, luego lo levanta en el aire y lo zarandea, como si fuera un cochecito de una montaña rusa. Mehssa grita, pierde los nervios, se cubre el rostro con las manos… Bill se esfuerza por recuperar el control del vehículo, pero éste se destiza a toda velocidad, como si patinara sobre el suelo. Se hallan envueltos por una nube de polvo. De repente, se oye un fuerte estallido, y dos tornados se unen y ascienden hacia las nubes.
+
+Tras un nuevo estruendo, parecido a una explosión, aparece el tercer tornado.
+
+Todo termina súbitamente, y se ve el coche avanzando por un camino desierto. El aire claro se extiende ahora bajo las nubes negras que se ciernen sobre ellos. Las voces de la radio denotan una actividad frenética. Ahora Bill conduce con calma y rodea a Melissa con un brazo.
+
+bill: No pasa nada. ¿Te encuentras bien, querida?
+
+melissa (atónita, temblorosa): ¿Qué ha ocurrido?
+
+bill (la besa en la frente): Los vórtices múltiples son inestables. Ahora todo ha pasado…
+
+melissa: ¡Para el coche!
+
+Bill detiene el vehículo. Ella abre la puerta apresuradamente, se inclina y vomita. Mientras tanto, Jo sonríe. Bill lo ve y sale del coche.
+
+Fuera del vehículo. Campo desierto
+
+Melissa se aleja caminando. Bill la sigue, y cuando la alcanza, la estrecha entre sus brazos. Jo observa la escena desde el interior del coche. Mientras Bill la abraza, levanta la mirada al cielo.
+
+La tormenta se cierne sobre ellos
+
+ti cielo retumba y aparece iluminado ocasionalmente por rayos amenazadores. Bill tiene la sensación de que se ríe de él. Una vez mis ha perdido la partida.
+
+Exterior cafetería de camioneros juntoa la carretera.
+
+Últimas horas de la tarde
+
+El cielo está teñido de tonos rosas y dorados, cuando el equipo dejo se detiene ante una cafetería de camioneros, en la carretera. Todos descienden de los vehículos. Melissa también baja, al igual que Jo, que sale del asiento trasero.
+
+Melissa junto a la puerta
+
+Cierra la puerta como una autómata y se apoya contra ella mientras observa una delicada ramita llena de brotes. Parece haber quedado pegada a la portezuela. Jo tira de ella y la arranca.
+
+jo: Estoy sedienta.
+
+Melissa observa lo abollada que ha dejado la puerta y se estremece.
+
+En la cafetería de camioneros. Mástarde
+
+Los hombres de Jo se hallan alrededor de los coches aparcados, bajo la luz de los últimos rayos de sol, con oscuras nubes tras ellos. Larry habla por teléfono. Tim recoge un fax en uno de los vehículos más pequeños. Junto a una máquina expendedora de refrescos, Melissa y Jo hablan. Bill y Dusty transportan el equipo de instrumentos a la camioneta, donde lo sujetan con correas en la parte trasera. Bill mira a las dos mujeres.
+
+dusty: ¿Se encuentra bien Melissa?
+
+bill: Sí, claro.
+
+dusty: Por la radio parecía estar muy nerviosa.
+
+bill (mirando furtivamente): Creo que está bien.
+
+Jo y Melissa hablando
+
+Junto a la máquina de refrescos. Jo le tiende una lata a Melissa, a quien le tiembla la mano cuando la coge.
+
+jo (se sienta junto a ella): Todo el mundo sufre una conmoción la primera vez que ve un tornado. Yo me crié en esta zona, así que he visto muchos en mi vida.
+
+Melissa se limita a mirarla.
+
+jo: Aparecen siempre en primavera. La verdad es que te acostumbras al cabo del tiempo.
+
+melissa: Yo no lo creo así…
+
+jo: El primero que vi fue de grado uno. Estábamos en clase y tuvimos que salir al pasillo y tumbarnos en el suelo, cogidos de las manos. El tornado hizo saltar las ventanas… Nuestra maestra se hizo pipí en las bragas. Así que no tienes por qué sentirte avergonzada. Es normal que te hayas asustado.
+
+melissa: No estoy avergonzada…
+
+jo: Bien.
+
+melissa (con expresión ofendida): ¿De qué debo avergonzarme?
+
+jo: De nada. Es lo que he querido decirte.
+
+melissa: Pues no lo estoy.
+
+jo: No todo el mundo es capaz de hacer lo que hemos hecho hoy nosotros.
+
+melissa (sin decir todo lo que quisiera): Eso está claro…
+
+jo (que continúa con sus pensamientos): Te habrás dado cuenta de cuánto le apasiona a Bill este trabajo Ni siquiera piensa en el peligro, simplemente va…
+
+melissa: Mira, dejemos bien clara una cosa. La única razón por la que estamos aquí es para que firmes esos papeles.
+
+jo: ¿Crees que si los firmara ahora él se marcharía de aquí?
+
+melissa: Sí, así lo treo.
+
+jo: Las cosas no son tan sencillas.
+
+melissa: Entonces ¿por qué no firmas y comprobamos quién tiene razón?
+
+jo: Déjame decirte algo. Bill no va a poder alejarse de esta tormenta. Le conozco.
+
+melissa: Le conocías.
+
+jo: Si lo obligas a marcharse ahora, puede que te lo reproche en algún momento de vuestras vidas. Porque el no quiere irse.
+
+melissa: Entonces firma. Y sabremos si quiere seguir aquí o no.
+
+jo: No se trata de los papeles
+
+melissa: Te equivocas. Ultimar el divorcio es lo único que lo retiene aquí, aunque tu no quieras admitirlo. Vuestra relación ha terminado y no puedes aceptar que ahora ame a otra mujer. Así que te niegas a firmar. Clásico.
+
+jo: Ahórrate esa clase discurso para tus pacientes.
+
+melissa: A Bill ya no le intensa todo esto
+
+Melissa bebe un trago y mira a Jo con desprecio apenas disimulado, cansada ya de aquel juego.
+
+melissa: Si estás tan seguro de ti misma, firma.
+
+Jo la mira a los ojos. Ambas mujeres se observan.
+
+jo: Quizá lo haga
+
+Jo se levanta y echa a andar, mirando a Bill, que está con Dusty observando la tormenta. Luego se aleja.
+
+Junto a la cafetería de camioneros
+
+Jo en el teléfono público, haciendo una llamada. Al fondo, una grúa arrastrando su camión destartalado.
+
+jo: ¿Mamá…? Hola, soy yo… Estamos bien… En Seward… Sí, sólo está a treinta kilómetros, pero… ¿estás segura de que no te causará demasiados problemas…? Una cena sería estupendo, mamá. A los muchachos les encantaría. Sí, Bill también está aquí. Vale… Está bien… No lo sé, es algo complicado. Está…, bueno viene en compañía de alguien… No, creo que vamos a tener a que llevarla con nosotros. Está bien. Te veré pronto.
+
+Cuelga. Se dirige hacia el coche, donde sus hombres están comprobando si el escáner funciona todavía.
+
+jo: ¡Bueno muchachos, tenemos filete esta noche!
+
+rick: ¡Estupendo! ¡Verdadera comida! (En voz baja.) ¿Crees que es una buena idea?
+
+jo: Creo que es una idea estupenda.
+
+Jo mira a Melissa y añade:
+
+jo: Y ahora ¿quién va a alquilar un coche?
+
+Todos los del equipo se apartan de ella al unísono.
+
+equipo: Vamos, Jo…
+
+jo: ¿Quién no lo ha hecho todavía? (Elige a uno.) ¿Larry? Venga, Larry, tú puedes hacerlo.
+
+Interior agencia alquiler coches.Tarde
+
+Un dependiente, de aspecto severo, rellena los formularios.
+
+empleado: ¿Durante cuánto tiempo querrá tener el coche?
+
+larry (muy tenso): Pues… un día.
+
+empleado: ¿Desea nuestro seguro a todo riesgo que cubre cualquier tipo de colisión y daños?
+
+larry: Sí.
+
+empleado: Es la póliza de doscientos cincuenta dólares… Puedo ofrecerle, si lo desea…
+
+larry: Quiero la mejor cobertura. Sí, a todo riesgo
+
+Exterior agencia de alquiler de coches.Tarde
+
+Jo se sienta tras el volante de la nueva furgoneta y arranca haciendo chirriar las ruedas y levantando una nube de polvo. Vemos cómo se aleja por la carretera. Las nubes de tormenta retumban y producen un ruido sordo.
+
+Interior laboratorio del centro detormentas fuertes. Tarde
+
+Bajo luces fluorescentes se desarrolla una gran actividad; algunos van apresuradamente de un lado a otro, otros se hallan frente a monitores, observando las imágenes algo confusas del frente tormentoso, que abarca vanos estados del Medio Oeste. Un científico habla por teléfono.
+
+primer científico: Tenemos puestos de observación en tres estados, desde Texas a Kansas, la máxima de la corriente sigue estando por encima de los trescientos milibares, y se espera más actividad de tornados en los tres sectores… Las condiciones seguirán siendo muy peligrosas durante la noche…
+
+segundo científico: Jonas para ti, por la dos…
+
+primer científico (aprieta un botón): Sí, Jonas. ¿Dónde estás?
+
+Mientras escucha, mueve el cursor sobre el enorme frente nuboso. Aprieta el ratón cerca del centro de la nube. En la pantalla aparece una pequeña etiqueta luminosa:
+
+«jonas miller.»
+
+Teclea y los colores de la tormenta cambian a rojos, azules y verdes.
+
+primer científico: Estoy observando el radar. Por el momento no detecto ningún TVC, pero parece que las condiciones se están desarrollando en tu zona… Sí… Ve con cuidado por ahí, Jonas.
+
+Plano amplio de la cafetería decamioneros.
+
+Noche
+
+Entre una nube de polvo, llegan Jonas y su equipo, que aparcan las camionetas en formación, una junto a otra. Jonas baja de una de ellas con aspecto preocupado.
+
+jonas: ¿Te encuentras bien, Jo?
+
+jo: Sí. No pasó nada. El tornado dejó caer un par de hermanos gemelos y se desmembró.
+
+jonas (asintiendo con un gesto): El núcleo aparecía débil en el Doppler, por eso no nos lanzamos a cazarlo.
+
+jo: Bueno, tendremos que intentarlo de nuevo.
+
+jonas: Me alegro de que estés bien.
+
+Por su tono de voz parece decirle: «Fuiste una estúpida al intentar cazar ese tornado.» Jo no dice nada. Jonas estudia el cielo.
+
+jonas: Bueno… parece que tendremos más antes de que termine el día. Los de la NSSL han detectado mesociclones al norte, cerca de la frontera de Kansas, y también al sur. Resulta difícil saber qué dirección tomar.
+
+jo: Bien, y entonces ¿qué piensas hacer, Jonas?
+
+jonas (sonriendo): Voy a tomar una taza de café y a considerar los datos. (Se vuelve hacia uno de los miembros de su equipo.) Vigila los coches, Eddie.
+
+Sin dejar de sonreír, Jonas entra en la cafetería, junto con el resto de sus hombres.
+
+jo: Ese hijo de puta quiere ver qué va a hacer Bill.
+
+Junto a los vehículos. Bill
+
+De pie, al lado de Dusty, Bilí mira el cielo, con las manos en los bolsillos. Da una patada al suelo terroso y observa la dirección que toma el polvo, arrastrado por el viento. Vuelve a levantar la mirada.
+
+Interior de la cafetería
+
+Jonas y los miembros de su equipo se sientan a una mesa apartada. Abren los ordenadores portátiles y empiezan a teclear. Parece una convención de la IBM. Luego miran hacia fuera.
+
+Jo y Timmy de regreso
+
+Ella mira a Jonas y a sus muchachos, sentados en el reservado y vigilando a Bill, que sigue fuera.
+
+jo: Menuda bandada de buitres.
+
+Coge un chicle de un paquete y le ofrece otro a Timmy, que niega con la cabeza.
+
+timmy: ¿De veras crees que Jonas se limita a esperar para ver qué hacemos nosotros?
+
+jo: Ninguna ley le impide hacerlo.
+
+Jo se mete el segundo chicle en la boca. Timmy la mira desconcertado, mientras ella desenvuelve otro. Ahora tiene la boca llena.
+
+jo: ¿Quieres disculparme?
+
+Jo pasa junto a Melissa, que está de pie, a un lado, hablando por el teléfono portátil.
+
+melissa: Sí, comprendo que es un problema… Bueno, todos tenemos días malos.
+
+Junto a las camionetas de Jonas.Tarde
+
+Jo sale de la cafetería, masticando chicle. Eddie, un joven universitario de rostro bronceado, está apoyado contra una furgoneta, contemplando la gran tormenta que se avecina.
+
+jo: Hola, Eddie.
+
+eddie: Hola.
+
+jo: Es una condenada nube…
+
+eddie: Sí… (Jo se acerca más a él.) ¿Qué estás haciendo aquí?
+
+Ella se apoya contra la camioneta, por el lado del conductor, junto a Eddie.
+
+jo: Sólo quería echar un vistazo a vuestro nuevo escáner.
+
+eddie: Sabes que no puedo enseñártelo. Jonas me mataría.
+
+jo: Sí, lo haría. ¿Te apetece un chicle?
+
+eddie: Claro.
+
+Mientras él desenvuelve el chicle, Jo mira el cielo y observa la cabeza de la tormenta.
+
+jo: Creo que se nos echa encima una fuerte. Es posible que la línea seca se esté ampliando.
+
+eddie: Sí, parece que habrá más corriente aérea ascendente.
+
+jo: Pero todavía no se distingue la cola de castor.
+
+eddie (señalando): Creo que está formándose una por allí.
+
+jo: ¿Dónde?
+
+Mientras hablan, Jo desliza la mano al interior por la ventanilla abierta del conductor.
+
+eddie (señalando): Allí. ¿No la ves a lo largo de aquella línea? Ya han aparecido las primeras estrías…
+
+jo: Sí, tienes razón. Eso podría ser una cola de castor en formación.
+
+eddie: Sí, claro que sí…
+
+jo: En tal caso, esa nube podría dejar caer un tornado en cualquier momento.
+
+eddie: No lo creo.
+
+jo: ¿Por qué no?
+
+eddie: Porque tú estás aquí demasiado tranquila.
+
+jo (le da un ligero golpe en el hombro): No será por mucho tiempo, Eddie (se aleja). Si alguna vez quieres un trabajo decente, ven a verme.
+
+Jo se dirige hacia la zona de aparcamiento, donde están Bill y Dusty.
+
+Bill y Dusty. Tarde
+
+De espaldas a nosotros, observan atentamente la gigantesca cabeza de la tormenta a unos ocho kilómetros de altura; es un magnífico atardecer. Sus figuras quedan empequeñecidas ante la enorme formación nubosa.
+
+bill: El viento amaina.
+
+dusty: Sí.
+
+Surge un rayo de la base de la nube y a continuación se produce un fuerte restallido.
+
+Interior de la cafetería. Tarde
+
+Plano cercano de una pantalla de ordenador en la que se muestran varias ventanas abiertas: radar Doppler coloreado, diagramas de contornos en milibares, campos de velocidad, etc.; datos de la tormenta que se avecina.
+
+jonas: Se están produciendo ráfagas rápidas que se separan de la corriente ascendente principal. Ahí está la curva de trescientos milibares, donde la verticidad de bajo nivel no excede de cero coma dos.
+
+Plano amplio. Se ve a Jonas y a los miembros de su equipo ignorando el aspecto del cielo, mientras se hallan concentrados en las pantallas de ordenador, rodeados de tazas de café, módems y faxes celulares.
+
+jonas: El mesociclón nunca se desarrollará a tan baja altura, pero… ¿tenemos datos de la zona superior? (Los ayudantes revisan unos papeles.) Necesito más información de lo que está sucediendo a niveles más altos…
+
+Exterior. Por encima de la nubetormentosa.
+
+Tarde
+
+La cabeza de la tormenta avanza, cortada horizontalmente por otra nube. Resuenan los truenos. Descenso de la imagen desde la nube gigantesca hasta Bill y Dusty, que se hallan de espaldas a nosotros, observando el cielo. La nube aparece teñida de verde y púrpura.
+
+bill: Está adquiriendo una tonalidad verde.
+
+dusty: Sí.
+
+Bill extiende una mano y Dusty deja caer en ella las llaves del vehículo. Ninguno de los dos ha dejado de mirar el cielo.
+
+En el interior de la cafetería
+
+Jonas y sus hombres continúan con las narices pegadas a las pantallas.
+
+jonas; No creo que aparezca un nuevo tornado sin un mecanismo capaz de generar rotación de bajo nivel, porque…
+
+un ayudante: ¡Jonas, mira!
+
+Todos miran por la ventana: Jo y los miembros de su equipo están subiendo a sus vehículos, dispuestos a abandonar la zona de aparcamiento. Melissa todavía habla por el teléfono portátil. Dusty la coge del brazo y la empuja dentro de un coche.
+
+El reservado de la cafetería ha quedado vacío en un santiamén. Jonas y los suyos tropiezan entre sí mientras se precipitan hacia el exterior.
+
+Exterior de la cafetería. Tarde
+
+Jonas sale de la cafetería con sus hombres. Se está poniendo el sol, y el cielo ha adquirido un tono rosado que contrasta con la amenazadora nube verde y púrpura. Cuando llegan al aparcamiento, los vehículos dejo y su equipo se distinguen a lo lejos.
+
+jonas: ¡Vamos!
+
+Sus hombres corren a los vehículos. Jonas ocupa el asiento del pasajero de la camioneta que conduce Eddie.
+
+Interior de la furgoneta
+
+Jonas mira fijamente la carretera, para no perder de vista los vehículos que se alejan. Eddie se dispone a poner en marcha el motor.
+
+Jonas: ¡Vamos, Eddie, muévete!
+
+eddie: ¡Qué demonios…!
+
+El joven se inclina por debajo del volante. Una gran masa de chicle cubre la llave de contacto, que está puesta.
+
+eddie: ¿Dónde está la llave?
+
+jonas: ¡Nitrógeno! ¡Nitrógeno! ¡Necesito llaves de repuesto para la camioneta uno! ¡Ahora mismo! (Fulminando a Eddie con la mirada.) Estuviste hablando con ella. ¿Cuántas veces te he dicho…?
+
+Desde el asiento de atrás le tienden un pulverizador. Jonas rocía la cerradura del encendido y se forma espuma alrededor del chicle.
+
+jonas: No se puede confiar en Jo.
+
+La masa de goma congelada se desprende en bloque, y deja libre la cerradura. Al mismo tiempo una furgoneta se detiene al lado. Jonas abre la puerta y toma las llaves de repuesto, que entrega a Eddie.
+
+jonas: ¡Vamos!
+
+Vista amplia de la zona deaparcamiento
+
+Jonas y sus hombres se alejan levantando tras de si nubes de polvo
+
+Interior de la furgoneta de Jonas
+
+La carretera se extiende desierta, y se lanzan por ella a toda velocidad.
+
+jonas: Conecta el radar. Trataremos de encontrarlos
+
+voz de técnico (por el intercomunicado): Ya los tenemos, Jonas.
+
+Eddie aprieta un botón en el tablero de mandos.
+
+melissa (por la radio): ¿Lo han intentado va catorce veces?
+
+eddie: Tiene que ser alguna clase de código…
+
+melissa (por la radio): Claro, tiene los pezones demasiado sensibles… ¿Han practicado el sexo cada día?
+
+Jonas frunce el entrecejo mientras escucha.
+
+melissa (por la radio): Recuerde que después debe tumbarse de espaldas durante quince minutos. No, no, nada de sexo oral. Eso seria una pérdida de tiempo…
+
+jonas: Apaga eso.
+
+eddie: Pero…
+
+jonas: ¡Apágalo!
+
+Eddie obedece. Jonas mira por la ventanilla.
+
+eddie (resentido): Quizá se trate de una información importante. Podríamos…
+
+jonas (sin dejar de mirar por la ventanilla): Abandonarán en cuanto se les eche la noche encima. Ya no tienen la suficiente luz. (Acciona un botón del panel de mandos) Pero nosotros podemos seguir trabajando a pesar de la oscuridad, ¿Verdad, muchachos?
+
+Interior parte trasera de la camioneta
+
+Iluminada por la Iuz rosada del atardecer, aparece atestada hasta el techo de equipo electrónico.
+
+técnico uno; En efecto, Jonas. Podemos trabajar durante toda la noche si quieres.
+
+Interior de la polvorienta furgoneta deBill.
+
+Tarde oscura
+
+Jo y Bill en los asientos delanteros.
+
+bill: Está oscureciendo… Pronto tendremos que dejarlo.
+
+jo: A menos que quieras continuar.
+
+bill: Tornados nocturnos? No disponemos del equipo necesario. Es demasiado peligroso.
+
+jo (incrédula): ¿Demasiado peligroso?
+
+bill: Recuerda que mañana me marcho a Phoenix.
+
+jo: Y no quieres que te pase nada. Ahora tienes un objetivo en la vida. Vas a Phoenix para dejar que te domestiquen.
+
+bill: Sí, quiero formar un hogar.
+
+jo: Querrás decir que pretendes llevar una vida gris.
+
+bill: Eso es.
+
+jo: Irás cada día a la emisora de televisión, te maquillarán antes de salir en antena…, jugarás al golf con el director e intentarás promocionarte como hombre del tiempo.
+
+bill: Sí, suena bastante bien.
+
+Cae un relámpago bastante cerca y empieza a llover. Bill pone en marcha el limpiaparabrisas,
+
+jo: Desde luego jamás pensé verte con un dogal alrededor del cuello, comiendo en un plato que lleva grabado tu nombre.
+
+bill: Siempre has creído saberlo todo sobre mí, pero estás muy equivocada.
+
+jo: ¿Sí?
+
+bill: Sí.
+
+jo:¿Y por qué crees que no huirás de ella como huíste de mí?
+
+bill: ¿Huir?
+
+jo: Bueno, un día llegué a casa y me encontré con que te habías marchado llevándote todas tus cosas. Ni siquiera me dejaste una nota sobre la almohada.
+
+bill: ¿Para qué? Tú nunca hablaste conmigo.
+
+jo: Bueno, señor Comunicación, tú tampoco dijiste demasiado. Simplemente desapareciste.
+
+bill: Me cansé de tratar de hablar contigo.
+
+jo: Y te volverás a cansar ahora.
+
+Se produce un momento de silencio.
+
+jo: No sabes luchar.
+
+Exterior. El camión en la carretera.Segundo tornado
+
+Altos árboles flanquean la carretera, de la que surge un camino que conduce a una granja. Cuando el vehículo pasa ante los árboles, vemos otro tornado a la derecha; su color negruzco contrasta con el tono verdeoscuro del cielo. Es claramente más grande que el aparecido durante el día.
+
+Interior del Camión
+
+Bill y Jo miran ensimismados el tornado.
+
+voz excitada (por la radio): ¡En el suelo! ¡Tornado en el suelo!
+
+jo (por la radio): ¿Dusty? ¿Lo ves?
+
+dusty: Sí. La cuña parece tener unos cien metros.
+
+bill: Quizá más. Tiene buena forma, debe de ser un F dos…
+
+jo: Columnas verticales…
+
+bill y jo (al unísono, con un mismo pensamiento): Debería mantenerse.
+
+bill: Sí, debería hacerlo.
+
+voz (por la radio): Cuña grande. Se dirige al noreste. Lo veo desde la carretera cuarenta y cuatro… Avanza a unos cuarenta y cinco kilómetros por hora.
+
+Los dos concentran su atención en el tornado.
+
+bill,: Es posible que éste sea…
+
+El tornado
+
+Se mueve hacia ellos. Si mantiene esa trayectoria, cruzará la carretera a unos pocos kilómetros por delante del camión.
+
+Interior del camión
+
+bill (hablándole al tornado): ¿Vas a cruzar la carretera? Vamos, vamos, hazlo… Yo estaré ahí…
+
+jo (por radio): ¿Dusty? Prepárate para instalar los aparatos.
+
+Interior coche de Dusty
+
+Dusty se halla a la altura de la granja que vimos antes, a pocos kilómetros por detrás de Jo y Bill, en una carretera paralela. Junto a Dusty, vemos a Melissa, francamente nerviosa. El tornado se levanta a su izquierda.
+
+dusty: ¿Vamos a por éste?
+
+bill (por la radio): Sí, vamos a por él.
+
+Melissa reacciona con preocupación, pero Dusty, concentrado en su trabajo, no se da cuenta.
+
+dusty: ¿Dónde estáis ahora?
+
+jo: A unos tres kilómetros de distancia… Y tenemos granizo.
+
+Interior del camión de Bill
+
+El granizo golpetea la chapa del vehículo y cae sobre la calzada. Es algo grande…, ¡del tamaño de pelotas de golf!
+
+dusty (por la radio): ¿Cuándo debo instalar los aparatos?
+
+jo: Ahora.
+
+Bill mira el cielo, tratando de elegir el momento adecuado.
+
+jo (por la radio): ¡Tenemos corriente ascendente! ¡Dusty! ¡Corriente ascendente!
+
+bill: Desataré los instrumentos.
+
+Se vuelve hacia atrás, salta y sube a la parte trasera del camión. Simultáneamente, Jo se sitúa tras el volante y pisa a fondo el acelerador.
+
+Atrás, con la lona levantada, vemos a Bill inclinado sobre la caja de instrumentos y soltando las cuerdas que la sujetan. El tornado todavía está lejos, pero oye el sonido lastimero del viento, que azota la hierba de la pradera. El granizo cae sobre él, dañándole las manos y dificultándole el trabajo.
+
+jo (asomándose): ¿Estás bien?
+
+bill: ¡Conduce!
+
+Jo se dirige a ciento treinta kilómetros por hora hacia un oscuro cielo y un tornado rugiente y negro, teñido de púrpura y verde.
+
+Bill, en la caja del camión, trastea con las cuerdas anudadas que sujetan el equipo de instrumentos, tratando de desatarlas en medio de ese torbellino. Jo preocupada en la cabina.
+
+jo (por la radio): Ya se distinguen diferentes objetos en el aire.
+
+Grumos de tierra y ramas desgajadas de los árboles golpean el parabrisas y el costado del camión. En la caja, donde está Bill, entran diferentes residuos arrastrados por el viento. Parece que todo empieza a empeorar…
+
+Exterior vehículo de Dusty. Cuneta dela carretera
+
+El maletero está abierto. Apresuradamente, él y Timmy sacan trípodes, videocámaras, ordenadores, radiorreceptores; todo ello sin dejar de escuchar la radio.
+
+voz uno (por la radio): Es increíble la fuerza que tiene… (interferencia).
+
+voz dos (por la radio): Si no lo veo, no lo creo. Acaba de pasar volando una camioneta roja que iba directamente al centro del tornado… (chisporroteo) ¡con un tipo de pie en la caja!
+
+melissa: ¿Es Bill?
+
+dusty: Probablemente. (Por la radio.) ¿Rick?
+
+rick (por la radio): Estoy colocando los instrumentos.
+
+dusty (a Mehssa): Toma esto.
+
+Le entrega una videocámara con paneles de plástico montados delante de la lente.
+
+Dusty se aleja del coche para instalar el caballete en medio del campo. Melissa se apresura a seguirle. Cuando llega junto a él, Timmy coge la cámara y la coloca encima del trípode. Mientras tanto, Dusty prepara los radiorreceptores, que conecta a los ordenadores portátiles.
+
+dusty: Bill está poniendo la caja de instrumentos en el camino del tornado. Nosotros registraremos los datos. (Trabajando con rapidez) El vídeo para la fotogrametría. Y ahí se reciben los datos de telemetría. (Señala.) Rick está por allí.
+
+Se ve a Rick en medio del campo, a unos ochocientos metros de distancia, trabajando con otros instrumentos.
+
+En el campo
+
+Rick y Larry están colocando cámaras, ordenadores, etc., con la máxima rapidez.
+
+larry (con el trípode): Dame esa montura.
+
+rick: Empiezo a tener hambre.
+
+larry: Y el calibrador…
+
+Rick se va a por él. Pueden ver a Dusty y a Melissa en la distancia.
+
+Melissa y Dusty
+
+melissa: ¿Estás triangulando?
+
+dusty: Sí.
+
+Mira a través de la videocámara. Está grabando. El espectador ve la imagen que recoge: una gran nube en movimiento giratorio.
+
+Al lado de Dusty, Melissa se siente alarmada. El cielo está demasiado oscuro y bajo. Observa el tornado. I
+
+melissa: Esto es peligroso. ¿Por qué lo hacéis? Es una locura…, es realmente…
+
+Camión de Bill
+
+El granizo martillea el techo del camión. En realidad, toda la chapa del vehículo está abollada.
+
+Bill sigue en la caja. Ha sufrido cortes en las manos a causa de los objetos y residuos arrastrados por el viento, así como por el granizo; sin embargo, continúa tratando de desatar las húmedas cuerdas. Se oye el ulular quejumbroso del viento, ensordecido por el ominoso rugido de un gigantesco tren de mercancías. Bill levanta la mirada hacia el tornado.
+
+El tornado
+
+Salvaje y rugiente, teñido de un verde amenazador. Es el plano más cercano que hemos visto de un tornado. El cielo verdusco aparece iluminado por los repentinos fogonazos de los rayos. Es una escena de pesadilla.
+
+El tornado alcanza las torres de alta tensión instaladas en el campo, produciendo una sene de explosiones deslumbrantes.
+
+En la carretera
+
+Es un lugar peligroso; un árbol, arrancado de raíz, vuela por los aires, y láminas de metal giran alocadamente como abejas gigantescas. La pared de una casa, con una ventana y una puerta, se acerca dando tumbos y cruza la carretera. El aire es denso a causa del polvo.
+
+Jo conduciendo
+
+Conduce con gesto ceñudo. Los escombros golpean constantemente el camión y las ventanillas. De repente, algo se estrella contra la ventanilla lateral, junto a su rostro. Aprieta los frenos y hace girar el volante.
+
+jo: ¡Ya está!
+
+Exterior del camión
+
+El vehículo se detiene, Bill sigue en la caja. Jo baja y se dirige hacia la parte de atrás. Ambos se gritan, mientras son azotados por el viento, que apenas les permite oírse.
+
+bill: ¡Vuelve a la cabina!
+
+Ella baja la compuerta y tira de la caja de instrumentos. Bill sigue dentro, cerca del equipo. Todavía queda una cuerda por desatar.
+
+jo: ¡Vamos!
+
+bill: ¡Jo, no! Todavía no he…
+
+Ella tira con fuerza y la tapa de la caja de instrumentos se desprende. Jo cae hacia atrás y arrastra con ella el valioso equipaje.
+
+El contenido se desparrama por el suelo: docenas de pelotas de plástico rebotan alrededor de ella, sobre la calzada, y se dispersan impulsadas por el fuerte viento. Jo, atónita, se vuelve hacia Bill, y corre a subirse a la cabina.
+
+jo (se acerca a él, gritando): ¿Qué ha pasado?
+
+bill: ¡Aún estaba atada!
+
+El salta por el lado izquierdo del vehículo.
+
+Corre hasta la cabina, y una vez sentado tras el volante, pisa a fondo el acelerador y gira en redondo. Ella se sujeta, baja la ventanilla que comunica la caja con la parte delantera y asoma la cabeza.
+
+jo: ¿Por qué no me lo dijiste? (grita).
+
+bill: ¡No podía!
+
+Mientras el camión se aleja, vemos que el tornado cruza la carretera, justo por donde ellos estaban momentos antes. La fuerza del viento levanta alguna de las pelotas desperdigadas.
+
+En el espejo retrovisor
+
+Bill se da cuenta de que las pelotas están siendo elevadas por el viento, y no las pierde de vista, a pesar de que conduce a toda velocidad.
+
+En la caja del camión
+
+Jo mira el tornado, que cruza la carretera y hace girar enloquecidamente algunas de las pelotas que todavía están allí. Al tiempo que la caja blanca de los instrumentos sale despedida hacia la cuneta.
+
+jo: Teníamos una posición perfecta.
+
+Luego asoma de nuevo la cabeza en el interior de la cabina.
+
+En la cabina
+
+jo: No podíamos estar mejor. ¡La posición era perfecta! Justo lo que habíamos estado buscando!
+
+bill: ¡Y lo habríamos conseguido… si no hubieras tenido tanta prisa…!
+
+jo: ¿Por qué no me lo dijiste?
+
+bill: Lo intenté.
+
+jo: ¡No lo suficiente!
+
+bill: No me escuchaste. Tenías demasiada prisa…
+
+jo: Muy bien, ahora resulta que todo es por mi culpa. También es culpa mía que nuestro matrimonio haya fracasado, ¿no es cierto?
+
+bill: Así es.
+
+jo: ¡Fuiste tú quien se largó!
+
+bill: ¡No quería hacerlo! ¡Estaba loco por ti!
+
+Melissa y Dusty
+
+Junto a la carretera, mientras recogen el equipo, escuchan la discusión por la radio.
+
+jo: Nunca me lo dijiste.
+
+bill: ¡Pues te lo digo ahora! ¡Estoy loco por ti!
+
+jo: ¡Estupendo, y me lo dices ahora! Ahora que todo ha terminado, ¿no?
+
+bill (por la radio): ¡Eres imposible!
+
+jo: ¡Dímelo! Vamos, dímelo, vaquero. Dime que todo ha terminado. Que amas a otra mujer. ¡Dímelo a la cara!
+
+Melissa escucha mucho más intensamente de lo que aparenta.
+
+bill (por la radio): Eres condenadamente agresiva…
+
+jo (despreciativa): ¡Fíjate en ti! ¡Ni siquiera sabes lo que quieres!
+
+Dusty sacude la cabeza. Melissa escucha la conversación con una actitud fría, con una expresión imposible de descifrar.
+
+melissa: Las relaciones tormentosas siempre son muy difíciles de terminar…
+
+Dusty percibe su angustia, y trata de suavizar la situación.
+
+dusty: Nunca se llevaron bien. Se han pasado la vida discutiendo.
+
+Cambia la frecuencia de la radio. Ahora escuchamos voces diseminadas que gritan excitadamente acerca de la tormenta. Regresan al coche. Dusty va delante, seguido por Melissa.
+
+melissa: Los segundos matrimonios suelen ser mucho más sanos. Más maduros.
+
+dusty (sin dejar de caminar): Supongo que sí.
+
+Continúan andando hacia el coche. Resuenan los truenos.
+
+Interior del camión de Jo
+
+Jo habla por teléfono mientras avanzan.
+
+jo: ¿Dusty? En marcha. Vamos a llegar tarde a cenar.
+
+dusty (por la radio): Os llevamos ventaja, Jo. Rick ya está de camino.
+
+rick (por la radio): ¡Filete! ¡Filete!
+
+larry (por la radío): ¡Con salsa! ¡Con picadillo!
+
+bill: Pero un momento…
+
+jo: Vamos a Guthrie.
+
+bill: No, no vamos.
+
+jo: Ya está todo arreglado. Mamá nos espera.
+
+bill: No, Jo.
+
+jo: Vamos, relájate. Sólo vamos a cenar. Da la impresión de que no has comido carne desde hace mucho tiempo.
+
+Exterior. Afueras de Guthrie.
+
+Ultimas horas de la tarde
+
+Los vehículos pasan junto a una vieja gasolinera de los años cincuenta, un motel y un cine para coches, con un cartel de neón que anuncia: «The Galaxy.»
+
+Continúan hacia Guthrie, una agradable ciudad de diez mil habitantes.
+
+Exterior. Patio delantero de la casade los padres de Jo.
+
+Primeras horas de la noche
+
+En el buzón se lee: «jim y margaret wilder.» Está pintado de rojo, blanco y azul. La casa es de madera blanca. Jo y sus hombres aparcan en la parte delantera.
+
+Larry inspecciona el abollado coche de alquiler, sacude la cabeza y se aleja.
+
+Exterior, Patio trasero de la casa delos padres de Jo.
+
+Primeras horas de la noche
+
+Margaret, la madre de Jo, aparece con una gran bandeja llena de filetes. Bill se acerca a ella para ayudarla. Jim sale con un gran cuenco de puré de patatas y varias barras de pan. (Aquí no se sirve ninguna verdura.)
+
+En la mesa instalada en el patio trasero, todos se lanzan a comer como si no lo hubiera hecho desde hacía mucho tiempo, mientras hablan animadamente.
+
+Melissa está algo apartada del grupo, insegura. Margaret va junto a ella y le tiende una taza de café.
+
+margaret: ¿Lo tomas con crema?
+
+melissa: Sólo un poco.
+
+margaret: ¿Eres de por aquí, Meiissa?
+
+melissa: Soy de Dallas.
+
+margaret: Una hermana mía vive en Dallas. Se ha convertido en una gran ciudad.
+
+melissa: Sí, es cierto.
+
+margaret (sin saber qué decir): Sí…
+
+Es un momento incómodo. Jim se acerca, la rodea con un brazo y la acompaña hasta la mesa.
+
+jim: Vamos, cariño, será mejor que te sientes. Estos chicos, con suerte, dejarán el mantel.
+
+Melissa se sienta ante la mesa. Le pasan bandejas con comida, mientras todos siguen hablando. Rick le llena el plato de la joven.
+
+rick: Será mejor que te alimentes bien. En este negocio, nunca se sabe cuándo se volverá a comer.
+
+larry: Debes cuidarte.
+
+Melissa coge un tenedor, vacila. A ella no le gusta todo eso. Mira a Bill, al otro lado de la mesa. Está comiendo, sin decir palabra. Timmv advierte la indecisión de Melissa.
+
+timmy: ¿Quiere un poco de salsa?
+
+Timmy vierte un gran cucharón de salsa sobre el plato de Melissa.
+
+rick: La salsa de Margaret es famosa.
+
+larry: Es lo mejor de la comida.
+
+timmy: Sí, no la hemos probado desde… Jim, ¿cuándo fue la última vez que pasó un tornado por aquí?
+
+bill: En el noventa y dos.
+
+jim: Sí, Bill tiene razón. Fue en el noventa y dos. El año en que tú y Jo os…
+
+Margaret da un codazo a su marido. Melissa corta con furia un trozo de carne.
+
+dusty: Jim, ¿llegaste a descubrir de quién era aquella pierna que te encontraste?
+
+timmy (explicándole a Melissa): Aquel tornado arrojó la pierna de un tipo sobre el tejado de Jim.
+
+Melissa mira hacia el tejado de la casa.
+
+jim: Fue bastante desagradable tener que bajarla de ahí arriba. Menos mal que los chicos me ayudaron.
+
+jo (con la boca llena de comida): También te hiciste unas bonitas botas de piel de serpiente
+
+rick: Fue horrible… Imagínate, la pierna de un hombre en el tejado de!a casa.
+
+Melissa se siente anonadada, todos comen y hablan a la vez, sin interrupción. Corta otro trozo de filete, pero esta vez lentamente.
+
+dusty: ¿Qué hiciste con ella, Jim?
+
+jim: La puse en el congelador, a pesar de las protestas de Margaret.
+
+margaret (moviendo la cabeza): Me pareció repugnante.
+
+jim: Pero supuse que alguien la reclamaría… Claro que el tornado podría haberla traído desde Tulsa. Podría haberla arrastrado durante cien kilómetros.
+
+timmy: ¿Como aquella jaula?
+
+jim: Sí. (Volviéndose hacia Melissa.) Mi hermano vive en Shawnee, y encontró una jaula en su campo de maíz, con el pájaro todavía dentro, piando, que tenía una etiqueta de una tienda de animales domésticos de Norman, a ciento treinta kilómetros de distancia. Llamó a la tienda y no tardó en aparecer el dueño de la jaula. Por lo visto, se trataba de un pájaro muy caro. Así que supongo que el hombre se alegró de encontrarlo con vida.
+
+timmy: ¿Qué ocurrió con la pierna? ¿La conservas todavía?
+
+jim: Bueno…, nadie la reclamó, así que, finalmente, la enterramos.
+
+margaret: Yo necesitaba el congelador para mis filetes.
+
+Melissa, que está a punto de llevarse un trozo de carne a la boca, se detiene.
+
+jim: La enterramos en el macizo de petunias, ahí. Parece que ha sido un excelente abono.
+
+Se oyen truenos. Bill se levanta de la mesa y mira el cielo.
+
+margaret: Cuando hace eso, siempre me pongo nerviosa.
+
+El cielo
+
+Nubes avanzando, jirones dorados al anochecer.
+
+Bill mirando las nubes
+
+Pensativo.
+
+Patio trasero. Más tarde
+
+Se ha hecho de noche; la cena ha terminado. Hay faroles sobre la mesa, mientras todos ayudan a llevar las cosas a la cocina, sin dejar de hablar. El interior de la casa aparece iluminado. Melissa está fuera con Timmy, limpiando la mesa.
+
+timmy: Entonces ¿la mayoría de veces es el hombre el culpable de que existan problemas en la pareja para tener hijos?
+
+Ella mira por encima del hombro de Timmy, hacia la casa. Tras los cristales de la ventana de la cocina, ve a Jo y a Bill ante el fregadero, lavando los platos. No ocurre nada de particular, sólo que están juntos y parecen sentirse muy cómodos.
+
+melissa (distraída): No, hav muchas etiologías diferentes…
+
+timmy: ¿Es cierto que la alopecia es una señal de virilidad?
+
+melissa (sin escucharle): ¿Cómo?
+
+timmy: Sí, he oído que la caída del cabello es una señal…, bueno, ya sabes, de virilidad.
+
+melissa: Sí, hay estudios que demuestran la existencia de altos niveles de testosterona en los hombres calvos. Sí…
+
+Mientras habla, recoge los platos para llevarlos dentro…, una excusa para entrar en la casa.
+
+margeret: Melissa, deja que lleve yo eso.
+
+melissa: Puedo hacerlo yo. No es ninguna molestia.
+
+margaret: Ni hablar. Los invitados no trabajan en esta casa.
+
+Melissa mira hacia la cocina. Bill sigue lavando los platos junto a jo.
+
+Interior cocina. Noche
+
+En el momento en que entra Margaret.
+
+margaret: Bill, es mejor que te vayas ya. Me encanta que vengas a visitarnos, pero conllevas cierto peligro, porque donde tú estás siempre acaba desencadenándose una tormenta.
+
+bill: No pasaría nada de momento, Margaret. El aire es demasiado seco.
+
+margaret: Si tú lo dices. De todas formas prefiero que te marches.
+
+jo: Está bien, vamos. Tenemos que preparar una nueva caja de instrumentos. Y los muchachos deben hacer algunas reparaciones en los coches. ¿Henderson sigue teniendo la gasolinera abierta toda la noche, mamá?
+
+margarlt: Creo que sí…
+
+Exterior. Parte delantera de la casa.Noche
+
+Todos se despiden de los padres de Jo y suben a los coches. Margaret entrega a Rick un gran paquete envuelto en papel de aluminio.
+
+rick: Gracias. Más tarde necesitaré comer un bocado.
+
+Se ponen en marcha los primeros motores. Melissa, sentada junto a Bill en el asiento de atrás, dice adiós con la mano a Margaret y Jim.
+
+Jo abraza a su madre y la besa, mientras ella le susurra al oído:
+
+margaret: Procura ser astuta, cariño.
+
+jo: Cuídate, mamá.
+
+Los coches inician la marcha. Jo corre hacia el de Dusty. Todos siguen moviendo las manos en señal de despedida mientras se alejan.
+
+Exterior gasolinera. Noche
+
+En la vieja gasolinera que hemos visto antes había colgado un cartel de Mobil mostrando un centauro. Al lado se ve un motel; se trata de una hilera de pequeñas cabañas de madera, con un parpadeante letrero de neón que anuncia: «Televisión gratis en todas las habitaciones.»
+
+No muy lejos, en el cine al aire libre para coches, hay algunos vehículos aparcados, porque están pasando una película. La pantalla es grande y azul.
+
+Los cazadores de tornados se detienen en la gasolinera. La puerta del garaje está abierta, y la zona que rodea el foso de engrase aparece brillantemente iluminada.
+
+Interior garaje. Noche
+
+Timmy, ayudado de un mecánico de unos treinta años, está engrasando la furgoneta en el foso. Bill trabaja en un banco de herramientas, mientras Jo saca cajas de la parte trasera de uno de los coches.
+
+Se escucha el sonido de cláxones procedentes de la calle. Jo mira para ver qué ocurre.
+
+En la calle
+
+Jonas y sus hombres hacen sonar los cláxones de sus vehículos cuando pasan a toda velocidad ante la gasolinera. Jonas les saluda alegremente con la mano.
+
+jonas (por la radio): ¿Ya habéis terminado la jornada, muchachos? Lástima, hemos detectado dos ecos prometedores en un radio de veinticinco kilómetros. Vamos a estar muy ocupados esta noche.
+
+jo (para sí misma): ¡Maldita sea!
+
+Bill en el banco de trabajo
+
+Con la caja blanca de los instrumentos levantada y abierta delante de él. El interior está lleno de bolas. Bill ha sacado una, y está pegando los componentes electrónicos en el interior de una pequeña unidad; tiene un montón de ellas a su lado, y Jo se le acerca con más.
+
+jo: Jonas sigue rastreando.
+
+bill: ¿Sí…? Dame la cinta adhesiva.
+
+Jo se la da. Luego coge una de las unidades terminadas y la estudia con detenimiento.
+
+jo: ¿Por qué no se nos ocurrió pensar antes en esto?
+
+bill (asintiendo con un gesto): No lo sé. Utilizar las esferas fue un error. Las pelotas nunca se hubieran elevado lo suficiente. Se necesitan superficies planas para la ascensión… Por eso los aviones tienen alas…
+
+jo (abriendo una esfera): ¿Envuelves los sensores con cinta adhesiva?
+
+bill (asiente con un gesto): Sí, con esa de ahí.
+
+jo: ¿Y los montas así?
+
+bill: Por el otro lado. (Ella le da la vuelta.) Eso es.
+
+Forman un equipo perfecto a la hora de trabajar.
+
+jo: ¿Pegamento?
+
+bill (asintiendo con la cabeza): Ahí está. Pásame los alicates.
+
+Melissa se acerca, tratando de ocultar su ansiedad.
+
+melissa: Bill, siento mucho interrumpirte, pero necesito preguntarte algo…
+
+bill (sin dejar de mirar lo que está haciendo): ¿Sí…?
+
+melissa: A solas.
+
+bill: ¿Ahora?
+
+melissa: Ahora mismo.
+
+jo: Yo acabaré éstas.
+
+bill (mira a Melissa): ¿Qué ocurre?
+
+Ella no le contesta. Le coloca un brazo sobre el hombro y lo conduce fuera del taller. La escena permanece con Jo ante el banco de trabajo, mientras se oyen retazos de conversación:
+
+voz de bill (con una risa suave): Pero ¿qué dices?
+
+voz de melissa: No se puede trabajar toda la noche
+
+Bill se echa a reír. Jo intenta seguir ti abajando, pero finalmente no puede soportarlo y los mira. Bill y Melissa cruzan la calle cogidos del brazo y se dirigen al motel. Delante de una de las cabañas Melissa abraza y besa a Bill apasionadamente
+
+Los muchachos diseminados por el taller del garaje, continúan trabajando, fingiendo no darse cuenta de nada. Jo retoma la tarea con el rostro tenso, mientras Dusty se acerca a ella.
+
+dusty: Supongo que Jonas trabajará toda la noche. Dispone del equipo necesario para hacerlo.
+
+jo: No podemos hacer nada para evitarlo.
+
+dusty: Ha detectado un par de ecos prometedores a pocos kilómetros de distancia.
+
+jo (resoplando): ¡Eso ya lo sé! ¡Dime algo que no sepa! Y sale enojada del garaje.
+
+Interior habitación del motel. Noche
+
+Bill y Melissa se mueven en la cama, se besan apasionadamente y forcejean para desnudarse. Botones y cremalleras, sensación de urgencia… Bill no le puede quitar los ajustados pantalones.
+
+melissa: Espera un momento…
+
+Ella se aparta, se sitúa de espaldas, levanta las piernas y se quita los pantalones. Bill se desabrocha la camisa mientras mira la televisión, que está encendida.
+
+presentador de televisión:… Durante toda la noche. Se mantiene el estado de alerta debido a que se esperan fuertes tormentas en Kansas, Oklahoma y el norte de Texas…
+
+Ella arroja los pantalones al otro lado de la habitación, se levanta de la cama, la rodea para acercarse a la televisión, la apaga y luego camina hacia él moviendo seductoramente las caderas. Bill la coge de un brazo y ella salta sobre él, y queda sentada a horcajadas; se inclina y lo besa. Escena llena de pasión. Mientras se besan:
+
+melissa: Cariño…, hacía tanto tiempo…
+
+bill: Mmm…
+
+melissa: Echo de menos esto…
+
+bill: Mmm…
+
+melissa: Me gustaría marcharme de aquí ahora mismo.
+
+bill: Sí… Lo sé.
+
+melissa: Hagámoslo…
+
+bill: Mmm…
+
+melissa: Quiero decir, esta misma noche. Marchémonos ahora.
+
+Bill levanta la cabeza.
+
+bill: ¿Qué?
+
+melissa (besándole la oreja): Sólo tenemos que meternos en el coche… y marcharnos.
+
+bill (volviendo a besarla): Melissa… Lo sé… Sé cómo te sientes…
+
+melissa: Es tan agradable.
+
+bill: Pero no puedo…
+
+melissa (besándole todavía): ¿Por qué no?
+
+bill: Los papeles…
+
+melissa (besándole): Olvídalos. Conseguiremos un buen abogado… Vamonos.
+
+bill: No puedo.
+
+melissa: Cariño, claro que puedes. Podemos irnos ahora.
+
+bill: No. Tengo que terminar este trabajo.
+
+Estas palabras interrumpen los besos. Ella retrocede un poco.
+
+melissa: ¿Por qué?
+
+bill: Porque sé que puedo conseguirlo.
+
+La separación entre ellos ahora es mayor.
+
+melissa (molesta): ¿Y a quién le importa?
+
+bill: A mí. Es importante. Estamos hablando de salvar vidas.
+
+melissa: ¿Y qué me dices de nuestra vida?
+
+bill: Si consigo colocar esos instrumentos en un tornado, aprenderé más en dos minutos que cualquier otro haya podido aprender en doscientos años. No puedo abandonar ahora.
+
+Ella lo mira, entendiendo lo mucho que significa para él finalizar su trabajo. Toma una decisión, hace un gran esfuerzo para acercarse de nuevo a Bill, y le dice cálidamente:
+
+melissa: Lo comprendo, cariño. (Lo besa castamente.) Te quiero. Ve y haz lo que tienes que hacer.
+
+Él la mira, sin estar muy seguro de saber cuáles son los sentimientos de ella. Melissa sonríe mientras se pone de nuevo la camisa.
+
+melissa: Estoy impaciente por que llegue mañana. Adelante. De veras.
+
+Exterior. Hamburguesería. Noche
+
+Primer plano de las manos de Bill, que trabaja en uno de los instrumentos electrónicos. Hay cerca una taza de café. En un plano más amplio, vemos a los miembros del equipo de Jo sentados en bancos de madera, terminando el café y los donuts. Jo trata de arreglar un ruidoso fax portátil, por el que surge papel impreso.
+
+Al fondo aparece la enorme pantalla azul del cine al aire libre, iluminada por los rayos ocasionales que se desprenden de las nubes.
+
+Se escuchan, por una radio que hay en una mesa, retazos de conversación, y de vez en cuando a Jonas, interrumpidos por frecuentes interferencias. Ocasionalmente, retumba un trueno distante. Noche muy oscura, sin viento.
+
+Todos se vuelven a mirar cuando entra Melissa.
+
+Se ha cambiado de ropa y su aspecto es cuidadosamente desenfadado. Lleva el pelo recogido y le caen algunos mechones húmedos sobre la cara. Entra lánguidamente, bostezando, desperezándose, fingiendo, en fin, que acaba de hacer el amor.
+
+melissa: Vaya, tengo hambre. Podría comerme un caballo. ¿Alguien quiere otro?
+
+Jo la mira furiosa.
+
+El resto del equipo
+
+Todos se muestran incómodos. Luego:
+
+rick: Claro, yo te acompañaría con mucho gusto.
+
+dusty: ¡Pero si acabas de comerte dos filetes!
+
+rick: ¿Y qué?
+
+Jo los mira con ojos encendidos, como si fueran unos traidores. Melissa se acerca a ella.
+
+melissa: ¿Tú también tienes hambre, Jo?
+
+jo (sosteniendo la mirada): Sí. Tráeme un perrito caliente.
+
+Melissa se encamina a la hamburguesería.
+
+Una ráfaga de viento despeina a Jo. Nuevo retumbar de truenos. Jo frunce el entrecejo. De repente, la radio empieza a emitir.
+
+voz primera (por la radio): ¡Tornado! ¡En el suelo! Jonas, ¿lo ves?
+
+voz segunda (por la radio): ¡Tornado en el suelo! ¡Está en el suelo! ¿Jonas? Corto.
+
+Todos quedan paralizados, escuchando atentamente la radio.
+
+voz tercera (por la radio): Jonas, ¿vamos a por él? Corto.
+
+jonas: Claro (interferencia). Estamos en una posición perfecta.
+
+voz segunda (por la radio): Es un F dos, dirección noreste, cerca de la comarcal ochenta.
+
+jonas (por la radio): Estamos en la ochenta, justo en la trayectoria del tornado. Cruzará delante de nosotros ahora.
+
+voz primera (por la radio): Voy a instalar los aparatos… (interferencia).
+
+Jonas: Estoy colocando la caja. ¡Muchachos, preparados para llevar a cabo la colocación!
+
+Los miembros del equipo de Jo escuchan, intercambian miradas, y se mantienen a la expectativa.
+
+jo: Maldita sea…
+
+Arroja el papel arrugado del donut al cubo de la basura. Falla y el rebujo cae al suelo, de donde es recogido por el viento, que lo aleja de allí.
+
+jonas (chisporroteo): …correcto, ya hemos dejado la caja en el camino del tornado… (interferencia). Satisfactorio.
+
+voz segunda (por la radio): ¡Repite eso, Jonas! ¿Jonas? Silencio tenso. Bill, nervioso, manosea una de las esferas.
+
+jonas: Va directo al equipo con el instrumental. La situación es perfecta… (nuevas interferencias). Se acerca… (chisporroteo)… Ahí viene.
+
+voz primera (por la radio): Jonas, el tornado (interferencia)…
+
+voz segunda (por la radio): Se mueve hacia…
+
+voz tercera (por la radio): ¡Maldición, es…! (La comunicación queda interrumpida.)
+
+voz segunda (por la radio): ¿Jonas?
+
+voz primera (por la radio): ¿Jonas? Responde. ¿Jonas?
+
+Un prolongado silencio. Sólo se oye un chisporroteo ininterrumpido. Los hombres intercambian tensas miradas.
+
+voz segunda (por la radio): ¿Jonas?
+
+jonas: ¡Maldita sea! ¡He fallado! (ruidos). ¡No puedo… creerlo!
+
+El grupo lanza vítores y en el ambiente se respira cierto alivio.
+
+voz segunda (por la radio): ¿Qué ha ocurrido…? (chisporroteo).
+
+jonas: ¡Maldi… (interferencia). ¡Incompetentes!
+
+voz tercera (por la radio): ¡Repite! ¿Jonas?
+
+jonas (chisporroteo): ¡… a recoger, muchachos! ¡Maldita sea!
+
+Jo, contenta, sonríe con alivio.
+
+jo: ¿Alguien quiere café?
+
+Está lloviendo y el viento no deja de soplar. Resulta difícil trabajar fuera, así que se levantan y empiezan a recoger las cosas.
+
+bill: Voy al garaje.
+
+jo (al mozo del mostrador): Cinco cafés, por favor.
+
+voz tercera (por la radio): Cambia de dirección, se dirige a… (chisporroteo).
+
+voz segunda (por la radio): Hoy ya no lo podremos atrapar… (ruidos) sigue en el suelo.
+
+En la hamburguesería. Noche
+
+Dentro del local las luces titilan por un instante.
+
+mozo del mostrador: ¿Qué dirección dijo que tomaba?
+
+Un relámpago ilumina la escena, lo que nos permite ver un espeso embudo negro. Se trata de un tornado nocturno, que sólo puede ser percibido cuando lo ilumina un rayo. Es muy peligroso.
+
+El destello del relámpago se desvanece, y el tornado queda oculto de nuevo en la negrura del cielo nocturno.
+
+mozo del mostrador: ¡Santo Dios! ¡Papá! ¡Papá!
+
+El muchacho echa a correr hacia la oficina del motel. Mientras tanto, pasan rápidamente dos coches de la policía con las sirenas aullando y las luces parpadeantes. Jo se vuelve y mira hacia
+
+El cielo
+
+Dos rayos, en rápida sucesión, iluminan el cielo y nos permiten ver con claridad el embudo. Es grueso, ancho, gira violentamente, y parece tener un diámetro de cuatrocientos metros. Se dirige hacia nosotros.
+
+El cine al aire libre
+
+Los coches han quedado vacíos, porque sus ocupantes han echado a correr hacia un sótano situado bajo la cabina de proyección.
+
+Jo
+
+El viento sopla cada vez con más fuerza, y es más insistente. Jo observa por un momento final, y su curiosidad puede más que su sentido de la precaución.
+
+bill (gritando): ¡Jo! ¡Ven aquí!
+
+Ella echa a correr.
+
+Jo corriendo
+
+Lo hace lo más rápidamente que puede. Escuchamos de nuevo un gran estruendo cada ve? más cercano; el tornado se aproxima.
+
+En el garaje
+
+Bill está junto a la puerta lateral, gritando, haciendo señas a Jo para que corra más de prisa.
+
+bill: Mueve el culo!
+
+Jo corriendo
+
+Llega al garaje corriendo, y Bill cierra la puerta, pero, al cabo de un momento, ésta, impelida por el viento, se mueve violentamente sobre los goznes.
+
+Interior del garaje. El tornado seaproxima
+
+El viento ulula quejumbroso, los papeles salen volando, las luces parpadean. Bill hace gestos desesperados a Jo.
+
+bill: ¡Aquí abajo!
+
+En el foso de engrase
+
+Los dos saltan al interior del foso, de dos metros de profundidad, donde ya están todos los demás, el mecánico, Rick, Melissa, Dusty y Tim, protegidos bajo la furgoneta de este último.
+
+melissa (abrazándose a Bill): Estoy asustada.
+
+bill: Tranquila. Todo saldrá bien.
+
+La rodea con sus brazos. Jo los observa y, por un momento, su mirada se encuentra con la de Bill. El estrepitoso rugido del tornado cada vez es más ensordecedor. Explosiones apagadas. Los cristales de las ventanas estallan en mil pedazos, instintivamente, todos levantan la mirada.
+
+bill: ¡Agachaos!
+
+El viento arrecia y diversos objetos se elevan por los aires y son lanzados de un lado a otro en el interior del garaje; sonido de golpes y cristales rotos.
+
+Ven lo que está ocurriendo a través del escaso espacio que queda entre los bajos de la furgoneta y los bordes del foso de cemento. Pero algunas de las herramientas y demás utensilios caen sobre sus cabezas, y se ven obligados a agacharse.
+
+El viento aumenta de intensidad, y aunque a todos les parece increíble, su velocidad cada vez es mayor. Remaches y tornillos chocan contra las partes laterales de la camioneta, como una lluvia de objetos metálicos.
+
+Melissa abraza más fuertemente a Bill.
+
+Cae dentro del foso una manguera neumática que, al perder aire, se mueve violentamente de un lado a otro como una serpiente, y les obliga a agacharse. El mecánico intenta sujetarla, pero al incorporarse para hacerlo, una tapa de metal le da en la mejilla y le abre una sangrante brecha. El hombre grita de dolor, pero es imposible oírlo debido al ruido ensordecedor del viento.
+
+Una nube de polvo, denso y espeso, cubre el garaje. El ulular del viento se ha convertido en un grito agudo.
+
+La furgoneta estacionada encima de ellos empieza a avanzar y retroceder de forma inquietante. Sentimos el ruido de una explosión, pero no es posible determinar de qué se trata. Miran hacia arriba, tratando de protegerse los ojos del polvo.
+
+La furgoneta se mueve ahora con mayor fuerza. De repente, otro coche, proveniente de un lado del garaje, choca contra ella y la derriba, haciéndola caer de los gatos hidráulicos sobre los que estaba montada.
+
+Los tapacubos de las ruedas, girando como platillos volantes, caen en el foso y rebotan contra las paredes.
+
+Parte de la camioneta de Tim, parcialmente volcada de costado, queda en equilibrio al borde del pozo. Finalmente, empujada por el segundo coche, apoyado en el guardabarros, se inclina aún más hacia el hueco de cemento de dos metros de profundidad.
+
+Empieza a derramarse la gasolina, sin que el viento deje de amenazar a los protagonistas con su incesante ulular.
+
+Ahora es el cartel del cine Galaxy, una flecha puntiaguda de neón, el que se estrella contra la furgoneta, provocando una sene de chispazos.
+
+Melissa hunde el rostro en el hombro de Bill. Súbitamente, el viento amaina…, pierde velocidad…, y finalmente se detiene. Bruscamente, se produce un profundo silencio. Entonces Melissa se aparta de Bill y baja la mirada. A sus pies, un tapacubos gira cada vez más y más despacio, hasta que finalmente cae al suelo. Melissa levanta la mirada.
+
+Lo que hay por encima de ellos
+
+Los dos vehículos destrozados. El goteo de la gasolina. Un silencio fantasmagórico que envuelve el lugar. Bill se decide a subir, rodeando los coches.
+
+Interior del garaje. Después, Noche
+
+Momento en que Bill y los demás salen del foso, uno tras otro, en silencio. La furgoneta de Tim ha sido agujereada tantas veces por los diferentes fragmentos voladores de metal, que parece el coche de Bonnie y Clyde.
+
+Bill se adelanta. Una pared del garaje ha sido derribada por el coche que golpeó el de Tim, y por el agujero abierto vemos en el exterior los aparatos extractores de la gasolinera, con las luces titilantes, y un Cadillac volcado junto a ellos, con las ruedas arriba, del que intenta salir con dificultad su conductor, un hombre bastante obeso. Sonido distantes de sirenas.
+
+Aturdidos, Bill y los demás salen al exterior a través de la pared abierta.
+
+melissa: Ha sido horrible.
+
+bill: Hemos tenido mucha suerte. Ha sido un tornado de fuerza menor, con pequeñas explosiones (señala hacia la carretera). Afortunadamente, no nos hallábamos en medio de su trayectoria.
+
+Jo sale precipitadamente, preocupada por su familia.
+
+jo: ¿Qué dirección lleva?
+
+Exterior de la zona del garaje. Noche
+
+Jo corre hacia el centro de la carretera, el paisaje ha quedado transformado. La hamburguesería se inclina en un ángulo extraño, distorsionada, como si una mano gigantesca la hubiera empujado. La pantalla del cine ha desaparecido. Gentes aturdidas salen para comprobar el estado de sus coches.
+
+La oficina del motel aparece cubierta de montones de escombros, de entre ellos sale el mozo del mostrador y su padre, que se cubre la frente con una mano, pero parece estar bien.
+
+jo: ¡Dusty! ¡Pon la radio! ¡Quiero saber qué dirección ha seguido!
+
+Dusty echa a correr hacia uno de los coches y enciende la radio. Jo lo mira fijamente por un momento. Entonces un coche de la policía y una ambulancia pasan a toda velocidad, con las luces y sirenas encendidas.
+
+Ella corre hasta el vehículo.
+
+Dusty en el coche
+
+Con la radio en la mano.
+
+dusty: Se dirige hacia el norte.
+
+jo (echa a correr): ¡Noooo…!
+
+Todos suben a los coches y siguen al de la policía que acaba de pasar.
+
+Exterior Guthrie. Noche
+
+La bonita y pequeña ciudad duerme sumida en la oscuridad de la noche, sólo se ven en el cielo los fogonazos ocasionales de los relámpagos. Súbitamente, empiezan a sonar las sirenas de alarma.
+
+Poco a poco, se encienden las luces en las casas.
+
+Interior de la casa de los Wilder.
+
+Dormitorio de los padres. Noche
+
+Las sirenas continúan sonando, cuando Jim enciende la luz y él y su mujer se levantan y se ponen batines. Vista de la habitación. Jim se acerca a la ventana y mira afuera. Margaret, medio adormilada, coge el reloj de la mesita de noche y se acerca a su marido.
+
+margaret: ¿Lo ves?
+
+jim: Sí.
+
+El se aparta de la ventana cogiendo a Margaret de la mano, mientras el sonido se hace más agudo y las cortinas se agitan azotadas por el viento.
+
+Interior de la cocina de los Wilder.Noche
+
+No encienden las luces. Caminan, iluminados tan solo por los rayos, hasta llegar a la puerta del sótano, que abren y se disponen a descender por la escalera. En lo alto de la escalera, Jim se detiene para mirar.
+
+jim: ¿Dónde está la linterna? Siempre hay alguien que la cambia de sitio.
+
+margaret: Vamos, no es momento para refunfuñar.
+
+Jim encuentra la linterna y la enciende. El viento arrecia. Desenchufa el horno y cierra la llave del gas.
+
+margaret (voz): ¡Jim! ¡Ven!
+
+En ese momento estallan a un tiempo todos los cristales de las ventanas de la cocina y los pedazos salen volando por todas partes.
+
+Exterior. Conduciendo por lacarretera. Noche
+
+Siguiendo al coche de la policía, con las luces encendidas, que se dirige a Guthrie.
+
+Interior del coche de Jo
+
+voz primera (por la radio): La cuña avanza hacia el norte, noreste, pasa ahora por Guthrie…
+
+voz segunda (por la radio): La veo desde la carretera ochenta…
+
+voz tercera (por la radio): Sigue siendo muy fuerte. Justo junto a la carretera ochenta… Es muy estable y se mantiene.
+
+voz primera (por la radio): Parece que en Guthrie lo van a pasar bastante mal…
+
+¡Clic! Jo apaga la radio. Se hace el silencio en el coche, que en ese momento sale de la carretera para tomar la secundaria que llega hasta la ciudad.
+
+Exterior coche de Bill. Noche
+
+En el momento en que salen de la carretera para dirigirse hacia Guthrie, el cielo aparece iluminado por luces de incendios Incluso a esa distancia, se intuye la acción devastadora del tornado en la pequeña población
+
+La carretera
+
+Los bomberos rocían con sus mangueras los postes de teléfonos ardiendo y los maderos que yacen desperdigados como palillos sobre la carretera
+
+Exterior Guthrie. Conducción lenta.Noche
+
+La oscilación de la luz de los faros ilumina casas derruidas, convertidas en montones de escombros Los equipos de rescate trabajan para sacar a los supervivientes de entre las ruinas.
+
+Familias aturdidas caminan por la calle, contemplando la escena apocalíptica.
+
+Hay coches de policía y ambulancias; se ven destellos de luces por todas partes
+
+Brillo de los focos de las cámaras detelevisión
+
+Un grupo de periodistas entrevista a Jonas
+
+jonas: Era un tornado F cuatro o F cinco. Ustedes mismos pueden comprobar la terrible destrucción y sufrimiento que ha causado Esto es exactamente lo que deseo evitar mediante la creación de un adecuado sistema de alarma, que tengo la intención de supervisar.
+
+Coche de Bill
+
+El avance se hace difícil. En algunos lugares la calzada está bloqueada por maderos y cascotes, postes de conducción eléctrica derribados, que lanzan chisporroteos. Sólo pueden continuar a marcha lenta.
+
+Los bomberos iluminan un árbol, donde vemos la bicicleta de un niño, y nada más.
+
+En el coche
+
+Melissa está aturdida. Jo intenta reprimir las lágrimas.
+
+jo: Se elevó aquí.
+
+Siguen avanzando. Pasan junto a unas lámparas de acetileno que iluminan la acción: miembros del equipo de rescate abren un coche aplastado como si fuera una lata de refresco.
+
+Una calle residencial. Noche
+
+Casas apisonadas, otras inclinadas; un automóvil volcado, con los faros encendidos, ilumina un árbol al otro lado de la calle: en sus ramas, convertidas en lanzas, hay un hombre empalado. Un perro gime a sus pies.
+
+Bill rodea el árbol, entra en el jardín de una casa y luego regresa a la calzada.
+
+jo: Derecha, gira a la derecha. Está ahí delante.
+
+Doblan la esquina, pero no pueden continuar porque un montón de escombros bloquea el camino.
+
+Jo no puede soportarlo por más tiempo; baja del coche y echa a correr. Bill aparca, sale del vehículo y va tras ella. Melissa sale aturdida.
+
+Exterior parte delantera de la casa delos Wilder.
+
+Noche
+
+El buzón de correos aparece ladeado, casi tocando el suelo. Mientras Jo recorre el camino de acceso, vemos la casa parcialmente apisonada. Aún se puede reconocer la planta baja, pero el primer piso ha quedado hundido, como aplastado por un puño gigantesco.
+
+Exterior patio trasero de los Wilder.Noche
+
+La mesa del jardín donde estuvieron cenando esa misma noche, ha sido lanzada contra un lado de la casa, del que sobresale, todavía con el mantel puesto. Hay escombros esparcidos por todo el jardín, amontonados cerca de la casa. Jo sigue corriendo.
+
+jo: ¡Mamá! ¡Papá!
+
+Se abre camino entre los cascotes, para llegar hasta la puerta de la cocina, pero, llegado un momento, no puede continuar, porque no tiene suficiente fuerza para apartar unas vigas que bloquean el camino. Bill llega entonces con una linterna.
+
+bill: Por aquí.
+
+Salta el montón de escombros, que se mueve precariamente. Entra en la casa por la ventana, con Jo tras él.
+
+Interior de la casa de los Wilder.Noche
+
+Bill llega al dormitorio de atrás, totalmente destrozado. La casa cruje amenazadoramente,
+
+bill: ¡Jim! ¡Margaret!
+
+Escuchan voces débiles, rítmicas; parecen provenientes de alguna radio encendida. Bill se adelanta. Jo aparece por la ventana, detrás de él.
+
+En la cocina
+
+El agua cae desde la rebosante pila al suelo inclinado.
+
+Alguien o algo parece estar arañando el suelo de la primera planta. Una lámpara cae y se rompe en mil pedazos.
+
+Bill levanta la mirada. El techo se ha desprendido, por lo que podemos ver el dormitorio de arriba. Todos los muebles están volcados y amenazan con caer sobre nosotros en cualquier momento. Bill dirige el haz de luz hacia arriba para ver mejor lo ocurrido.
+
+Una mesita de noche se desliza por el suelo en pendiente y cae a la cocina. Varias revistas agrícolas y diferentes objetos quedan desparramados.
+
+Bill se acerca al fregadero y cierra los grifos. Hay una radio sobre el mármol de la cocina:
+
+radio:…y un peligroso tornado de fuerza estimada F cuatro ha afectado a la ciudad de Guthrie hace unos pocos minutos. Según los informes llegados a nuestra redacción, ha habido importantes daños materiales y varios muertos. La policía y las ambulancias de los pueblos y ciudades vecinos…
+
+Una viga desprendida cae y aplasta el aparato. Bill se aparta a tiempo. Jo entra y se queda detrás de Bill.
+
+jo: ¿Mamá? ¿Papá?
+
+voz de jim: Jo, ve con cuidado…
+
+Ella alza la mirada. La voz llega de detrás de un aparador volcado. Hay platos rotos esparcidos por el suelo. Con dificultad, debido a la inclinación del suelo, ella y Bill apartan el mueble.
+
+La casa vuelve a crujir. La estructura puede desmoronarse en cualquier momento.
+
+El dormitorio superior
+
+Arriba todavía quedan muebles pesados -la cama, la cómoda, un aparato grande de televisión-, que se desplazan ligeramente.
+
+La cocina
+
+Jo se asoma al piso inferior, llamando a gritos:
+
+jo: ¿Papá? ¿Estás bien? (No hay respuesta.) ¿Papá?
+
+voz de jim: Creo que sí.
+
+jo: ¿Cómo está mamá?
+
+Jim no contesta. Por detrás del aparador, la puerta que conduce al sótano ha desaparecido. Sólo hay un gran hueco abierto. Ella se adelanta.
+
+jo: ¿Papá? ¿Dónde está mamá?
+
+jim: Jo…, no hay escalera.
+
+Ella mira a Bill y tiende las manos. El la coge y, sosteniéndola por los brazos, la baja hasta el sótano.
+
+bill: ¿Estás bien?
+
+jo: Sí.
+
+La suelta. Se oye de nuevo ruidos amenazadores de muebles deslizándose. Bill mira hacia arriba. La cómoda se estrella en la cocina, pero él logra saltar a tiempo para evitar que le caiga encima. Después la aparta y baja al sótano.
+
+Arriba
+
+El pesado televisor empieza a moverse, y luego se detiene.
+
+En el sótano
+
+Jo tose, mira alrededor. Se acerca a su padre, que está agachado junto a su madre. Margaret está atrapada entre la pared y la nevera, que ha caído desde arriba.
+
+jim: No puedo sacarla yo solo.
+
+jo: ¿Bill? Te necesitamos.
+
+bill (que desciende): Ya estoy aquí.
+
+jo (a su madre): Mamá…, te sacaremos de ahí.
+
+Su madre no dice nada y se limita a hacer un débil gesto de asentimiento.
+
+Empujan la nevera, y cuando logran apartarla, vemos que Margaret tiene una herida sangrante en el hombro.
+
+¡o: No deberíamos moverla.
+
+bill: Tenemos que hacerlo. Tráeme esa tabla de planchar.
+
+Justo sobre sus cabezas, visible desde donde están, se encuentra el dormitorio. Una lámpara de pie cae hacia ellos como un proyectil.
+
+El dormitorio de arriba
+
+El televisor se desliza un poco más, pero lo frena el cordón del enchufe.
+
+En la cocina
+
+Suben a Margaret tendida sobre la improvisada camilla hecha con la tabla de planchar. Jim y Jo están arriba, pero Bill permanece todavía abajo, empujando. Margaret se encuentra en medio del hueco, entre la cocina y el sótano, justo debajo del televisor a punto de caer. Bill se da cuenta y empuja con más fuerza.
+
+El televisor
+
+El aparato se mueve y queda colgado del cordón durante un breve instante. Finalmente cae como una bomba.
+
+La cocina
+
+Margaret ya está arriba, a salvo. Bill se hace a un lado en el momento en que el televisor se estrella contra el suelo de la cocina y sigue su descenso por el agujero, hasta el sótano, haciéndose añicos justo donde un instante antes estaba Bill. Jo mira horrorizada.
+
+El sótano
+
+El polvo oscurece nuestra visión. Bill se levanta con dificultad. Está bien. Sube encima del televisor destrozado para alcanzar el borde del agujero y salir de allí. La casa cruje de nuevo.
+
+Melissa fuera de la casa
+
+Corre hacia una ambulancia que llega en ese momento.
+
+conductor: ¿Señora? ¿Se encuentra bien?
+
+melissa (señala hacia la casa de los Wilder): Hay alguien ahí dentro.
+
+La ambulancia se acerca.
+
+En la ventana
+
+Sacan a Margaret de la casa. Los enfermeros se hacen cargo de ella. Bill vuelve al interior para ayudar a Jim. Vemos que tiene ensangrentada la pernera del pantalón.
+
+jim: Estoy bien. Ocúpate de Jo.
+
+Bill ayuda a salir a Jo por la ventana. Ella salta a sus brazos y se alejan de la casa.
+
+Mientras corren, oyen un gran estruendo y entonces la casa se desmorona, cayendo como un castillo de naipes. Bill abraza a Jo.
+
+jo: Gracias.
+
+Melissa presencia la escena. Pero el abrazo sólo dura un instante, pues Bill suelta a Jo y ambos se dirigen a ver cómo está Margaret, que en ese momento está siendo introducida en la ambulancia. Jim sube con ella.
+
+Un helicóptero cruza el cielo, iluminándoles con el foco.
+
+En el patio trasero de Jo
+
+Jo trata de subir a la ambulancia, para acompañar a sus padres.
+
+jo: Mamá…
+
+primer enfermero: Se pondrá bien. Sólo tiene el hombro roto.
+
+Jo mira asustada a su madre.
+
+margaret: Márchate, cariño.
+
+jo (con lágrimas): Sólo quiero que te pongas bien, mamá.
+
+margaret: Estaré bien. Ve a por ese tornado y cázalo, Jo.
+
+La ambulancia se aleja, despidiéndose con el sonido de la sirena. Cuando desaparece, se ve a Dusty, a Timmy y a los otros, junto a los coches aparcados ante la casa derribada.
+
+Jo suspira. El que fue su hogar ha quedado convertido en escombros. Bill le pasa un brazo por los hombros.
+
+jo: Mierda.
+
+bill: Vamonos de aquí.
+
+Los truenos resuenan sobre sus cabezas. Bill levanta la mirada con el entrecejo fruncido.
+
+El cielo
+
+Pronto amanecerá. El cielo tiene un aspecto amenazador, teñido de verde. Un rayo resplandece, desafiando a Bill, que acepta el reto.
+
+En la calle. Antes del amanecer
+
+Escuchan la radio encendida del coche de Dusty. La información es abundante. Jo parece despertar lentamente después de la conmoción que ha sufrido.
+
+voz primera (por la radio): El tornado es todavía muy estable. Ahora se dirige al sudoeste…
+
+jo (con incredulidad): ¿Todavía no se ha elevado?
+
+voz segunda (por la radio): Tiene una gran cuña (chisporroteo)… al oeste… Lleva en tierra cincuenta minutos…
+
+voz tercera (por la radio): No da señales de querer elevarse…
+
+voz primera (por la radio): Ahora (interferencia)… Ashland… Está pasando por Ashland…
+
+jo (excitada): ¿Ashland? Está a sólo quince kilómetros de aquí.
+
+Bill sigue mirando el cielo, pensativo.
+
+bill (pensando en voz alta): Voy a cogerte.
+
+jo: Dusty, subamos a los coches.
+
+dusty: ¿Nos marchamos?
+
+bill: Sí.
+
+Todos se disponen para la marcha. Bill mira a Melissa.
+
+melissa: Bill, yo me quedo. (Momento de silencio.) No quiero ir con vosotros. Soy incapaz.
+
+bill: Lo sé.
+
+Se miran a los ojos.
+
+melissa: Necesito seguir con mi propia vida. (Nuevo silencio) Espero que lo comprendas.
+
+Bill asiente con la cabeza.
+
+voz de jo: Bill, ¿vienes o no?
+
+Bill no contesta. Suena un claxon.
+
+voz de jo: ¡Bill, vámonos!
+
+El echa a correr hacia los coches, mientras Melissa se aleja en sentido contrario.
+
+Los vehículos de los cazadores de tornados
+
+Salen de la ciudad, en fila, sorteando los escombros.
+
+Exterior. Un cartel: «Está saliendode Guthrie.»
+
+Antes del amanecer
+
+El plano se inicia con los coches pasando ante la indicación. Toman la carretera. Bill enciende los faros mientras conduce a toda velocidad.
+
+Exterior. Conduciendo por lacarretera.
+
+Primeras horas de la mañana
+
+Los primeros rayos de sol iluminan los campos. Mientras sale tras el horizonte, las nubes bajas adquieren unas tonalidades hermosas y amenazadoras a la vez. Se ve el tornado en la lejanía, a muchos kilómetros de distancia, oscurecido; allí donde nubes oscuras tocan la tierra.
+
+En el camión de Bill
+
+El habitual sonido de voces estridentes de la radio. Bill centra toda su atención en el tornado que aparece frente a él.
+
+En la carretera
+
+Se cruzan con otros automóviles que avanzan en dirección opuesta, alejándose del tornado. Los conductores les pitan y hacen ráfagas de luces para advertirles del peligro. El tornado gira y absorbe todo lo que encuentra a su paso.
+
+bill: Colocaremos los instrumentos en la carretera.
+
+jo: Alguien podría chocar contra ellos.
+
+bill: No habrá nadie tan cerca del tornado. ¿Acaso quieres que los coloquemos en la cuneta?
+
+jo: Sería más seguro.
+
+bill: No…
+
+jo: Sólo nos queda otro equipo en condiciones, así que tenemos que hacerlo bien.
+
+Ante ellos el tornado, amenazador y siniestro.
+
+jo (sin dejar de mirarlo): Un kilómetro más…
+
+bill: De acuerdo.
+
+Diversos objetos que vuelan por los aires.
+
+jo: Ahí está la primera señal. (Por la radio.) ¡Dusty! ¡Instala los aparatos!
+
+Por la radio sólo se oye un chisporroteo ininterrumpido.
+
+bill: ¿Te ha oído?
+
+jo: No lo sé. (Por la radio.) ¿Dusty?
+
+bill: Tiene que colocar los instrumentos de medición. Ahora estamos cerca.
+
+jo (por la radio): Dusty, estamos muy cerca. Y lo están.
+
+El tornado
+
+El embudo es tan ancho que abarca los dos carriles de la carretera; por la parte de arriba es verde y amarillento… Parece impulsado por una furia viva. Terrones, cascotes y otros objetos giran alocadamente alrededor de la columna… También se ven tejados de casas y árboles arrancados de raíz. Jo contempla extasiada el torbellino, capaz de amedrentar a cualquiera, incluso a ella.
+
+dusty (por la radio): ¿Me oyes? (chisporroteo).
+
+bill: Sí.
+
+dusty (por la radio): (chisporroteo) Instalamos (interferencia)… necesitamos… (ruidos).
+
+jo: ¿Dusty?
+
+dusty: No puedo veros. Tenéis que estar al otro… (se pierde la comunicación).
+
+jo: ¡Dusty! ¡Repite, Dusty!
+
+dusty: Tratamos de… (de nuevo interferencias).
+
+jo: ¡Maldita sea! No sé si está en la posición correcta.
+
+bill: Nosotros sí lo estamos.
+
+Exterior. Carretera. Día
+
+Bill hace girar el camión en redondo y salta. Echa a correr hacia la parte posterior para descargar el equipo. Jo baja por el otro lado, para ayudarlo.
+
+Colocan en medio de la carretera la caja con los instrumentos especialmente diseñados para recoger la máxima información del tornado, y regresan corriendo al camión.
+
+En la cabina
+
+En el momento en que entran apresuradamente:
+
+jo: ¡Salgamos de aquí!
+
+Bill pisa el acelerador a fondo y el camión se aleja a toda velocidad, dejando atrás el equipo embalado en una caja blanca.
+
+jo (mirando hacia atrás): ¿Dusty?
+
+dusty (por la radio): (chisporroteo)… ¿Jo?…
+
+jo (muy tensa): Dusty, ¿estás en posición? ¡Mierda, nosotros estamos en la posición correcta y él no!
+
+Cien metros más adelante, Bill disminuye la velocidad. Él y Jo se vuelven a mirar la caja blanca abandonada en medio de la carretera; la amenazadora nube negra en forma de torbellino sigue avanzando.
+
+jo: Éste podría ser…
+
+Jo apoya una cámara de vídeo en el respaldo del asiento y empieza a filmar.
+
+jo: Cinco segundos, Dusty.
+
+dusty (por la radio): Lo tenemos todo preparado, Jo.
+
+jo (aliviada): ¡Estupendo!
+
+dusty: Pero no recibo todavía ninguna lectura.
+
+jo: ¡La recibirás!
+
+Lo que ellos ven
+
+La caja blanca en medio de la carretera desierta. Un poco más adelante hay una hilera de árboles. Al acercarse el tornado, las ramas se agitan violentamente y se parten; los árboles se inclinan y retuercen, y son arrancados de la tierra, uno tras otro, por la mano gigantesca del viento.
+
+En la cabina
+
+Observan la escena como hipnotizados.
+
+El tornado se acerca
+
+Los árboles desarraigados de la tierra. El tornado se acerca al equipo de instrumentos. Un árbol cae sobre la carretera y es arrastrado por ella hacia la caja blanca, a la que afortunadamente no golpea.
+
+bill: Ha estado cerca.
+
+La caja se tambalea debido a la creciente fuerza del viento. El estrépito es ahora ensordecedor.
+
+jo (hablándole al equipo de instrumentos): Vamos…, vamos…, aguanta un poco más…
+
+Ramas, terrones, cascotes golpean la cabina del camión que se tambalea.
+
+Ellos hacen caso omiso, y no apartan la vista de la carretera.
+
+La caja de instrumentos
+
+La parte superior de la caja se estremece a medida que arrecia el viento. Ahora se tambalea y es arrastrada en diagonal por la carretera.
+
+bill: ¡No!
+
+Gana velocidad.
+
+bill: ¡Es demasiado ligera!
+
+jo: Tranquilo…, tranquilo… Espera…
+
+La caja llega cerca de la cuneta… entonces una rama desgajada de un árbol la golpea y, finalmente, cae sobre ella y la aplasta.
+
+jo: Ahora sí. Se acabó.
+
+El aire es denso y espeso, debido al polvo levantado por el viento. El asfalto empieza a resquebrajarse. Tres grandes ramas rozan el techo del camión y al arañar la pintura se oye el chirrido de la chapa dañada, luego se alejan por el aire. Es una pesadilla.
+
+bill: Salgamos de aquí.
+
+Bill pisa a fondo el acelerador y el camión sale a toda velocidad, pero una gran rama de árbol, impulsada por el viento, se interpone en su camino. El camión choca contra ella y queda alzado por la parte de atrás al quedar atrapado en el frondoso follaje, con las ruedas traseras sobre la rama más gruesa. De esta forma, al estar fuera de control, el vehículo se encuentra a merced del viento, que lo hace girar de cara al tornado, cada vez más próximo.
+
+Bill intenta ir marcha atrás, para liberar el camión.
+
+Las ruedas giran en el aire.
+
+Bill cambia de marcha, y va hacia adelante y hacia atrás, tratando de sacar el camión de aquella trampa. Jo mira sin pestañear el embudo del tornado. El viento huracanado es ensordecedor.
+
+Mano de Bill, que cambia frenéticamente de marcha.
+
+jo: Bill, está muy cerca.
+
+bill: Lo sé.
+
+jo (sin dejar de mirar hacia adelante): ¡Dios mío!, ¿qué es eso?
+
+Vista hacia adelante
+
+Desde el núcleo del tornado, surge un muro de metal, tan ancho como la carretera, que se dirige directamente hacia ellos. Es enorme. Pero no pueden precisar qué es exactamente, porque otros objetos levantados por el aire les impiden verlo con claridad
+
+jo: Bill
+
+Súbitamente, la figura gigantesca aparece claramente delimitada se trata de un gran camión diesel con remolque atrapado por el tornado
+
+El camión cae en el asfalto y avanza dando tumbos hacia ellos, volcado de lado, ocupa todo el ancho de la carretera Siguen atrapados en las ramas del árbol, el enorme camión se abalanza sobre ellos
+
+Bill pisa el acelerador al tiempo que gira el volante Se oye el chirrido de la chapa al rozar contra las ramas, pero no se mueven.
+
+bill: Esto se pone feo
+
+Un plano del enorme camión acercándose a ellos impulsa do por el viento huracanado
+
+Bill pisa de nuevo el acelerador, y de la goma de los neumáticos surge un fuerte olor a quemado.
+
+El camión diesel sigue avanzando y llena todo su campo de visión.
+
+Bill consigue liberar su vehículo del ramaje, el guardabarros se desprende y las ruedas entran en contacto con el asfalto, produciendo un fuerte chirrido al iniciar la marcha a toda velocidad.
+
+El camión diesel da una vuelta de campana justo cuando ellos empiezan a moverse Parece que van a poder esquivarlo, pero entonces les golpea en un lado. A pesar de que no les ha dado de lleno, el pequeño camión gira en circulo como una peonza hacia un lateral y caen por la cuneta, pendiente abajo
+
+Interior del camión mientras avanzangirando
+
+Se sujetan con fuerza, para no salir lanzados al exterior, mientras el paisaje gira alrededor como si estuvieran en una aterradora atracción de feria
+
+En un paso inferior Día
+
+El camión se precipita por una pendiente y se estrella contra el pavimento de un paso inferior que conecta con una carretera que cruza por debajo. El camión de Bill efectua un ultimo giro y se detiene súbitamente en ese lugar relativa mente protegido
+
+Allí hay algunos coches aparcados, cuyos pasajeros han buscado protección bajo el paso subterráneo, y contemplan la fuerza del viento Pasa el tornado y se produce un silencio relativo
+
+Bill y Jo se miran, respirando con dificultad, debido a la tensión de los momentos vividos
+
+dusty (por la radio): ¡Jo! ¡Jo! ¿Estais ahí? ¡Jo!
+
+Ella se inclina para coger el micrófono de la radio y contestar la llamada. Entonces escuchan un fuerte crujido metálico, semejante a un grito humano…
+
+Justo delante de ellos
+
+Ven asomar el morro del gran camión diesel, que cae y queda en posición vertical, con la rejilla del radiador en el suelo y las ruedas traseras enganchadas en la carretela superior.
+
+El estruendoso ruido metálico continua.
+
+El camión se inclina hacia un lado
+
+Ahora cae hacia adelante y se estrella contra un coche aparcado, un modelo de los años cincuenta, de un brillante rojo metálico. Aplasta la parte delantera como si fuera de hojalata, pero el resto del coche no sufre el menor daño, y el vehículo queda como las babuchas rojas de una bruja malvada.
+
+Se levanta una gigantesca nube de polvo y vapor. Luego sólo queda el silencio.
+
+Dentro del camión de Bill
+
+Ven que la gente corre para ayudar al conductor del coche parcialmente aplastado.
+
+Cerca, un muchacho adolescente contempla abatido la chatarra en que ha quedado convertido su antes flamante coche rojo.
+
+dusty (por la radio): ¡Jo! ¡Bill! ¿Estáis bien? ¡Jo!
+
+jo: Sí, estamos bien. (Mira hacia el exterior.) Estamos en el paso subterráneo del cruce de la ochenta con la ciento veinticuatro, a quince kilómetros al norte de Guthrie.
+
+dusty (por la radio): El tornado continúa avanzando en dirección noreste por la ochenta…
+
+jo: ¿Por la ochenta? ¡Vámonos!
+
+Bill acelera. El camión sale chirriando del paso subterráneo y sube en diagonal por la pendiente, hasta alcanzar de nuevo la carretera superior.
+
+bill: La caja con el instrumental es demasiado ligera.
+
+jo: Pues hazla más pesada.
+
+bill: Tiene que ser mucho más pesada…
+
+Un momento de silencio. Ambos sonríen; de forma simultánea han comprendido algo…
+
+jo: ¿Dusty? ¿Dónde estás?
+
+De regreso a la carretera
+
+El asfalto ha sido levantado en gran parte de la carretera, y los baches dificultan la conducción. Bill se dirige a toda velocidad al sur, hacia donde va el tornado.
+
+dusty (por la radio): Estamos al norte, en la ochenta, al lado este de la carretera.
+
+jo: Nosotros seguimos la ruta señalada. ¿Dónde está Jonas?
+
+dusty: No lo he visto.
+
+El tornado
+
+Potente, ensordecedor. No ha cambiado de forma. Ahora se encuentra a varios kilómetros por delante de nosotros.
+
+En el camión
+
+Escuchan las voces de la radio:
+
+voz una (por la radio): Es muy estable. Todavía está en tierra y ha aumentado su potencia. Se dirige al noreste…
+
+voz dos (por la radio): Se encuentra cerca de una granja próxima a la ochenta y la cinco…
+
+Bill no pierde de vista el tornado. Sacude la cabeza. Ve algo que no le gusta.
+
+voz una (por la radio): Tiene una cuña muy grande, de unos cuatrocientos metros…
+
+voz dos (por la radio): Columnas laterales fuertes. Es un F cuatro…, quizá un F cinco…
+
+jo: ¡Genial!
+
+bill: Sí. Ése es el que buscábamos.
+
+Exterior. Vista del campo de Oklahoma.Día
+
+A varios kilómetros de distancia se ven densas y negras nubes tormentosas. Un foco oscuro nos indica dónde está el tornado, aunque todavía no podemos verlo con claridad. Fogonazos de los rayos. Bill conduce con rapidez. Los coches de Dusty y Rick están al lado de la carretera, mientras ellos están fuera observando la tormenta.
+
+En el lado de la carretera. Día
+
+Bill detiene bruscamente el camión y baja.
+
+bill: ¡Dusty! ¿Tienes todavía esos cables de sujeción?
+
+Dusty se agacha e inmediatamente se endereza con un puñado de cables en la mano. Bill los coge y se aleja de nuevo. Por la carretera pasan a toda velocidad la flota de vehículos plateados de Jonas.
+
+bill: ¡Vamos!
+
+Corre hasta el camión y sube a la parte trasera.
+
+bill: ¡Conduce tú!
+
+Jo pisa a fondo el acelerador y sale a toda velocidad, seguidos de Rick y Dusty, y dejando tras ellos densas nubes de polvo.
+
+Jo conduciendo
+
+Escucha las voces de la radio. Jonas está varios kilómetros por delante de ellos.
+
+En la caja del camión
+
+Bill coge el último equipo que les queda.
+
+Desde la posición de Dusty. Siguiendoal camión
+
+Vemos a Bill en la parte trasera del camión atando fuertemente la caja de instrumentos en la zona de atrás de la cabina.
+
+dusty: ¿Qué demonios está haciendo ahora? (Por la radio.) Jo, ¿qué pretendéis hacer?
+
+jo: Sólo… (chisporroteo). No te acerques demasiado.
+
+dusty (mira a Timmy): Vaya, muchacho; esto no me gusta nada.
+
+Exterior. Caja del camión. Avanzando
+
+Bill sigue atando la caja mientras el viento le da en la cara con fuerza. En la distancia se ve un rayo. Bill levanta la mirada. Ahora podemos ver el tornado, ancho, girando a medida que avanza, a unos quince kilómetros de distancia. Jo abre la ventanilla que comunica con la parte trasera del camión. Tiene un micrófono en la mano.
+
+jo: ¿Ya está?
+
+bill: ¿Dónde está Jonas?
+
+Interior de la camioneta de Jonas
+
+Conduciendo con rapidez. Mucho más cerca del tornado y avanzando hacia él. Jonas escucha por la radio y habla por un sofisticado micrófono con auriculares sujeto a la cabeza.
+
+jonas: Estoy a punto de comerme tu almuerzo, Bill.
+
+En el exterior, el vehículo pasa ante un concesionario de John Deere, con los tractores colocados en hileras ordenadas. El tornado se halla al otro lado de la carretera.
+
+jonas: Estaremos bebiendo champán cuando tú llegues aquí. (Dirigiéndose a su gente.) Avancemos otros ocho kilómetros. Luego la camioneta número dos debe tomar la carretera dieciocho y colocar el equipo, mientras instalamos los otros instrumentos. (Mira hacia el tornado.) Ya no falta mucho…
+
+Exterior caja del camión. Avanzando
+
+Bill mira hacia adelante, estudiando la topografía del terreno.
+
+bill: ¡Tiene que estar en la carretera lateral!
+
+jo: ¡Sí!
+
+Bill entrecierra los ojos para protegerse del viento, y observa el tornado.
+
+El tornado
+
+Retumba, se mueve y gira por debajo de la nube de tormenta.
+
+Bill en la caja del camión
+
+bill: No va a mantener esa trayectoria…
+
+jo: ¿Qué quieres hacer?
+
+bill: ¡Gira a la izquierda! ¡Ahora!
+
+jo: ¡No puedo! ¡Derraparemos!
+
+bill: ¡Hazlo!
+
+Interior coche de Dusty.
+
+Siguiendo el camión de Bill
+
+Ve a Bill trajinando en la caja del camión, cuando Jo gira bruscamente a la izquierda, para tomar una carretera más estrecha. El tornado está por delante y a su derecha, bastante lejos todavía. Se escucha la cacofonía habitual de voces radiofónicas:
+
+voz una (por la radio): ¡Es una cuña enorme! ¡Vértice alto! ¡Condensación elevada! ¡Moviéndose al noreste!
+
+voz dos (por la radio): ¡Dios mío! ¡Aumenta la velocidad!
+
+voz tres (por la radio): Jonas, se dirige al noreste.
+
+jonas (por la radio): ¡Roger! ¡Muchachos! ¡A vuestros puestos!
+
+El tornado
+
+Se mueve entre las granjas diseminadas, a través de los campos abiertos. Es enorme.
+
+voz una (por la radio): ¡Nunca había visto algo así! ¡Un verdadero F cinco! ¡Un F cinco!
+
+voz dos (por la radio): El vórtice gira. ¡Está girando!
+
+Jonas en la carretera
+
+Tres camionetas se detienen. La cuarta continúa a toda velocidad hacia adelante. Se encuentran por delante del tornado. Hay un ligero viento cuando salen de los vehículos para instalar el equipo.
+
+Bill en el camión
+
+Tiene los ojos entrecerrados. Están demasiado lejos, pero distingue a Jonas y a los suyos.
+
+bill: ¿Qué está haciendo Jonas?
+
+jo: ¡Instalando los instrumentos!
+
+bill: ¡Dame la radio!
+
+Jonas aparcado en la carretera
+
+Jonas mira por unos prismáticos la última camioneta de su equipo, aparcada a unos ochocientos metros de distancia de donde él está, mientras sus hombres colocan la caja con los instrumentos. Espera que el tornado se dirija directamente hacia allí. Está rodeado de aparatos de telemetría y antenas.
+
+bill (por la radio): ¡Jonas! ¡Sal de ahí!
+
+jonas: Bill, acabas de perder la partida. (Se quita los auriculares.) ¡Muchachos! ¡Preparados para la lectura!
+
+bill: ¡Jonas! ¡Va a cambiar de dirección! ¡Sal de ahí!
+
+jonas (ignorándolo): ¡Mantened las posiciones!
+
+El tornado se acerca. El viento azota con indescriptible violencia.
+
+Primer plano de Jonas
+
+Mira embelesado la escena.
+
+jonas: Es hermoso…
+
+bill (por la radio): ¡Jonas! ¡Sal de ahí! ¡Sal de ahí!
+
+jonas: ¡Está todo controlado!
+
+Escena amplia del equipo de Jonas
+
+La imagen recorre los vehículos y se dirige al tornado, en el campo, a unos cuatrocientos metros de distancia. Es espeso, negro y rugiente. En ese momento está cambiando de dirección.
+
+Los hombres de Jonas lo advierten y en sus rostros se dibujan expresiones de pánico. Echan a correr hacia los coches, pero ya es demasiado tarde. El tornado los envuelve, en un instante sus cuerpos son lanzados por los aires y los vehículos aparecen volcados. Luego la negrura rugiente. El tornado pasa sobre ellos. Todo ha desaparecido… Imagen de la zona devastada.
+
+Bill en el camión
+
+Mira hacia el lugar del desastre.
+
+Jo lo observa, preocupada.
+
+bill: ¡Continúa!
+
+El tornado
+
+Viene, acompañado de un enorme estrépito, hacia nosotros.
+
+El concesionario John Deere
+
+Vista de los tractores ordenados en hileras, mientras el tornado se aproxima desde atrás. Cuando pasa por el lugar, el edificio del concesionario explota.
+
+Jo conduciendo
+
+El plano se inicia cuando el primero de los tractores sale lanzado por los aires y va a estrellarse contra la carretera.
+
+Ella gira el volante.
+
+Se acerca otro tractor. Jo frena y gira de nuevo.
+
+En la caja, Bill hace esfuerzos por mantener el equilibrio. Jo avanza en zigzag.
+
+Es una auténtica lluvia de tractores.
+
+Por detrás de ellos
+
+Dusty los sigue, acompañado por Timmy. Hay tractores tumbados y aplastados por todas partes. Uno vuela en diagonal por encima de la carretera.
+
+Rick, que sigue a Dusty
+
+Rick está asustado.
+
+rick: No me lo puedo creer.
+
+jo (por la radio): ¡Cuidado arriba!
+
+Un gran tractor avanza girando por el aire. Se estrella y, debido a la fuerza del impacto, sale lanzado de nuevo y cae delante del vehículo de Rick, que instintivamente gira para esquivarlo. La rueda del tractor se sale de su eje y da contra el parabrisas del auto.
+
+En el coche de Dusty
+
+Timmy mira hacia atrás.
+
+timmy (por la radio): ¡Rick! ¡Rick!
+
+Al lado de la carretera
+
+Una gran abolladura en el coche de Rick. La rueda aplastada contra el parabrisas. Rick, tembloroso, forcejea para abrir la puerta.
+
+rick: Estoy bien.
+
+Jo en el primer camión. Sigueconduciendo
+
+dusty (por la radio): ¡Rick está bien!
+
+En la caja del camión
+
+Bill miraba hacia atrás. Ahora se concentra de nuevo en la carretera que se extiende ante ellos.
+
+bill: ¡Dile a Dusty que se quede atrás!
+
+En la cabina del camión
+
+jo: ¡Dusty, quédate atrás! (Mirando hacia adelante.) ¡Oh, mierda!
+
+Delante del camión.
+
+Una casa se abalanza sobre ellos
+
+Una casa volcada, deslizándose sobre el techo por la carretera, se dirige directamente hacia ellos, girando como una peonza. No hay tiempo para evitarla. Se estrellan contra la casa, incrustándose en una ventana del segundo piso.
+
+Interior de la casa
+
+El camión se ha metido en el cuarto de baño. Los sanitarios cuelgan del que, tras el desastre se ha convertido en techo. El camión gira, perdido todo control, con la casa. El lavabo se estrella contra la caja del camión, muy cerca de Bill.
+
+Exterior de la casa
+
+En el momento en que el camión sale por el otro lado, después de haber cruzado la casa.
+
+Jo
+
+Conmocionada, acelera, sin dejar de mirar hacia atrás.
+
+En la caja del camión
+
+Bill se incorpora y arroja el lavabo a la carretera.
+
+En la carretera. Camión de Jo
+
+Dirigiéndose directamente al tornado, Dusty la sigue a cierta distancia.
+
+El tornado
+
+Ahora está cerca, amenazador y potente.
+
+Bill en la caja del camión
+
+Bill acaba de sujetar el equipo. Cuando termina golpea en la ventanilla para avisar a Jo. Levanta el pulgar y mueve la mano hacia arriba. Ella asiente con la cabeza.
+
+Interior del coche de Dusty.
+
+Siguiendo el camión de Bill y Jo
+
+jo (por la radio): Dusty, para aquí, y coloca los aparatos de telemetría.
+
+dusty: ¿Aquí? ¿Qué vais a hacer?
+
+jo: Vamos a entrar.
+
+Dusty aparca el coche a un lado de la carretera. Bill lo saluda con la mano desde la caja del camión.
+
+dusty: Están locos. Van directos hacia el núcleo.
+
+timmy: Sí. Y en tu camión.
+
+voz una (por la radio): (Chisporroteo)… acaba de lanzar por los aires un montón de tractores. Ahora se dirige hacia una granja cercana a Lincoln.
+
+El tornado
+
+Rugiendo de forma ensordecedora. Vista de una granja bastante grande con varios edificios adyacentes. Parece recién pintada. Es un lugar hermoso.
+
+Exterior del edificio principal de lagranja
+
+Louise, la dueña de la casa, de treinta y cinco años, está de pie ante la puerta abierta del sótano que utilizan como refugio durante las tormentas. Grita al ver aproximarse el tornado. El aire está en calma.
+
+louise: ¡George! ¿Dónde está Dorothy?
+
+Su esposo, George, está al otro lado, cerrando la puerta.
+
+Una muchacha joven acude corriendo.
+
+louise: Métete ahí con tu hermano. ¡George, vamos!
+
+El esposo se acerca. Ambos se detienen un momento para observar, hipnotizados, el tornado que se avecina. Luego George desvía la mirada hacia un lado.
+
+george: Pero ¿dónde van ésos?
+
+Lo que ve
+
+Jo conduce el camión a través del campo de alfalfa de George, Bill está de pie en la parte trasera.
+
+George y Louise
+
+louise: ¡Entra!
+
+Ambos entran en el sótano y ella cierra la puerta.
+
+Exterior. El camión avanzando
+
+Bill sigue de pie, sujetándose, mientras el camión cruza tambaleante el campo de alfalfa en dirección al tornado.
+
+Interior de la cabina
+
+Jo tiene problemas para sujetar el volante, pues el terreno está lleno de baches.
+
+El tornado
+
+El tornado está prácticamente encima de ellos.
+
+El equipo de instrumentos
+
+El plano muestra a Bill comprobando las sujeciones de la caja con el instrumental especial de medición.
+
+En la cabina
+
+Jo mira hacia atrás y luego vuelve a centrarse en la escena que tiene lugar ante ella.
+
+Él tornado ruge y gira violentamente, denso, potente, de increíbles dimensiones. Están a sólo cuatrocientos metros de distancia.
+
+dusty (por la radio): ¿Jo? Es demasiado grande. ¡Salid de ahí! ¡No vale la pena!
+
+Ella no desvía la vista de su objetivo.
+
+jo: Sí, sí que vale la pena.
+
+Un trozo de verja bloquea el camino. Mira hacia atrás, a Bill, y luego pasa por encima de ella.
+
+Bill en la caja del camión
+
+Ve el tornado, cada vez más cerca, pero sigue decidido a continuar. Sacude la cabeza. Sabe que le está exigiendo demasiado a Jo.
+
+bill (para sí mismo): La próxima vez conduciré yo.
+
+Se incorpora rápidamente, sin dejar de observar la amedrentadora fuerza natural con que van a enfrentarse.
+
+El tornado
+
+Visto tan de cerca, resulta increíble. El sonido ensordecedor los sacude de forma violenta.
+
+Bill en la caja del camión
+
+Aterrorizado por la potencia hacia la que se dirigen. Tiene la cara llena de polvo. Se asoma por la ventanilla.
+
+bill: ¡Prepárate!
+
+Interior de la cabina
+
+La imagen se llena con un plano cercano del tornado, tomado desde detrás del parabrisas. Jo está muy tensa, se siente presa del pánico.
+
+jo (tensa): ¡Preparada! ¡Preparada!
+
+Exterior
+
+Bill, de cara al tornado, grita.
+
+bill: ¡Al contar tres! ¡Tres!
+
+Interior de la cabina
+
+Jo está inclinada sobre el volante.
+
+Bill de pie en la caja
+
+bill: ¡Dos!
+
+Interior de la cabina
+
+jo: ¿Dos?
+
+De repente él asoma la cabeza por la ventanilla que comunica la caja con la cabina.
+
+bill: ¡Salta!
+
+Siguiendo al camión
+
+En el momento en que ambos saltan, ella desde la puerta del conductor; él desde la caja del camión.
+
+Jo al caer al suelo
+
+Se golpea al caer y rueda sobre la alfalfa. Cuando se incorpora, mira alrededor.
+
+Bill en el campo
+
+Se pone en pie. jo se acerca corriendo y ve que está bien. Ambos observan al camión que continúa su marcha hacia el vórtice del tornado.
+
+El camión
+
+Se aleja
+
+Va directo al tornado, entra en el embudo y desaparece Por un instante no sucede nada Luego, súbitamente, en la columna gigantesca y oscura aparecen pequeñas cajas de colores brillantes que ascienden en espiral
+
+Bill y Jo
+
+Observan atónitos la escena
+
+Exterior. La carretera a pocoskilómetros
+
+de distancia
+
+Dusty esta mirando atentamente los aparatos de registro.
+
+dusty: ¡Estan recogiendo datos!
+
+Timmy observa las pantallas de los ordenadores que se han llenado de columnas descendentes de números de las lecturas de telemetría
+
+timmy: ¡Lo han conseguido! ¡Es increíble! ¡Tenemos lecturas!
+
+dusty: ¡Genial!
+
+timmy: ¡Lo han conseguido!
+
+Siguen gritando y lanzando vítores, sin prestar atención a las siguientes voces que suenan por la radio
+
+voz una (por la radio): ¿Qué demonios ocurre?
+
+voz dos (por la radio): ¿Qué significa todo ese jaleo?
+
+voz tres (por la radio): ¡Dios mío! ¡Se ha tragado un camión!
+
+voz una (por la radio): La cuña cambia de dirección. Ahora se dirige al este, muchachos. ¡Cambio de dirección!
+
+Dusty y Timmy siguen celebrando a gritos su éxito.
+
+Jo y Bill. En el campo
+
+Saltan y gritan de alegría.
+
+El tornado
+
+Como si hubiera percibido la victoria de sus cazadores, cambia de dirección y se aleja rugiendo furiosamente.
+
+Bill y Jo
+
+Advierten el cambio de trayectoria al observar la columna.
+
+jo: Está cambiando…
+
+bill: Sí.
+
+Bill la coge por el brazo y echan a correr a campo traviesa. Ante ellos, la granja de George y Louise. El tornado avanza por detrás de ellos, a unos ochocientos metros de distancia, rugiendo enfurecido.
+
+Bill y Jo
+
+Corren con todas sus fuerzas. La amenazadora columna se alza detrás de ellos. Cada vez está más cerca.
+
+En la carretera
+
+Dusty observa la escena.
+
+dusty: ¡Dios mío! (Se vuelve hacia Timmy.) ¡Qué estás haciendo?
+
+timmy (con el vídeo en la mano): Filmándolo.
+
+Jo y Bill
+
+Siguen corriendo jadeantes. El viento es ensordecedor.
+
+Por delante de ellos
+
+Al llegar a la granja ven un gran cobertizo, una de las construcciones de mayor envergadura del lugar, y sin pensarlo dos veces se meten dentro y cierran la puerta.
+
+Interior del cobertizo
+
+Respirando con dificultad, debido al esfuerzo, se sientan en el suelo, con las manos alrededor de las rodillas. Levantan lentamente la mirada y se quedan horrorizados al ver lo que les rodea. El cobertizo está lleno de hoces, guadañas, segadoras y balas de heno…, hojas de metal afiladas colgando de las paredes o desperdigadas por el suelo.
+
+bill: No es un buen sitio.
+
+Con la respiración aún agitada, salen corriendo de nuevo.
+
+Exterior del cobertizo
+
+El tornado se ha acercado mucho en el poco tiempo que ellos han estado dentro del cobertizo. Y mientras Bill y Jo se alejan de él hacia la granja, explota cuando es alcanzado por el fenómeno tormentoso.
+
+bill: ¡Al suelo!
+
+La empuja justo cuando una segadora sale lanzada por los aires, se estrella contra el suelo y despide alrededor las afiladas hojas que componían la maquinaria.
+
+Se levantan y echan a correr de nuevo. Por delante de ellos hay un estanque y más allá una valla de madera, tras la cual se hallan los edificios principales de la granja. Pasan corriendo tan rápido como pueden junto al estanque. El agua se ondula, azotada por el viento, y cuando es alcanzada por el tornado, se levanta en espiral, rociando agua alrededor.
+
+Junto a la valla
+
+Bill salta la valla y sigue corriendo junto a ella, mientras Jo lo hace por la parte externa, a su misma altura.
+
+bill: ¡Vamos!
+
+Jo duda y parece que no se siente capaz de hacerlo; pero entonces se impulsa, apoyándose en la valla, y salta al otro lado, cayendo delante de Bill.
+
+Justo por detrás de ellos, el tornado ha alcanzado la valla y se ven los maderos diseminados por el aire como si fueran cerillas.
+
+El tornado por detrás de Bill y Jo
+
+Sobrepasa el estanque y aplasta el techo del cobertizo todavía intacto.
+
+Exterior del recinto de la granja
+
+Bill y Jo ven frente a ellos el edificio principal de la granja, pero está demasiado lejos, así que se dirigen hacia el granero, mucho más próximo. Justo en el momento que intentan abrir la gran puerta, trozos de madera de la valla destrozada se estrellan contra ella como si fueran proyectiles, y debido a la fuerza con que han sido lanzados quedan incrustados.
+
+Interior del granero
+
+Bill consigue cerrar la puerta en medio de la peligrosa lluvia de astillados maderos, a punto de ser herido en las manos y en la cara. Se sigue oyendo el ruido atronador del viento. Jo coge a Bill por un brazo y se adentran en el lugar. Buscan desesperadamente un sitio seguro. Dentro, el aire ha levantado la paja, que revolotea alrededor de ellos.
+
+El ulular del viento es una constante que va adquiriendo más fuerza, y vemos que el heno vuela con mayor rapidez, golpeándoles los rostros y los brazos, con tanta violencia que les abren pequeñas heridas sangrantes. Jo tira de Bill hacia el suelo.
+
+Quedan prácticamente cubiertos por el heno, y no pueden ver nada de momento, pero como el viento sigue soplando con más fuerza, pronto les descubre la existencia de una pequeña caseta de madera, hasta entonces escondida tras los montones de paja.
+
+Exterior de la caseta de madera
+
+Jo la ve, y tira de Bill, para llevarlo hasta ella. Mientras avanzan, las paredes laterales del granero empiezan a crujir y a combarse hacia el interior. Luego son absorbidas hacia arriba.
+
+Bill y Jo
+
+Entran en la caseta de madera donde se halla instalada una bomba de agua, y cierran la puerta. El interior está lleno de tuberías. Bill y Jo se aferran a ellas, uno a cada lado de la pequeña construcción, mientras escuchan aterrados el ulular del viento.
+
+Interior de la caseta de la bomba
+
+Vemos cómo la fuerza del viento destroza la caseta, cuyas tablas acaban elevándose hacia el cielo, dejando poco a poco al descubierto a Bill y Jo. Finalmente, la pequeña construcción ha desaparecido, y ellos quedan expuestos a la fuerza del tornado, mientras se sujetan aún a una tubería, en un intento desesperado de salvar sus vidas.
+
+Sus pies
+
+Son arrastrados hacia arriba, y pierden el contacto con el suelo.
+
+Sus cuerpos
+
+Son elevados por el vórtice, hasta que se encuentran cabeza abajo, sujetos todavía a la tubería.
+
+Sus manos
+
+Aferran las tuberías, a la vez que se sujetan el uno al otro, luchando por sus vidas. La tubería cede y empieza a soltarse del cemento.
+
+Sus manos
+
+Se separan inexorablemente, mientras la tormenta tira de ellos hacia arriba.
+
+Sus rostros
+
+Sus rostros están contraídos debido al esfuerzo. El sonido del viento es atronador, y entonces de forma súbita cambia… La luz también es diferente. Ahora es de un fantasmagórico color azul pálido.
+
+Sus cuerpos
+
+El viento disminuye su fuerza a medida que la luz se hace azulada. Entonces Bill y Jo, liberados de la fuerza que los dominaba, caen al suelo. Se miran, perplejos, sin comprender lo que ha sucedido.
+
+Vista desde arriba. El ojo
+
+El techo se aleja destrozado en grandes fragmentos. Ellos miran hacia arriba, se hallan justo bajo el centro del tornado, un brillante y turbulento círculo azulado. El ojo de Dios. La visión sólo dura un instante; luego el tornado sigue su marcha. Resplandor de un rayo, atemorizador y malignoo que los hace agachar instintivamente, abrazándose, mientras el viento adquiere nueva fuerza.
+
+La imagen se oscurece a causa de la tierra y los residuos que vuelan alrededor.
+
+Primer plano de Bill y Jo
+
+Abrazados fuertemente, rodeados por el caos más absoluto.
+
+Luego, lentamente, todo se calma.
+
+A continuación se hace un profundo silencio.
+
+El tornado ha pasado sobre ellos.
+
+Siguen abrazados. Se miran, y aproximan aún más sus rostros.
+
+jo: Lo conseguimos…
+
+bill: La caja con los instrumentos funcionó.
+
+jo: Era una buena idea.
+
+bill: Sí… (De repente, incómodo.) Bueno…
+
+Aparta la mirada de ella, y rompe ese momento de aproximación después de haber estado tanto tiempo enfrentados. Jo también deja de mirarlo.
+
+jo: Tenemos mucho que hacer ahora.
+
+bill: Sí…
+
+jo: Quiero decir… que tengo que conseguir esa subvención para trabajar en el nuevo sistema de alerta y tener por fin un laboratorio más grande… y tú tienes que empezar a analizar los datos de los ordenadores…
+
+bill: ¿De veras?
+
+jo: Sí, claro, tenemos que generar modelos a partir de los datos recogidos, y yo tengo que dirigir el laboratorio…
+
+bill: No. Tú puedes hacerte cargo del análisis. Yo dirigiré el laboratorio,
+
+jo: No creo que…
+
+bill: ¿No lo crees?
+
+jo: No, no lo creo.
+
+bill (hace una pausa, y luego): ¿Es que siempre tienes que hacer las cosas difíciles?
+
+jo (pensando antes de contestar): Bueno, me casé contigo…
+
+En ese momento desaparece la tensión que había entre ellos y, en medio de un paisaje desolado, se echan a reír. El tornado se disipa en la distancia… Y desaparece.
+
+31/01/2009

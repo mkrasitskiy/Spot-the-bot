@@ -1,0 +1,1499 @@
+17-Guerra de automatas
+
+CAPITULO PRIMERO
+
+LA NUEVA AMENAZA
+
+ABIOLA Santisteban tiró del puño de su blusa y echó una mirada al reloj de pulsera. Le extrañaba aquella falta de puntualidad en un hombre tan serio y pundonoroso como el coronel Diego Santisteban, pero la disculpaba en razón de las muchas tareas que pesaban sobre los libertadores de la Tierra, es decir, sobre el pueblo redentor.
+
+Fabiola y el coronel se habían conocido una semana atrás. El coronel, al desembarcar en Madrid al frente de su Regimiento, había procedido, como la mayoría de sus compatriotas, a buscar entre los madrileños recién liberados a alguno de sus lejanos parientes.
+
+Para Fabiola y su madre fue una sorpresa la aparición de este primo en grado lejanísimo que venía a un mundo perdido allá en las profundidades del Cosmos infinito.
+
+Desde luego, no cabía duda de su parentesco. Entre los miembros de la familia Santisteban se conservaba, como una tradición gloriosa, la leyenda de cierto Santisteban que, dos milenios atrás, tuvo la suerte de escapar de Madrid momentos antes que la ciudad fuera tomada por los "hombres grises". Fabiola había oído relatar muchas veces durante su infancia la prodigiosa fuga del autoplaneta Rayo. Este era una máquina de forma esférica en cuyo interior hueco se alojaba una pequeña ciudad. Aquella nave del espacio había huido al sobrevenir la estrepitosa derrota de los terrestres. La intención de los exilados era buscar entre los mundos que gravitaban a considerables distancias del Sol un planeta donde las condiciones de vida se les ofrecieran favorablemente... Fabiola, como la inmensa mayoría de los terrícolas, desconfiaba de la veracidad de esta leyenda. Dudaba que hubiera existido alguna vez un autoplaneta Rayo ni un Santisteban embarcado en él. Aun suponiendo que fuera verdad, era muy problemático que aquellos exilados hubieran, sobrevivido a un crucero de decenas de años a través del espacio y, en fin, aunque aquel Santisteban hubiera ido a anclar en un mundo nuevo y lejano, ¿qué
+
+probabilidades existían de que regresara alguna vez?
+
+Nada tenia más olvidado Fabiola que aquel lejano pariente cuando de pronto, para sorpresa y alegría del mundo entero, aquel puñado de aventureros que escaparan de la Tierra casi dos milenios atrás se presentaban de nuevo en su mundo de origen para barrer del espacio a la formidable Armada Imperial Thorbod, caer sobre la Tierra y liberar a la humanidad de la ignominiosa opresión de la Bestia, o sea, el Hombre Gris. (1)
+
+Diego Santisteban era uno de los retoños más jóvenes de aquella rama de la familia que había ido a arraigar en un espléndido planeta llamado Redención. ¡La de cosas que tenía que contar el coronel!
+
+La misma ansiedad por saber que dominaba a Fabiola hacía presa en todos los terrícolas. Los redentores venían preparados para saciar la curiosidad que estaban seguros de despertar entre sus hermanos de raza. Toda la historia del pueblo redentor, desde el mismo momento de su desembarco en Redención hasta el día de su regreso a la Tierra, había sido impresionada para la posteridad en kilómetros de hilo magnético.
+
+Los redentores contaban, pues, con un eficaz medio de difusión proyectando estos documentales y retransmitiendo las imágenes por televisión. Pero no todo el mundo tenia un aparato de televisión, ni siquiera un simple aparato de radio con que escuchar la parte hablada de los larguisimos programas. En la hora del pillaje que siguió a la invasión de Madrid por las tropas liberadoras, los más avispados habíanse apresurado a entrar al asalto en las casas de los hombres grises llevándose todo lo que podía ser llevado o quedándose en las casas como dueños.
+
+El Servicio de Información y Propaganda del Ejército Redentor había acondicionado una serie de locales de gran capacidad, transformándolos en salas de proyección.
+
+Hoy, el coronel Diego Santisteban iba a llevar a Fabiola a una de estas salas para darle ocasión de maravillarse, a lo largo de horas de proyección, con todos los adelantos conseguidos por los redentores en el remoto mundo donde habían levantado su poderoso Imperio. Pero el coronel llegaba con una hora de retraso. Fabiola daba por descontada la pérdida de una de las partes más interesantes del programa, aquella en que los exilados de la Tierra llegaban a Redención y exploraban las tierras vírgenes trabando conocimiento con los extraños habitantes del nuevo mundo... (1)
+
+Al levantar los ojos del magnífico cronómetro, regalo del coronel, Fabiola vio al propio Santisteban apeándose de un automóvil eléctrico thorbod y cruzando a paso rápido el jardín en dirección a ella.
+
+Fabiola saltó nerviosamente del banco y salió a su encuentro. El coronel era un apuesto joven rubio, alto y atlético. Vestía el pantalón azul y la guerrera roja del Ejército de Tierra Redentor, con altas y charoladas botas negras y brillante casco de húsar rematado por un ondulante penacho de plumas amarillas y verdes. Las correctas facciones y los ojos grises del coronel denotaban una gravedad extremada, que tuvo el poder de arrebatar la sonrisa del lindo rostro de Fabiola Santisteban.
+
+—Llego con retraso, lo sé —dijo el coronel apretando con su diestra enguantada la de Fabiola, endurecida por el trabajo.
+
+—No tiene importancia, coronel...
+
+—Siento tener que decirle que no podré llevarla al cine como le prometí, —
+
+aseguró Diego haciendo una mueca de añojo—. Sólo dispongo de media hora antes de incorporarme a mi unidad.
+
+— ¡Como! ¿Se marcha usted? —preguntó Fabiola alarmada.
+
+— Si. Mi regimiento está reembarcando... Vamos, daremos un paseo por ahí. Diego asió a Fabiola del brazo y la obligó a acompañarle. El día era espléndido, tercero de Navidad en un Madrid que parecía haberse vestido de primavera para recibir dignamente a los ejércitos liberadores de la Tierra. Los árboles, despojados de hojas, permitían al clorado Sol llegar hasta el fondo de los bosques que adornaban la cara exterior de la gran ciudad. Los niños jugaban persiguiéndose entre los troncos. Gran número de hombres y mujeres tomaban el sol repantigados en los bancos de madera, gozando de una libertad y un ocio que sólo conocían de una semana a esta parte. El seco rechinar de la gravilla acompañaba los pasos de la pareja. Durante un largo rato el coronel guardó profundo silencio. Fabiola le miraba a hurtadillas. Finalmente se atrevió a preguntar:
+
+— ¿Ocurre algo grave, coronel?
+
+—Sí —refunfuñó Diego—. Hace una hora acabamos de firmar una alianza con la Bestia Gris. Nos ceden el planeta Venus, el satélite de Júpiter llamado
+
+"Ganímedes" y todos los asteroides grandes y chicos que giran más allá de la órbita de Marte. También van a entregarnos lo que queda de su Armada Sideral... unos cuatro millones de aparatos.
+
+— ¿Y eso es lo que le preocupa? —exclamó Fabiola estupefacta—. ¡A mí me parece estupendo!
+
+—Advierta que he dicho que la Bestia ha firmado una alianza, que no es lo mismo que rendición. A cambio de estas ventajas los thorbod piden ciertos favores.
+
+—Naturalmente —repuso Fabiola con viveza—. Piden que no se les extermine como a chinches.
+
+—Recuerde que nosotros no podíamos exterminarles —advirtió Diego--. Aquí en la Tierra les pillamos por sorpresa haciendo coincidir nuestra invasión con un levantamiento general de los terrícolas, pero para desalojarlos de Venus y de Marte no podíamos contar ya con la sorpresa... y tampoco podíamos invadir esos planetas a viva fuerza. La Bestia, está acorralada. Lo que le resta de su Armada Sideral no podía evitar la invasión, pero la Bestia nos amenazó con suicidarse si osábamos poner nuestras plantas sobre los planetas donde se han refugiado...
+
+—Si, lo sé —murmuró Fabiola—. Los thorbod prometieron suicidarse y arrastrar consigo a la muerte a los tres mil millones de venusinos, a los mil millones de terrestres que todavía tienen cautivos y a los propios planetas Venus y Marte... incluso a Ganímedes.
+
+—Nosotros no podíamos pagar a tan alto precio el exterminio de esa maldita raza thorbod —aseguró el coronel—. No podíamos provocar la ruina de esos dos mundos ni de los millones de seres humanos retenidos allí. Si las atmósferas y los mares de esos planetas fueran desintegrados por el hombre gris, jamás volverían a poderse habitar por los terrícolas. Por lo tanto, los thorbod estaban a salvo en Venus, en Marte y en Ganímedes. Su existencia hubiera sido precaria con nuestros navíos bloqueando sus mundos, pero hubiera podido prolongarse indefinidamente.
+
+—Entonces... si los thorbod estaban seguros en Marte y Venus... ¿por qué han accedido de pronto a recluirse en el moribundo Marte y a ser desarmados? —
+
+interrogó Fabiola curiosa.
+
+—Algo ha venido a perturbar la seguridad de los hombres grises, y ese algo es la súbita aparición de un pueblo llamado "nahumita" que acaba de llegar a esta galaxia con el firme propósito de destruirla.
+
+— ¿Cómo? —exclamó Fabiola pegando un brinco de sorpresa.
+
+—Lo que oye. Los nahumitas vienen a destruir el mundo. Lo que buscan en realidad es aniquilar a la Bestia Gris, y lo harán si Dios no lo remedia... o nosotros somos impotentes para impedirlo.
+
+— ¿Quiere decir que nosotros... que ustedes... van a defender a los thorbod haciendo frente a los nahumitas?
+
+— ¿Qué remedio? —exclamó Diego abriendo los brazos y alzando sus anchos hombros. No es a los hombres grises a quienes vamos a defender en realidad, sino a los planetas ocupados por estos. ¿O cree usted que podemos permitir a esos nahumitas que, para vengarse de los thorbod, asolen esta galaxia dejándola en condiciones tales que jamás pueda ser habitada por el hombre?
+
+— ¿Pero quiénes son esos nahumitas?, —interrogó Fabiola dando muestras de desasosiego—. ¿Hombres grises como los thorbod? ¿Monstruos de silicio como los que ustedes tienen en Redención?
+
+¡Oh, no! --protestó el coronel--: Son criaturas como nosotros... Seres idénticos a los terrestres. Los nahumitas habitaban una rica galaxia contigua a la que vio nacer a la Bestia Gris. Parece ser que los thorbod se lanzaron a la conquista de la galaxia nahumita, logrando dominar a esa raza, pero los nahumitas se sacudieron la garra thorbod y, de guerra en guerra, fueron rechazando a la Bestia acorralándola en sus planetas de origen... Los thorbod se lanzaron a un furioso contraataque sobre los mundos nahumitas y los bombardearon con gigantescas bombas de hidrógeno. Estas bombas de hidrógeno envenenaron las atmósferas de radioactividad y terminaron con toda la vida existente en aquellos mundos...
+
+— ¡Dios mío, qué horror!, —exclamó Fabiola abriendo de par en par sus luminosas pupilas negras—. ¿Y qué hicieron los nahumitas?
+
+—La flota nahumita bombardeó a su vez los planetas thorbod con proyectiles de hidrógeno dejándolos tan arrasados como los suyos. No quedaron más supervivientes que las dos escuadras que operaban en el espacio. Ningún grupo podía regresar a sus planetas ni tomar tierra en los del enemigo, pero había una diferencia: Los thorbod tenían otros mundos donde poder ir...
+
+— ¿A esta galaxia tal vez? —preguntó Fabiola.
+
+—A esta galaxia, si. Los thorbod han sido siempre una raza muy inquieta. Sus frecuentes correrías por el Cosmos les habían traído al Reino del Sol cuando aquí
+
+se vivía aún en plena Edad Antigua. Al ver aniquilados sus planetas, los thorbod rehuyeron el encuentro final con sus enemigos y se adentraron en el espacio viniendo a refugiarse en esta galaxia.
+
+—Pero los nahumitas... ¿Cómo pudieron sobrevivir?
+
+—Es muy posible que se refugiaran en algún satélite cuya atmósfera no estaba envenenada... si los nahumitas supervivientes encontraron un mundo donde esperar, es muy posible que al cabo de siglos pudieran volver a sus planetas. No lo sabemos en realidad. Lo único cierto es que han sobrevivido y están aquí
+
+dispuestos a destruirnos a todos.
+
+—Pero habrá alguna manera de impedir esa catástrofe —exclamó Fabiola horrorizada—. Puesto que son seres humanos como nosotros, ¿no sería posible negociar una paz con ellos?
+
+—Estamos intentando hacerlo, pero es muy difícil que lleguemos a un acuerdo. Los nahumitas están empeñados en aniquilar a la raza thorbod y esto no puedo hacerlo sin aniquilar a Venus y a Marte junto con los cuatro millones de seres humanos retenidos allí por la Bestia.
+
+—Pero cuando los hombres grises están concentrados en Marte... ¿quién nos impide aniquilar ese planeta con toda la chusma gris acumulada sobre su superficie? —interrogó Fabiola con pupilas brillantes.
+
+—Hace mal en creer tan ingenuos a los thorbod, querida prima. Por lo pronto no evacuarán Venus mientras no tengan la certeza de que los nahumltas están muy lejos, y luego dejarán en Venus una pequeña guarnición. Esta guarnición vigilará
+
+una fortaleza donde los thorbod habrán dejado un detonador atómico de grandes proporciones, capaz de hacer estallar la atmósfera de Venus en caso que nosotros faltáramos a nuestro compromiso atacando a Marte.
+
+— ¡Esto quiere decir que los thorbod tendrán de la mano el hilo que puede hacer saltar en pedazos a Venus en cualquier instante! —exclamó Fabiola ahogadamente—. ¿Cómo han podido permitirlo? No es una victoria diplomática muy brillante, que digamos...
+
+— ¿Y que otra cosa podíamos hacer? —gruñó el coronel malhumorado—. Había que escoger entre esta solución o permitir que la Bestia continuara dueña de Venus. Ese detonador atómico en Venus será siempre una espina clavada en nuestras carnes pero la Bestia recluida y desarmada en Marte y nuestra flota Sideral patrullando el espacio, los thorbod jamás podrán destruir a Venus sin ser a su vez aniquilados. Y todo parece indicar que los hombres grises no desean ser exterminados por completo.
+
+Fabiola asintió lentamente con repetidos movimientos de cabeza. Siguieron paseando en silencio.
+
+— ¿Quiere que regresemos?, —preguntó Diego Santisteban consultando su cronómetro—. El automóvil vendrá a recogernos dentro de diez minutos.
+
+— ¿Dónde le llevan ahora?, —preguntó Fabiola mientras daban media vuelta--.
+
+¿Tal vez a Venus?
+
+—No. En Venus no podemos desembarcar hasta que haya desaparecido la amenaza nahumita. Mi buque de desembarco regresa al autoplaneta Valera. Hemos distribuido nuestros dos millones de buques de combate en cuatro grupos de quinientos mil aparatos. Cada uno de los tres primeros grupos defenderá un planeta, y el cuarto sobrante permanecerá en Valera para acudir rápidamente allá
+
+donde haga falta.
+
+—Esos nahumitas... ¿son muy fuertes?
+
+—Su Armada expedicionaria parece estar formada por cuarenta grandes autoplanetas que transportan en total algo más de un millón de buques de combate.
+
+— ¡Ah! Entonces no es fácil que lleguen a acercarse a estos planetas lo suficiente para torpedearlos.
+
+— No se haga ilusiones —refunfuñó Diego—. Aunque les doblemos en número, estamos en inferioridad respecto a ellos. No es lo mismo atacar unos planetas que defenderlos. Los nahumitas pueden concentrar un millón de buques siderales sobre cualquier planeta y atacarlo. Si nosotros desguarnecemos por ejemplo a Venus para acudir a reforzar a la Tierra, entonces puede ocurrir que una pequeña patrulla de aeronaves nahumitas se dirija a Venus y le suelte una docena de torpedos "Doble Uve". Bastarla que uno sólo de esos proyectiles alcanzara la atmósfera del planeta atacado para destruirlo.
+
+— ¿Qué diferencia hay entre una bomba "W" y una bomba de hidrógeno? —interrogó Fabiola.
+
+—La bomba "W" es, en realidad, una bomba atómica, de oxigeno, un artefacto muy difícil de construir. La bomba "W", para que surta los efectos calculados, debe estallar dentro de la atmósfera de un planeta, aproximadamente a unos tres mil metros de altura sobre la superficie. Esta bomba actúa como un detonador. Al hacer explosión a poca altura sobre la superficie de un planeta origina una reacción en cadena de todos los átomos de oxigeno contenidos en la atmósfera y en el agua de los mares. Aire y agua desaparecen en unos segundos.
+
+— ¿Cree que los nahumitas atacarán esta galaxia con bombas "W"? —preguntó
+
+Fabiola dando muestras de intranquilidad.
+
+—Es el medio más seguro para aniquilar una galaxia. Sin embargo, es posible que los nahumitas nos torpedeen con bombas de hidrógeno. La bomba de hidrógeno es muy temible porque, prácticamente, puede tener un volumen ilimitado. Se diferencia de una bomba "W" en que no basta, por si sola, para aniquilar por la eternidad a un mundo. Desde luego, las cenizas radioactivas de una bomba de hidrógeno se quedan en suspensión en el aire y envenenan la atmósfera matando toda vida animal y vegetal. Temporalmente, un planeta bombardeado con estos artefactos, queda tan inutilizado como uno destruido con bombas "W", pero el tiempo va mitigando la radioactividad y ésta acaba por desaparecer permitiendo nuevamente el desarrollo de la vida orgánica.
+
+— ¿Y por qué dice que los nahumitas pueden torpedearnos con bombas de hidrógeno sin acercarse a nuestros planetas?
+
+—Es muy sencillo. Una bomba "W", para que surta sus efectos, tiene que hacer explosión allí donde la atmósfera es más densa, es decir, a una altura del suelo inferior a los cinco mil metros. Generalmente adoptan la forma de torpedos autómatas y son disparados desde gran distancia, pero la velocidad de esas máquinas ha de ser muy pequeña al penetrar en la atmósfera de un planeta. Si fuera dotado de gran velocidad, ese torpedo estallaría a causa de la violenta frotación con el aire, aunque estuviera construido del metal llamado dedona y, aunque la densidad del aire a cien kilómetros de altura sea muy escasa. Pero a cien kilómetros de altura, el oxígeno es tan tenue que no podría reaccionar en cadena bajo el impulso del detonador mecánico. Por lo tanto, la bomba "W" debe tener poca velocidad para que no se incendie al frotar con las altas capas atmosféricas y pueda llegar allí donde el oxígeno tiene una densidad óptima. Pero un torpedo automático, que vuele por el espacio en dirección a un planeta puede ser interceptado y destruido antes de llegar a su objetivo.
+
+— ¿Y un torpedo de hidrógeno no?
+
+—No, porque iniciando su carrera a varios millones de kilómetros de distancia y acelerando continuamente, un torpedo de hidrógeno llegarla a alcanzar velocidades tan grandes que, prácticamente, apenas si daría tiempo a verle.
+
+—Pero al entrar en contacto con la envoltura gaseosa de la Tierra, por ejemplo, estallaría como un torpedo "W. Y si frenaba para evitar su autodestrucción, las defensas podrían destruirle.
+
+—Un torpedo de hidrógeno no frenaría. Entraría como un meteoro en nuestra atmósfera y estallaría al frotar con el aire, pero precisamente, un proyectil de hidrógeno, es tanto más eficaz cuanto más alto explote. Así, su radio de acción es más grande y sus cenizas radioactivas caen como una lluvia mortal sobre la superficie del mundo elegido como victima.
+
+— ¿Según eso... no hay posibilidad de eludir un ataque de torpedos de hidrógeno? —balbuceó la muchacha.
+
+--La única probabilidad consiste en interceptarle cuando todavía no ha multiplicado su velocidad. ¡Pero es tan difícil descubrir a un proyectil que se mueve en un espacio tan enorme! Lo más adecuado es no perder de vista a los buques que pueden dispararlo... y eso es lo que nos proponemos hacer. Fabiola Santisteban guardó silencio. Habían llegado al mismo punto desde el que iniciaran su paseo y el coronel miraba hacia el final de la larga avenida esperando ver aparecer el automóvil que le llevaría a las afueras de Madrid, donde estaba reembarcando su regimiento.
+
+— ¿Volverá pronto? —preguntó Fabiola.
+
+-—Lo ignoro.
+
+—En tal caso... ¿debemos despedirnos?
+
+Diego Santisteban volvióse a mirar a su linda primita. De pronto ocurrió algo extraño. Un lívido fulgor verde azulado parpadeó en los confines del horizonte dando lugar a una fugaz y fantástica aurora boreal. Las gentes que habían saltado de los bancos se miraban unas a otras interrogándose con los ojos. El coronel había palidecido intensamente.
+
+— ¿Qué ha sido eso? —preguntó Fabiola con alarma.
+
+—Temo...
+
+De nuevo se encendió en el horizonte la luz cárdena.
+
+—Pero... ¿qué ocurre? —tornó a preguntar la muchacha.
+
+Diego Santisteban la asió del brazo y echó a correr arrastrándola consigo.
+
+--¡Pronto... a la ciudad! ¡Nos están bombardeando con proyectiles de hidrógeno! —gritó con voz ronca.
+
+CAPITULO II
+
+EL SOL DE LA MUERTE
+
+PENAS habían dado cinco pasos cuando empezaron a aullar las sirenas de alarma. La gente que llenaba los parques rompió su expectante inmovilidad y echó
+
+a correr hacia los grises caparazones que cubrían las entradas de la ciudad subterránea. Un temblor sacudió la tierra. El tráfico se detuvo y los ocupantes de los automóviles y tranvías "sin fin" (plataformas enlazadas de parada y puesta en marcha automática) se vetearon sobre las calles compitiendo en velocidad para alcanzar la entrada de los refugios.
+
+Un coche eléctrico se había detenido junto al bordillo del jardín por donde corrían el coronel y Fabiola. Diego vio saltar a sus ocupantes a tierra y pensó en tomar aquel automóvil. Llevó a Fabiola en aquella dirección. Al llegar junto al coche se detuvieron jadeando. Sus ojos cruzaron una mirada de angustia.
+
+—Debo volver a mi buque, Fabiola —dijo el coronel con voz ronca.
+
+— ¿Me abandona? ¡Dios mío...! ¿Qué va a ser de nosotros, coronel? —preguntó
+
+Fabiola sollozando.
+
+— ¿Quiere usted venir conmigo?
+
+— ¡Oh, si! —exclamó Fabiola radiante de alegría. Pero, de pronto, volvió a su actitud desolada y dijo: — No..., no puedo abandonar a mi madre.
+
+—Nada puede hacer usted por mejorar la suerte de su madre —aseguró Diego—
+
+Ella estará a salvo en Madrid, a condición que cierren herméticamente todas las bocas de entrada y los respiraderos y no beban una gota de agua que no sea de los depósitos de reserva.
+
+—Si... ¿pero y luego? Las reservas de agua y oxigeno no durarán eternamente, y usted acaba de decir que si el aire de la Tierra es envenenado de radioactividad habrán de transcurrir muchos siglos antes que desaparezca por completo.
+
+—El oxigeno y el agua pueden obtenerse artificialmente. Los hombres grises prepararon sus ciudades a todo evento y Madrid cuenta con equipos sobrados para mantener a una población de varios millones de habitantes durante años. La dificultad mayor estaría en los alimentos... pero nosotros no vamos a marcharnos del Reino del Sol dejando a la humanidad prisionera de sus ciudades. Evacuaremos a los terrícolas y, entonces, su madre de usted podrá reunírsele...
+
+¡Vamos, venga conmigo!
+
+Fabiola vacilaba todavía, de pie junto a la portezuela abierta del automóvil. Las sirenas aullaban desaforadamente llamando a los madrileños a la ciudad subterránea. Diego miró al cielo intranquilo. Sabía que las cenizas radioactivas de las explosiones nucleares estaban cayendo ya sobre la superficie de la Tierra. De un empujón metió a su linda prima en la cabina del automóvil, dio la vuelta a la máquina para introducirse por la portezuela contraria y tomó asiento ante el volante.
+
+Habían quedado gran número de automóviles abandonados allí donde les sorprendió la sirena de alarma. Diego fue sorteándolos con habilidad Mientras buscaban la salida a la carretera volvió a encenderse en el horizonte la lívida luz atómica, tan potente que humillaba, incluso a la del sol, por unos segundos.
+
+-¡Malditos nahumitas! -rumió Santisteban con cólera-. Ni siquiera han esperado a ver qué gente habitaba estos planetas. ¿Qué se habrán creído esos necios?
+
+-¿Está seguro que esos temblores de tierra han sido producidos por explosiones de bombas de hidrógeno y no de otra clase? – interrumpió Fabiola
+
+—Por desgracia, estoy seguro
+
+El automóvil dejaba atrás la ciudad y se lanzaba recta de la autopista. Diego apretó el acelerador y abandonó el volante. El piloto automático conducía ahora. La autopista, como todas las de la Tierra, estaba separaba en dos direcciones por un bordillo electrónico formado por una especie de cerca de malla metálica. En la delantera del automóvil, una a cada lado, había montada una invisible antena receptora. Si el coche se aproximaba demasiado a uno de los bordes de la pista, la acción de la cerca electrónica sobre la antena ponía en marcha un pequeño motor eléctrico que accionaba el tren de dirección enderezándole instantáneamente. Siguiendo el mismo principio, el dispositivo automático permitía adelantar a otros coches y pararse ante las luces rojas situadas a las entradas de cada ciudad, caso que el conductor hubiera .decidido echar una siestecita mientras su máquina rodaba a razón de 200 kilómetros por hora siguiendo el trazado de la cerca metálica.
+
+Fabiola miraba por la ventanilla a los verdes bosques que desfilaban vertiginosamente por ambos lados.
+
+—Me parece mentira —dijo al cabo de un breve silencio— que todo cuanto veo ahora esté condenado al exterminio. ¿Qué aspecto tendrá la Tierra cuando la radioactividad lo haya impregnado todo?
+
+—No he visto nunca un mundo en esas condiciones, pero no es difícil imaginarlo
+
+—repuso el coronel sombríamente—. Toda la vegetación desaparecerá. Estos bosques quedarán reducidos a grandes cementerios de árboles muertos. Ni un animal, ni un insecto se moverá en el suelo ni en el aire. El viento no agitará una sola hoja y levantará sofocantes polvaredas de estos desolados páramos. Tal vez con el tiempo florezca aquí una exótica vegetación de plantas radioactivas. A medida que la radioactividad vaya disipándose, la nueva flora se adaptará a las nuevas condiciones evolucionando hacia especies desconocidas. Fabiola guardó silencio durante un minuto.
+
+—Es difícil de creerlo —murmuró finalmente—. No puedo imaginarme este planeta en otra forma que como le veo ahora.
+
+—Dentro de unos días, no muchos, verá marchitarse toda la vida orgánica sobre la Tierra. Es inevitable.
+
+El automóvil eléctrico estaba a la vista del enorme aeropuerto interplanetario de Madrid. Una dilatada llanura se ofreció a los ojos de Fabiola Santisteban. En esta llanura se velan algunos buques siderales de la Flota redentora y un colosal disco que no estaba posado sobre el suelo, sino que flotaba en el aire a sólo unos metros de altura.
+
+— ¿Es ese su buque? —preguntó Fabiola señalando el disco.
+
+—Si, ese es el Argentina.
+
+Fabiola contempló la máquina llena de curiosidad. El coronel le había hablado muchas veces de su buque con el orgullo propio de un soldado. El disco volador medía 12 kilómetros de diámetro por uno de altura. Interiormente estaba dividido en 100 pisos estancos, cada uno de los cuales tenía 113 kilómetros cuadrados de superficie. Como quiera que había un centenar de estos pisos, la superficie total útil del buque venía a ser unos 11.300 kilómetros cuadrados. La gigantesca máquina voladora estaba construida de dedona. Este metal, era la materia más densa de cuantas se conocían. Tenía la curiosa propiedad de repeler la fuerza de gravedad cuando se le inducía eléctricamente. Para dar esta energía a la envoltura metálica que lo cubría, así como para mover todas las máquinas que constituían la 9a División alojada en el Argentina, el buque disponía de un poderosísimo generador atómico de electricidad.
+
+En el momento de detenerse el automóvil a corta distancia del Argentina desaparecía por la gran escotilla el último blindado de la División. Se veían por allí
+
+gran número de automóviles y autocares. Un pequeño grupo de oficiales hablaba animadamente. Cuando Fabiola y Diego echaban pie a tierra daba la sirena del Argentina el segundo aviso de salida. Los dos Santisteban avanzaron unos pasos pasando de la tibia luz del sol a la sombra proyectada sobre el suelo por el gran disco volador.
+
+Sintióse intranquila Fabiola al verse bajo la abrumadora masa del buque. Bastaría que éste descendiera unos pocos metros más para aplastarles a todos contra tierra, pero el buque flotaba en el aire con tanta seguridad y firmeza como si le sostuvieran gran número de invisibles y robustos pilares. Diego se detuvo un momento para cruzar algunas palabras con el grupo de oficiales entre los que se veían las estrellas de media docena de coroneles.
+
+— ¿Qué le ha parecido eso, Santisteban? —preguntó un joven coronel señalando con un movimiento de cabeza hacia el Este.
+
+—A mí me han parecido bombas de hidrógeno —repuso Diego sombríamente—.
+
+¿No lo eran?
+
+— ¡Sí, mil diablos! Y no hubo manera de evitarlo. Los condenados nahumitas debieron disparar esos torpedos desde setecientos u ochocientos millones de kilómetros de distancia. Cuando dieron contra la atmósfera de la Tierra llevaban tanta velocidad que apenas si se les vio... ¡Y échele usted galgos a una máquina que viaja a más de doscientos mil kilómetros por segundo!
+
+— ¿Hay noticias de Venus y de Marte?
+
+—Todavía no, pero no tardará en haberlas. Los nahumitas han venido a destruir esta galaxia ¡y por Santiago, que lo están consiguiendo! Pero no les arriendo las ganancias... ¡Así los lleve Satanás a todos! Ya está fuera de combate la Tierra, muy bien. Ahora nos toca a nosotros hacerles una visita de cortesía en su galaxia para dejarles nuestra tarjeta. ¿Pero qué clase de gente se habrán creído que somos?
+
+Bastaba mirar a la cara de aquel grupo de redentores para adivinar la rabia que inundaba todos los corazones. Aunque Fabiola odiaba en estos momentos a los nahumitas, tanto como el que más, llegó a sentir lástima de aquel pueblo extranjero que, con su precipitación, estaba sellando la destrucción de sus propios planetas.
+
+—Lo malo —dijo Diego gravemente—, es que nuestra venganza no puede devolver la vida a esta desgraciada galaxia.
+
+—Si —farfulló otro de los oficiales—. Eso es verdad. Lo único que podemos hacer por esta desdichada Tierra es evacuar a toda la gente que podamos.
+
+—Pues debiéramos hacerlo ahora mismo, antes que la radioactividad impregne todo y complique más la tarea —dijo Santisteban.
+
+—Es lo que vamos a hacer, ¿no lo sabia? Nuestro buque va a descender sobre Madrid para tomar a bordo toda la gente que pueda.
+
+Esta noticia llenó de alegría a Fabiola. Puesto que su primo era "alguien" a bordo del Argentina, no parecía aventurado esperar que su madre se contara entre el número limitado de evacuados. En este momento, la sirena del buque mugió por tres veces consecutivas. Una sección de la parte inferior del "disco volante" descendía sostenida por dos muelles articulados. El grupo de oficiales, Fabiola y Diego subieron sobre esta plataforma. Los muelles se replegaron elevando la plataforma y haciendo que ésta encajara herméticamente en la abertura cuadrangular.
+
+Fabiola se vio en una especie de hangar enorme, cuyos techos tenían una altura de siete u ocho metros.
+
+—Hemos amontonado el material en los pisos de arriba dejando libres los inferiores para los evacuados —explicó uno de los coroneles a Diego—. ¡Con tal que no estalle una bomba de hidrógeno cerca de nosotros mientras estamos dentro de la atmósfera!...
+
+Diego tomó a su encantadora prima de una mano y la condujo hasta la cabina de un espacioso ascensor.
+
+— ¿Qué ha querido decir ese coronel con eso de "con tal que no estalle una bomba"? —interrogó Fabiola.
+
+—Sólo ha querido decir que si nos pillara una explosión del género de las que acaban de envenenar la atmósfera tendríamos muy pocas probabilidades de salvarnos. Una explosión atómica no es muy peligrosa en el vacío cósmico, donde no existe aire. Pero dentro de la envoltura gaseosa de la Tierra, la onda expansiva de esa misma explosión, nos darla un golpe tan brutal que haría pedazos este buque. Por si ocurriera un percance de este estilo, voy a llevarla a usted al almacén para que le den una armadura y una escafandra a su medida.
+
+--El ascensor se detuvo y las puertas se abrieron automáticamente. Diego condujo a su prima a lo largo de un dédalo de corredores hasta un enorme almacén repleto de armaduras y escafandras de cristal. El coronel explicó a una teniente lo que quería y dejó a Fabiola en sus manos prometiendo volver a recogerla luego.
+
+Dos muchachas redentoras tomaron las medidas a Fabiola y consultaron una especie de catálogo. Este les dio la numeración del traje que mejor iba a las proporciones de Fabiola. Poco después, Fabiola se veía enfundada en una armadura de cristal y escuchaba las instrucciones de la teniente sobre su manejo.
+
+—La escafandra encaja sobre el escote del traje de esta forma. Mete las guías dentro de estas escotaduras, imprime a la escafandra un giro enérgico hacia la izquierda... ¿ha oído usted un "clic"? Eso quiere decir que la escafandra cierra herméticamente. En la parte delantera, bajo la barbilla, tiene usted un micrófono y una doble válvula de aire. La válvula de la derecha le permitirá respirar del oxigeno natural de la atmósfera. Si usted sabe o sospecha que la atmósfera está
+
+impregnada de radioactividad, mueve este resorte. La válvula se cierra y se abre respirando ahora de la provisión de oxigeno que lleva alojado entre las dobles paredes de su traje...
+
+Fabiola ponía la mayor atención en las explicaciones de la instructora. Tan absorta estaba que ni se enteró de que el Argentina, después de elevarse a 3.000
+
+metros de altura y volar rápidamente los 20 kilómetros que separaban el aeropuerto de la capital, descendía ya sobre Madrid.
+
+Diego vino a buscarla al cabo de quince minutos. Vestía una armadura idéntica a la de Fabiola. Sujeta al muslo derecho llevaba una funda que dejaba asomar en parte la culata de una pistola automática de gran calibre.
+
+—Venga usted conmigo —le dijo.
+
+Fabiola saludó a las muchachas del almacén con un gesto y siguió a su primo a lo largo de un intrincado dédalo de corredores.
+
+— ¿Dónde me lleva?
+
+—A mi camarote. Estamos descendiendo sobre Madrid. Dentro de unos minutos el buque entero será asaltado por una multitud enloquecida por el miedo. Permaneciendo encerrada en mi camarote se evitará usted el tener que luchar contra esos energúmenos.
+
+—Lo que yo deseo es que me permita saltar a tierra para buscar a mi madre.
+
+—No sea absurda, querida prima. ¿Cómo quiere encontrar a su madre entre medio millón de locos desatados? En Madrid ha circulado la noticia de que nos disponemos a evacuarles y todos luchan como bestias por ser los primeros en embarcar. Yo saltaré a tierra con mis tropas para imponer algún orden..., si veo a su madre se la mandaré a bordo debidamente escoltada, no se preocupe. Esta promesa satisfizo a Fabiola. No obstante, todavía insinuó:
+
+—Pero dos pares de ojos siempre verán más que uno...
+
+Diego se detuvo ante una puerta, la abrió e indicó a su prima que entrara. Fabiola se vio en un despacho de regulares dimensiones, donde había una mesa de cristal, un par de profundos sillones, un ancho diván, un fichero y un radiovisor. Una puerta, al fondo, comunicaba con un camarote.
+
+—Aquí tiene usted un aparato de televisión —dijo el coronel señalando el aparato—. Con él podrá ver el gentío mucho mejor que si estuviera confundida entre él. Si ve asomar por algún, lado la cabeza de su madre, no tiene más que decírmelo por conducto de este dictáfono que hay sobre la mesa. Usted dígame dónde esta y yo procuraré encontrarla.
+
+Mientras hablaba, Diego movió los sencillos mandos del aparato. La pantalla se iluminó apareciendo en ella, vista desde arriba, una ingente muchedumbre con las caras vueltas hacia el cielo.
+
+—La cámara tomavistas está situada debajo del buque —explicó Diego—. La gente mira hacia nosotros.
+
+La gente, en efecto, no apartaba sus ojos del disco volante. Un bosque de brazos tremolaba en el aire, como si miles de pares de manos intentaran asirse a la parte inferior del Argentina. Una serie de extrañas y encontradas corrientes agitaba a la muchedumbre enloquecida por el miedo. Vista desde el aire parecía un oleaje pardo rompiendo contra los caparazones grises que emergían del mar de cabezas como pulimentados escollos. El disco volador descendía sobre Madrid y la muchedumbre parecía subir como si estuviera situada sobre la plataforma de un gigantesco ascensor.
+
+—La dejo —murmuró Diego—. Eche el cerrojo por dentro en cuanto yo salga y no deje entrar a nadie. Si abre, la gente invadirá también este despacho estropeándolo todo.
+
+Fabiola acompañó a su primo hasta la puerta.
+
+—No sabe cuánto le agradezco... —empezó a decir.
+
+Diego hizo un ademán de enojo.
+
+—No tiene que agradecerme nada. Hasta luego.
+
+Diego salió y se encaminó rápidamente hacia uno de los muchos ascensores que atravesaban de arriba abajo al buque poniendo en comunicación todos los pisos. En el piso más inferior se preparaban sus hombres para desembarcar. Todos ellos vestían armadura y escafandra de vidrio azul. A la espalda llevaban adosado el
+
+"back". Un "back" era una simple caja de dedona. Dentro de la caja habían encerrados un receptor de energía eléctrica y un eyector atómico. El receptor daba corriente a la caja, la caja adquiría flotabilidad y levantaba en el aire al ocupante del traje unido a ella. Luego, el eyector de partículas ionizadas impulsaba al aviador por la espalda imprimiéndole una velocidad que podía llegar hasta los 1.000 kilómetros por hora.
+
+Diego se hizo adosar a la espalda un "back" y tomó un largo vergajo que le tendía su capitán ayudante. Marcelino Catasús.
+
+--¿Quién ha ordenado esto de las vergas? —preguntó haciendo un mohín de disgusto.
+
+-Lo ha mandado el general. No para que las usemos, a menos que haga falta, sino para imponer algún respeto.
+
+—No me parece muy digno golpear a esos pobres desgraciados como si se tratara de una manada de cerdos. Bastantes latigazos han sufrido ya de los hombres grises para que nosotros añadamos algunos más. Prohibido qué ninguno de mis hombres pegue a nadie, ni siquiera permito que se enarbolen estas vergas en actitud amenazadora. ¿Entendido? Comunique esta orden a todos por radio, capitán.
+
+Mientras el capitán difundía por radio la orden bramaron los altavoces:
+
+— ¡Atención! Tropas en servicio de policía-.. a las plataformas!
+
+Diego se encaminó hacia la plataforma más cercana, situada entre dos muelles extensibles, los altavoces dieron un breve aviso y las plataformas empezaron a bajar empujadas por los muelles. Diego se vio casi de repente a plena luz del día, escuchando en sus oídos el hervor impaciente y los rugidos profundos de la multitud. El disco volador se encontraba a una altura aproximada de 30 metros sobre el nivel de las calles de la superficie de Madrid. Como la cara exterior de la ciudad formaba una serie de ondulaciones para aminorar los efectos de las explosiones atómicas de un posible bombardeo, los caballones tocaban casi el gigantesco disco portaviones.
+
+Cuando la plataforma del ascensor estaba a cuatro metros de altura se detuvo. Las tropas, Diego" inclusive, pusieron en marcha sus "backs" y abandonaron las plataformas echando a volar sobre la multitud. Las plataformas siguieron bajando y el gentío se lanzó al asalto de ellas profiriendo rugidos de ansiedad... En este momento se reprodujeron las espantosas escenas de furor colectivo que habían tenido lugar en muchas fechas tristemente célebres de la historia de la humanidad. En vano los altavoces del Argentina bramaban recomendando a la masa serenidad y disciplina. El clamor de los altoparlantes perecían ahogados entre el rugido de la muchedumbre. Nadie escuchaba las sensatas recomendaciones de sus salvadores. Todos querían ser los primeros en alcanzar el buque, y acuciados por el temor a quedarse en tierra, peleaban por abrirse paso hasta las plataformas.
+
+Los que habían subido en primer lugar, fueron derribados sobre el piso del ascensor por el arrollador empuje de los que venían detrás. Una ola de carne cubrió inmediatamente a los caídos pisoteándolos en mitad de una confusión espantosa. Aquí y allá desaparecían en los remolinos de la multitud, como sorbidos por una corriente subterránea, mujeres y niños que no volvían a reaparecer. Algunos se subían sobre los hombros de sus compañeros y, andando sobre el mar de cabezas, llegaban hasta la plataforma, cuando no caían al errar pie, para no aparecer más.
+
+Esta escena, presenciada de cerca por el coronel Diego Santisteban, se repetía a lo largo y a lo ancho de doce kilómetros en las múltiples plataformas alargadas por el disco volante. En los oídos de Diego aulló la voz del general de la División, don Tomás Barbastro:
+
+— ¿Qué hace ahí parado, coronel Santisteban? ¡Intervenga! ¿No ve que esos brutos se están matando como chinches? ¡Formen un cordón en torno a las plataformas!
+
+Diego se lanzó hacia la plataforma más próxima seguido de medio centenar de soldados. Por una causa u otra, la plataforma empezó a subir en estos instantes. Los muelles extensibles, al plegarse, cogieron entre sus férreos brazos a más de cien desgraciados que se habían asido a esta escalera providencial intentando trepar hasta la boca de la escotilla.
+
+Con los pelos de punta, el coronel vio caer hombres partidos por la mitad, brazos y piernas mutilados que formaron un chorro de carne y de sangre sobre las cabezas de los que había debajo.
+
+— ¡Detengan ese ascensor...! —rugió Diego lanzándose hacia los muelles y arrancando de un tirón a un loco que buscaba la salvación en subir más en vez de saltar a tierra.
+
+El elevador se inmovilizó y volvió a bajar quedando a tres metros de altura sobre el nivel de la calle. Diego y los soldados aprovecharon esta ocasión para desalojar de la plataforma a las dos terceras partes de la gente amontonada sobre ella. Tirando de las piernas y brazos de los que estaban encima de la montaña humana, los redentores consiguieron ir sacando a la luz a los que yacían aprisionados debajo de todos. Muchos de estos eran ya cadáveres y no había ni uno sólo que no estuviera herido. El elevador subió hasta el disco volante a medio millar de muertos y heridos.
+
+Aunque él mismo hubiera prohibido las vergas, el coronel fue el primero en utilizar la suya, repartiendo porrazos a diestra y siniestra. Pero los golpes caían sobre una masa insensible a todo dolor. Cuando la plataforma volvió a bajar, vacía y chorreando sangre, la muchedumbre volvió al asalto arrollando al cinturón de soldados y haciendo desaparecer a buen número de estos entre el torbellino de cuerpos afanosos.
+
+Y en este momento, cuando casi la mitad del millón de habitantes de Madrid se encontraba fuera de la ciudad subterránea y la otra mitad pugnaba por salir, ocurrió lo que el coronel Santisteban había estado temiendo. Una inmensa bola de fuego estalló sobre Madrid irradiando una luz tan potente que dejó ciega a dos terceras partes de la multitud. Era una gigantesca bomba de hidrógeno que acababa de estallar a unos 60 kilómetros de altura, dentro ya de la atmósfera de la Tierra. La luz y el calor fueron los primeros en llegar. La
+
+temperatura subió instantáneamente a miles de grados...
+
+CAPITULO III
+
+BOMBAS "H"
+
+ODA la escena, en cuanto abarcaba la vista, cambió en los breves segundos que duró aquella cegadora luz. Los bosques contiguos a la capital, los parques, los jardines, los escasos edificios de madera enclavados en la superficie, los tranvías... ¡todo estalló en una súbita y descomunal llamarada! Las mismas ropas de los desgraciados madrileños que pugnaban por alcanzar las entrañas salvadoras del Argentina, sus cabellos, pestañas y uñas ardieron a la vez como antorchas en mitad de un horripilante aullido de terror.
+
+Era aquella cruda y bestial luz la que quemaba. Toda la gente apelotonada debajo del disco volante, y por lo tanto a su sombra, salió indemne de la espantosa lanzada de luz y calor. Esta luz no duró más que unos breves segundos, y al extinguirse con tanta rapidez como se encendiera, debió dejar a todos completamente deslumbrados, pareciéndoles que la luminosidad del sol natural, era con relación a la del sol de la muerte, lo que la luz lunar con respecto a la luz del padre de la Tierra.
+
+El traje y la escafandra de cristal azul preservaron a Diego Santisteban de los destructores efectos de esta ardorosa luz.
+
+El gentío dejó escapar un rugido de terror. Los altavoces del portaviones empezaron a gritar:
+
+— ¡Pronto... corred hacia la ciudad... corred si no queréis morir!
+
+Esta vez si escucharon los madrileños. El público, empavorecido, se lanzó en desenfrenada carrera hacia los caparazones grises que cubrían las entradas a la gran urbe subterránea. En este momento, el Argentina ascendió verticalmente con rapidez a tiempo que cerraba herméticamente todas sus escotillas. Al retirarse el gigantesco disco portaviones, el coronel Santisteban pudo ver a plena luz del Sol la furiosa lucha de los hombres por alcanzar los caparazones que señalaban el camino de la salvación.
+
+Una escena parecida, más terrible aún que la del asalto a las plataformas elevadoras del Argentina, se desarrollaba ahora ante cada caparazón gris. Todos querían ser los primeros en entrar y todos luchaban por conseguirlo acometiéndose como fieras, atropellándose, prensándose y embutiéndose en las aberturas salvadoras.
+
+Mientras tanto, el portaviones ascendía rápidamente a tres o cuatro mil metros, se inclinaba a un lado y acababa poniéndose de canto, adoptando la actitud de una colosal rueda suspendida a gran altura en el espacio. Esta maniobra tenía por objeto ofrecer la menor resistencia posible a la terrible presión del aire que iba a producirse muy en breve.
+
+Dejando de mirar a la multitud y al Argentina, Diego consideró que debía tomar también sus precauciones antes de la llegada de la onda expansiva de la explosión nuclear. Quitando la energía a su "back" aterrizó sobre él lomo de uno de aquellos caballones que daban al exterior de Madrid un curioso parecido a un gigantesco tejado de plancha ondulada.
+
+Normalmente aquellos interminables caballones, que sólo se interrumpían de tarde en tarde para dar paso a alguna avenida transversal, estaban cubiertos de pinos. Ahora, todos los árboles ardían a la vez, cubriendo la ciudad con un palio funeral de humos. Diego se tendió de bruces entre las brasas y se aovilló
+
+asiéndose las rodillas con las manos...
+
+Miró hacia abajo. A corta distancia se veía uno de aquellos caparazones grises que daban entrada a los rascasuelos. La gente se mataba allí pugnando por ganar los profundos subterráneos de la ciudad enterrada. Imitando a Diego, las tropas redentoras que habían sido abandonadas por el Argentina aterrizaron apresuradamente yendo a tenderse aquí y allá. Diego alzó los ojos al cielo y miró
+
+a su buque portaviones. Le vio tambalearse grotescamente iniciando una súbita y veloz bajada... ¡Ahí venia la onda expansiva de la explosión nuclear!
+
+Escuchóse una terrible explosión. En el mismo instante, Diego sintió como si la planta de un gigante invisible se osara sobre él haciendo crujir la armadura e incrustándose en tierra. Fue algo terrible y que no olvidarla jamás. Un huracán barrió el suelo arrancando los árboles de cuajo y tirándolos al aire. Casas de ladrillo, torres metálicas. Tranvías, automóviles y hombres volaron por el espacio. El mismo Diego sintió ahora como si el gigante invisible soplara a través de la tierra levantándole en alto y arrojándole a gran distancia.
+
+Durante medio minuto perdió el control de sus sentidos. Un golpe brutal contra el suelo le arrancó de su estupor. Rodaba ladera abajo de un caballón chocando aquí y allá. El forro interior de caucho espumoso le salvó de morir descoyuntado. La temperatura había vuelto a subir de manera atroz. Su traje, quemaba dándole en la nariz, un sofocante tufo a goma caliente.
+
+Todo cuanto le rodeaba: árboles, césped, vehículos y hombres, ardían esparciendo densas humaredas que iban a mezclarse con las blancas nubes de vapor de agua que salían de los lagos y estanques artificiales. Las llamas se prolongaban mucho más allá de la ciudad. Toda la sierra de Guadarrama ardía. Un viento huracanado, sofocante, hacia volar árboles encendidos y chispas de fuego que se arremolinaban con nubes de polvo amarillo. La hondonada entre los dos caballones qué podía ver estaba cubierta de cadáveres humeantes. Instintivamente llevó la mano al dispositivo que cerraba y abría las válvulas de admisión de aire. No estaba seguro de haber cerrado la entrada de aire natural, pero respiró aliviado al comprobar que no había incurrido en tan trágico olvido. Porque en estos instantes, una mortífera lluvia radioactiva estaba cayendo sobre la superficie de la Tierra impregnándolo todo.
+
+Se puso en pie. Las rodillas le temblaban negándose a sostenerle. El temor a que su armadura de cristal tuviera alguna resquebrajadura le dominó, hasta que se cercioró de su buen estado. Entonces miró en rededor. Nada quedaba del hermoso exterior de la gran ciudad. El calor, el fuego y el huracán habíanlo barrido todo.
+
+A levantar los ojos al cielo vio al portaviones recobrando su posición horizontal y descendiendo lentamente. El capitán Catasús apareció súbitamente a su lado. Toda su armadura estaba manchada de hollín.
+
+— ¡Virgen Santísima!, —exclamó abarcando la ciudad entera con un amplio ademán—. ¡Cómo ha quedado todo!
+
+Diego no contestó. Comparaba mentalmente el aspecto actual de aquella ciudad con el que tenía sólo unos minutos antes y sentía su ánimo deprimido por una agobiante sensación de rabia e impotencia.
+
+El zumbido de su auricular y una voz irrumpiendo en su oído le arrancaron de sus sombríos pensamientos.
+
+— ¡Hola, coronel Santisteban...! ¡Hola, coronel Santisteban... aquí ARGENTINA... ARGENTINA al habla..:!
+
+—Diga, Argentina —contestó Diego.
+
+—El general le ordena replegarse a bordo con todos sus hombres. Descendemos a dos mil metros para recogerles. Deberán ustedes utilizar la cámara neumática número veinte, treinta y cuarenta...
+
+—Creí que íbamos a continuar la evacuación.
+
+—No, señor. No la continuamos. La Armada nahumita carga en estos momentos contra la Tierra... Sería arriesgado intentar la evacuación cuando el enemigo puede aniquilar este planeta con una bomba de oxígeno.
+
+—Comprendido. Allá vamos. Corto.
+
+Diego esperó a oír el "clic" metálico que anunciaba el cierre del radiotelegrafista de a bordo y lanzó una llamada general a sus tropas ordenándoles el repliegue hacia el buque nodriza. Un minuto más tarde, la fuerza se elevaba rápidamente utilizando sus "backs" poniendo rumbo al colosal disco del portaviones Argentina. Al salir de la cámara neumática que les había acogido, Fabiola Santisteban corrió al encuentro de Diego.
+
+— ¡Quieta, no se acerque a mí! —le gritó Diego conteniéndola con un seco ademán. Y como la muchacha quedara paralizada de sorpresa añadió—: Todo mi traje está impregnado de radioactividad. Espere a que me despoje de él. Diego y un grupo de sus hombres entraron en una cámara especialmente diseñada para este fin. Quince minutos más tarde salía por una puerta que estaba bastante lejos de la primera y se reunía con su encantadora prima. El coronel se había despojado incluso de su ropa y vestía ahora un sencillo "mono" azul. Fabiola, por su parte, habíase despojado de la molesta escafandra y mostraba al coronel una carita compungida, donde las lágrimas habían dejado su huella enrojeciendo los negros y rasgados ojos.
+
+— ¡Lo vi todo por televisión!, —exclamó corriendo al encuentro de Diego—.
+
+¡Dios mío... tal vez mi pobre madre se contará entre esos miles de víctimas!
+
+—Vamos, querida prima —murmuró Diego tratando de tranquilizarla—. No hay por qué temer lo peor. Su madre es una persona sensata... Lo más probable es que se abstuviera de tomar parte en esa locura colectiva.
+
+Ella agitó la cabeza en sentido negativo.
+
+—He podido reconocer, a través de la pantalla de su aparato televisor, algunos amigos que siempre he tenido por gentes sensatas y pacíficas... ¡Y estaban en el tumulto luchando como locos por trepar a este buque! ¿Cree usted que puede alguien permanecer sereno cuando está amenazado de una muerte espantosa?
+
+—Bueno, en todo caso su madre es una mujer vieja. Si su sentido común no le indicó la conveniencia de permanecer en casa mientras todos corrían hacia la superficie de Madrid, al menos su debilidad la habrá mantenido al margen de la lucha.
+
+— ¡Ha sido horrible!, —exclamó Fabiola cubriéndose la cara con las manos—.
+
+¡Horrible... horrible!
+
+Diego miró a las personas que le rodeaban. En todas las caras podía leerse aún la tremenda impresión que les causara la vista de aquella cruel carnicería. En general, la expresión de los ojos demostraba asombro y cólera a la vez. Uno de los presentes era el coronel Honorio Sanz, de la misma brigada que Diego.
+
+— ¿Qué es eso que me han dicho? —preguntó—. ¿Es verdad que la Armada sideral nahumita viene hacia la Tierra?
+
+Honorio Sanz movió la cabeza afirmativamente.
+
+—Sí —dijo—. Deben estar cruzando la órbita de Marte en estos momentos. No tardarán en estar aquí.
+
+— ¿De manera que se proponen terminar con este planeta torpedeándolo con bombas "W"?
+
+— ¡Oh! ¿Quién sabe? -repuso el coronel encogiéndose de hombros y haciendo una mueca ambigua—. Ese será, sin duda, el final de este planeta, pero lo que el enemigo parece buscar ahora es atraer hacia, aquí a nuestra Flota debilitando la defensa de Marte y Venus.
+
+—Marte y Venus... ¿no han sido bombardeadas con proyectiles de hidrógeno?
+
+--Todavía no,
+
+—Bien, ¿y qué piensa nuestro Estado Mayor de todo esto? —preguntó Diego.
+
+—Adivina las intenciones de los nahumitas y no está dispuesto a dejarse engañar. Mantendremos un millón de buques repartidos entre Marte y Venus y haremos frente a los nahumitas con el millón de aparatos restantes. Si les damos la gran batalla en las inmediaciones de la Tierra y conseguimos aniquilar al enemigo, Marte y Venus se salvarán. La Bestia Gris mantiene en pie su ofrecimiento. Si salvamos su planeta de la destrucción, nos cederá a Venus para que podamos evacuar allí a todos los habitantes de la Tierra. Diego permaneció unos momentos silencioso y pensativo. Luego movió la cabeza con pesimismo.
+
+—Venus y Marte no se salvarán —murmuró—. Aunque derrotemos a la Armada nahumita aquí no podremos evitar que bombardeen esos planetas. Con toda seguridad habrán dejado algunos de sus buques más allá de la órbita de Júpiter para que suelten sus torpedos fatídicos en el momento oportuno.
+
+—Nuestro Estado Mayor ha previsto esa posibilidad. Naturalmente no hay muchas probabilidades de interceptar un torpedo que ha tomado una enorme velocidad a lo largo de quinientos millones de kilómetros de aceleración continua. Los nahumitas bombardearán esos mundos con proyectiles de hidrógeno, pero entre que lo hagan con torpedos de hidrógeno o torpedos de oxigeno, siempre es preferible lo primero. Venus, la Tierra y Marte quedarán en condiciones tales que nadie podrá habitarlos en muchos siglos. Pero un día u otro la radioactividad se disipará por si sola, y entonces podremos volver desde "Redención" para colonizar de nuevo estos planetas.
+
+--Triste decisión es la que ha tomado nuestro Estado Mayor —murmuró Diego Santisteban—. Al venir a esta galaxia nos proponíamos expulsar a la Bestia y conservar estos mundos intactos para la posteridad. Ahora nos limitamos a tomar de lo malo lo menos bueno.
+
+—Bueno —refunfuñó Sanz—. No tienes por qué hacerme esos reproches. Yo no pertenezco al Estado Mayor. Soy un oscuro coronel como tú... Sin embargo, no nos queda otro remedio que conformarnos a escoger entre lo malo lo mejor.
+
+—Sí, claro —suspiró Diego—. No es que te reproche a ti, ni tampoco a nuestros generales. Ellos saben lo que se hacen y han demostrado su competencia. Son esos malditos nahumitas quienes lo han echado todo a perder. Hasta ellos no aparecieron en él Reino del Sol, todo marchaba sobre ruedas... ¿Qué se le va a hacer? Lucharemos contra la Armada nahumita y sea lo que Dios quiera. Diego Santisteban quedó un momento silencioso. Luego asió a su linda pariente por un brazo y la arrastró consigo diciendo:
+
+—Venga usted. Puesto que, a lo que parece, no vamos a poderla desembarcar en el autoplaneta por ahora, la llevaré ante la oficial de alojamientos para que le asigne un camarote.
+
+—Permítame quedarme en el suyo, coronel —suplicó Fabiola, asustada ante la posibilidad de que su pariente la abandonara—. No le molestaré... dormiré en el sofá.
+
+—No sea usted tonta —gruñó Diego—. Si se quedara en mi camarote no le permitiría dormir en el sofá... y a mí no me gusta dormir en un sofá cuando puedo hacerlo tan ricamente en una cama. Por lo demás no puede usted quedarse en mi camarote. Las ordenanzas prohíben que duerman en el mismo apartamento hombres y mujeres solteros.
+
+Fabiola enrojeció. Diego la miró desde su mayor altura y se echó a reír.
+
+— ¿Qué le preocupa? —preguntó—. Nadie se la va a comer aquí. Si lo prefiere, pueden darle una litera en el dormitorio general de la tripulación femenina... casi le convendría más. Todo parece indicar que va usted a venirse con nosotros al lejano planeta "Redención", y en tal caso debería ir acostumbrándose a las complejidades de la vida de los redentores.
+
+—Nunca podré hacerlo —murmuró Fabiola—. ¡Soy tan ignorante y ustedes tan sumamente, inteligentes!
+
+— ¡Bah! Ya irá aprendiendo usted. Y si se queda siendo tan inocente e ingenua... pues tanto mejor. A los hombres siempre nos ha gustado sentirnos superiores a las mujeres... y hace siglos que las mujeres dejaron de ser el sexo débil. Usted continúe siendo tan bonita como es ahora... y no se preocupe por lo demás.
+
+Fabiola se ruborizó, porque en los días que conocía a su primo era la primera vez que éste la piropeaba. Incluso le pareció que, al dirigirle una lisonja, el rubio y atlético coronel se apeaba del pedestal en que le había colocado la inferioridad de ella.
+
+Diego Santisteban, a su vez, captó la mirada sorprendida de su prima y sonrió. Le agradaba la ingenuidad de Fabiola. Acostumbrado al trato constante con las supercultas mujeres de su pueblo experimentaba una honda satisfacción cada vez que la linda terrícola acudía a él en demanda de una explicación elemental sobre temas que entre los redentores nadie comentaba por archiconocidos. Diego hubiera podido añadir que, precisamente lo que más apreciaba en su prima, era el
+
+encanto de su ignorancia y la seguridad que nunca llegarla a ser una mujer docta y masculinizada como las que formaban codo a codo con los hombres en las Fuerzas Armadas redentoras. Pero Diego Santisteban se abstuvo de decirlo. Ella, de todas formas, no hubiera comprendido que su primo encontrara un encanto en lo que ella tenia por un defecto.
+
+CAPITULO IV
+
+"COMBATE SIDERAL"
+
+L llegar a una distancia de 384.000 kilómetros de la Tierra, el portaviones Argentina se puso a dar vueltas en torno al planeta. A esta distancia segura la órbita de la Luna y también la del planetillo Valera, que hacía las veces de contrapeso al satélite natural de la Tierra girando en torno a ésta por el lado contrario. La misión del portaviones era colaborar con la Luna, con Valera y con 400 discos volantes más en la custodia del planeta mientras las escuadras redentoras y nahumitas dirimían sus diferencias en el espacio intercambiando torpedos autómatas. El planetillo Valera debiera ser considerado como la primera maravilla del Universo "fabricada" por el hombre. En realidad, las criaturas humanas no habían hecho-a Valera, pero lo había descubierto y le había añadido lo que hacía de este planetillo el más original de cuantos gravitaban en el Cosmos.
+
+En sus orígenes, Valera había sido un planetillo como los demás, un mundo privado de atmósfera y de vida que se movía por el espacio siguiendo una órbita que le mantenía esclavo de un Sol. Pero este solitario mundo no estaba hecho de tierra y rocas como la inmensa mayoría de sus congéneres.
+
+Se trataba de un planetillo hueco, con un caparazón de 100 kilómetros de espesor medio, constituido enteramente de "dedona", un metal 20.000 veces más pesado que el agua.
+
+Aunque era hueco y sólo medía 3.200 kilómetros de diámetro exterior, contra 3.470 que medía la Luna, la extraordinaria densidad de su materia equivalía a la masa de todo el planeta Tierra.
+
+En la actualidad Valera albergaba en sus entrañas un pequeño paraíso. Sus conquistadores, después de cerrar todas las grietas y dejar buen número de compuertas para poder entrar y salir, le habían dotado de un diminuto sol artificial y de una completa y pura atmósfera. Sol y oxígeno, agua y calor, hicieron prosperar en las entrañas de Valera hermosos y lujuriantes bosques que más tarde albergaron toda una bulliciosa y multicolor fauna.
+
+A bordo de este extraordinario autoplaneta habían venido los redentores con todo su formidable aparato bélico. Si llegaba el caso, y todo parecía indicar que había llegado, Valera podía intervenir en la lucha como un combatiente más. Toda su superficie estaba profusamente salpicada de grandes caparazones desde los que disparaban los mortales "rayos Zeta", rayos que emitían un violento chorro de átomos y hacían desintegrar cualquier metal.
+
+Pero la "dedona" de que estaban construidos los aparatos siderales nahumitas no podía ser desintegrada por estos rayos. Aquellos buques estaban hechos de una "dedona" idéntica a la de Valera. Por lo tanto, mutuamente invulnerables a estos rayos, redentores y nahumitas iban a enfrentarse al estilo de las guerras terrestres, buque contra buque, torpedo contra torpedo y coraza contra coraza.
+
+—Los nahumitas —dijo el coronel Diego Santisteban a su encantadora pariente— ignoran seguramente que Valera es un satélite artificial de la Tierra. Sus torpedos, no pueden hacer el menor daño a Valera, pero Valera aloja en sus entrañas una provisión inagotable de torpedos. Los nahumitas harían bien no acercándose demasiado a nuestro disfrazado "satélite".
+
+—Me gustarla presenciar la batalla —dijo Fabiola—. ¿No podríamos verla desde aquí?
+
+—Nada más sencillo. El general no querrá perderse esta batalla y tendrá
+
+apuntado el telescopio sobre los combatientes todo el tiempo que dure la lucha. Las escenas de la contienda serán retransmitías por televisión a todo el buque para que la tripulación pueda ver lo que ocurre. Así, pues, bastará ponerse ante cualquier televisor de a bordo para asistir a ése encuentro. Unas horas más tarde después ele esta conversación, Diego fue al almacén de equipos en busca de Fabiola. Esta, que acababa de entablar rápida amistad con la teniente encargada de aquel departamento, le siguió a lo largo de los intrincados corredores hasta un salón bastante grande, igual a un cine, incluso por tener una pantalla blanca y muchas hileras de sillones.
+
+—En realidad es un cine —explicó Diego—. Aquí se proyectan las películas que entretienen los ocios de la tripulación. Pero hoy vamos a utilizarlo como palco para asistir, desde lejos al encuentro entre nuestra Flota Sideral y la Armada Sideral de Nahum.
+
+Diego, temeroso de que algún general quisquilloso pusiera reparos a la presencia de una terrícola en la sala, llevó a Fabiola hasta la última fila de butacas. Iban entrando los oficiales de mayor graduación del buque. En todas las caras se retrataba la excitación del momento. Se hablaba en voz alta y chillona. Al cabo de un buen rato, cuando toda la sala estaba llena de bote en bote, sonó
+
+un timbre y se apagaron las luces. Instantáneamente cesaron todas las conversaciones. La pantalla se iluminó. Sobre un rectángulo completamente negro se movían miríadas de diminutos puntos brillantes, parecidos a estrellas muy lejanas.
+
+—Esa es nuestra flota —cuchicheó Diego al oído de Fabiola.
+
+La gigantesca pupila del telescopio se movió hacia la derecha. Desfilaron grandes y luminosas las estrellas, y de pronto entró en el rectángulo negro otro enjambre de diminutos puntos brillantes.
+
+—La Armada nahumita —dijo la joven coronel. Y murmurando entre dientes añadió: — ¡Así los confunda el diablo!
+
+—En un ángulo de la pantalla se veía una hilera de cifras luminosas que cambiaban continuamente su orden.
+
+— ¿Qué es eso? —preguntó Fabiola.
+
+—Indica la distancia a que se encuentra el objetivo de nosotros. Las dos flotas acortaban las distancias rápidamente. El encuentro iba a tener lugar a 20 millones de kilómetros de la Tierra. Después de abarcar en panorámica a cada escuadra, el telescopio se añadió varios aumentos haciendo crecer el tamaño de las cosas hasta que los buques enemigos se vieron del tamaño de puños. Eran unas máquinas largas y estilizadas, negras, de aspecto amenazador y todas iguales.
+
+El telescopio giró a la izquierda y mostró a la flota redentora. Los buques siderales redentores estaban clasificados en tres tamaños distintos. Los más pequeños, que eran también los más numerosos, estaban pintados de un brillante color rojo y adoptaban la forma de voraces tiburones, sin omitir la aserrada dentadura pintada de blanco en la parte inferior de sus proas. Eran los destructores.
+
+Los buques de tamaño intermedio estaban clasificados como cruceros y tenían los perfiles de un esturión de prominente apéndice. Iban pintados de color verde. Por último, los acorazados, eran de un color gris perla y tenían todo el aspecto de gigantescos y pesados cetáceos terrícolas. En número, los contendientes venían a estar igualados. En fuerza y pericia iba a verse en breve.
+
+Las dos flotas desplegaron en orden de combate. El ala izquierda nahumita se adelantó en un movimiento que tendía a envolver a la flota redentora. La pupila del telescopio giraba, ora a la derecha, ora a la izquierda, ofreciendo una vista alternativa de la Armada de Nahum y la Flota redentora. Esta última, ante el movimiento del enemigo, retrasó su ala derecha ofreciendo un frente compacto ante los nahumitas.
+
+Cuando las dos armadas se encontraban separadas todavía por más de medio millón de kilómetros empezaron a disparar sus terribles torpedos automáticos. Estos torpedos eran de gran tamaño e iban propulsados por un motor cohete de gran velocidad inicial. Estaban construidos de "dedona", —lo que les hacía invulnerables a los "rayos Zeta" o desintegrantes— y contenían en su cabeza una carga hueca nuclear. Cada uno de estos infernales artefactos costaba una fortuna y era por sí sólo una máquina perfectamente acabada. Iban provistos de un
+
+"cerebro" electrónico que les dirigía contra el enemigo siguiéndole en todas sus evoluciones. Cuando pegaban contra una coraza de "dedona" abrían un tremendo agujero por el que escapaba el oxigeno que llenaba la cabina del buque alcanzado. Preferentemente buscaban las toberas de popa del buque contrario, y si no podían explotar allí y tenían tiempo para alterar su rumbo iban a buscar los boquetes abiertos por sus antecesores en el casco del enemigo.
+
+Las dos bandadas de torpedos —unos diez o doce millones— se encontraron en mitad del espacio. Muchos de ellos, la mayoría, chocaron, encendiendo la verde—
+
+azulada luz atómica. Pero otros siguieron adelante en dirección al enemigo... Otros torpedos fueron disparados. A partir de este momento, hasta el final de la durísima batalla, ambos bandos contendientes no cesarían de soltar andanadas de torpedos hasta quedarse exhaustos. Los torpedos que habían rebasado la primera línea se encontraban con una segunda barrera que les interceptaba, haciéndoles estallar por choque.
+
+Si las dos flotas se hubieran limitado a conservar las distancias y dispararse torpedos, posiblemente la provisión de estos se agotarla antes que los buques sufrieran grandes daños. Pero no iba a ser así. Las dos escuadras, cargando la una sobre la otra, entraron en colisión, confundiéndose en un feroz cuerpo a cuerpo. La formación quedó rota. Cada flota se dividió en varios grupos menores que, a su vez, se subdividieron en secciones más pequeñas, empeñadas en batallas que se desarrollaban en ocasiones a centenares de miles de kilómetros del núcleo principal.
+
+En mitad de aquella tremenda confusión se percibía el esfuerzo de los dos jefes que dirigían la batalla por ordenar sus fuerzas y tratar de conseguir una victoria por el peso de una mayor concentración de buques sobre los puntos débiles del contrario.
+
+Los torpedos autómatas, perfectamente capacitados para distinguir al amigo del enemigo, surcaban el espacio dejando luminosos rastros amarillos. Cuando algún buque hacía explosión, brillaba fugazmente un resplandor verde-azulado. Los navíos, pilotados también por cerebros electrónicos, "veían" venir al torpedo y hacían toda suerte de maniobras para eludir el encuentro. A veces, ni los mismos cerebros electrónicos podían impedir que dos o más buques entraran en colisión. Porque aquella batalla se desarrollaba a tremenda velocidad. A una velocidad tan extraordinaria que el cerebro y el nervio humano no podían seguir las reacciones instantáneas de las máquinas que tripulaban.
+
+De pronto, sobre el fondo negro del espacio, aparecieron cuarenta puntos brillantes que crecían de tamaño. Aunque al estar más lejos nadie los había tomado en cuenta creyéndolos buques corrientes, al acercarse atrajeron sobre sí
+
+la atención de tocios cuantos, desde 20 millones de distancia, asistían sin peligro alguno para sus vidas al encuentro de redentores con nahumitas. Aquellos cuarenta puntos de luz se hincharon rápidamente hasta que sus formas fueron bien visibles.
+
+— ¡Son los autoplanetas nahumitas! —exclamaron varios voces, roncas de excitación.
+
+Un coronel de Artillería que estaba sentado junto a Diego se volvió hacia el joven haciendo muecas.
+
+— ¡Ahora —gritó— nos quedan sólo dos alternativas! ¡O retiramos fuerzas de Marte para apoyar a nuestra flota o dejamos que los autoplanetas rompan el equilibrio de fuerzas a favor de esos malditos nahumitas!
+
+Todo el salón se agitaba. Los altos jefes discutían acaloradamente adelantando lo que el Estado Mayor dispondría hacer en este caso. Y mientras tanto, la batalla continuaba a 20 millones de kilómetros de distancia y los cuarenta gigantescos autoplanetas intervenían en la lucha disparando cantidades abrumadoras de torpedos autómatas...
+
+Surcaban por todos lados las fatídicas máquinas buscando aviesamente a los buques siderales redentores. Brillaban aquí y allá los chisporroteos de las explosiones atómicas. Un rumor circuló como reguero de pólvora por la sala. ¡El Estado Mayor redentor había retirado medio millón de aparatos de Venus y de Marte y los enviaba apresuradamente en auxilio del grueso de la flota!
+
+--Llegarán tarde —anunció lúgubremente el vecino de asiento de Diego Santisteban.
+
+Otro rumor contradictorio agitó a la sala entera. No eran los 500.000 buques quienes corrían al encuentro de los autoplanetas enemigos, sino el mismo autoplaneta Valera.
+
+Un "¡Hurra!" estentóreo atronó el salón. El telescopio electrónico se apartó
+
+temporalmente del teatro de la batalla y giró rápidamente en busca de Valera para confirmar la noticia. El colosal disco del autoplaneta redentor ocupó
+
+completamente el rectángulo de la pantalla. El telescopio redujo su alcance a varios aumentos y Valera se hizo más pequeño. En efecto, estaba moviéndose a creciente velocidad. Había abandonado ya su órbita en torno a la Tierra y corría en apoyo de la Flota.
+
+— ¡Menuda sorpresa se estarán llevando ahora los nahumitas!, —rió el coronel de Artillería—. ¡Veremos qué pasa cuando Valera comience a vomitar torpedos!
+
+Diego se abstuvo de hacer ningún comentario. El era coronel de un Regimiento de Infantería Automática y no presumía de conocer muy profundamente la táctica de los combates siderales. Pero se le antojaba que soplaban vientos malos para el ejército redentor. El autoplaneta Valera, ciertamente, podía poner en el aire en cuestión de un minuto tantos millones de torpedos autómatas como las dos flotas juntas. ¿Pero les esperarían los nahumitas? Y si no se marchaban, eludiendo el encuentro con Valera, ¿cuántos buques redentores de los que habían empezado la batalla quedarían para entonces?
+
+El ojo del telescopio, como fortalecido por la arrancada del planetillo, volvió a apuntar al escenario de la tragedia. Lo primero que sorprendió a Diego fue la comprobación de que los contendientes habían acortado la distancia que les separaba de la Tierra en seis millones de kilómetros. Los autoplanetas nahumitas continuaban lanzando andanada tras andanada de torpedos, y la flota redentora...
+
+¡se ponía en fuga ante el enemigo!
+
+Un rugido de protesta atronó el salón. Los oficiales, puestos en pie, gritaban a las imágenes de la pantalla como si los tripulantes de los buques pudieran escucharles. En realidad, los navíos redentores hacían bien en retirarse ante la intensidad del fuego de los autoplanetas nahumitas.
+
+Pero esta era la opinión de Diego. Muchos de los presentes no lo creían así y, bien por ignorancia en cuestiones de guerra sideral, bien por excesivo amor propio, apostrofaban a los aviadores echándoles en cara su cobardía. Los oficiales de la tripulación del Argentina allí presentes salieron en defensa de sus compañeros. La maniobra estaba bien hecha. Una retirada a tiempo se resolvía muchas veces en una victoria. La flota retrocedía porque era un estupidez esperar a que aquellas formaciones masivas de torpedos autómatas disparados por los autoplanetas les hicieran pedazos. ¿Tenían algo que decir los ignorantes oficiales del Ejército de Tierra?
+
+Los ignorantes oficiales del Ejército de Tierra, ciertamente, tenían mucho que decir. Y lo decían a gritos. Si se sabía que el enemigo tenía, además del millón de buques, cuarenta autoplanetas gigantes que le habían servido para traer su cuerpo expedicionario, ¿por qué la flota salió a combatir con sólo un millón de aeronaves?
+
+Los aviadores alegaban razones de peso. Si la flota hubiera debilitado las defensas de Venus y Marte alineando más buques frente a la Armada nahumita, los nahumitas hubieran rehuido el encuentro directo y habrían corrido hacia Venus y Marte para reducirlos a mundos muertos con sólo dos bombas "Doble Uve". Luego se hubieran marchado satisfechos de haber conseguido sus propósitos: destruir toda la vida sobre los planetas de esta galaxia que podían albergarla: Venus, la Tierra y Marte.
+
+La voz del general de División, don Tomás Barbastro, bramó a través del altavoz imponiendo silencio. Cuando finalmente se restableció el orden y cada cual volvió
+
+a su asiento, las escuadras contendientes habían acortado la distancia que les separaba de la Tierra en otros dos millones de kilómetros. La batalla se había convertido en una desenfrenada carrera. La flota redentora encabezaba la marcha, seguida de cerca por las nutridas bandadas de torpedos autómatas nahumitas. Detrás venia la Armada de Nahum en peso tratando de dar alcance al enemigo en fuga.
+
+Fabiola Santisteban, contagiada del nerviosismo que electrizaba la sala, se asió
+
+con fuerza al brazo de su primo murmurándole al oído:
+
+— ¿De veras andan tan mal las cosas?
+
+—Sí, muy mal --confirmó Diego haciendo esfuerzos por aclarar la voz—. Muchos no se han dado cuenta todavía, pero lo cierto es que ya no podemos evitar que el enemigo se acerque a la Tierra y la torpedee con bombas "Doble Uve". Fabiola dejó escapar una ahogada exclamación. En este momento, el altavoz dejó oír el agudo silbato del contramaestre. Hubo una pequeña pausa y a continuación una voz serena que gritaba:
+
+— ¡Atención! ¡Todos los oficiales y aviadores de la tripulación deberán acudir inmediatamente a sus puestos de combate!
+
+Aquí y allá se pusieron en pie los oficiales de la dotación deslizándose por entre las butacas hacia los pasillos y las puertas de salida. Fabiola clavó sus uñas en el brazo de Diego.
+
+—Vamos... vamos... —tranquilizó Diego dando golpecitos en la mano de su pariente—. No hay por qué alarmarse de esa forma. Todavía no estamos vencidos, ni mucho menos. Nuestra flota se replegará, hasta reunirse con Valera y entonces presentará cara al enemigo.
+
+—Pero si algún torpedo de esos consigue alcanzar la atmósfera de la tierra...
+
+¿qué será de los que están allá abajo?
+
+— Su señora madre estará segura, si es eso lo que quiere decir... Madrid habrá
+
+cerrado herméticamente sus compuertas, y aunque estalle toda la atmósfera, la reacción en cadena no se comunicará a la ciudad.
+
+En los minutos siguientes, luego que los aviadores hubieron abandonado apresuradamente la sala, la tensión nerviosa se hizo insoportable. La flota redentora, dejando atrás muchos buques destrozados, se reunió al fin con el autoplaneta Valera y viró en redondo haciendo frente al enemigo. Valera, semejante a un bólido gigante, avanzó impetuosamente contra la armada nahumita. Pero los nahumltas eludieron ágilmente el encontronazo desplegándose a derecha e izquierda hasta rebasar a la flota redentora.
+
+Valera era demasiado grande para tener la facilidad de maniobra de los buques enemigos, insignificantes pigmeos comparados a su masa. No podía virar tan rápidamente como hubiera querido, la flota redentora se arrojó valientemente contra el enemigo intentando cortarle el paso... Se entabló una segunda y más furiosa batalla mientras Valera frenaba su tremendo impulso y describía un viraje de varios centenares de miles de kilómetros... Y mientras tanto, los 40 grandes autoplanetas nahumitas se adelantaban audazmente hacia la Tierra. Eran unas máquinas enormes, cuyo aspecto recordaba al planeta Saturno por ser unas esferas rodeadas a la altura del Ecuador por sendos robustos anillos. Cuando llegaron a una distancia de 300.000 kilómetros de la órbita de la Luna, es decir, la misma que seguía el disco portaviones Argentina, estos autoplanetas ejecutaron con rapidez y destreza una singular maniobra.
+
+Cada esfera se partió en tres piezas. Un hemisferio subió algunos kilómetros, el otro bajó, y el anillo, convertido ahora de un disco volador cuyo aspecto difería poco de, los discos portaviones redentores, quedó suelto.
+
+En sólo unos minutos, los 40 autoplanetas quedaron convertidos en 120
+
+máquinas independientes, que tomaron distintos rumbos envolviendo a la Tierra.
+
+Al mismo tiempo, la armada nahumita se abría paso entre los buques redentores y se lanzaba en pos de los autoplanetas, cayendo todos a gran velocidad sobre la atmósfera de la Tierra. Unos minutos más tarde, el enemigo llegaba a la altura de los buques portaviones redentores.
+
+En la pantalla de televisión se vio venir sobre el Argentina a uno de aquellos discos volantes flanqueados por varios miles de aparatos. Unos objetos largos y oscuros se destacaron de la escuadra nahumita dejando tras sí sendos rastros luminosos. Eran unos 20.000 torpedos autómatas volando hacia el disco portaviones Argentina.
+
+CAPITULO V
+
+¡INVASIÓN!
+
+n este momento, la pantalla quedó a oscuras y se encendieron las luces del salón. Los oficiales del ejército saltaron de sus butacas hablando todos a la vez llenos de excitación, pero el altavoz dominó el murmullo de las conversaciones:
+
+— ¡Atención! ¡Zafarrancho de combate! ¡Todo el mundo deberá vestir sus trajes de vacío!
+
+Un formidable estrépito de timbres y campanas estremecía por entero al disco portaviones. Diego Santisteban asió a Fabiola por un brazo y la empujó hacia la salida, donde se apretujaban los oficiales del ejército.
+
+— ¡Vamos! ¡El enemigo nos ataca y debemos de equiparnos por lo que pudiera pasar!
+
+Salieron a empellones de la sala. Al verse fuera, los oficiales echaban a correr por el dédalo de pasillos en busca de sus armaduras y escafandras de cristal.
+
+--¡Corra... vaya donde dejó su equipo y endóseselo lo más aprisa que pueda! —
+
+gritó Diego a su prima empujándola hacia el corredor que conducía al compartimento de las mujeres…
+
+Fabiola no se hizo repetir la recomendación y salió corriendo en pos de un grupo de mujeres de Arma de Infantería que seguían su misma dirección. Diego tomó
+
+por otro pasillo en busca de su camarote.
+
+Las cubiertas del Argentina resonaban como tambores al paso precipitado de centenares de hombres y mujeres. Diego doblaba un recodo del corredor cuando los torpedos nahumitas alcanzaron al navío. Escuchóse el apagado rumor de varias explosiones muy potentes, ahogadas por el cierre hermético de los compartimentos estancos. El Argentina se estremeció como si acabara de chocar contra un planeta. Hombres y mujeres fueron lanzados al piso mientras las luces eléctricas parpadeaban, se apagaban y volvían a encenderse.
+
+La caída llevó a Diego ante la puerta entornada de su camarote. No tuvo más que saltar en pie y entrar para alcanzar las diversas piezas de su equipo de vacío. Durante quince angustiosos minutos, el Argentina se vio completamente solo, rodeado de un enjambre de torpedos atómicos y de amenazadores buques siderales nahumitas que hacían de él poco menos que un platillo de tiro al blanco. El Argentina se defendía largando andanada, tras andanada de torpedos autómatas cargados de un poderoso explosivo atómico. Aquellos torpedos no tenían la menor probabilidad de alcanzar al enemigo, pero al menos interceptaban buena parte de los proyectiles nahumitas que zumbaban a su alrededor como avispas furiosas.
+
+Mal lo hubiera pasado el Argentina de no acudir en su auxilio dos portaviones que operaban cerca, así como unos 10.000 destructores y cruceros redentores de los que venían persiguiendo a la escuadra nahumita. Pero ésta rehuyó el encuentro. Los negros estilizados buques siderales se apelotonaron en torno al gigantesco disco portaviones y, formando bloque, disparando torpedos, a diestra y siniestra, pasaron a través de las líneas, redentoras descendiendo sobre la Tierra. Diego Santisteban, completamente equipado con su traje y su escafandra de cristal, se acercó a la cámara de derrota del Argentina, donde sin que mediara ningún acuerdo iban reuniéndose todos los jefes y oficiales del Arma de Infantería Automática.
+
+La cabina era una estancia circular que adoptaba la forma de una gran cúpula. En el centro se levantaba un estrado rodeado de una especie de mostrador frente al que estaban sentados algunos oficiales de las Fuerzas Aéreas. Por encima del banco, los oficiales podían ver la pared de enfrente y, levantando la cabeza, también buena parte de la cúpula. Las paredes y el techo abovedado venían a ser una gigantesca pantalla de televisión que ofrecía en conjunto una magnifica visual sobre cuanto ocurría en torno y por encima del portaviones.
+
+Para el comandante del buque, de pie en mitad del estrado y rodeado de sus oficiales, el efecto venía a ser el mismo que si se hallara situado sobre la cubierta exterior del Argentina. Girando sobre sí y levantando o bajando los ojos podía ver todo el espacio en torno al buque. Invirtiendo un solo mando, la cúpula pasaba a reflejar todo lo que ocurría por debajo del disco volante.
+
+Cuando Diego Santisteban entró en la cabina, la cúpula estaba captando las escenas de la parte inferior. Una ancha zanja daba la vuelta en torno al estrado. Desde allí, sin interrumpir la visual de los oficiales de derrota, los invitados podían asistir también al espectáculo que ofrecía la pantalla televisora cenital. En esta ocasión, los jefes del ejército estaban apelotonados en un punto de la zanja mirando hacia la pared de enfrente.
+
+Diego se alzó de puntillas para mirar por encima de las cabezas de sus compañeros y vio al gigantesco disco nahumita volando en un plano horizontal a la superficie de la Tierra. Los buques que le escoltaban, algo rezagados, le seguían sin dejar de disparar torpedos autómatas contra los buques redentores y los tres discos portaviones.
+
+El disco enemigo debía estar volando ya dentro de la atmósfera terrestre, allí
+
+donde el aire era tan tenue como el existente en la mejor campana de vacío fabricada por los hombres. Y de pronto, sin interrumpir la marcha, el disco empezó
+
+a soltar un chorro de extrañas máquinas que, apenas desprendidas de la cara inferior del disco nahumita, emprendían un veloz descenso hacia la Tierra.
+
+—¡¡Tropas de desembarco!!
+
+Ninguno de los allí presentes podía equivocarse en su juicio. Las máquinas que ahora llovían en enorme cantidad sobre la Tierra, aunque difirieran en algunos detalles de las redentoras, eran tropas de Infantería Automática.
+
+— ¡General Barbastro!, —gritó un general de brigada que estaba en la zanja volviéndose hacia el estado del centro de la cabina—. ¿Ha visto usted eso?
+
+—Claro que lo veo —contestó la voz enfurruñada del general jefe de la Novena División—. ¿Cree que estoy ciego? —Y volviéndose hacia uno de los operadores de radio que tomaban asiento ante el pupitre circular le ordenó: — Póngame en comunicación con nuestro Estado Mayor General.
+
+Mientras el operador llamaba a Valera, los comentarios zumbaban en el fondo de la zanja. El Argentina se encontraba en estos momentos sobre la península Ibérica, siguiendo de cerca al disco volante nahumita que todavía estaba lanzando tropas al espacio.
+
+En general, el sentimiento predominante era de desconcierto. Nadie acertaba a explicarse la actitud de los nahumitas. Estos habían asegurado que venían a destruir el mundo y ahora tenían una estupenda ocasión de hacerlo con sólo dejar caer un par de bombas "Doble Uve". ¿Por qué no ponían en acción aquella tremenda arma de destrucción? ¿Qué se proponían al desembarcar fuerzas de invasión?
+
+Diego Santisteban, como todos sus colegas, se, rompía la cabeza tratando de hallar una explicación lógica a esta maniobra del enemigo. La voz del general don Tomás Barbastro sonó antes que pudiera encontrar una solución al enigma:
+
+— ¡Un momento de silencio, por favor!
+
+Las conversaciones quedaron interrumpidas instantáneamente. Las luces de la cabina de derrota se encendieron y todas las cabezas se volvieron hacia el estrado central, sobre el que se erguía la recia figura del general Barbastro junto a la del contralmirante Otero, comandante del Argentina y a la vez, jefe de enlace entre las fuerzas del Ejército de Tierra y la flota.
+
+—Acabo de recibir órdenes de nuestro Estado Mayor General —dijo su excelencia gravemente—. Nuestra flota ha sufrido un grave revés perdiendo casi la mitad de sus aparatos en la batalla que acabamos de presenciar. Momentáneamente somos impotentes para impedir el desembarco de las fuerzas enemigas sobre la Tierra. Es más, posiblemente no recibiremos refuerzos de Venus ni Marte. Nuestro Estado Mayor General cree que el desembarco del enemigo sobre la Tierra no persigue más objeto que hacernos retirar fuerzas de los otros planetas. Cree que los propósitos de los nahumitas son atraernos aquí
+
+para que queden debilitadas las guarniciones aéreas de Venus y Marte y de esta forma poder torpedearlas con bombas "W". Por otra parte, no podemos permitir que el enemigo "descienda sobre las ciudades terrestres, les ponga cerco y las destruya con torpedos atómicos subterrestres. La única forma de impedirlo es peleando contra los nahumitas en tierra firme. Por lo tanto, el Estado Mayor General nos ordena desembarcar nuestros contingentes de tropas automáticas y enfrentarlas con las enemigas. El desembarco se hará inmediatamente. Esto quiere decir que deben ustedes apresurarse en introducirse en sus máquinas para proceder al lanzamiento de ellas.
+
+Nadie hizo el menor comentario. Los oficiales miraban sin pestañear a la fornida figura del general, erguida sobre el estrado central de la cabina.
+
+—Eso es todo señores —acabó diciendo su excelencia—. Vayan a ocupar sus
+
+puestos y... buena suerte.
+
+Con las últimas palabras del general el grupo se disolvió saliendo apresuradamente de la cámara de derrota para -dirigirse hacia sus respectivos aparatos.
+
+CAPITULO VI
+
+DESEMBARCO
+
+AS cien cubiertas del disco portaviones Argentina resonaban con el golpear de millares de pies lanzados a la carrera. Cuando Diego Santisteban llegó
+
+ante al alojamiento de las mujeres, un chorro de muchachas enfundadas en sus trajes de cristal salía impetuosamente hacia los diversos puntos del buque donde estaban sus máquinas. Los altavoces contribuían a mantener viva esta agitación disparando órdenes secas y vibrantes. Diego se encontró con Fabiola en los brazos casi antes de darse cuenta.
+
+—No he querido marcharme sin despedirme —le dijo Diego apresuradamente—. Ya sabrá usted que los nahumitas están lanzando tropas de desembarco y que nosotros vamos a desembarcar también.
+
+— ¡Lléveme con usted —suplicó Fabiola.
+
+— ¿Conmigo? ¡Está loca!, —exclamó Diego—.
+
+— ¿Qué se figura usted que es un combate en tierra entre dos ejércitos automáticos?
+
+—No estoy pensando ahora en cómo será esa batalla —repuso la muchacha con rapidez—. Pienso que van ustedes a descender sobre Madrid y que allí está tal vez mi madre... ¡No diga que no puede llevarme! Muchas mujeres van a tomar parte en la batalla. ¿Por qué no he de ir yo también?
+
+—Querida prima —repuso Diego—. Esas muchachas son imprescindibles para manejar nuestras tropas, pero usted sólo podría venir en condición de espectadora, y eso no creo que vaya a gustarle al general si llegara a enterarse.
+
+— ¿Y por qué se ha de enterar? Además, usted no sabe que yo voy a embarcarme como polizón en su máquina. Yo podría entrar en su aparato metida en este traje y usted no saber quién soy hasta que fuera tarde.
+
+— ¡Vaya!, —refunfuñó el coronel esbozando una sonrisa—. No le falta ingenio.
+
+¿Sabe usted cuál es mi aparato?
+
+—No. Pero puedo averiguarlo siguiéndole a usted de cerca.
+
+—Muy bien. Entonces, adiós.
+
+Diego asió con su enguantada mano la de Fabiola, se la estrechó brevemente y le volvió la espalda, echando a correr pasillo adelante. Fabiola le siguió sin disimulo alguno, entrando en pos de él en la cabina de un enorme ascensor atestado de gente. Como quiera que todos los ocupantes del ascensor iban vestidos de cristal azul de pies a cabeza y era muy difícil verse las caras a través de este cristal a menos que aproximaran sus escafandras, Diego perdió
+
+auténticamente de vista a su encantadora prima. Incluso si alguna vez tenía que responder ante sus jefes, por la intrusión de una persona civil en su máquina de control, podría jurar que ignoraba que su pariente le hubiera seguido hasta su aparato.
+
+El ascensor descendió varios pisos y se detuvo. Diego salió de la cabina envuelto en un tropel de gentes enfundadas de vidrio y corrió a través de un hangar atestado de robustas esferas metálicas. Todas las esferas flotaban en el aire, a una distancia igual del piso que del techo. Esto era así porque estaban hechas de "dedona" y, de haber descansado sobre la cubierta, la hubieran hundido con su peso.
+
+En el centro del hangar se veía un grupo de esferas mayores. De estas, había por lo menos un par que mostraban en su parte inferior sendos agujeros de acceso. Una puerta redonda y extraordinariamente gruesa cerraba estas oberturas.
+
+Diego se encaminó hacia una de estas últimas esferas y se introdujo por la escotilla. Una escalerilla de hierro le llevó a través de la sala de control. Esta era de forma circular, con las paredes abuhardilladas y el techo plano y bajo. Había un sillón para el piloto frente a una pantalla de televisión y un caótico cuadro de mandos, y un par de sillones a cada lado frente a grandes pantallas negras y otros tantos bancos repletos de botones y luces de diversos colores. La primera en entrar en pos de Diego fue Fabiola. El coronel le señaló en silencio uno de los sillones que formaban pareja a la derecha del piloto. Inmediatamente detrás de Fabiola entraron en la cabina: el comandante Cortés, piloto, el capitán Catasús, ayudante de coronel, y el teniente Ribas, radiotelegrafista El sargento Galán asomó su cabeza por la abertura que comunicaba con la sala de máquinas, pero al ver que habían cinco hombres arriba volvió a la sala de máquinas, donde en realidad estaba su puesto. El capitán ayudante y Diego-fueron a ocupar los sillones de la pareja izquierda, mientras el comandante piloto lo hacía ante los mandos y el teniente junto a Fabiola. Diego conectó la clavija del teléfono al enchufe que tenía en el pecho de su armadura y se volvió hacia la derecha para mirar en la pantalla de televisión del piloto. El comandante Cortés acababa de encender esta pantalla y en ella se veía parte del hangar con sus impecables y apretadas filas de esferas metálicas. Muy cerca de la máquina que ocupaba Diego había una enorme escotilla que subía en este momento sobre tres robustos árboles de acero.
+
+— ¡La "cacerola" se destapa! —oyó decir.
+
+La "cacerola" era en el argot de la Infantería Automática la cámara de lanzamiento de las máquinas, un tubo cuya boca superior estaba a ras de la cubierta hangar y cuyo extremo inferior llegaba hasta el fondo del disco portaviones. Poco más o menos venía a ser como un tubo lanzatorpedos en posición vertical. La tapa de este tubo, al subir entre los tres árboles de acero, se parecía en cierto modo a la de una cacerola.
+
+En los oídos de Diego resonó la voz del oficial de vuelos:
+
+— ¡Cámara abierta, mi coronel!
+
+Una luz verde se encendió en el tablero de Diego, confirmando este aviso verbal. Diego se volvió hacia el capitán Catasús.
+
+— ¡Adelante los generadores!
+
+Catasús movió hacia adelante una palanquita. Allá afuera, las grandes esferas que formaban en torno a. la tapadera del tubo de lanzamiento cobraron vida propia. Una de ellas avanzó con maravillosa seguridad hacia el redondo agujero que acababa de abrirse entre las tres columnas de acero, se detuvo en seco al quedar suspendida verticalmente sobre la cámara de lanzamiento y se dejó caer desapareciendo por el tubo.
+
+Mientras tanto, las demás esferas habían continuado moviéndose en dirección a la escotilla y apenas la primera hubo desaparecido fue sustituida por otra, que se hundió también siendo reemplazada por una nueva esfera. La rapidez y precisión de estas maniobras eran tanto más notables por cuanto ningún ser humano las tripulaba. Cada máquina poseía un cerebro electrónico para ejecutar este y otros muchos movimientos.
+
+Unas veinte esferas se introdujeron por el tubo de lanzamiento en sólo un minuto. Cuando las cuatro últimas se dirigían ya hacía el agujero, la máquina tripulada por el coronel Santisteban y sus ayudantes empezó a moverse. Detrás de ella, el capitán Catasús había puesto en movimiento con sólo pulsar una segunda palanquita a toda la nutrida formación de esferas más pequeñas. La esfera jefe, puesto que de ella emanaban todas las órdenes al resto de la formación, se deslizó suavemente hasta el tubo, quedó una fracción de segundo inmóvil y se dejó caer. La pantalla de televisión del comandante piloto quedó a oscuras tres segundos y luego volvió a encenderse.
+
+Estaban ya fuera del disco volante, cayendo a gran velocidad hacia la superficie de la Tierra. Y no eran ellos los únicos en descender sobre el planeta. De varios puntos de la parte inferior del Argentina caían sendos chorros de máquinas que, aparte de las esferas, tomaban otras dos formas distintas. Unas eran pequeñas, como tarántulas que hubieran replegado hacia su cuerpo sus tres pares de patas. Las otras eran bastante más grandes, de forma plana y alargada como un clásico
+
+"tanque" de los que se utilizaron en el siglo XX, pero desprovistas de cadenas y adoptando unos perfiles mucho más redondeados. Cada uno de estos artefactos montaba una torre giratoria de la que sobresalían un par de cañones cortos y de gran calibre.
+
+Apenas acababan de dejar el portaviones cuando la voz del teniente Ribas sonó
+
+en los auriculares de Diego Santisteban.
+
+— ¡Mi coronel! ¿Quién es esta mujer que va sentada junto a mí? Yo creí que era la sustituía del sargento Moriega, pero acabo de descubrir que no sabe una palabra de táctica militar.
+
+— ¿Qué me dice?, —preguntó Diego aparentando gran sorpresa—. ¡Yo no he dispuesto todavía sustituto para Noriega!
+
+—Soy yo, coronel... —dijo la voz débil y tímida de Fabiola Santisteban—. Como usted no quiso que le-acompañara... me colé a bordo sin decirle nada.
+
+— ¡Fabiola!, —exclamó Diego—. Es usted una chiquilla incorregible. ¿Sabe que acaba de ponerme en un compromiso? No está permitida a bordo la presencia de personas civiles.
+
+—Perdone, primo. Yo..., si quiere volver al portaviones y dejarme allí...
+
+— ¡Tonterías! ¿Cómo vamos a regresar ahora? ¡Quédese donde está!, —rugió
+
+Diego—. ¡Pero ya me dará usted explicaciones más tarde... no le cuesta la piel esta estúpida aventura!
+
+—Sí... señor —balbuceó la muchacha por el teléfono.
+
+Diego olvidó temporalmente a su prima para ocuparse solamente de su regimiento. El teniente Ribas acaba de establecer contacto con el "carro" del general Barbadillo, jefe de la brigada a que pertenecía el regimiento de Diego.
+
+—Vamos a formar un cinturón defensivo en torno a Madrid —dijo el general—. El enemigo acaba de tomar tierra en los alrededores de Toledo. Su aviación, acosada por la nuestra, intentará hacer llegar hasta Toledo algún torpedo subterrestre... No es fácil que nuestra flota pueda impedir la destrucción de esa ciudad, pero debemos prevenirnos para que no ocurra lo mismo en Madrid.
+
+Mientras los generales transmitían a sus coroneles las órdenes tendientes a neutralizar el ataque del enemigo, el drama iniciado a 20 millones de kilómetros de la Tierra proseguía con furia apocalíptica dentro de la misma atmósfera del planeta. Una invasión que no estuviera protegida desde el aire estaba condenada a un fracaso, y nahumitas y redentores, sin dejar de combatir, descendían en pos de sus fuerzas de desembarco.
+
+La lucha que había sido extremadamente dura en el vacío interestelar, era ahora más enconada y terrible. Dentro de la atmósfera, los proyectiles adquirían una fuerza extraordinaria. Los buques se veían entorpecidos por la resistencia del aire y sus evoluciones eran más lentas y cerradas. El portaviones Argentina, seriamente tocado veinte minutos antes por los torpedos nahumitas, fue alcanzado nuevamente, apenas traspuso las altas capas atmosféricas. Ahora, los torpedos habían sido sustituidos por proyectiles cohete que se apoyaban en el aire. Algunas de estas bombas volantes, penetrando en las entrañas del Argentina por los boquetes que abrieran los torpedos, hicieron explosión dentro del navío dispersándolo en mil pedazos.
+
+Pero las bombas volantes que zumbaban por todos lados no iban sólo contra los buques y los portaviones redentores, sino también contra las tropas de desembarco. Apenas la máquina de Diego había descendido treinta kilómetros dentro de la atmósfera cuando las bombas volantes empezaron a revolotear entre las esferas de dedona, chocando contra éstas y llenando el cielo de vivos fogonazos verde azulados.
+
+En la mayoría de los casos, la esfera que recibía uno de estos impactos salía despedida como una pelota a varios kilómetros de distancia. Pero si el proyectil alado le daba de frente, sin resbalar sobre sus pulidas superficies, ocurría a veces que la esfera se abría como una calabaza o hacia explosión convirtiendo a cada uno de sus mil fragmentos en otros proyectiles.
+
+Ahora bien, las esferas que en el argot militar se llamaban también "carros", por cubrir necesidades idénticas a los viejos carros de combate, distaban mucho de ser unas simples masas ciegas y desamparadas. Cada una de estas máquinas tenía movimiento giratorio en sus dos hemisferios, y a ras de la superficie de estas cúpulas llevaban buen número de agujeros que eran otros tantos tubos lanza cohetes.
+
+— ¡Atención... ataque de bombas volantes! —gritó el comandante Cortés. El aviso del piloto era obvio. Diego acababa de ver en la pantalla de televisión unos objetos veloces que venían hacia aquí dejando en pos sendos penachos de llamas.
+
+--¡Abra la artillería! --ordenó dando un codazo al capitán que se sentaba a su lado.
+
+Catasús movió diligentemente una de las múltiples palanquitas de su caótico banco de instrumentos. Respondiendo a este movimiento, la artillería atómica de las esferas, que apuntaban por radar y era accionada por un cerebro electrónico, abrió fuego contra las bombas zumbadoras.
+
+Llenóse el cielo de vivos relámpagos verdes. La pesada esfera saltaba como un potro salvaje bajo los puñetazos de aire producidos por las explosiones.
+
+—Teniente —llamó Diego, por teléfono interior—. Voy a cambiar de asiento con usted. Si ocurriera algo malo quisiera estar junto a mi prima.
+
+—Muy bien, coronel.-Allá voy.
+
+Diego desconectó las clavijas y se puso en pie. Cuando se cruzaba con el teniente en mitad de la cabina, una explosión muy próxima hizo bambolear la máquina echándoles a uno en brazos del otro.
+
+—Muy afectuoso su saludo, teniente —masculló Diego al tiempo que tomaba asiento junto a Fabiola.
+
+— ¡Abróchese ese cinturón! —gruñó Diego señalando la cincha de seguridad. Fabiola se aseguró el cinturón.
+
+— ¿Está muy enfadado conmigo? —preguntó.
+
+— ¡Bah! Ahora ¿qué importa? —refunfuñó Diego enchufando las clavijas del banco en los orificios de su coraza.
+
+— ¡Altura, quince mil! —gritó el piloto.
+
+— Deténgase, —ordenó Diego, siempre por el teléfono interior—. Deje que pase delante nuestro Regimiento.
+
+El piloto frenó el raudo descenso de la esfera. Como ésta era de dedona, bastaba hacer circular por su masa una corriente eléctrica más viva para que la máquina opusiera mayor resistencia a la fuerza de gravedad que tiraba de ella hacia abajo. La esfera comandante se inmovilizó casi por completo. El Regimiento de tanques le dio alcance y le rebasó descendiendo hacia tierra.
+
+— ¡Adelante, Cortés!
+
+La esfera reanudó su interrumpido descenso. Diego movió una palanquita sobre su banco de instrumentos. La gran pantalla negra que había frente a Fabiola y el coronel se pobló de multitud de puntos de luz que brillaban en cuatro colores distintos, con intensidad diversa y tamaños variables.
+
+— ¿Qué es eso? —preguntó Fabiola señalando la pantalla.
+
+—Una pantalla de radar, simplemente.
+
+—Me refiero a esos puntos de luz coloreada.
+
+— ¡Ah! —Diego sonrió y miró hacia su izquierda, a la pantalla televisora del piloto—.El fuego cruzado de nuestras fuerzas parece haber ahuyentado al enemigo
+
+—dijo. Y respondiendo a la pregunta de Fabiola y señalando a la pantalla de radar, añadió—: Esta es la palestra donde se mueven nuestras tropas. Los puntos y líneas de luz blanca corresponden a los objetos metálicos ubicados en tierra firme o en el aire, pero que no son nuestros. Las manchas grandes y difuminadas son los relieves del terreno... Esas lucecitas pequeñas y ovaladas son nuestros soldados.
+
+— ¿Soldados?, —exclamó Fabiola—. No he visto ningún soldado.
+
+—Quiero decir soldados autómatas —sonrió Diego—. En esta División y en las otras dos que están descendiendo ahora sobre Madrid no hay un sólo soldado de carne y hueso, excepto nosotros mismos y los escasos comandantes que controlan las distintas unidades. Lo que usted va a ver, querida prima, es una simple guerra de control remoto, ¿sabe? Nuestros soldados no son humanos, ni siquiera conservan forma humana. Esas tarántulas de dedona que usted habrá visto descender como colgadas de un hilo invisible son nuestros soldados.
+
+— ¡Ah!, —exclamó la muchacha—. Comprendo.
+
+—Lo celebro. Decía que las luces pequeñas y ovaladas .de color azul son los soldados, la infantería propiamente dicha. Las luces de forma redondeada y color verde corresponden a nuestros tanques. Vea, estas que brillan .con intensidad intermitente, como estrellas que titilaran en un cielo negro, es nuestro Regimiento.
+
+—También hay puntos de luz verde que no titilan —observó Fabiola señalando multitud de puntos verdes que, efectivamente, se mantenían en un fulgor verde inalterable.
+
+—Son tanques, sin embargo. Pero tanques de otros regimientos. Aunque para nosotros no titilan, para su comandante hacen guiños como las nuestras. Lo mismo ocurre con las demás unidades. Cada coronel ve sus máquinas con luz intermitente, y las restantes con luz fija. De no ser así, nos armaríamos un lío y confundiríamos un Regimiento con otro. ¿Comprende?
+
+—Si. Y puesto que las luces azules son esas arañas o soldados y las verdes tanques... Las otras serán esa especie de planchas de forma irregular que tienen encima media naranja.
+
+—Exacto. Los puntos de luz amarilla y forma grande y alargada son nuestras plataformas de artillería atómica.
+
+— ¡Altura, cuatro mil metros! —anunció la voz del piloto por los auriculares de Diego Santisteban.
+
+Diego miró sus propios tanques en la gran pantalla negra. Acababan de tomar tierra, es decir, se habían detenido a sólo un metro de altura sobre la superficie del terreno.
+
+— ¡Alto! --ordenó Diego.
+
+El comandante Cortés detuvo en seco el movimiento de descenso de la esfera gula. Diego empuñó un micrófono que descansaba sobre su banco y empezó a disparar órdenes en una lengua de la que Fabiola no entendía una sola palabra. Fabiola comprendió que las órdenes que daba su primo no iban a verterse en ningún oído humano. El coronel hablaba a sus máquinas... ¡y sus máquinas le obedecían dócilmente, dando muestras de poseer una inteligencia y una disciplina que, verdaderamente, sólo podían ser automáticas!
+
+El 99 Regimiento de Tanques, que a su llegada a tierra había quedado formando un grupo desordenado ejecutó una serie de rápidas maniobras que le llevaron a formar una cuádruple línea escalonada orientada al norte. Sobre la misma pantalla negra, Fabiola vio moverse a las tarántulas o soldados de infantería formando una ancha faja de miles de puntos de luz azul detrás de los carros. Las luces amarillas de la artillería se movieron también pasando a cubrir los huecos que dejaban los tanques y formando algunos grupos concentrados a retaguardia de la infantería. Diego se volvió hacia su prima.
+
+—Ya tenemos el escenario preparado —dijo—. Ahora sólo falta que lleguen los nahumitas.
+
+— ¿Hablaba a sus máquinas, verdad? —interrogó Fabiola.
+
+—Si.
+
+— ¿Y ellas... le entendían?
+
+— ¿Lo dice por el idioma que empleaba? Es lengua redentora, la que hablaban ya los indígenas del planeta Redención cuando nuestro antepasado Santisteban llegó a aquel mundo. Estas máquinas están construidas para obedecer solamente las órdenes dadas en nuestra lengua. Podríamos haberlas hecho para que respondieran también a las órdenes dadas en español, pero temíamos que los hombres grises emplearan a su vez el español para confundirnos. ¿Comprende?
+
+—Creo que sí. Usted quiere decir que, por ejemplo, si yo supiera hablar en lengua redentora y tomara ese micrófono y les hablara, sus máquinas me obedecerían también. ¿No es eso?
+
+--Exactamente. Como usted comprenderá, sería pedir demasiado a unas simples máquinas que llegaran a distinguir entre el acento peculiar de su jefe y el de otras personas. Además, no sería práctico, pues de esta forma, puede mandarlas otro coronel o simple soldado de nuestro Ejército.
+
+—Sí, ya... Pero lo que a mí me asombra es que esas máquinas sepan interpretar las órdenes dadas de viva voz. Yo creí que para moverlas de aquí para allá se servían únicamente de clavijas y botones.
+
+— ¡Oh, no!, —rió Diego—. Aunque esta clase de guerra continúe llamándose guerra de botones, lo cierto es que los botones sólo intervienen hasta cierto punto. Cuando la guerra de control remoto estaba en mantillas, sí, entonces se movían las máquinas por medio de botones. Pero aquello pasó a la historia. Los ejércitos supermodernos obedecen a la voz.
+
+— ¡Es maravilloso!, —murmuró Fabiola—. Maravilloso... y sobrecogedor. A mí
+
+me causan miedo y una especie de honda repulsión esas máquinas, capaces de oír la voz humana y de interpretar cada uno de sus múltiples giros e inflexiones...
+
+—No tanto... no tanto, prima —protestó Diego—. Mis tanques no igualarán jamás a la comprensión humana... A ver si me entiende usted: estas máquinas interpretan y ejecutan las órdenes que les doy, pero sólo un cierto número de ellas. Sería, por ejemplo, inútil ordenarles que dancen un vals. Estas máquinas ignoran lo que es un vals y son igualmente estúpidas para órdenes que no comprendan su vocabulario. Son de una inteligencia rudimentaria, digámoslo así. Se las ha construido para que respondan automáticamente a cierto número de palabras. Más allá de este reducido vocabulario, nuestras máquinas permanecen insensibles.
+
+Fabiola asintió con repetidos movimientos de su escafandra de cristal azulado. Diego tendió la mano hacia su tablero de instrumentos e hizo girar un interruptor. A su derecha, en la pared abuhardillada, libre de asientos se encendió una pantalla de televisión que tenía tres metros de anchura y llegaba desde el piso hasta el techo.
+
+Diego imprimió un movimiento de rotación a su asiento giratorio y contempló el paisaje reflejado por la pantalla. Estaban situados aproximadamente sobre la autopista de Burgos. Todos los tupidos bosques de la provincia habían quedado reducidos a tizones negros, de los que brotaban densas humaredas que entorpecían en parte la visión.
+
+Haciendo girar un botón del banco, el paisaje se deslizó sobre la pantalla. Primero aparecieron las fuerzas del Ejército redentor, que formaban un cinturón de metal en torno a Madrid. Luego, el mismo Madrid, con aquel su aspecto de tejado de planchas onduladas, se ofreció a los entristecidos ojos de Fabiola Santisteban. Madrid se deslizó también por la izquierda de la pantalla y Diego completó una mirada de circunvalación en tornó a su máquina. En este momento se escuchó la voz del teniente Ribas:
+
+--¡Atención! Nuestras avanzadillas acaban de establecer contacto con las columnas enemigas que avanzan sobre Madrid por la carretera de Toledo.
+
+CAPITULO VII
+
+GUERRA DE AUTÓMATAS
+
+iego hizo elevar su esfera hasta alcanzar los 12.000 metros de altura. Desde allí, con auxilio de la televisión, se dominaba un vasto territorio que comprendía a toda la capital con sus 2.000 kilómetros cuadrados de superficie y todos los alrededores.
+
+Apenas acababan de ganar aquellas alturas cuando el cielo se llenó de grandes tiburones rojos y estilizados esturiones de brillante color verde, es decir, de destructores y cruceros siderales redentores.
+
+—Creí que esos aparatos, que ustedes llaman buques, no estaban acondicionados para combatir dentro de la atmósfera —dijo Fabiola mirando hacia la gran pantalla televisora.
+
+— ¿Porqué?, —preguntó Diego—. Esos buques son más vulnerables dentro de una atmósfera que fuera de ella. Tampoco pueden volar a tan tremenda velocidad más así y todo están magníficamente acondicionados para combatir en cualquier elemento, tanto en el éter como en el aire de un planeta, o entre las aguas de un océano. Observe que todos ellos adoptan la forma de peces. Si hubieran sido construidos exclusivamente para combatir en el vacío interestelar, donde no hay aire que ofrezca resistencias, su forma más adecuada hubiera sido la esférica. Con sus perfiles alargados y aerodinámicos, sin embargo, son más veloces y maniobreros en una atmósfera o un mar.
+
+En el horizonte de la pantalla asomó una lejana hilera de puntos negros.
+
+—Ahí llega el enemigo —murmuró Diego con voz ligeramente ronca.
+
+— ¿Qué va a ocurrir ahora? —preguntó Fabiola.
+
+—Ahora amárrese bien a su sillón y échese hacia atrás... estos sillones son extensibles... así. Si no se desmaya y es capaz de llegar al final va a ver usted lo que ocurre cuando los ejércitos autómatas se encuentran sobre la tierra. Y si me desmayo yo, procure hacerme recobrar el conocimiento. Porque debe saber que mis conocimientos sobre lo que va a ocurrir son meras teorías. Los hombres de Redención hemos creado un formidable ejército de control remoto, pero todavía no tenemos experiencia en un combate de este estilo. El único consuelo que nos cabe es suponer que los nahumitas están en idénticas condiciones. Y ahora, silencio.
+
+Fabiola, recostada en su cómodo sillón cama, agitó la escafandra en sentido afirmativo. Diego se echó también hacia atrás tirando de una palanca que, al mismo tiempo, hizo deslizar el cuadro de mando sobre sus rodillas poniéndolo al alcance de sus nerviosos dedos.
+
+En este momento, el coronel Diego Santisteban sentíase dominado por las alternativas sensaciones de temor, confianza, preocupación y esperanza. Estos sentimientos, a la vez, eran comunes en todos los tripulantes de la esfera y, sin duda, incluso a los mismos generales que iban a dirigir la batalla moviendo como marionetas sus formidables contingentes electrónicos por los hilos invisibles de la radio, el radar y la televisión.
+
+Apenas el enemigo asomó sobre el horizonte cuando las escuadras siderales redentoras pusieron proa contra él mandando por delante una nube de raudas bombas volantes. A su vez el enemigo disparaba otro enjambre de proyectiles que fueron a chocar contra los redentores.
+
+El encuentro de las bombas hubiera carecido de importancia en mitad del vacío cósmico, donde no existía aire capaz de transmitir la violencia y el ruido de las explosiones. Pero aquí, en la atmósfera terrestre, los varios miles de bombas estallando a la vez desencadenaron un huracán de fuerza apocalíptica, semejante a la explosión de la bomba de hidrogenó que había estallado horas antes sobre Madrid.
+
+El aire y la tierra ardieron en una llama cegadora. La tierra y el aire se estremecieron convulsivamente bajo el impulso bestial de aquellas explosiones, ruidoso comienzo de una batalla que iba a ser pródiga en tales demostraciones de fuerza nuclear. La esfera de dedona, en cuya ánima iban encerrados Diego y sus compañeros, salió despedida a gran distancia, dando vueltas sobre sí misma como una ligera pelota de tenis lanzada por raqueta colosal.
+
+El golpe fue brutal para los débiles organismos humanos. Las vueltas no tenían importancia, porque teniendo bajo sus pies un campo magnético, la, sangre seguía afluyendo con normalidad por sus músculos y miembros sin subírseles a la cabeza. A no ser por las imágenes que en la pantalla de televisión giraban como un loco torbellino ni siquiera se hubieran dado cuenta de que iban girando como una bola de billar.
+
+La esfera voló cinco ó seis kilómetros girando sobre si misma y luego se detuvo. Una rueda giroscópica se encargó de poner de nuevo el piso en un plano horizontal con la superficie de la tierra. A la vez, un cerebro electrónico que recordaba su anterior posición deduciéndola por los accidentes del terreno que reflejaba la pantalla de radar, dirigió el chorro de partículas ionizadas que impulsaban lateralmente a la esfera devolviendo a ésta a su puesto primitivo. La dispersión de las fuerzas mecánicas que defendían Madrid fue grande, pero apenas cesaron las corrientes de aire cada máquina retornó a su posición. Mientras el ejército autómata rehacía sus filas, las escuadras redentoras y nahumitas se encontraban en el espacio con ímpetu aterrador. Todo el cielo, en cuanto abarcaba la vista, estaba materialmente cubierto de aparatos que subían, bajaban, giraban y saltaban persiguiéndose y disparándose miles de proyectiles cohete.
+
+Todo el ejército redentor saltaba bajo el impulso de las encontradas corrientes de aire, pero como los estallidos atómicos tenían lugar en todos puntos y direcciones, las máquinas se desviaban muy poco de su anclaje. Las plataformas artilleras se sumaron a la refriega disparando enormes cantidades de proyectiles contra los aviones enemigos...
+
+El sol había empalidecido. Su disco amarillo, asomando a la vez en cuando por entre los huecos de las nubes de humo, no arrojaba ninguna sombra sobre una tierra constantemente iluminada por el terrorífico chisporroteo de las explosiones atómicas. Una gran cerrazón iba cubriendo el cielo, tendiendo un palio funeral de humos sobre más de 20.000 kilómetros cuadrados de territorio. Los penetrantes ojos del radar veían a través del toldo de nubes vigilando las maniobras del enemigo y dirigiendo contra él las bocas de centenares de cañones montados sobre plataformas iguales a los lanza cohetes. Cada tres o cuatro segundos un aparato aéreo redentor o nahumita hacia explosión en el aire y sus restos humeantes caían en forma de espesa lluvia sobre Madrid. A veces, era un buque entero el que descendía de las nubes estrellándose en el suelo con terrible fragor.
+
+La táctica de este agotador combate era bien sencilla. Los nahumitas trataban a la vez de lograr la supremacía del espacio y de alcanzar con algunos de sus torpedos subterrestres la ciudad sepultada bajo una espesa capa de roca, plomo y cemento. La aviación redentora procuraba impedir que estos torpedos llegaran al suelo, y los cañones múltiples de las defensas antiaéreas colaboraban eficazmente en este rápido y metódico aniquilamiento de torpedos subterrestres destruyéndolos en el aire.
+
+— ¡Atención, coronel! —llamó la voz del teniente Ribas por los auriculares—. El general Barbadillo al habla.
+
+— ¡Hola, Santisteban!, —gritó la voz del general—. La Flota denuncia la presencia de un regular contingente de tropas enemigas que ha tomado tierra en los alrededores de Aranda del Duero y avanza rápidamente sobre Madrid siguiendo el eje de la autopista de Burgos. Si apunta usted su radar un poco alto, los verá
+
+venir en forma de una línea blanca que cubre unos cien kilómetros de territorio. No los pierda de vista. Vamos a salir a-su encuentro hasta Loyozuela para impedir que cierren sobre la capital. Usted abre la marcha con su regimiento de carros.
+
+¡Adelante!
+
+—Muy bien, excelencia. Allá vamos.
+
+Diego movió una palanca algo mayor situada debajo de una hilera de 30
+
+palanquitas más pequeñas, empuñó el micrófono y ordenó en lengua redentora:
+
+— ¡Regimiento! ¡Avante en formación de línea abierta. Rumbo: tres, seis, cero. Velocidad: uno, cero, cero!... ¡Adelante!
+
+Al mover la palanca mayor, Diego ponía bajo su control a todo su regimiento en peso: 1.500 carros armados, más de 15 esferas mayores, idénticas en volumen a la comandante, cada una de las cuales alojaba un generador atómico de energía eléctrica. Estas 15 esferas eran el corazón del regimiento, de la misma forma que la esfera tripulada por el propio Diego era el cerebro. Las esferas generadoras fabricaban energía eléctrica y la enviaban por antena a los aparatos receptores de energía de cada carro.
+
+Además de estas 15 esferas mayores, todavía quedaba otra, cuyo cometido era anónimo y oscuro. En aquella otra esfera, idéntica interior y exteriormente a la de Diego, iba el segundo jefe del regimiento, un teniente coronel que, caso de ser destruido el carro comandante o sufrir alguna avería que le impidiera controlar al regimiento tomaría automáticamente los mandos prosiguiendo las operaciones, Pero a este carro no era menester mandarle. Su piloto estaba en comunicación constante por radio y su tarea, al menos mientras el jefe del regimiento siguiera útil, se reducía a seguir de lejos la esfera comandante.
+
+El 99 Regimiento de Tanques avanzó en masa siguiendo el eje de la autopista de Burgos, a una velocidad de 100 kilómetros por hora. El enemigo venia en dirección contraria y a una velocidad que era aproximadamente el doble. Al alejarse de Madrid, las nubes se hicieron menos densas, pudiendo verse entre sus claros la autopista de Burgos.
+
+El terreno era llano, ligeramente ondulado y negro a causa de la enorme cantidad de tizones que lo cubría. Aquellos tizones habían sido unas horas antes hermosos bosques. Ahora humeaban todavía. El viento originado por las explosiones atómicas levantaba espesas ráfagas de cenizas. Sobre la formación de tanques, las escuadras redentoras y nahumitas proseguían su furiosa pelea. De vez en cuando, un buque descendía pesadamente del cielo y se estrellaba contra el suelo.
+
+Una sierra envuelta en humos parecía salir al encuentro de los tripulantes de la esfera comandante. Allá abajo se veía el cauce del río Guadalix. El tremendo calor desarrollado por la bomba de hidrógeno había dejado completamente enjuto su cauce. Muy lejos, por el sur, el ejército redentor acababa de chocar con el nahumita.
+
+El 99 de tanques se encontraba sobre el río Guadalix, cuando el enemigo, asomó por las cumbres de la sierra, parcialmente enmascarado tras las blancas columnas de humo. Pero el humo no bastaba para cegar la vista del radar. En la pantalla negra de Diego tenía ante si, el enemigo fue visible como una miríada de puntos blancos que se acercaban con vertiginosa rapidez. Diego empuñó el micrófono.
+
+— ¡Regimiento! —gritó—. ¡Abran fuego!
+
+Las esferas nahumitas se encontraban a 25 kilómetros de las redentoras cuando ambas formaciones abrieron fuego. Los proyectiles cohetes surcaron el aire dejando en pos ígneos penachos de muerte. Con el 99 Regimiento había avanzado el Regimiento 100 que completaba la brigada de tanques del general Barbadillo. Detrás estaban las plataformas de artillería, que inmediatamente se sumaron al estruendo arrojando por encima de la brigada de tanques una lluvia de proyectiles atómicos.
+
+Las granadas atómicas nahumitas cayeron sobre las esferas redentoras con furia apocalíptica. Todo un sector de 30 kilómetros de longitud ardió en una continua llama verde que proyectaba a considerable altura enormes surtidores de tierra, de humo y de fuego. La máquina del coronel Santisteban empezó a saltar y brincar como una pelota de goma. El aire la zarandeaba de aquí para allá, la tiraba, la volvía a recoger y la lanzaba por alto como una pluma. Toda la formación de máquinas redentoras brincaba y botaba a su vez en mitad del huracán de fuego. Pero el enemigo también estaba llevando lo suyo. La artillería atómica redentora dibujó una prolongada línea de llamas entre los tanques contrarios. La sierra entera pareció entrar en erupción vomitando de sus cimas largos penachos de fuego. Volaban por los aires moles de piedra grandes como casas. Grotescas setas radioactivas se retorcían elevando sus plomizas cabezotas por encima de las nubes, donde combatían las escuadras siderales. El cielo y la tierra se desgarraban en rugidos dolorosos...
+
+— ¡Y esto es una batalla entre máquinas construidas por el hombre! —oyó
+
+Diego que murmuraba su encantadora prima.
+
+El enemigo bajaba en incontenible alud por las estribaciones de las montañas. Entre las setas radioactivas asomaron sus prominentes cañones las baterías atómicas..., hicieron fuego...
+
+Ningún ruido de cuantos se producían en el exterior podía llegar a los oídos de las criaturas humanas. Primero era el cierre hermético de las esferas de dedona quien atenuaba los ruidos. Luego las herméticas escafandras de cristal azul en cuyo interior se estremecían los seres humanos, horrorizados de su propia obra. Pero el horrible detonar de aquellos explosivos llegaba hasta los hombres en forma de una vibración violenta, continua y terrible, que ponía en conmoción todo el organismo y repiqueteaba con insistencia dolorosa dentro del cerebro. Recostado en su sillón, con los controles al alcance de sus dedos, sacudido y zarandeado despiadadamente por las explosiones, el coronel Diego Santisteban iba siguiendo las peripecias de la batalla. La artillería nahumita, cubriendo materialmente de proyectiles atómicos los regimientos redentores, causó algunas bajas entre estos. Cada vez que una de aquellas luces verdes, de intermitente parpadear, se apagaba o pasaba a ser una luz blanca. Diego sabía positivamente que una de sus máquinas había sido reducida a pedazos o yacía clavada en tierra con averías tales que le impedía continuar la lucha.
+
+Desde 15 kilómetros de altura, envuelto en las explosiones de bombas volantes que intercambiaba la aviación, Diego pudo ver en su pantalla negra al enemigo, cuando bajaba en impetuoso alud las vertientes de las montañas. Los carros nahumitas brillaban en su pantalla de radar como miríadas de luces blancas. Habían adoptado una formación de cuña cuyo vértice avanzado apuntaba a las líneas redentoras. La artillería terrícola bombardeaba aquella colosal cuña apagando aquí y allá algunas luces blancas, pero la formación, desapareciendo y reapareciendo tras los accidentes del terreno, acortaba por segundos la distancia. Los tanques redentores lanzaban locamente envueltos en humo y en las llamas de sus cañones. El enemigo, bajando de la sierra, se lanzó impetuosamente contra la brigada de tanques.
+
+— ¡Esos intentarán abrirse paso en un cuerpo a cuerpo! —gritó la voz del capitán Catasús.
+
+Diego asió el micrófono.
+
+— ¡Regimiento! —ordenó—. ¡A la carga!
+
+Los tanques del 99 se lanzaron hacia adelante saliendo al encuentro del enemigo.
+
+— ¡Muy bien, Santisteban!, —aulló la voz del general Barbadillo por la radio--. Aguántelos ahí. El Regimiento 100 está tras usted.
+
+Los blindados redentores se lanzaron hacia adelante disparando sus terribles cañones atómicos. La tierra se estremeció al choque brutal de aquellas macizas moles metálicas. Las máquinas se embistieron como fieras.
+
+Detrás de los tanques avanzaba la infantería nahumita. Miles de hombres mecánicos, controlados a distancia, se movían rápidamente entre los tizones humeantes, los retorcidos restos de tanques, los aviones incendiados en tierra, las ráfagas de polvo y las espesas nubes de humo. Diego pudo entreverlos confusamente en su pantalla televisora a través de un hueco entre las nubes radioactivas. Fabiola los vio también.
+
+— ¡Dios mío... qué cosa tan horrible! —exclamó la joven.
+
+Aquellos hombres autómatas, en efecto, tenían algo profundamente repulsivo en sus movimientos bamboleantes, en su aspecto remotamente humano, y en su inteligente forma de conducir. Cada uno de sus brazos era un cañón que vomitaba granadas atómicas. Avanzaban buscando los accidentes del terreno. De vez en cuando se detenían y se agazapaban. Luego, daban un prodigioso salto en el aire de incluso 100 metros de longitud y se agazapaban detrás de otro obstáculo.
+
+—Esos quieren colarse entre nuestras líneas al amparo de la batalla de carros —
+
+dijo el capitán Catasús por teléfono.
+
+—Creo que sí —contestó Diego. Y tras una pequeña pausa, añadió—: Comunique al general que la infantería enemiga se infiltra entre nosotros. La batalla de tanques alcanzaba en estos instantes su punto culminante. Las esferas tan pronto a ras de tierra como empujándose a diez kilómetros de altura. Era imposible formar un telón de acero que tuviera 25 ó 30 kilómetros de ancho por 10 de altura. Las fuerzas redentoras no daban para tanto, y las esferas manumitas, de tamaño ligeramente inferior, se infiltraron en buen número lanzándose hacia Madrid a una velocidad de más de 150 kilómetros a la hora.
+
+— ¡Contacto con el general Barbadillo! —pidió Diego al teniente Ribas.
+
+— ¡Conecto!
+
+— ¡Hola general! Aquí Santisteban... ¿Me oye usted?
+
+— ¡Hola, coronel!
+
+—Atención. Ahí van unos cuantos bolos enemigos que han conseguido infiltrarse entre nuestras líneas.
+
+—Ya lo veo... sí, déjelos venir. Les recibiremos adecuadamente. Pero, ¡por todos los santos! Procure no dejar pasar a las plataformas artilleras que vienen detrás. Seguramente transportan torpedos subterrestres... y ya sabe. Un torpedo subterrestre tiene que lanzarse muy cerca de una ciudad para que llegue a su objetivo. Si dejamos aproximarse demasiado a esa artillería, nos darán un disgusto.
+
+—Haré todo lo posible por cortarle el paso..., aunque somos pocos, excelencia. Mi contador me dice que hemos perdido ochocientos cincuenta tanques.
+
+—Voy a mandarle cuatrocientos del Regimiento 100 con el teniente coronel Ríos...
+
+En este momento, un proyectil atómico acertó de lleno a la esfera comandante tripulada por el coronel Diego Santisteban.
+
+CAPITULO VIII
+
+INFANTERÍA MECÁNICA
+
+o había nada comparable al puñetazo de una bomba atómica contra una bola de dedona. Los tripulantes de la esfera comandante se vieron arrancados violentamente de sus asientos y lanzados contra las paredes, los bancos y las pantallas con brutal fuerza.
+
+Diego sintió como si sus oídos estallaran, vio un millón de estrellas saltar ante sus ojos y perdió el sentido. Cuando volvió en sí, lo primero que vio fue a Fabiola inclinada sobre él. La muchacha habíase quitado la escafandra y también a él le habían desprendido de la suya.
+
+— ¡Caspita, coronel!, —exclamó la voz del teniente Ribas—. Menudo susto nos ha dado usted. Creímos que había muerto también.
+
+Aquel "también" espabiló completamente a Diego. Intentó incorporarse y se sintió mojado. Alguien le había tirado agua por la cara y ésta habíase escurrido por el escote de la coraza hasta el pecho. Fabiola y el teniente le ayudaron a ponerse en pie sobre sus vacilantes rodillas. Al miraren rededor sintió un acceso de náuseas.
+
+Tendido en mitad de la cabina yacía el capitán Catasús con toda la cabeza abierta y descansando sobre un enorme charco de sangre. Más allá, tirado en un rincón, yacía el comandante Cortés en completa inmovilidad y boca arriba. Tenía en el pecho de su armadura un tremendo agujero del que sobresalía el retorcido extremo de una palanca de control. Un huracán parecía haber pasado por la cabina retorciendo los sillones, arrancando los bancos y haciendo pedazos los cristales de las pantallas de radar.
+
+—El capitán... ¿está muerto? —preguntó Diego, aún sabiendo que hacía una pregunta estúpida.
+
+—Y también Cortés —repuso Ribas con acento lúgubre—. El golpe le lanzó
+
+contra los mandos después de romper sus cinchas de seguridad y se clavó una patán caen el corazón.
+
+— ¡Dios mío... qué horrible! —gimió Fabiola tapándose la cara con sus manos enguantadas de vidrio.
+
+— ¿Y el sargento? —interrogó Diego mirando en rededor.
+
+—Está en la sala de máquinas tratando de reparar la avería.
+
+— ¿Avería?
+
+—Sí. Ese maldito proyectil nos arrancó el mecanismo de propulsión y estamos flotando en el espacio a merced de las corrientes de aire... ¡Menos mal que el receptor de energía no se estropeó también precipitándose a tierra!
+
+Diego contempló en silencio la cara tumefacta del capitán ayudante. Le parecía mentira que aquel buen compañero estuviera vivo unos minutos antes y que yaciera ahora sin vida a sus pies. El pueblo redentor estaba poco familiarizado con la muerte violenta, Cada hombre vivía normalmente hasta doscientos años y más. La ciencia y la medicina, formidablemente desarrolladas, habían alargado la vida del hombre y hallado drogas y remedios para todas las enfermedades. En Redención, la gente sólo moría de puro vieja, después de una larga e intensa vida. El sargento Galán, el único que conservaba puesta su escafandra, asomó por la escotilla de la sala de máquinas.
+
+—Lo que dije —murmuró—. La explosión nos llevó el eyector y nos hemos quedado descalzos. Podemos subir o bajar, Pero no podemos dar un sólo paso por nuestros propios medios.
+
+Diego se volvió hacia el teniente.
+
+— ¿Funciona la radio? —preguntó,
+
+—Lo comprobaré —repuso el joven yendo hacia su banco de instrumentos. Diego señaló al sargento los cadáveres.
+
+—Vea si encuentro algo con que cubrirlos, Galán —murmuró—. Me da escalofríos la vista de estos desdichados compañeros.
+
+El muchacho asintió y Diego se encaminó hacia la pantalla de televisión para comprobar su estado. Todos los aparatos de a bordo habían sido construidos con vistas a soportar golpes semejantes al recibido. El televisor tenía algunas conexiones rotas junto al arrancado banco de control, pero en cuanto Diego las empalmó volvió
+
+a funcionar.
+
+Poco era lo que se veía desde aquella altura y a través del espeso techo de nubes radioactivas que cubría el campo de batalla, De tarde en tarde, entre los jirones de humo, se alcanzaba a divisar alguna esfera de "dedona" rodeada de lenguas de fuego. Inmediatamente la esfera era cubierta por un jirón de niebla radioactiva. La batalla continuaba, esta era todo lo que se podía adivinar.
+
+— ¿Qué tal esa radio? —preguntó Diego al teniente.
+
+—Creo que podré arreglarlo... si. Eso es. Ya está.
+
+Ribas hizo algunas conexiones y movió los botones de control. Tomó un micrófono y lo acercó a sus labios.
+
+— ¿A quién quiere llamar? —preguntó.
+
+—Tanto da. Al general Barbadillo o a la Plana Mayor divisionaria.
+
+— ¡Hola, P.M. División! ¡Hola P.M. División ¡Esfera—control uno del noventa y nueve al habla! ¡Hola Plana Mayor!
+
+—Plana Mayor divisionaria a la escucha. Hable control uno del noventa y nueve
+
+—repuso una voz gangosa por un tornavoz.
+
+—Diego empuñó el micrófono que le tendía Ribas.
+
+—Coronel Santisteban del noventa y nueve de tanques al habla. Un proyectil atómico nos acertó de lleno matando a parte de la tripulación e inutilizando el eyector del sistema de propulsión. Estamos anclados en el aire. Podemos subir o bajar, pero no movernos en ninguna dirección. ¿Qué debemos hacer?
+
+—Oiga, control noventa y nueve. Espere un momento.
+
+Entre los zumbidos de la corriente se escuchó el rumor de una ininteligible conversación. Luego volvió a escucharse al operador divisionario.
+
+--Oiga, control noventa y nueve. .Aterrice. Una esfera observatorio bajará a recogerles.
+
+—Muchas gracias. Les esperarnos. Y ¡oiga!, si no fuera inoportuno me gustaría saber cómo andan las operaciones.
+
+—Bien. El Cien de Tanques contuvo la acometida de las esferas nahumitas y destrozó a casi todas sus maquinas en la batalla de aniquilamiento. Las infanterías combaten ahora. El enemigo presiona sin resultado por el sector Sur. Hemos recibido dos divisiones de refuerzos. Esperamos también la llegada de algunas fuerzas aéreas. Las noticias que se van recibiendo del resto del planeta son confusas, pero parece que estamos batiendo a los nahumitas tanto en el aire como en la tierra. Esto es todo por ahora, mi coronel. Si no desea alguna cosa, y con su permiso, procedo a cortar.
+
+—Agradecido, muchacho —dijo el coronel dejando el micrófono en manos de Ribas. Y volviéndose hacia el sargento, le ordenó:
+
+—Hágase cargo de los controles y conduzca esta máquina a tierra. El sargento, que acababa de cubrir los cadáveres de Catasús y de Cortés con la bandera nacional de Redención, descendió hacia la sala de máquinas, para ejecutar las órdenes.
+
+Una explosión atómica cercana hizo bambolear la esfera, empujando a Fabiola a los brazos de su primo. Cuando el piso recobró la horizontal, Fabiola se desprendió
+
+suavemente de los brazos de Diego levantando hacia éste sus ojos asustados.
+
+—Me parece que está arrepentida de haber venido —dijo Diego.
+
+--Si.
+
+—Ya se lo advertí.
+
+— ¿Cómo podía imaginar yo que esto fuera tan horrible?, —murmuró Fabiola—. Máquinas que cruzan cañonazos y se golpean como bestias…, máquinas que se mueven como hombres... y hombres que dirigen este cataclismo moviendo botones y gritando voces ante un micrófono...
+
+—Las guerras de antaño eran un alegre alboroto de estudiantes comparado con esto, ¿verdad? —sonrió Diego con amargura.
+
+—Ignoro como fueron las guerras de antaño —repuso Fabiola— Pero puesto que la civilización ha continuado y la Humanidad ha sobrevivido, no pueden haber sido tan horribles como ésta.
+
+—Si —murmuró Diego—. Esta es la más horrible de todas.
+
+La esfera descendía velozmente hacia tierra.
+
+—Pongámonos las escafandras —aconsejó Diego. Una bocanada del aire exterior bastarla para matarnos.
+
+Fabiola, Ribas y el coronel se ajustaron las escafandras. La esfera frenaba su velocidad de descenso. En la pantalla televisora iban apareciendo retazos de un panorama aterrador. La tierra, blanquecina y granujienta, húmeda de vapor. Algunos buques siderales ardían aquí y allá esparciendo negras columnas de humo. Entre los relámpagos atómicos se veía suspendida sobre una colina una esfera que arrojaba lenguas de fuego por sus cañones. Por todas partes yacían restos de tanques, de plataformas artilleras de "soldados" autómatas. La esfera—control tocó tierra con suave golpe. Al interrumpirse por completo la corriente eléctrica que le daba flotabilidad, su extraordinario peso la hundió, profundamente en el suelo.
+
+—Esperamos que no tarden mucho en venir a recogernos —murmuró el teniente Ribas mirando intranquilo hacia la pantalla.
+
+Las explosiones atómicas sacudían intermitentemente la máquina.
+
+— ¡Miren! —gritó Fabiola señalando al televisor.
+
+El objeto causa de la alarma de Fabiola eran dos hombres mecánicos que acababan de brotar de un agujero de bomba y avanzaban hacia la esfera.
+
+—Son nahumitas —dijo Ribas.
+
+Los dos robots, con su grotesco aspecto de bidones ambulantes, se acercaron a la esfera y se detuvieron un momento.
+
+— ¡Dios mío! —murmuró Fabiola asustada—. ¿Qué harán ahora?
+
+—Nada —repuso Diego—. No pueden hacernos nada. Esos cañones que levan por brazos no son capaces de destruir una esfera de "dedona". Los robots no dispararon contra el "tanque", habíanse detenido muy cerca y parecía como si lo examinaran.
+
+—Creo que están utilizando nuestra máquina como resguardo —murmuró
+
+Diego—. Seguramente han visto moverse algo sospechoso que está detrás de nosotros.
+
+Diego dio vuelta al control de dirección de televisor. La cámara giró en torno a la esfera permitiéndoles ver cuanto había a sus espaldas. Entonces vieron avanzar entre el humo que se arrastraba por tierra un "soldado" de infantería redentora. Se trataba de una de aquellas arañas o tarántulas de color pardo oscuro. El aspecto de esta máquina robot era impresionante. Avanzaba con suma precaución, moviendo lentamente sus tres pares de patas con el vientre a ras de tierra. Los dos ojos alojados en su cabeza parecían observarlo todo con fría y terrible serenidad. Por debajo de los ojos, en lo que debiera ser su mandíbula inferior, asomaban las tres bocas de sus cañones atómicos.
+
+La tarántula se detuvo a veinte metros de distancia de la esfera. Parecía recelosa de la soledad que le rodeaba.
+
+— ¡Qué "cosa" tan horrible!, —exclamó Fabiola en voz baja, como si temiera atraer sobre ella la atención del robot—. Parece realmente una máquina viva.
+
+—Puede decirse que está viva —aseguró Diego—. La inteligencia de esos cerebros electrónicos está muy agudizada.
+
+— ¿Por qué les han dado ustedes esa forma de araña?
+
+—Es la más apropiada para moverse sobre el suelo. Su cuerpo esférico le hace más compacta. Sus tres pares de patas le permiten sortear toda clase de obstáculos a la vez que le dan más apoyo.
+
+Recuerde que estos robots están hechos de dedona, y que la dedona es cincuenta veces más pesada que el hierro. Cada tarántula de estas pesa una enormidad. Otra ventaja de las tarántulas es su poca altura y su aptitud para agarrarse al terreno cuando se produce una explosión atómica cercana a ellas.
+
+--Los nahumitas, sin embargo, han dado forma humana a sus robots.
+
+--Sí, y no comprendo por qué lo han hecho. Aunque es pronto para decirlo, creo que nuestras tarántulas son muy superiores a esos hombres mecánicos. Las obras del hombre siempre están inspiradas en una forma u otra por las obras de la naturaleza. Tal vez los nahumitas, en unos mundos donde la vida fue extirpada por completo hace siglos, no tengan más muestra de las maravillas de la naturaleza que ellos mismos. De haber tenido arañas en sus planetas de origen hubieran comprendido que la forma del Hombre no es la única que la Creación ha dado a los seres vivos... ¡Atención, nuestra tarántula se mueve hacia aquí!
+
+La horrible máquina, en efecto, había levantado ligeramente su vientre y movía sus tres pares de patas en dirección al "tanque" redentor.
+
+—Los robots le han tendido una celada —advirtió el sargento desde la escotilla de acceso al piso inferior—. ¿Quieren que haga elevar de pronto este carro dejándoles al descubierto?
+
+—Si, hágalo.
+
+Galán desapareció en las entrañas de la máquina. Diego apuntó el televisor hacia abajo. En este momento, la esfera dio un súbito y violento bote hacia arriba. Los dos robots que habían ido a ocultarse tras su mole quedaron al descubierto, tarántula y hombres mecánicos se contemplaron frente a frente una fracción de segundo y luego reaccionaron con una rapidez que ningún hombre podría igualar. La tarántula redentora se movió con una celeridad que escapaba a la perfección del ojo humano. Se aplastó contra el suelo. Disparó sus tres cañones, dio un salto de costado, cayó sobre sus tres pares de horribles patas y volvió a disparar. En el mismo tiempo, los robots nahumitas movieron sus brazos rematados en cañones. Pero la tarántula redentora les había ganado la mano y sus tres granadas atómicas, hicieron pedazos a un robot mientras el otro salía proyectado a gran distancia por la explosión y caía de espaldas. Este último, apenas tocó el suelo, se revolvió intentando levantarse. Más antes que pudiera conseguirlo, la segunda descarga de los cañones de la tarántula le dispersaron en mil pedazos en mitad de una viva llamarada verde—azulada.
+
+— ¡Magnífico! —gritó el teniente Ribas.
+
+— ¿Ha visto usted?, —preguntó Diego volviéndose hacia su prima que todavía estaba mirando con ojos muy abiertos de asombro a los destrozados robots y a la victoriosa e indemne tarántula—. Nuestra máquina no sólo ha actuado con mayor rapidez, sino que ha demostrado tener considerables ventajas sobre el enemigo. Fue la primera en reaccionar. Mientras los robos movían sus brazos para apuntarle, "ella" disparaba. Luego, el robot cayó de espaldas. Perdió otro tiempo, magnífico intentando levantarse, y ése retraso en volver a estar en condiciones de luchar le costó la vida. De haber sido a la inversa y disparar primero los nahumitas, nuestra máquina se hubiera aplastado contra el suelo. No hubiera caído gracias a sus tres pares de patas muy abiertas, y hubiera contestado con rapidez fulminante.
+
+El sargento hizo bajar de nuevo a la esfera de dedona y asomó su escafandra por la escotilla.
+
+—Supongo —dijo—que, de poder hablar, esa condenada tarántula nos daría las gracias por nuestra afortunada intervención.
+
+— ¿Lo haría? —preguntó Fabiola volviéndose hacia su primo.
+
+—No sea ingenua, querida prima —farfulló Diego. — El sargento está
+
+bromeando. ¿Cómo quiere usted que una máquina pueda sentir agradecimiento?
+
+Esa tarántula es tan insensible como cualquier pedazo de hierro. Ni siquiera comprende la forma en que hemos intervenido, y puedo asegurarle que en estos momentos no siente ni asombro, ni curiosidad ni emoción por lo que acaba de ocurrir.
+
+Fabiola miró en silencio a la espeluznante tarántula que seguía su camino moviendo ágilmente sus tres pares de patas, girando su cabeza a derecha e izquierda como si observara el campo de batalla en busca de otro enemigo a quien liquidar. Una explosión atómica cercana hizo saltar a la esfera de ―dedona‖. Cada estallido atómico que hacia estremecer la tierra sacudía también el "tanque" por estar en contacto con el suelo.
+
+Una gran esfera descendió del cielo entoldado del humos, se detuvo un momento en el aire y tomó la dirección de la máquina—control.
+
+—Debe ser la que viene en nuestro socorro —dijo el coronel. Y asegurándose que su prima tenía bien ajustada la escafandra y cerrada la válvula de admisión de aire natural añadió--: ahora vamos a ser rápidos en salir y en introducirnos en esa máquina.
+
+El teniente Ribas y Fabiola desaparecieron por la escotilla en pos del sargento Galán. Diego lanzó una última mirada a los cadáveres del comandante Cortés y del capitán Catasús, los saludó con un lento ademán y abandonó el tanque en último lugar.
+
+Unos segundos más tarde saltaba a tierra por la escotilla abierta de par en par y salvaba a la carrera la corta distancia que le separaba de la máquina venida en su auxilio. La tierra humeaba y crujía bajo sus pies. Violentas corrientes de aire huracanado levantaban espesas nubes de cenizas y hacían girar las nubes radioactivas en caprichosos remolinos. El aire, ardiente y espeso, parecía vibrar con la continua explosión de las granadas y proyectiles atómicos. Entre el polvo se difuminaban las siluetas de centenares de tarántulas automáticas que avanzaban protegidas por los tanques.
+
+Diego Santisteban dio un salto y se arrojó de cabeza por la escotilla de la esfera salvadora. Resbaló en los escalones metálicos y cayó. Unos brazos le izaron.
+
+— ¿No queda nadie más? —preguntó una voz junto a él.
+
+—No. Nadie.
+
+— ¡Cierra la puerta, Susana! ¡Adelante, piloto!
+
+Un chasquido a espaldas del coronel anunció que la compuerta acababa de cerrarse. La máquina, dando sacudidas por efecto de las explosiones próximas, se elevó velozmente en el espacio atravesando las colosales nubes radioactivas.
+
+CAPITULO IX
+
+"EL ENEMIGO SE RETIRA"
+
+una altura de 20.000 metros, la esfera que conducía a los supervivientes de la esfera control regimental tuvo que apartarse varios kilómetros para dejar paso a un considerable contingente de tropas automáticas que descendía formando cascada de las profundidades del cielo. Estas máquinas procedían de una docena de discos portaviones, redentores que estaban inmovilizados sobre Madrid a una altura de más de 200 kilómetros. La esfera siguió elevándose hasta situarse bajo uno de los discos volantes y se introdujo por un largo tubo. Ascendiendo por este tubo, la esfera se encontró
+
+dentro de uno de los múltiples hangares del navío. Toda la tripulación del tanque desembarcó para entrar en una cámara donde fueron despojados de sus trajes de cristal y sometidos a un rápido tratamiento que les libró de las últimas partículas radioactivas adheridas a sus vestidos. Por si todo esto fuera poco les hicieron cambiar de trajes.
+
+Mientras cambiaba de ropa en un compartimento reservado para el sexo masculino, Diego se enteró de que estaba a bordo del buque almirante de la Vigésima Flota, de manera que cuando poco después se reunió con Fabiola pudo darle una buena noticia:
+
+— ¿Sabe quién está a bordo de este buque? Pues el almirante don Juan Santisteban, otro miembro de nuestra familia. Venga usted conmigo. El almirante se alegrará mucho de conocerla.
+
+Fabiola siguió dócilmente a Diego a través de un dédalo de corredores hasta el despacho del almirante Santisteban. Este les hizo aguardar unos minutos y luego les recibió muy cariñosamente.
+
+— ¡Hola, Dieguito! Hace tiempo que no te echo la vista encima, carcamal.
+
+¿Quien es esta chica?
+
+—Le presento a una sobrina suya, tío —dijo el joven estrechando la fuerte mano del almirante y señalando a la muchacha—. Esta es Fabiola Santisteban.
+
+— ¡Caramba... caramba! —exclamó el almirante acercándose a Fabiola y mirándola lleno de curiosidad. Y después, dándole golpecitos en la mejilla, añadió—: es muy bonita, ¿eh? ¿Vas a casarte con ella, Dieguito?
+
+—Si puedo, si —contestó el coronel mirando a Fabiola. Y al cruzarse la mirada de ambos, los dos enrojecieron.
+
+—Me parece muy bien —dijo el almirante—. ¿Te queda más familia en la Tierra, muchacha?
+
+—Mi madre está... o estaba en Madrid —balbuceó la joven muy azorada—. Ignoro si habrá sido una de las víctimas de aquella horrible bomba de hidrógeno.
+
+—Si está en Madrid, la sacaremos de allí muy pronto —prometió don Juan—. Yo me encargo de ello.
+
+— ¿Cómo van las operaciones, tío? —preguntó Diego.
+
+—Todavía es pronto para hacer un balance, pero no creo pecar de exceso de optimismo si digo que, en general, las cosas andan bastante bien. Esos nahumitas, o han desestimado nuestra potencia o han confiado demasiado en la suya. Sus autoplanetas nos dieron una sorpresa en el espacio e inclinaron la balanza a su favor. Pero aquí en la Tierra, nosotros les hemos sorprendido con nuestros quinientos discos volantes y un ejército de invasión muy superior al suyo.
+
+—Entonces... ¿vamos sacando ventaja?
+
+—Desde luego. Sus tropas de desembarco están siendo aniquiladas. En buques somos numéricamente inferiores, pero esos quinientos discos volantes son un tanto decisivos a nuestro favor.
+
+—Luego no hemos retirado fuerzas siderales de Venus y Marte.
+
+—No. ¿Para qué? De todas maneras, esas fuerzas estaban demasiado lejos para llegar aquí con tiempo de restablecer el equilibrio. Si lo hubiéramos hecho, habríamos caído en la celada que nos tendía el enemigo. Los nahumitas calcularon, y calcularon bien, que era posible derrotarnos en el espacio atacando la guarnición de la Tierra. Esperaban que nosotros retiráramos fuerzas de Venus y Marte, debilitando aquellas guarniciones, y se lanzaron a la invasión de la Tierra para asegurarse que las escuadras de Venus y Marte acudirían aquí para formar en una batalla donde la ventaja inicial estaba ya de parte del enemigo.
+
+—Pero les falló la treta.
+
+—Les falló, principalmente, porque ignoraban que los redentores habíamos venido a derrotar a la bestia y traíamos con nosotros un poderoso ejército de invasión. Y también porque los nahumitas ignoraban que, de los dos satélites de la Tierra, solamente uno era auténtico y estaba esclavizado a su órbita.
+
+—Debieron asombrarse mucho al ver a Valera arrancarse de su órbita y salir a su encuentro.
+
+—Si que debieron sorprenderse. Y en aquel momento debieron haberse detenido y rectificar sus cálculos. Pero era demasiado tarde y se lanzaron a invadir la Tierra. Espero que este error en las cuentas de los nahumitas sea quien provoque su derrota.
+
+—Es extraño que no hayan bombardeado todavía a Venus ni a Marte. ¿Cree usted, tío, que podremos salvar aquellos planetas?
+
+—En todo caso, les salvaremos de una desintegración total de sus atmósferas, pero es imposible librarles de los torpedos de hidrógeno. La presencia de nuestra flota allá no aspira a más que a interceptar cualquier torpedo "W" que se acerque con ánimos de liquidar a Venus y Marte para siempre.
+
+—Respecto a la Tierra... ¿no intentarán los nahumitas destruirla con bombas de oxígeno antes de retirarse? —preguntó Fabiola dando muestras de intranquilidad.
+
+—Seguramente lo intentarán.... Pero, tranquilícese, niña. Si los redentores pueden evitarlo, la Tierra conservará intacta su atmósfera.
+
+Diego consideró que había abusado bastante de la afabilidad de su ilustre tío y se dispuso a abandonar el despacho con Fabiola.
+
+--Muy bien, sobrinos —elijo el almirante sonriendo—. La verdad es que no puedo entretenerme más con vosotros. Volveremos a vernos más tarde. Y
+
+respecto a esa boda... espero poder asistir a ella muy pronto. Fabiola, roja hasta la raíz de sus negros cabellos, salió del despacho dando traspiés. Al llegar al pasillo se detuvo y alzó sus ojos hacia Diego.
+
+— ¿Por qué ha bromeado con eso de nuestra boda? —interrogó ofendida—. El almirante se lo ha creído.
+
+—Yo lo dije para que lo creyera —repuso Diego muy regocijado ante la confusión de su linda prima—. No bromeaba.
+
+Fabiola se quedó mirándole con asombro. Por sus negras pupilas, el coronel vio los alternativos sentimientos de alegría, temor y esperanza.
+
+—Más claro —dijo el coronel—. La amo a usted, Fabiola. Y toda mi ilusión reside en hacerla mi esposa...
+
+— ¡Oh, noooo!... —exclamó Fabiola abriendo los ojos de par en par y retrocediendo un poco.
+
+— ¿No quiere casarse conmigo? —preguntó Diego.
+
+—No..., no quería decir eso, sino que... ¡No es posible que usted esté hablando en serio!
+
+— ¿Porqué?
+
+— ¡Dios mío, usted no puede quererme a mí! Yo... tan poca cosa... tan ignorante... tan...
+
+—Tan bonita... —añadió Diego.
+
+— ¡Ah! ¿Ve usted? ¡Se burla de mí!
+
+—Usted es tonta, querida prima —farfulló Diego arrugando el ceño—. Que usted se tenga en tan poca cosa no es óbice para que los demás le tengan en lo que vale. Y, al fin y al cabo, cuando un hombre quiere a una mujer, lo de menos son las virtudes de ella. Yo la amo a usted, y me encanta que sea tan ignorante, tan bonita y tan... ¡ejem!, poquita cosa.
+
+Diego la midió de arriba abajo con una mirada codiciosa y ella volvió a sonrojarse hasta la raíz de los cabellos.
+
+—Por lo demás —prosiguió diciendo Diego—, si me permito alguna broma es porque me cabe la seguridad de que usted también me quiere.
+
+Un grupo de oficiales de las Fuerzas Aéreas había ido formando corro en torno a la pareja y presenciaban la escena muy interesados. Fabiola miraba alternativamente a los astronautas y a su primo con expresión de terror en los ojos. Diego arrugó el ceño y preguntó:
+
+— ¿O no me quiere usted?
+
+Ella no respondió.
+
+—Niña —dijo una comandante de las Fuerzas Aéreas metiendo baza en la conversación—. No sea usted tonta y diga que sí en seguida. No es conveniente coquetear con los hombres de hoy día.
+
+Fabiola miró a la mujer asombrada. Luego volvió sus rasgados ojos hacia el coronel.
+
+— ¡Oh, Diego! —murmuró.
+
+Diego Santisteban la tomó entre sus brazos estrechándola con fuerza.
+
+— ¡Ajajá!, —exclamó la comandante—. Eso está muy bien. Asunto concluido.
+
+—Enhorabuena, amigo —dijo un capitán de fragata golpeando a Diego en un hombro.
+
+El grupo se dispersó con cara de satisfacción, como si de ellos hubiera dependido el acuerdo final de la pareja.
+
+* * *
+
+El Sol como horrorizado de la brutalidad de los hombres, había corrido a ocultarse tras el horizonte dejando parte de la tierra en sombras. Con la noche, un extraño silencio cayó sobre el campo de batalla. Todavía, aquí y allá, chisporroteaban medrosamente los retorcidos rostros de algún buque de guerra o alguna esfera agrietada por el impacto bestial de un proyectil atómico. Los resplandores de estos incendios permitían ver informes amontonamientos de máquinas destrozadas, plataformas artilleras, hombres robot y espantosas tarántulas automáticas, todo roto, retorcido, ennegrecido por el fuego... En los alrededores de Madrid, como en las inmediaciones de otras cien ciudades terrestres, el ejército automático de Nahum había sucumbido bajo el peso de las superiores y más numerosas máquinas redentoras. Pero este enemigo extraterrestre, batido y aniquilado en el suelo, combatía aún en el espacio, allá
+
+donde el Sol brillaba eternamente. La batalla proseguía en el cielo entre la flota redentora y la armada de Nahum.
+
+No era empresa fácil aniquilar a los 40 grandes autoplanetas que, fraccionados en 120 máquinas gigantescas, alojaban en sus entrañas una cantidad de torpedos automáticos, al parecer inagotable.
+
+A bordo del disco portaviones Tánger, que enarbolaba la insignia del almirante don Juan Santisteban, el propio almirante presenciaba la batalla desde lo alto de su estrado. En la cámara de derrota estaba también Diego Santisteban ocupando el sillón de un operador de radio ausente e innecesario.
+
+— ¿Pero es que esos condenados nahumitas fabrican torpedos al mismo ritmo que los van disparando? —gruñó el almirante mirando hacia su gigantesca pantalla cenital de televisión.
+
+—Alguna vez se les han de acabar —apuntó Diego a espaldas de su ilustre tío.
+
+—Sí, pero... ¿cuándo? Cada nueva embestida nos cuesta varios centenares de buques. ¡Y esos malditos nahumitas no quieren salir al espacio libre!
+
+Los nahumitas, efectivamente, proseguían su táctica dé no apartarse de la atmósfera terrestre más de unos pocos miles de kilómetros. ¡Ay de ellos si lo hicieran! El gigantesco autoplaneta Valera rondaba en los límites de la órbita lunar como un león al acecho de una presa segura, pero difícil de coger. Varias horas de forcejeo, llevaban la flota redentora y la armada nahumita. Los redentores empujando a los nahumitas hacia las garras de Valera, los nahumitas peleando para conservar su ventajosa posición.
+
+Evidentemente, los nahumitas estaban a cubierto de la feroz acometida de Valera en tanto no se alejaran de la Tierra. Valera era demasiado voluminoso y, sobre todo, pesaba demasiado para poder acercarse a la atmósfera terrestre. Lo único que podía intentar era debilitar al enemigo lanzándole cantidades abrumadoras de torpedos. Y ya lo había intentado sin obtener ningún resultado, porque la armada nahumita había comprendido rápidamente las intenciones y las posibilidades de Valera y no se estaba un momento quieta, volando de aquí para allá, dando la vuelta a la Tierra, evitando siempre la proximidad peligrosa de aquel coloso y abriendo profundas brechas entre las formaciones de buques siderales redentores que le acosaban como perros de caza.
+
+Y las escuadras redentoras se parecían a una jauría de perros en más de un sentido. Sus torpedos eran como ladridos inofensivos a la portería de las máquinas nahumitas. Si alguno llegaba hasta los flancos o las superficies planas de los discos voladores enemigos, estallaban sin hacer mella en las potentes corazas de
+
+"dedona". De hecho, los buques siderales y los discos de desembarco redentores apenas si se daban abasto para poner en el espacio tantos torpedos como eran necesarios para interceptar a los torpedos contrarios. La única solución que se entreveía era que los nahumitas agotaran al fin sus bárbaras cantidades de torpedos y se vieran obligados a huir, cayendo entonces bajo los furiosos empujones de Valera.
+
+Mientras el almirante y Diego estaban contemplando la batalla a través del televisor central, el enemigo empezó a replegarse en una maniobra que tendía a emparejar cada disco volador con dos de las grandes semiesferas.
+
+— ¡Hola!, —exclamó Diego—. Vi a esas astronaves ejecutar una maniobra a la inversa hace algunas horas.
+
+—Por lo visto se disponen a montar sus autoplanetas —farfulló el almirante—. Eso puede significar que se preparan para huir.
+
+— ¿No intentarán torpedear la atmósfera terrestre con proyectiles de oxígeno antes de escapar? —insinuó Diego sintiendo un profundo desasosiego. El almirante no contestó. Hizo una seña a uno de los operadores de radio y tomó un micrófono.
+
+— ¡Atención!, —dijo ante el aparato—. Almirante Santisteban llama a almirante Aznar.
+
+— ¡Hola, Santisteban!, —dijo una voz que brotaba de un receptor de radio—.
+
+¿Ha visto usted la maniobra del enemigo? Parece que se dispone a salir corriendo.
+
+¿No cree usted?
+
+—Precisamente de eso iba a hablarle. Sospecho que los nahumitas encajan las diversas piezas de sus astronaves para huir con más rapidez. Tal vez, rabiosos como están, no quieran marcharse sin aniquilar la atmósfera terrestre. ¿Qué le parece?
+
+—Estoy completamente de acuerdo con usted. Voy a ordenar a nuestras fuerzas que formen un techo por debajo de la armada de Nahum para impedir que ningún torpedo "W" pueda llegar al fondo de la atmósfera. No sé si bastará con esto, pero es todo lo que podemos hacer.
+
+—De acuerdo, almirante. Corto —dijo Santisteban.
+
+Y dejando el micrófono en manos de un radiotelegrafista volvió a clavar sus ojos pensativos en la pantalla de televisión.
+
+Las máquinas nahumitas, sin dejar de soltar torpedos, se replegaban ordenadamente. Diego no pudo por menos de admirar la precisión de aquella maniobra en circunstancias tan difíciles, esto es, disparando y recibiendo torpedos, marchando a gran velocidad y evolucionando ágilmente para estar siempre lo más lejos posible del autoplaneta Valera.
+
+Simultáneamente con este repliegue, los pocos millares de buques siderales nahumitas que todavía combatían se acogieron a sus discos volantes penetrando por una serie de agujeros que acababan de abrirse en los costados de los portaviones. En dos semiesferas se situaron una encima de otra debajo de cada disco. Luego, esas semiesferas se unieron rápidamente a cada disco, y las dispersas piezas quedaron formando otra vez los 40 colosales auto-planetas que habían traído al ejército nahumita.
+
+El momento era trascendental para el futuro del Reino del Sol. El enemigo de esta galaxia estaba listo para retirarse. ¿Pero se marcharía reconociendo noblemente su derrota y dejando a los planetas en paz o, todavía, en un postrero intento, largaría los fatídicos torpedos "Doble Uve"?
+
+Con el corazón apretado de angustia, Diego Santisteban esperó sin apartar los ojos de la colosal pantalla de televisión. La flota redentora pasó a ocupar un plano inferior que le llevó hasta las altas capas atmosféricas de la Tierra. Cuando el último buque nahumita acabó de desaparecer por el último agujero abierto en el flanco de un autoplaneta, y como de tácito acuerdo, redentores y nahumitas dejaron de disparar torpedos. Una y otra flota se contemplaron como leones prestos a acometerse.
+
+—Atención ahora —dijo el almirante Santisteban a los silenciosos hombres que le rodeaban. —Cuando el enemigo suelte su primera andanada dispararemos por todos nuestros tubos a la mayor velocidad posible.
+
+Nadie contestó. Un silencio opresivo se posesionó de aquella fría cámara de derrota. No se escuchaba más ruido que el zumbido de los poderosos motores atómicos.
+
+De pronto, los 40 autoplanetas enemigos empezaron a vomitar torpedos con una velocidad y en una cantidad aterradoras.
+
+— ¡Fuego! —bramó el almirante Santisteban cerrando los puños. Los oficiales que se sentaban ante el banco circular movieron algunas palancas. De la flota redentora salió una nube de veloces torpedos autómatas. Ambas andanadas se cruzaron a mitad camino chocando y estallando en un medroso chisporroteo verde-azulado.
+
+— ¡Fuego... fuego!, —gritaba el almirante—. No dejen de disparar un solo segundo!
+
+El cielo estaba materialmente cubierto de raudos torpedos, de haces de luz y explosiones atómicas. Durante quince eternos minutos, Diego Santisteban permaneció con el corazón en un puño, mirando con pupilas dilatadas de terror aquella tormenta atómica que parecía no iba a terminar nunca. Muchos de los torpedos enemigos, al estallar, irradiaban una luz blanca muy viva, como si parte del aire se inflamara a cada explosión.
+
+— ¡Duro... duro...!, —gemía el almirante rechinando los dientes—. ¡Fuercen las máquinas... no importa, que revienten... el enemigo está disparando centenares de torpedos "W"!...
+
+Los oficiales, chorreando sudor, movían afanosamente, palancas y más palancas. En sus tableros se encendían y apagaban luces con velocidad febril. Diego, con la respiración contenida, esperó el fatal momento en que algún torpedo
+
+"W" franquearía la doble barrera de torpedos y de buques redentores para hundirse en la atmósfera terrestre y desintegrarla en una horrible llama azul. Vio aquí y allá muchos buques que se separaban de los flancos de la formación y picaban hacia tierra disparando torpedos y cañones. Algunos de estos aparatos se encendían en llamas a causa de la brutal frotación del aire sobre sus metálicas superficies.
+
+Sólo más tarde comprendió que aquellos buques habían salido en persecución de los torpedos que habían conseguido franquear la barrera. Muchas tripulaciones sucumbieron junto con sus aparatos, pero ningún torpedo "W" inflamaba la atmósfera por ahora. ¿Hasta cuando estarían disparando aquellos malditos nahumitas? ¿No iba a acabárseles nunca su provisión de torpedos?
+
+Y, de pronto, el milagro. La armada de Nahum dio un salto hacia arriba y se internó en el espacio a creciente velocidad.
+
+—¡¡¡Huyen!!! —gritaron varias voces, roncas de emoción.
+
+Diego cerró los ojos y se apoyó en el banco para no caer. Las rodillas le temblaban. Sentía unas ganas locas de llorar y de reír a la vez. Su tío se apoyó en su hombro exhalando un suspiro.
+
+-— ¡Loado sea Dios!...
+
+Diego sonrió desmayadamente a su ilustre tío y volvió sus ojos hacia el televisor cenital. Tuvo que echar la cabeza violentamente atrás para ver en el extremo de la cúpula a la armada enemiga que se batía en precipitada retirada.
+
+— ¡Ahí llega Valera! —gritó una muchacha señalando hacia la izquierda, al nivel del suelo.
+
+Diego miró. ¡Ah, valiente autoplaneta! ¡Allí estaba la oportunidad tan largamente esperada! Valera, abandonando su órbita como una piedra que sale de una honda, se lanzó en persecución del enemigo.
+
+— ¡Bravo... muy bien! ¡No podrán escapar! —gritaron los oficiales del Tánger. Antes que autoplanetas y Valera se empequeñecieran en las profundidades del espacio, Valera dio alcance a una de las máquinas enemigas... Brilló una cegadora luz azul sobre la corteza de Valera. Acababa de atropellar un autoplaneta nahumita haciéndole pedazos. Nada. La máquina enemiga era poco menos que una pedrada sobre las corazas de un rinoceronte. Valera continuó volando vertiginosamente dando caza al enemigo en fuga.
+
+En este momento, el aparato de radio dio la fatal noticia. Los planetas Venus y Marte acababan de encajar una docena de gigantescas bombas de hidrógeno. Esta infausta nueva sumió a los excitados tripulantes del Tánger en un silencio largo y sombrío.
+
+—Era inevitable... —suspiró don Juan Santisteban. — No podíamos esperar que los nahumitas se marcharían sin destruir la vida de esos mundos... Incluso haremos bien no descuidando la vigilancia durante algunos días. ¿Quién sabe?
+
+Esos estúpidos nahumitas son muy capaces de haber dejado atrás algún buque cargado de torpedos "W"...
+
+Diego Santisteban saltó del estrado y salió de la cámara de derrota. En la puerta se tropezó con Fabiola. La carita de la joven estaba radiante de felicidad. Sin embargo, al ver el ceño fruncido de su novio, se detuvo poniéndose en guardia.
+
+— ¿Qué ocurre?, —preguntó mirando a Diego al fondo de los ojos—. ¿No es verdad que los nahumitas han huido sin llegar a destruir la atmósfera de la Tierra?
+
+—Si, es cierto —repuso Diego esbozando una débil sonrisa.
+
+— ¿Y no te alegra?
+
+—Naturalmente que me alegra. Pero ni un sólo redentor, desde el más grande al más chico, puede sentirse orgulloso del final de esta guerra. Vinimos aquí con la ilusión de aniquilar a la Bestia y salvar al mundo... y ya ves. Hemos destruido a la Bestia, pero no pudimos impedir que los nahumitas destruyeran a su vez nuestros planetas.
+
+—Pero la destrucción no es total. Dentro de algunos siglos, estos planetas habrán perdido su radioactividad. La vida rebrotará en ellos con mayor vigor. Al menos habéis salvado a la Humanidad... es decir, la salvaréis si la lleváis con vosotros a "Redención". ¿No cabremos todos?
+
+—Sí. Algo apretaditos, pero ni un anciano ni un niño de los que vivan aún en la Tierra será entregado a su suerte. Es muy lamentable que no podamos hacer lo mismo con los venusinos. Allí, la raza humana no habita en ciudades bien protegidas como Madrid.
+
+— ¿Y qué vais a disponer respecto a la Bestia Gris? —preguntó Fabiola.
+
+—Sería estúpido permitirle abandonar sus planetas para que prospere en otro rincón del Universo y vuelva un día a torturar a la Humanidad. La Bestia está
+
+prácticamente liquidada. No nos resta más que dejar en esta galaxia algunas escuadras siderales para impedir que evacuen Venus y Marte con sus grandes autoplanetas y esperar pacientemente a que la radioactividad de sus planetas les vaya matando poco a poco.
+
+Fabiola asintió. Luego alzó sus ojos hacia los de Diego y preguntó:
+
+— ¿Y nosotros... qué haremos?
+
+— ¿Qué otra cosa podemos hacer, sino es casarnos? Ya verás, un día de estos evacuaremos Madrid, recogeremos a tu madre, que según dice el tío está a salvo, y luego emprenderemos el viaje a Redención. Allí, libre de amenazas, emprenderemos una nueva y larga vida...
+
+— ¿Muy larga?
+
+—Enormemente larga.
+
+—Entonces... ¿viviremos aún cuando la Tierra pueda volverá ser habitada?
+
+—Creo que si. ¿Por qué lo preguntas?
+
+Ella entornó soñadoramente sus espléndidos ojos.
+
+—Me gustaría volver a mi patria, ser colono de un mundo que resucita limpio de toda tara...
+
+—Volveremos —prometió Diego Santisteban besándola.
+
+F I N
+
+COLECCIÓN LUCHADORES DEL ESPACIO
+
+TÍTULOS PUBLICADOS
+
+1.-LOS HOMBRES DE VENUS
+
+2.-EL PLANETA MISTERIOSO
+
+3.-CEREBROS ELECTRÓNICOS
+
+4.-LA HORDA AMARILLA
+
+5.-POLICIA SIDERAL
+
+6.-LA ABOMINABLE BESTIA GRIS
+
+7.-LA CONQUISTA DE UN IMPERIO
+
+8.-EL REINO DE LAS TINIEBLAS
+
+9.-SALIDA HACIA LA TIERRA
+
+10.-VENIMOS A DESTRUIR EL MUNDO
+
+11.-GUERRA DE AUTÓMATAS
+
+12.-REDENCION NO CONTESTA

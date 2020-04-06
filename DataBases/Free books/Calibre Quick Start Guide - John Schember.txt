@@ -1,0 +1,233 @@
+Calibre Quick Start Guide
+
+By: John Schember
+
+Table of Contents
+
+Introduction
+
+Installing calibre
+
+The Main Library Window, aka The GUI
+
+Common Tasks
+
+Task 1: Organizing
+
+Task 2: Conversion
+
+2.1: Background
+
+2.2: Why are there different e-book formats?
+
+2.3: Conversion basics
+
+2.4: More robust conversion
+
+2.5: Limitations of conversion
+
+2.6: PDBs: they are not all created equal
+
+2.7: DRM: the bane of conversion
+
+Task 3: Downloading News
+
+Task 4: Interacting with e-book readers
+
+4.1: Putting an e-book on your e-book reader
+
+4.2: E-book reader optional configuration
+
+Task 5: The e-book viewer
+
+Where to get help
+
+Introduction
+
+Calibre is an open source e-book management tool. Simply put, calibre allows you to organize your e-book collection, convert e-books to various formats, and interact with your e-book reader, all in an intuitive and friendly manner. It is compatible with Microsoft Windows – XP, Vista, and 7 – as well as Apple's OS X (and various flavors of Linux. It was created by Kovid Goyal, who still leads its development. A number people around the world, including myself, contribute to calibre's development. (Throughout this guide and the online docs you will see 'calibre' instead of 'Calibre'. That's how Kovid named his program, so that's what we call it.)
+
+The purpose of calibre is to simplify management of your e-book collection. It does this in several ways:
+
+Calibre organizes your collection as a database so you can find the book you want when you need it. Calibre easily handles any size of collection, with a variety of tools to manipulate e-book metadata – title, author, rating, etc..
+
+Calibre converts between multiple e-book formats.
+
+Calibre supports a growing number of e-book readers, including Kindle, Sony, Nook, and many others.
+
+Calibre is composed of three functional groups:
+
+The graphical user interface (GUI). This is the typical mode of interacting with your database. All of calibre's principal functionality is available through the GUI.
+
+A collection of command line (CLI) utilities for advanced calibre operations. For example, the command line tools are used by the ManyBooks service to convert on an as-needed basis.
+
+An e-book reading application accessed from the GUI.
+
+Installing calibre
+
+The installation processes starts by downloading the installer for your operating system. Run the installer. When it finishes, launch calibre. You will now be greeted with a welcome wizard, which will help you initially configure calibre. The first page of the wizard allows you to change the storage location for your e-books.
+
+If this is your first time using calibre, the storage location should not be an existing e-book collection, but a new directory location for calibre's exclusive use. Calibre offers import functionality for existing collections. Calibre manages the e-books you give it in its own way. Think of the storage location directory as a black box. You don't do anything with it – it manages the contents of the storage location directory for you. If you have used calibre in the past and are installing a new version, or have moved your library, then it's okay to indicate an existing calibre library.
+
+Click 'next' to be presented with an e-book reader selection. If your device is not listed, or if you intend to use more than one e-book reader don't panic – just choose 'default'. This selection provides some conversion optimization for formats requiring fixed sizes. Click 'next' and then 'finish'.
+
+Congratulations, you've successfully installed and configured calibre! If at any time you want to run the welcome wizard again, click the downward facing arrow to the right of the Preferences button (looks like a hammer) in the top tool bar, then select 'Run welcome wizard'.
+
+The Main Library Window, aka the GUI
+
+Once the welcome wizard finishes you will be presented with the main application window. There are a few components I would like to bring to your attention. The central piece is the main book list. This takes up the majority of the window and displays the books in a table. Just above the main book list you will see the search area (more on this later) and above that, a white box with a Library icon. When you connect a supported e-book reader a Reader icon will appear next to the Library icon. You can switch between viewing books in your Library and books on your e-book reader by clicking on their respective icons.
+
+The bar across the bottom of the window shows details about the currently selected book, including its cover. If you click anywhere in the detail area (including on the book cover) another window will open exposing more information about the book.
+
+At the bottom right of the detail area are three icons:
+
+The curved arrow activates the cover flow view. Cover flow displays the book covers in a fashion similar to how a juke box lays out albums. The selected book is in the center while the neighboring covers are shown at an angle. You can navigate though the book covers with the left and right arrow keys on your keyboard. Click the curved arrow icon again to hide the cover flow view.
+
+The luggage tag icon activates the tag browser view. More on this later.
+
+The spinning progress icon labeled 'Jobs:' is one of the most important pieces of the interface. Whenever calibre is working on something (conversion, sending books to the reader, downloading news, etc.) this icon will spin, and the number next to jobs will display the number of jobs (activities) calibre is working on. You can click the icon to expose more detail about the jobs in progress.
+
+Common Tasks
+
+Let's take a look at a few common activities:
+
+Organizing your e-book collection
+
+Conversion
+
+Downloading news from websites
+
+Dealing with devices
+
+Viewing e-books
+
+Task 1: Organizing
+
+The first part of organizing is getting your e-books into calibre's database. Click the 'Add books' button on the top tool bar, then select the e-books you would like calibre to import. When calibre imports your e-books it makes a copy of the book, storing it in the storage location you specified during initial setup. Once you've added an e-book calibre doesn't need further access to the original file.
+
+During an e-book import, calibre tries to read the metadata from the e-book. Metadata is information about the book that is stored within the e-book itself. Different formats support different information. Often the information is incomplete or just plain wrong. Don't worry – calibre makes it easy to fix this. Select the book whose metadata you want to change by clicking the book title in the main window. Then click 'Edit meta information' on the top tool bar (to the right of the 'Add books' button). The metadata editor will open.
+
+The easy way to get the metadata correct is to either fill in the title and author or the ISBN for the print version of the book, then click the 'Fetch metadata from server' button at the bottom left of the Edit Meta Information dialog window. Calibre will display possible matches for the information entered. If there is more than one match select the entry that looks like the best match. A lot of information should be filled in now.
+
+To the right of the 'Fetch metadata from server' button is the 'Download cover' button. If the book doesn't have a cover showing or if you don't like the cover click it to try to have calibre download one from the internet.
+
+Now that you have your e-books in calibre there are a few different ways to find an e-book in your collection. Searching is one of the fastest ways. Above the library table there is a search bar with a binoculars icon to the left of the search text input field. Think of it like having Google built into calibre. Just type a few key words into the Search text field. Try the author, title, series, or anything else from the e-book's metadata. E-books matching your search terms are shown as filtered results. The other e-books are still in your collection, but they won't be shown if the search expression doesn't find them.
+
+You can also use the tag browser to search your collection. Click the luggage tag icon in the lower right of the main window, between the curved arrow and the progress icon. A list will appear to the left of the library. It allows for you to display specific subsets of your collection to be shown in the main window. Clicking the disclosure triangle to the left of 'Author, 'Series', 'Publisher', 'News' or 'Tags' allows you to display just the e-books matching the criteria. Notice that as you enable items in the tag browser search queries are added to the search bar. The tag browser is really just an easy way to create search queries. You could type the query directly into the search bar and see the same result.
+
+Task 2: Conversion
+
+This is arguably the most useful (and most complex) feature calibre offers. Two of the most popular e-book readers today are the Amazon Kindle and the Sony Reader. Unfortunately the two different brands don’t read the same kinds of e-books. This mess is like the one in the music world where you might find such formats as WMA, MP3, and AAC. In e-books, the same confusion exists—the Tower of eBabel, as some call it.
+
+2.1: Background
+
+If you are only buying e-book content from the store designed for your reader—for example, Amazon’s Kindle Store or Sony’s Reader Store—you don’t need to worry about any of this. But there are a very good reasons why you should know about the major formats, what formats your reader supports, and how to convert between formats.
+
+Many online sites offer free e-books, from public domain to texts offered at no charge by well known and lesser known authors. You can also comparison shop for the best prices at a number of small independent e-book stores.
+
+Often you can download these e-books in a variety of formats, but you won’t always find them in the format your e-book reader supports. Here is where conversion comes in. There is a very good chance that you will be able to take an e-book and convert it to a format your reader supports, as long as the book doesn’t use Digital Rights Management (DRM) anti-copying technology.
+
+In the rest of the conversion section I will focus on (1) the Amazon Kindle which supports the Mobipocket format, aka MOBI, and (2) the Sony Reader line (the PRS machines like the PRS-600), which supports the EPUB format, and (3) the Barnes & Noble Nook, which also supports the EPUB format. (The Nook has some issues with DRMed books.)
+
+2.2: Why are there different e-book formats?
+
+Just why do so many different e-book formats exist? Advances in technology? In fact, that’s a major reason. Just like the transition from VHS to DVD and now to Blu-Ray, older formats which were created to solve the problems faced at that time are replaced with newer formats that better meet need of today's e-book reader devices. A great example of this is the old books people read back in the 90’s on their PDAs. Those devices were very limited in what they could display. E-book readers today are much more advanced. They can display large images, and handle advanced formatting. These newer devices needed updated formats providing these features.
+
+Another major reason is exclusivity. Many vendors like to control their own proprietary formats so they are not dependent on outside companies. They also have the benefit of being able to license their format for use by others. This also allows them to lock users into their platform. E-books, being relatively new, are undergoing the same growing pains that Betamax and VHS or HD-DVD and Blu-Ray went though. The EPUB format, from the International Digital Publishing Forum, is an industry standard intended to reduce these problems.
+
+2.3: Conversion basics
+
+The first thing you need to do is find out what formats your e-book reader supports. The Kindle supports AZW, MOBI, PRC, AZW1, TPZ and TXT. The PRS line from Sony supports EPUB, LRF, LRX, RTF, PDF, TXT. Don’t let this scare or confuse you; all of the major e-book readers support multiple formats. Even with this jumble of letters, you only need to worry about the preferred format for the e-book reader. This preferred format is the one that gives the best formatting. As I mentioned earlier for the Kindle, you really only need to worry about Mobipocket (MOBI), and for the Sony Reader line (PRS) and Nook you only need to worry about EPUB. However, it is a good idea to be aware of all of the supported formats because it wouldn’t make sense to convert an AZW to MOBI for reading on your Kindle because the Kindle can already read AZW books. Conversion is only necessary to fill in the gaps. For example, if you want to read an EPUB file on your Kindle you convert the EPUB to MOBI.
+
+Converting e-book formats with calibre is simple and straightforward:
+
+Open Calibre and select the e-book to convert in the library list.
+
+Connect your e-book reader to your computer. Calibre takes a moment detect and scan your e-book reader.
+
+Click 'Send to device' (the 6th button in the top tool bar).
+
+Calibre is smart enough to know if the book is in a format supported by your reader. If it’s not, it will ask you if you want to auto convert it. Say yes, and it will take care of the conversion and put the book on your reader.
+
+That’s all there is to it. Doing it is easier than it sounds because all you need to do is select the book you want on your device and clicking 'Send to device.' Calibre worries about the formats and converting for you.
+
+2.4: More robust conversion
+
+Auto conversion is the easiest way to go and in most cases will be all you need to do. However, there are a few options that allow control over conversion process. Click the 'Convert e-books' button in the top tool bar. This screen looks very complicated but realize that the majority of options here are correctly set by default. Most of the options only need to be changed in special cases. There is one option that is very important and may need to be changed. At the top right there is a drop down for 'Output format'. This controls what format the conversion will generate. Kindle owners will select MOBI and Sony and Nook owners will select EPUB.
+
+In the conversion dialog there are a few things to check before clicking 'OK' to begin the conversion. The first thing you need to do is double check the metadata and make adjustments if necessary. Click on 'Look & Feel' tab on the left side. The 'Remove spacing between paragraphs' option is a popular option. It will cause paragraphs to be formatted with a indent at the beginning instead of separating them with a blank line. Basically it makes the result look more like a printed book than the default, which looks more like a web page.
+
+Next click 'Page Setup', the first item under 'Look & Feel'. If you didn’t select your device during the welcome wizard, you should select it here. The input and output profiles provide specialized optimization for your specified device. Be aware that not all formats are affected by the profile.
+
+That’s it for the basic conversion options. Every option in the conversion dialog has a description of what it does, displayed when you put hover the mouse cursor over it. Look though the options and play with them to produce output that suits your taste.
+
+Clicking 'OK' closes the dialog and begins the conversion job. Look at the bottom right of the screen at the “Jobs” indicator. When it spins that means Calibre is working. Clicking it will show what job is being worked on.
+
+When the conversion is finished the jobs count will drop by one. When the job count drops to zero the indicator will stop spinning. After the conversion is finished click the downward facing arrow to the right of the 'Send to device' button. Select one of the 'Send specific format' options (main memory is usually the best choice). A dialog will appear asking you which format you want to send. Select the format you chose in the conversion options.
+
+2.5: Limitations of conversion
+
+Converting between e-book formats does have some limitations. One limitation of using a tool like Calibre is the inability to edit the e-book content before conversion. Calibre simply moves the existing content and layout from one format to another. Calibre is not a editing tool. If there are typos you wish to correct or layout changes you'd like to make, you will need to use a dedicated editing tool such as Sigil or Book Designer.
+
+Another issue that often arises during conversion is missing or incomplete formatting. Not all e-book formats support the same formatting so layout details may be lost when converting from one format to another. Formatting attributes like bold and italics will be preserved in most cases but complex page layout may not be. MOBI and EPUB both support complex formatting so you won’t have to worry about this when using these formats.
+
+Finally, conversion will only shift what the input provides into another format. It will not add anything that was not already in the input to the output. So if the input is poorly formatted, the output will be too.
+
+2.6: PDBs: they are not all created equal
+
+This is of particular importance to Nook e-book reader owners. Barnes and Noble sells e-books in both the EPUB and PDB formats. Both formats are supported by the Nook.
+
+PDB is not really an e-book format. It is a container for e-book formats. Think of it like a zip file. You put other files into a zip file so you only have to worry about having one file instead of many. That is essentially what PDB does for e-books. There are 28 e-book formats that can be put into the PDB container that I'm currently aware of.
+
+An e-book reader like the Nook which supports PDB does not support all the possible formats that may be within a PDB file. The two most common formats found in PDB files are PalmDoc (also known as textread and Aportis) and e-book reader. PalmDoc does not support any formatting or images. E-book reader supports basic formatting and 8-bit images. The PDB files sold by Barnes and Noble are in the e-book reader format.
+
+2.7: DRM: the bane of conversion
+
+DRM is an acronym for Digital Rights Management. What is DRM and why is it necessary?
+
+Let’s think about physical books for a moment. With a physical book, you can lend or resell your book. But when you do either, you are without the book. With e-books, that is not the case. E-books are just files on the computer and they can be copied any number of times and given away any number of times. DRM was designed to prevent unlimited copying of an electronic file. Some e-book reader users would also note that it is a handy way for companies to try to lock them into a specific brand.
+
+DRM enables (or disables) various end-user rights as determined by the publisher and seller. Some DRM'd e-books can be read on more than one device. Some will allow for partial copying and printing. Simply put, DRM restricts what you can do with your e-book.
+
+An e-book with DRM cannot be converted to a different format. This is because conversion itself would require the removal of the DRM. Not all e-book formats support DRM and different e-book formats support different sets of privileges granted by the DRM. There is no way to move the DRM with the content when converting; thus DRM prevents conversion.
+
+You might be tempted to look for some way to remove DRM from e-books in order to facilitate conversion. A word of warning about doing this: In the USA there is a law known as the Digital Millennium Copyright Act (DMCA). This law makes it illegal to circumvent a copy protection system (DRM is such a copy protection system). It also makes it illegal to produce tools, distribute tools, and aid in circumvention. Not everyone lives in the USA, but many countries have similar laws. Check your local laws and realize that even though you may only want to read an EPUB book that you’ve legally purchased on your Kindle, it may not be legal to do so. If you don’t like this silliness—and I don’t—then speak up to whoever in your country makes the relevant laws.
+
+Task 3: Downloading News
+
+This feature of calibre is often overlooked, especially by users who own an Amazon Kindle. Integrated into calibre is the ability to download news from a variety of sources. As of this writing 337 different sources ('recipes') from all over the world, including both free and paid content are supported. The real advantage of having calibre manage your news subscriptions is that once downloaded the content will be formatted for reading on your e-book reader. However, you can still read the news right on your computer. If you're going to be reading the downloaded news on an e-book reader it's best to go into 'Preferences' and set the 'Preferred output format' in General options to the preferred format for your e-book reader. This would be MOBI for Kindle, and EPUB for the Sony Readers and Nook.
+
+Click the 'Fetch news' button (middle of the top tool bar) to open the news download scheduler. With 337 sources the best thing to do is find the ones you like and set them to automatically download at a time convenient for you. If you don't want to schedule automatic downloads and would rather handle it manually, you can. Just use the 'Download now' button that appears when you have selected a news source.
+
+In the news download scheduler you can expand the categories that are relevant to you (the ones in languages you can read) by clicking the disclosure triangles to the left of the language groupings. Look through the recipes for something of interest. When you find one of interest, select it and check the 'Schedule for download' check box on the right, or click 'Download now'. You can also set how often and when you want it to download. Once downloaded the content will be converted to an e-book according to your conversion preferences.
+
+By default when you conntect your e-book reader calibre will automatically transfer the downloaded news to the device. If you don't want this to happen, and would rather transfer manually go into the 'Preferences', select the interface category, and uncheck 'Automatically send downloaded news to ebook reader'. Also, if you do want it send to the reader automatically it's usually a good idea to check the 'Delete news from library when automatically sent to reader' option in “Preferences” interface.
+
+Task 4: Interacting with e-book readers
+
+In my mind the reason people start reading e-books as opposed to physical books (pBooks) is due to e-book readers. That's precisely why I started collecting e-books. Calibre has full support for a wide variety of e-book readers. In total, calibre currently supports over 30 e-book readers. Yep, over 30. Everything from eInk devices like the Kindle, Sony and Nook to cell phones.
+
+4.1: Putting an e-book on your e-book reader
+
+Connect your e-book reader to your computer, and start calibre if it's not already running.. If your device is supported by calibre a reader icon will appear next to the library in the white box above the search area. Clicking the reader icon will switch the main book list from your library to a listing of e-books on your connected device. If you want to send an e-book to your device just switch back to your library, select the book and click 'Send to device' in the top tool bar. It really is that simple. Another often-used feature is to select a book on the device and click the 'Remove books' button in the top tool bar, removing the e-book from your e-book reader.
+
+Once you've finished refreshing the e-book content stored on your device hover your mouse over the reader icon for your connected device. You will see an eject icon (upward-pointing triangle inside a circle) next to the mouse pointer. Clicking the eject icon disconnects your e-book reader from the computer.
+
+4.2: E-book reader optional configuration
+
+There are a number of different ways you can configure calibre to interact with your device, but I'm only going to touch on the two most common.
+
+Open up 'Preferences', go to 'Add/Save' and select the 'Sending to device' tab. Here you can customize the save template. If you have experience with music tagging programs where you can create custom save locations this should look very familiar. The save template can be customized to change where e-books are saved on your device. If you have a device like the Kindle or Sony Reader this isn't very useful and can safely be left with the default settings. If you have a device like the Cybook Gen 3 that supports folders this is extremely useful. There are a number of variables (descriptions under the template) which can be used to change where the books are saved. Lets look at a basic example, “favorites/{title} – {authors}”. {title} will be replaced with the title of the book, {authors} will be replaced with its author and the book will be put into the favorites folder. All of the replacements that can be made in the save template are listed with descriptions under the entry area.
+
+Another useful configuration change is disabling and reorganizing the supported formats. Let's use the Cybook Gen 3 (my primary reader) again as an example. In 'Preferences', Plugins, Device Interface plugins, select the Cybook Gen 3 Device Interface and click customize plugin. The first thing in the configuration for the device is the format list. Here you can uncheck formats you don't want sent to your e-book reader. You can also reorder the formats. The format at the top of the list will be the one used for automatic conversion when sending an e-book in an unsupported (or unchecked) format to the device.
+
+Task 5: The e-book viewer
+
+I've hinted that calibre has the ability to view e-books too. All you need to do is select the e-book you want to read and click the View button in the top tool bar (4th icon from the left) to have calibre open the e-book in calibre's internal e-book viewer. The viewer supports everything you might expect such as bookmarks, and navigation via the table of contents (if the e-book has one). The viewer cannot read books protected with DRM.
+
+Where to get help
+
+The first place to look for help is in the 'Preferences' dialog. All options have clear descriptions, and there a lot of options. If you want to change something about calibre there may already be an option for it. It's also a good idea to familiarize yourself with the preferences because parts of it (conversion) are just defaults and will be presented to you at different times for fine-tuning on a per e-book basis.
+
+The next place to look is the online user manual. There is a link in the main window right next to the big red heart for easy access. If you're curious about the big red heart, click it. There is a wealth of information in the user manual including tips and common problems (solutions provided of course).
+
+Finally, there is the calibre forum on Mobileread. This is the official help forum for calibre. There are a number of knowledgeable users who answer questions. Also, Kovid and myself actively participate in helping new and veteran users. If you have a question or need help this is the best place to go. If you've found a bug or would like to request a new feature it's okay to ask about it on the forum but it's also a good idea to submit it to the projects bug/issue tracking system. Forum posts tend to get lost over time while the tracking system makes it easy to see what needs fixing or worked on.

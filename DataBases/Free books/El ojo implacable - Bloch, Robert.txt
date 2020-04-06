@@ -1,0 +1,443 @@
+El ojo implacable
+
+El ojo implacable
+
+El ojo implacable
+
+Robert Bloch
+
+Existe en Chicago un proverbio popular que lo explica. Este proverbio dice que si os paráis durante un tiempo suficiente en la esquina de la calle Madison con la calle State, veréis pasar a todos aquellos que habéis conocido en el mundo. Parece una exageración, pero eso es lo que dicen.
+
+Personalmente, aunque llevo ya bastante tiempo en Chicago, nunca se me ha ocurrido comprobarlo y tampoco tenía la intención de hacerlo hoy. En realidad, no estaba siquiera parado en la esquina. Estaría a mitad de la manzana, andando hacia la entrada del Metro, cuando le vi. Sólo percibí el destello de un perfil, con su inconfundible nariz rota siluetándose sobre el fondo de un escaparate, y sin embargo, fue lo bastante para reconocerle, aun después de cinco años. No es fácil olvidar la cara del único hermano que uno tiene, aunque bien sabe Dios que he tratado de hacerlo durante todos estos años.
+
+Por un momento estuve a punto de continuar mi camino sin decir palabra. Pero había algo extraño en su modo de andar, apresurado y con la cabeza inclinada, que me hizo cambiar de intención. Antes de que pudiera pensarlo las palabras habían salido de mi boca.
+
+–George -exclamé-. George, soy yo.
+
+Puedo jurar que había una expresión de pánico en su rostro cuando se volvió, se me quedó mirando, me reconoció y se llevó la mano a la boca. Luego echó a correr. Y siguió corriendo calle State abajo como un poseído.
+
+Claro que no es ésta la manera como me imaginé su acción en aquel momento. Nadie usa ya frases como éstas: «Corriendo como un poseído.» ¿Poseído por qué? Ya no hay demonios en el siglo XX, todos sabemos esto. No hay demonios, ni diablos, ni espíritus del mal. Vivimos en una época civilizada, en un mundo cuerdo y realista de cámaras de gas, plantas de incineración para seres humanos, matanzas en gran escala, instrumentos científicos de tortura y bombas de hidrógeno. Pero todo ello tiene una explicación perfectamente lógica y ninguna crueldad humana, ni ninguna perversidad del hombre hacia sus semejantes tiene su origen en la posesión demoníaca. No hay lugar en este mundo moderno para ogros y espectros. Nos damos cuenta perfectamente de que no tenemos que hacer frente a nada más alarmante que simples sádicos, psicópatas, paranoicos, esquizofrénicos, maniáticos depresivos, necrófilos, pirómanos y otros pervertidos y neuróticos, cuya suma total no llega, probablemente, a un tercio de toda la población.
+
+Así que mi hermano George, cualquiera que fuese su problema, no estaba indudablemente «poseído». Era sólo lo que se llama en lenguaje vulgar un tipo raro. Y si corría de aquella manera era simplemente porque estaba enfermo, enfermo, enfermo.
+
+«Enfermo, enfermo, enfermo.» Por un instante pensé en seguirle pero la masa de gente que había en la calle era demasiado compacta. Además, ¿por qué tenía que preocuparme? No había visto a aquel hombre durante más de cinco años y cuando le dejé lo que sentí fue alegría de librarme de él. Estaba claro que fuera cual fuese su problema, él tampoco quería verme ahora. Me sentí sorprendido al cruzarme con él en Chicago. La última vez que nos vimos fue en Boston. Lo más probable, en una ciudad de cuatro millones, es que no volviésemos a encontrarnos. Si él quería buscarme no le sería difícil. Podía encontrar mi nombre en los periódicos, en los pequeños anuncios de la página de espectáculos. Que viniese al club y viese mi número.
+
+No había razón para que me preocupara por él y por sus problemas, y menos ahora. Lo mejor era pensar que estaba enfermo, enfermo, enfermo y ocuparme de mejorar un poco mi número. Esto es lo que tenía que hacer.
+
+Todas las noches actuaba en el club, que estaba en North Clark, una trampa más para bobos, lo mismo que cientos de otras que había por todo el país, y mi actuación era también como centenares de otras actuaciones. Una verdadera paparrucha. Todas las semanas, si leéis la revista The Reporter os encontraréis con centenares de chistes escritos de este mismo género. Chistes sobre Nixon, chistes sobre el sputnik y sobre la General Motors, chistes sobre el jazz, chistes sobre Zsa-Zsa Gabor y sobre los G. I., chistes sobre Eisenhower y su golf, chistes sobre la humanidad, sobre los coches de carreras y sobre los drogadictos, chistes sobre la televisión, y si la audiencia es lo bastante hip incluso chistes sobre el zen. La eterna rutina beatnik, pero esto es lo que está de moda este año y más que nada, naturalmente, chistes sobre enfermos. Ya está lejos el tiempo en que Will Rogers podía salir a escena y arrancar carcajadas al auditorio hablando de sus visitas al Congreso. Hoy todos los cómicos hablan de sus visitas al psiquiatra.
+
+Personalmente, nunca he consultado a ninguno de estos manipuladores de cabezas, pero tal vez debería haberlo hecho. Porque siento verdadero odio por este trabajo mío. Y por mi audiencia. Ese sofisticado, engreído, nervioso y no conformista grupo a la moda de espíritus libres y superiores, prisioneros de su irresponsable necesidad de satisfacer sus deseos egoístas; y esos deseos son: beber, drogarse y correrse una orgía, eso sí, evitando cuidadosamente las consecuencias de sus acciones. En una palabra, los mismos deseos que podría tener un grupo de camioneros con la ventaja, a favor de los camioneros, de que éstos por lo menos se satisfacen sin necesidad de racionalizaciones. No esperan que nadie escriba libros para explicar que sus actividades antisociales son en realidad la expresión espiritual de una profunda sensibilidad en busca de la verdad. Si un camionero se emborracha y se lleva una chica para acostarse con ella y abandonarla luego en la carretera, la cosa no pasa de ahí. Pero un beatnik, o los miles y miles de pseudobeatniks que se esconden detrás de sus barbas en estos días, tienen que demostrar que se encontraban en el camino[1]. Y que les gusta tomar su trago y encontrar sus chicas y tener sus sensaciones, hombre, en salas infectas en las que actúan cómicos como yo, que se consuelan de su pobre personalidad haciendo chistes sobre la gente de bien.
+
+Oh, cómo odiaba yo todo esto, os lo aseguro, pero era una manera de vivir. Me dan dos billetes a la semana por ello y además, ahora tengo a Lucy.
+
+[1] Alusión al libro de Kerouak, On the Road.
+
+Estamos casados desde hace poco más de cuatro meses y vivimos en un piso que no se encuentra lejos del club. Sí, un piso viejo estilo, con muebles antiguos y grabados de Audobon en las paredes. No un agujero de estos donde os sentáis en el suelo a jugar al parchís y cuando os levantáis tenéis que agachar la cabeza para no daros un golpe con uno de esos condenados móviles.
+
+Lucy no era el tipo beatnik y por eso la quería. Estaba haciendo una especialización de su licenciatura en la Universidad de Chicago cuando la conocí, y ahora había encontrado un empleo en un bufete de abogados en el Loop. Cuando volvía a casa se ponía el delantal y cocinaba una buena cena, en lugar de contentarse con abrir una lata de alubias embutida en unos pantalones grasientos.
+
+Ahora, yo tenía prisa por volver a casa y verla. Mientras iba en el Metro me olvidé poco a poco de mi hermano George. Él era uno de ellos, uno de los beatniks. Es cierto que había nacido demasiado pronto para poder considerarse a sí mismo como un miembro verdadero de la generación beat. Su hora había pasado cuando se inventaron estas etiquetas de autojustificación. En su tiempo, a la gente como George se la llamaba simplemente egoísta y poco digna de confianza. Si mentían, robaban, engañaban, dejaban deudas, abandonaban su trabajo y se escapaban de la ciudad cuando los padres de una muchacha armaban un buen jaleo, adquirían mala reputación. Si uno sentía cariño por ellos, trataba de ayudarles, sacarles de sus embrollos y darles buenos consejos, y si nada de esto daba resultado, uno se contentaba con lanzar un suspiro, mezcla de pena y de alivio, cuando desaparecían para siempre. Esto es lo que yo había hecho. Y ahora dejé escapar otro suspiro y me puse a pensar en Lucy, que estaría ya en casa, esperándome.
+
+Allí estaba, en efecto. Tan pronto como abrí la puerta, vino a abrazarme y me olvidé de todo lo demás: de toda mi rectitud y mis ideas moralizantes y de todas las preocupaciones que ocultaba. Ahora sólo importaba este bienestar y el calor de su cuerpo. Hasta que ella se separó de mí y me tendió el periódico.
+
+–Toma, cariño -dijo-. Lee esto.
+
+Esto era un artículo de una columna en la primera página y mis ojos lo recorrieron apresuradamente. Lucy solía llamar mi atención sobre algunas noticias en el periódico que pudiesen inspirar un chiste o dos para mi actuación, pero en lo que estaba leyendo no encontraba nada.
+
+Se había cometido un asesinato aquella misma mañana en los sótanos de la antigua residencia de Harvey, en el distrito del Sur. El difunto Chandler Harvey era un rico coleccionista de arte oriental que había legado sus adquisiciones al Instituto de Arte de Chicago. Después de recibir la notificación del testamento, el instituto había enviado dos guardianes para que catalogasen y embalasen la colección bajo supervisión del orientalista Wilmer Shotwell. Mientras esperaban la llegada de Shotwell, los dos hombres habían entrado en el sótano de la residencia, donde se guardaba la colección. Y fue allí donde Shotwell había descubierto, aproximadamente a las doce quince, el cuerpo de uno de ellos, Raymond Brice, de cuarenta y un años, con domicilio en el número 2.319 de la avenida Sunview. Al parecer le habían matado de un golpe en la cabeza con una pesada estatuilla de piedra. La policía estaba buscando al otro guardián, George Larson, de treinta y tres años…
+
+Mi hermano George.
+
+Lucy se me quedó mirando.
+
+–Entonces, yo estaba en lo cierto -murmuró.
+
+–Sí.
+
+–Bueno, es un nombre muy corriente. Podría tratarse de otro George Larson.
+
+Suspiré.
+
+–Sí, podría tratarse de otro. Pero no es así.
+
+–¿Por qué estás tan seguro?
+
+–Porque le he visto, hace menos de una hora. Estaba en la parte baja de la ciudad, en la calle State, y cuando le reconocí y le llamé, echó a correr.
+
+–Oh Dave, ¿qué vas a hacer?
+
+Me encogí de hombros.
+
+–¿Qué puedo hacer? No sé dónde puede estar ahora. Pero seguro que no se encuentra en ese miserable hotel que dice el periódico. Tal vez se ha ido de la ciudad. Así lo espero.
+
+–¿A pesar de todo lo que te hizo?
+
+Naturalmente, le había contado a Lucy todo lo de George.
+
+–Sí. Eso está pasado y olvidado. Además, no estoy seguro de que sea culpable.
+
+–Pero el periódico dice…
+
+–Ya sé lo que dice el periódico y lo que dice la policía. Encuentran el cadáver, George desaparece y llegan a sus propias conclusiones. Pero George es mi hermano. Le conozco muy bien. Es un vagabundo y un sinvergüenza y no le confiaría ni una cartera ni una mujer. Pero no creo que sea un asesino. No hay violencia en George.
+
+–¿Cómo lo sabes? – dijo Lucy, poniéndome las manos en los hombros-. ¿Cómo sabes lo que convierte a un hombre en un asesino?
+
+–No lo sé, realmente. Es que no puedo imaginarme a George haciendo una cosa así.
+
+–Tú le quieres a pesar de todo, ¿verdad?
+
+Hice una bola con el periódico.
+
+–¡Maldita sea! Si se hubiera detenido cuando le llamé, podría ayudarle.
+
+–Estás nervioso -dijo Lucy-. Quizá deberías llamar al club y decirles que no puedes ir esta noche.
+
+–¿De qué serviría eso? Hasta que conozcamos mejor los hechos, lo mejor es olvidarlo. No estamos en la guía telefónica, de modo que George no puede saber dónde vivimos. Y dudo que ni la policía, ni nadie, sepa que es mi hermano. De manera que vete a tu clase nocturna y yo me iré al club. Para usar una frase hecha, la función tiene que continuar.
+
+Y continuó en efecto, en el club, alrededor de las diez. Yo estaba allí de pie en la tarima con el micrófono en la mano, cuando vi entrar a George. Iba vestido con el mismo traje que llevaba por la tarde, pero ahora llevaba el cuello de la camisa desabrochado y se había atado la corbata. Un mechón de pelo le caía sobre la frente. Estaba borracho.
+
+Pero no era el mechón de pelo ni el cuello desabrochado de la camisa lo que me hizo pensarlo, sino la forma en que se dejó caer sobre una silla en una de las mesitas más alejadas y empezó a hablar a su osito de trapo.
+
+Así es; llevaba un osito de trapo color de rosa, como esos que se ganan en las tómbolas de los parques de atracciones. Como esos que gana la gente quizá, pero no yo. Por nada del mundo me encontrarían en un parque de atracciones. Y tal vez ésa había sido la idea de George. No quería que le cogiesen, ni muerto ni vivo y ¿qué mejor manera de desaparecer que en medio de una multitud? Pero aún estaba nervioso y empezó a beber. Una vez que hubo trasegado suficiente licor se dio cuenta de que necesitaba dormir. Así que debió acordarse de haber visto mi nombre en los anuncios del club y vino aquí, a encontrarme.
+
+Y yo fui hacia él, tan pronto como acabé mi número. Me dirigí al rincón donde estaba sentado, hablando en voz baja con su condenado osito. Una cosa bien estúpida… ¿O no lo era? Tenía el aspecto de cualquier otro borracho y quizá era muy astuto esto de usar el osito como protección. Una cosa tenía que decir en favor de George; borracho o sobrio, siempre era listo, esto podía asegurarlo.
+
+Pero ahora no parecía listo. Lo que parecía era asustado.
+
+–¡Dave, muchacho! Me alegro de verte.
+
+Me senté a la mesa, a su lado.
+
+–No me pareció así esta tarde en la calle State.
+
+–Llevaba prisa.
+
+–Ya lo sé. He leído el periódico.
+
+–Pero no comprendes.
+
+–No, maldita sea, no comprendo.
+
+–Tengo que hablarte a solas, Dave. Hay algo que quiero decirte. Voy a necesitar tu ayuda. Nunca me he encontrado en una situación semejante.
+
+–¿Te refieres al guardián?
+
+Miró a su alrededor y luego se inclinó hacia delante.
+
+–No, no se trata de esto. No es el guardián lo que es importante. Es otra cosa. Algo mucho peor… Algo…
+
+–Espera -le dije-. No podemos hablar aquí y no puedo irme ahora. Mi última actuación acaba a las doce, Después de eso empieza la música. Quédate por aquí hasta entonces y nos iremos a algún otro sitio juntos.
+
+–Pero no puedo esperar tanto tiempo -dijo, cogiéndome por el brazo-, Dave, no puedo quedarme solo. ¿No te das cuenta? A menos que hable con alguien de inmediato voy a volverme loco…
+
+–Habla con tu amigo -le dije, señalando al osito con el dedo- y tómate otro trago. Pero espera aquí. Volveré lo antes que pueda.
+
+Sus ojos eran inexpresivos, tan inexpresivos como los ojitos de pasta del oso. Se quedó mirando fijamente al ridículo muñeco, durante mucho rato después de que yo hube dejado la mesa. No me había mentido; estaba a punto de perder la cabeza. De perder un tornillo, subirse por las paredes o cualquier otra frase que quieran ustedes emplear para disfrazar la terrible realidad. En estos momentos hay tantas frases encantadoras y pintorescas referentes a este tema porque hay muchos casos encantadores de psicosis aguda.
+
+Yo estaba de nuevo en pie sobre la tarima, con el micrófono en la mano, haciendo chistes sobre psicosis, sobre la ciudad de los chalados y la conveniencia de ir a visitar al psiquiatra de la esquina, que tenía tres divanes, así que no había que esperar. El público lo estaba pasando en grande. Lo estaba pasando en grande porque todos pretendían que se estaban riendo de los otros; ellos estaban muy bien. Los maniáticos habituales, los neuróticos y los camorristas de bar y las chicas que se drogan y los chicos que se emborrachan, claro que estaban muy bien. Eran intelectuales, iconoclastas, artistas. Para ser verdaderamente creadores, para vivir la vida al máximo, había que buscar sensaciones.
+
+Como Sarah, por ejemplo.
+
+La vi con el rabillo del ojo, mientras se dirigía al bar. La gran Sarah, con sus pantalones tejanos y su camiseta de manga corta: ambas prendas bien abultadas donde hacía falta. Esta era la historia de la vida de Sarah: abultar siempre donde hacía falta. Llevaba unos grandes pendientes de cobre que hacían juego con el color de su pelo, y estaba seguro de que los había hecho ella misma. Porque Sarah era una artista y disfrutaba haciendo cosas. También disfrutaba haciendo escenas feas y acostándose con hombres hermosos. Algunas veces, cuando estaba un poco borracha, los hombres también podían ser feos. Yo sabía bastante sobre Sarah porque era una de las habituales del club. Era una de las que reía con más fuerza los chistes sobre enfermos; pero yo sabía que ella misma había pasado bastante tiempo en el diván de un psiquiatra y que sólo lo abandonó cuando no pudo convencer al médico de que le hiciese compañía allí.
+
+Sin embargo, Sarah era una artista y tenía el ojo de una artista. En estos momentos puede que estuviese un poco cargada, pero no le había pasado por alto el osito, porque vi, mientras la miraba, que se dirigía indolentemente hacia la mesa de mi hermano George y empezaba a hablar con él. Cuando terminé mi actuación, estaba ya sentada a su lado. La camarera les había servido bebidas y Sarah le estaba dando ahora el gran tratamiento.
+
+Bueno, quizá fuese lo mejor que podía pasar; por lo menos le haría compañía hasta que yo terminase mi actuación y pudiese reunirme con él. Sarah sabía ser divertida y esto era lo que él necesitaba ahora para aguantar la velada. Me hubiera gustado, sin embargo, que los dos estuvieran un poco más sobrios. La camarera había vuelto a la mesa con otra bandeja de bebidas, dobles esta vez.
+
+Traté de acortar mi acto, pero tenía el público pendiente de mis palabras y en uno de los rincones vi a Paul, el agente. Me sonreía y yo le sonreí a mi vez. Necesitaba a Paul. Él era el tipo que podía sacarme de esta ratonera y conseguirme un sitio mejor en la ciudad. De modo que no era el momento de escurrir el bulto. Tenía que continuar.
+
+Sarah y George también continuaban. Vi que la camarera se les acercaba de nuevo. Ahora brindaban por el osito, que Sarah tenía en su regazo. Le dijo algo a George y se puso a reír.
+
+El público estaba riendo también y yo entré en el final de mi acto: la parrafada sobre la televisión comercial y las películas de horror. Eso es lo más exquisito ahora, hacer burla de las películas de horror.
+
+Terminé con un saludo y dejé la tarima.
+
+Dejé la tarima y me dirigí hacia la mesa de George, o más bien la que había sido su mesa. Porque George ya no estaba allí. Él, Sarah y el osito habían desaparecido. No era necesario haber seguido un curso de detective por correspondencia para imaginarse dónde podrían estar. Sarah tenía un estudio al final de la calle. El sitio más adecuado para un ménage à trois. Tal vez Sarah tenía una desviación hacia los ositos de trapo.
+
+Si hubiese podido marcharme entonces, hubiera ido a averiguarlo. Pero no podía hacerlo. Tenía que actuar en otro número dentro de cuarenta minutos. El último número. Después, podía irme. George estaría todavía allí, si Sarah se había salido con la suya. Y generalmente se salía. George no estaba en condiciones de ofrecer mucha resistencia.
+
+Tal vez era lo mejor. Por lo menos así nadie le vería. Para poder llegar hasta el final y preparar un poco mi última actuación de la noche necesitaba un trago.
+
+Me dirigí al bar, al mismo tiempo que echaba una ojeada por si veía a Paul. En efecto, allí estaba, de pie junto a la puerta, hablando con un hombre alto de pelo gris que acababa de entrar. Le hice un gesto con la cabeza y él me respondió de la misma forma. Luego se volvió hacia su compañero y dijo algo. Pensé que iba a marcharse y me quedé sorprendido al ver que el hombre alto de pelo gris se dirigía hacia donde yo estaba. Se paró detrás de mí.
+
+–Señor Larson…
+
+–Dígame.
+
+–Soy el doctor Shotwell.
+
+Shotwell. ¿Dónde había oído yo antes este nombre? Entonces me acordé: la noticia en el periódico. Wilmer Shotwell, el orientalista que estaba a cargo de la colección Harvey. Mi hermano y el otro guardián estaban esperándole cuando ocurrió el asesinato. Por lo tanto debía conocer a George. Y me había encontrado a mí. ¿Sabría también que George había estado aquí? ¿Me habría visto Paul hablando con él?
+
+Tendría que jugar sobre esta posibilidad. En un caso semejante, el ataque es la mejor defensa. De modo que me volví hacia Shotwell y asentí con la cabeza.
+
+–Sí, ya he leído su nombre en los periódicos de esta noche. ¿Ha encontrado ya a mi hermano?
+
+–Confiaba en que usted podría darme una respuesta a esa misma pregunta, señor Larson.
+
+–Mi hermano y yo no hemos estado en contacto durante los últimos cinco años. Hasta hoy no supe que estaba en Chicago. – Hice una pausa breve, lo bastante breve como para no darle tiempo a que él me hiciese alguna pregunta; fui yo quien le hice una-: ¿Cómo sabía usted que era mi hermano?
+
+–Hice algunas averiguaciones. Parece que dio su nombre como referencia, cuando solicitó el empleo de guardián temporal en el instituto, hace varios meses.
+
+Si Shotwell había hecho averiguaciones, la policía también iba a hacerlas. Tal vez era una suerte que George se hubiese ido con Sarah. Así me evitaría un montón de explicaciones.
+
+–Nunca me informó de ello -dije-. Temo que no voy a poder ayudarle.
+
+–No es ésa la razón por la que estoy aquí -me contestó el doctor Shotwell-. Quiero prevenirle.
+
+–¿Respecto a George? No es peligroso en realidad, y no importa lo que digan los periódicos, no puedo creer que fue él quien mató a ese hombre.
+
+–Yo sí que puedo y es muy probable que mate de nuevo.
+
+–Pero ¿por qué? Tal vez tuvo una pelea con su compañero y le golpeó en un momento de obcecación.
+
+El doctor Shotwell meneó la cabeza.
+
+–Eso es lo que cree la policía. Yo sé que están equivocados, pero no he hecho ningún esfuerzo para corregirles en su equivocación. Es mejor que no conozcan los hechos.
+
+–¿Qué quiere decir con todo esto?
+
+–Señor Larson, yo conocí muy bien al difunto Chandler Harvey. Era un insaciable coleccionista de objetos de arte y curiosidades. Compraba en las subastas, a los marchantes, por medio de agentes y se gastó una fortuna en adquirir las piezas más extrañas. En mi calidad de orientalista le ayudé a catalogar sólo una pequeña parte de su colección de tesoros, porque esto es lo que representaban para él, en su mente. Coleccionar puede llegar a ser una forma de monomanía, sobre todo si se trata de un hombre rico que llega a un punto en que ya no sabe realmente lo que ha adquirido. Esto es to que le ocurría a Harvey. Literalmente, no sabía la cuantía de sus posesiones: cerámicas, esculturas, bajorrelieves, joyas de todo el mundo y de fuera de él.
+
+–¿De fuera de él?
+
+Shotwell se inclinó hacia mí:
+
+–¿Sabe usted algo sobre meteoritos?
+
+–Un poco.
+
+–Bien, entonces no necesito explicárselo. Digamos que tengo razones para creer en la existencia de muchos fenómenos extraños, relacionados con los meteoritos; fenómenos que aún no se han clasificado. Están por ejemplo los australitas, que parecen caer periódicamente sobre ciertas áreas de la superficie terrestre, casi como si fueran enviados. O como si estuvieran buscando…
+
+–¿Buscando? Habla usted como si estuviesen vivos.
+
+–¿Resulta tan imposible creer que puede haber otras formas de vida en el universo, además de la animal y la vegetal? ¿Cuál es la verdadera diferencia entre vida y existencia? ¿Qué leyes gobiernan su conducta? ¿Cómo podemos reconocer la vida cuando la vemos? Existen criaturas vivas cuyos esqueletos crecen en el exterior de sus cuerpos, y existe el misterio de la reencarnación y de la metamorfosis que transforma la larva en mariposa. ¿Qué es lo que produce la regeneración de una uña y como se explica el crecimiento de un solo pelo en nuestro cuerpo, y cuál es el común denominador entre una simple hierba y un bosque gigante?
+
+Shotwell hizo una pausa, sonriendo para sí mismo.
+
+–Pero le dije que no iba a darle una conferencia, ¿no es cierto? Y no lo haré. Lo único que quería decirle es que entre la colección de Harvey había un extraño meteorito, un objeto precioso y muy antiguo, que en cierto modo está vivo. Y lo que creo es que su hermano debe haberlo encontrado hoy.
+
+–¿Está usted tratando de decirme que lo tomó por una joya, fue sorprendido por el otro guardián cuando iba a robarlo y por esto le mató?
+
+–Pudiera ser.
+
+–Entonces, ¿por qué acudir a mí? ¿Por qué no informar a la policía?
+
+–Porque ellos no me creerían. Y tampoco tomarían las debidas precauciones con el meteorito, si lo recuperasen.
+
+–¿Precauciones?
+
+Shotwell suspiró.
+
+–¿Ha oído usted hablar de algunas piedras preciosas que parecen llevar consigo una maldición, y acarrear muerte y violencia a sus propietarios o a cualquiera que esté en contacto prolongado con ellas? ¿Sabe usted algo de esos ídolos en los templos, ante cuyos ojos de piedras preciosas se llevan a cabo sangrientos sacrificios? ¿Se ha preguntado usted por qué algunos infames asesinos de mucha gente llevaban sobre sus personas lo que se llama vulgarmente «piedras afortunadas» o piedras de suerte?
+
+Me lo quedé mirando fijamente.
+
+–¿Pretende usted decirme que este meteorito posee alguna clase de inteligencia que impulsa a los hombres a matar? Pero, ¿por qué?
+
+–Algunos entes vivos se alimentan de aire, otros de la luz del sol y algunos de carne. Unos necesitan agua y otros necesitan sangre. – Shotwell sonrió al llegar aquí-. No sé mucho, realmente. Todo lo que he podido hacer es trazar su historia hasta hace cincuenta años. En aquel tiempo estaba en San Petersburgo, como propiedad de un tal Gregorovitch, el Pequeño Hermano Gris. La historia le conoce con el nombre de Rasputín. El meteorito ya estaba entonces tallado y pulido artificialmente, pero es posible que no estuviera así cuando lo adquirió durante sus años de exilio en Siberia. En aquella región se han producido grandes lluvias periódicas de meteoritos, ya lo sabe usted. Y se dice que Rasputín utilizaba diversas joyas como agentes hipnóticos.
+
+Me levanté.
+
+–Verdaderamente, doctor Shotwell, no comprendo lo que puede usted ganar con todo esto.
+
+–No se trata de ganar. Sólo me traía un propósito al venir a verle. Si su hermano le busca, hágase con ese meteorito. No lo entregue a las autoridades. Pero avíseme de inmediato. Aquí tiene mi tarjeta.
+
+Alguien me tocó en el hombro. Era Lew Kirby, el director del club.
+
+–Faltan dos minutos para tu número -me dijo.
+
+Asentí con la cabeza.
+
+–Tengo que irme -le dije a Shotwell-. Ya lo ha oído.
+
+–Sí, pero si ocurriese algo…
+
+–De acuerdo. Estaré en contacto con usted.
+
+Esa es la única forma de tratar a los chalados y no me cabía duda que Shotwell era uno de ellos. Sólo quería dejarle donde estaba, con sus meteoritos vivos y sus entes extraterrestres.
+
+Lo malo es que no se quedó allí y yo no pude apartar de mi mente lo que me había dicho. Aunque él salió del local y yo me fui hacia la tarima, su absurda historia no dejaba de darme vueltas en la cabeza.
+
+¿Qué es lo que estaba tratando de decirme? Que en el espacio pueden existir extraños entes y que en algunas ocasiones consiguen llegar a la Tierra; que necesitan sangre para alimentarse y utilizan a los hombres para conseguirla; que uno de esos entes había llegado a formar parte de la colección de Harvey. Y que mi hermano se había tropezado con él hoy y había matado a un guardián para robarlo.
+
+Nada de esto tenía sentido. Además, George no había derramado sangre alguna en realidad. Había golpeado al otro guardián en la cabeza con una estatuilla y había escapado. Lo más probable es que se tratase de una joya y que al verla no pudo evitar la tentación. Su compañero debió sorprenderle en este momento y entonces él se asustó y golpeó al otro con la estatuilla. En cuyo caso quizá Snotwell estaba inventando su historia deliberadamente. Debía estar seguro de que yo no iba a repetir aquella tontería a nadie, pero al mismo tiempo me pasaba el mensaje. George tenía la joya y Shotwell la quería sin duda para sí. A mí se me asignaba el papel de intermediario. Arrancarle la piedra a George y dársela a Shotwell. No es raro que no hubiese avisado a la policía. Si la joya era valiosa podía quedársela tranquilamente, ya que nadie más sabía que estaba en la colección.
+
+Esto tenía mucho más sentido para mí. Era la clase de cosa que podía suceder en mi pequeño mundo; el mundo del club, donde cada uno iba a la busca de dos cosas tan sólo: sensaciones y dinero. Aquí no hay misterios, tan sólo las psicosis y neurosis que se producen cuando la gente se siente frustrada en su busca de estos objetivos.
+
+Bien, precisamente ahora estaban gastándose su dinero en las mesas y a mí me tocaba subir a la tarima y suministrarles unas cuantas sensaciones. Así lo hice. Solté mi monólogo, con el consabido tono de «ustedes y yo sabemos de qué se trata», mientras con cada chiste les tranquilizaba implícitamente acerca de su inteligencia y su superioridad en medio de un mundo de estúpidos conformistas.
+
+¡Oh, era todo tan sencillo! Las mentes cuadradas despreciaban a los beatniks y éstos despreciaban a las mentes cuadradas. Y yo los despreciaba a unos y a otros, porque en realidad me estaba burlando de todos ellos, pero sabía lo que hacía. Porque al mantenerme con un pie en cada uno de estos mundos no me incluía en ninguno de ellos. Y no había otros mundos.
+
+Este era para mí el verdadero problema. Que no había otros mundos donde pudiese encajar el asunto de George y el meteorito. Había matado a alguien, pero, ¿por qué? George no era un asesino. Era mi hermano y estaba en un aprieto, hubiese robado o no. Ahora mismo estaba borracho, y acostándose con la más grande ninfómana que yo había conocido. Bien pronto la policía iba a hacer lo mismo que Shotwell. Iban a encontrarme y a empezar las preguntas. Si George volvía mientras ellos estaban conmigo o mientras me iban siguiendo, era telón final.
+
+Y cayó el telón, finalmente, para mi actuación. Me incliné, dejé la tarima y salí del club. Sabía adónde iba ahora, adónde tenía que ir. El estudio de Sarah estaba al final de la calle. Allí encontraría a George y le diría un par de cosas. No tendría más remedio que contarme todo lo que había pasado. Si aún estaba borracho, ya le pondría sobrio de alguna forma y en condiciones de viajar. Sobre todo tenía que sacarle de allí, librarle de las garras de aquella devoradora de hombres cuyas capacidades artísticas cubrían el lienzo y el colchón por partes iguales. Y si ella me creaba algún problema…
+
+Pero no me creó ninguno.
+
+La puerta de la calle estaba abierta, como siempre, día y noche. Y, como de costumbre, la luz de la escalera también estaba encendida. Al llegar al cuarto rellano pude ver el rayo de luz que salía por debajo de la puerta del estudio. Esa puerta tampoco estaba nunca cerrada.
+
+Tal vez debería haber llamado. Hubiese sido la manera correcta de hacer las cosas, como un caballero. Pero las circunstancias del caso me hicieron olvidarme por completo de que lo era.
+
+Las circunstancias eran que ya había pasado la medianoche, que el descansillo estaba oscuro y que sentí miedo mientras subía por aquellas escaleras. Sentí miedo porque en la oscuridad es muy difícil explicarse tranquilamente como fantasías y alucinaciones todos los secretos temores que llevamos dentro. Es mucho más fácil aceptar la memoria atávica y la amenaza del mito, de la vida misteriosa que brota del interior de la tierra o llega desde las estrellas en el espacio; de la vida que se alimenta con nuestra sustancia y nos devora con miríadas de bocas monstruosas…
+
+Así que no llamé. Entré directamente en el estudio. Y Sarah no me creó ningún problema. Continuó en pie donde estaba, frente a su enorme caballete, y siguió pintando.
+
+Debía ya llevar algún tiempo así y dudo de que se diese cuenta siquiera de mi presencia. Quizá nunca iba a darse cuenta ya de la presencia de nadie. No, no es que estuviese borracha ni en estado de shock. Sus movimientos sobresaltados y rígidos eran los de una catatonía incipiente (¡qué fácilmente se dice la frase y qué poco explica en realidad!) y tenía los ojos fijos, con mirada vidriosa, en la tela del caballete.
+
+Estaba pintando el osito rosado, naturalmente, pero sin molestarse en usarlo como modelo. El oso que aparecía sobre el lienzo cubriendo toda su área era una enorme mancha, esbozada rápidamente y con los contornos grotescamente deformados. No era cubista ni surrealista, ni nada que pudiese llamarse abstracto. Simplemente se había limitado a alterar y añadir, de modo que la figura era ahora un monstruo deforme, con un solo ojo refulgente: un grotesco híbrido de osito de trapo y de cíclope. Y no era ya rosado. Sino rojo, y como lleno de nudos, con grandes plastrones de pigmento, que parecían haberse congelado en manchas oscuras.
+
+De vez en cuando se inclinaba hacia el sofá que había junto a ella, para humedecer sus pinceles y yo miré a su paleta.
+
+Esa paleta era el cuerpo de mi hermano George, que estaba allí tendido, apretando aún sobre su pecho, con sus brazos inertes, el osito rosado. Desde el pecho hasta la ingle estaba abierto en canal con la espátula de pintar y ella mojaba su pincel en su herida, humedeciéndolo en sus entrañas y en su sangre, mientras seguía pintando.
+
+Estuve a punto de lanzar un alarido. De lanzar un alarido, golpearla y correr en busca de auxilio. Pero me di cuenta que todo auxilio era inútil. George estaba muerto y ella poseída. No fuera de su juicio, sino poseída. Obligada, empujada a hacer lo que estaba haciendo. Después del shock que le debió producir matarle, su subconsciente buscó una racionalización de los hechos que se convirtió en catarsis y la hizo volver a su arte. Estaba expiando su crimen al pintar un retrato simbólico del criminal.
+
+Así que no grité ni dije nada, porque me di cuenta que lo que Shotwell había sugerido podía ser verdad. Hay más cosas en el cielo y en la Tierra…
+
+Hay más cosas que vienen a la Tierra desde el cielo o desde algún inconcebible infierno. George se había cruzado con una de estas cosas y había matado. Luego le trajo esta cosa a Sarah y ella había matado a su vez. Y así iba a continuar y continuar la cadena, a menos que yo actuase a tiempo.
+
+Actué. Di un paso hacia el cadáver y cogí el osito rosado. Ella ni me oyó ni me vio. Estaba pintando ahora la boca del monstruo, aquella boca voraz que se abría bajo la mirada fija del ojo implacable.
+
+Con el osito en los brazos, me escapé del estudio. Los escalones resonaban bajo mis pies y el osito resonaba contra mi pecho. Resonaba y resonaba y yo podía sentir su pulsación durante todo el camino hasta mi casa. No quedaba muy lejos. Era bastante tarde ya y las calles estaban desiertas. Todo puede suceder en calles así, por la noche, incluso en una gran ciudad, ya saben ustedes. Un vampiro puede asomar su cabeza por una alcantarilla. Un cadáver hinchado puede levantarse de las aguas cubiertas de bruma del río. Una lluvia de vida incandescente puede caer desde las estrellas…
+
+Y un osito rosado, un estúpido osito rosado procedente de una tómbola en un parque de atracciones, puede hacer sonar su pulso como si fuese el tambor del diablo.
+
+Sólo podía confiar en que Lucy no me oyese cuando entrara en el piso. Confiar en que estuviese ya dormida, demasiado cansada después de su clase nocturna, para esperarme. Generalmente se iba a la cama sin aguardar mi regreso. Recé en mi interior porque fuese así esta noche. Entonces podría llamar a Shotwell y esperar a que llegase. Quizá podría darle incluso lo que él quería, sin que Lucy se enterase de nada. Sería mejor que no lo supiese, que no lo supiese nunca.
+
+La suerte estuvo de mi parte.
+
+Lucy se había retirado, dejando encendida la luz de la cocina. Pude ver que había tomado un bocado antes de acostarse y el plato con los restos estaba todavía sobre la mesa. Empujé plato, copa y cubiertos a un lado y puse allí el osito.
+
+Ahora que no lo tenía cerca de mí no sentía su pulso. De nuevo no era más que un juguete; un juguete inocente y tonto. Y eso, naturalmente, es lo que había sido siempre. No tenía ningún poder maligno ni ninguna esencia ciclópea. George lo había ganado en el parque de atracciones y se lo había llevado consigo como un capricho. Tenía una oreja un poco desprendida y aquel lado de la cabeza estaba rasgado…
+
+¿Rasgado? Había sido cortado.
+
+George lo había cortado y no lo había hecho porque estuviese borracho. Había cortado el muñeco por debajo de la oreja y se lo había llevado con él y no es raro que pulsase, porque el meteorito estaba dentro. Allí es donde lo había escondido. Y se lo había llevado al estudio de Sarah y ella lo había visto y entonces…
+
+Entonces, ¿qué? ¿Había sucedido como dijo Shotwell? ¿La mera presencia de la piedra había sido suficiente para influenciar una psiquis susceptible y ya bastante desequilibrada?
+
+Yo no lo sabía y tampoco me importaba. Lo importante ahora era buscar la tarjeta de Shotwell, llamarle y hacer que viniese y se llevase aquella maldita cosa. Aquella maldita cosa que ya había estado relacionada con dos muertes aquel mismo día y Dios sabe con cuántas más en el curso de los años. Esto en el caso de que Shotwell no estuviese tan loco como todos los demás. Como Sarah lo estaba y como lo había estado George.
+
+Pero George no estaba loco. Y yo tampoco. Los monstruos no existen. Y un meteorito no es más que un trozo de metal. Un trozo de metal que puede meterse en la cabeza de un osito de trapo y sacarse de allí con la misma facilidad.
+
+Se siente en la mano, porque palpita. No está frío, ni caliente. Sólo palpita. Palpita en la palma de vuestra mano abierta, mientras lo miráis.
+
+Y él os mira a su vez.
+
+Os mira a su vez porque es un ojo.
+
+¿Qué es lo que había dicho Shotwell? ¿Que alguna vez, en alguna parte, alguien lo había tallado y pulido hasta hacer que pareciese una joya? Estaba equivocado.
+
+No había sido tallado artificialmente y tampoco parecía una joya. Parecía un ojo. Era un ojo.
+
+Un ojo como el que uno puede ver en la frente de algunos ídolos antiguos. Y también puede uno imaginárselo en la cabeza de un cíclope. Pero mirándolo ahora, no era necesario que me imaginase nada. No tenía nada que imaginar, porque veía.
+
+Miré dentro del ojo y lo vi todo…
+
+La llanura ártica no tenía ahora nieve porque se aproximaba la primavera. Algunas agujas estalagmíticas salpicaban la desértica planicie; grandes peñascos que parecían clavados en la tierra, pero que también podían haber caído de las estrellas. No había vida allí bajo aquel cielo sombrío; no había vida, al menos en el sentido que nosotros la conocemos.
+
+Y luego llegó la vida. Los barbudos ancianos de la tribu avanzaron por la llanura en lenta procesión, con antorchas encendidas. Delante de ellos venía el angekok, el brujo. En sus brazos llevaba a la muchacha.
+
+Ella no se debatía porque había sido drogada. De modo que yacía inerte, desnuda e insensible en los brazos del brujo, hasta que éste la depositó sobre el saliente plano de uno de los peñascos mientras sonaban los tambores. Ésta era la muchacha elegida para el sacrificio de una virgen en primavera. Allí permaneció tendida, con su cuerpo desnudo expuesto a la intemperie de un cielo triste, hasta que llegó la noche. Y con la llegada de la noche las bestias oscuras vendrían en busca de su festín. Los lobos de las tinieblas acudirían a devorar la presa que se les ofrecía y luego regresarían a sus escondrijos durante toda una estación. De esta forma la primavera llegaría tranquila a la llanura, una vez que los devoradores de vida fuesen aplacados con este sacrificio.
+
+Así lo decían los tambores y así lo dijo el brujo. Luego los hombres de la tribu se alejaron y sus antorchas se perdieron en la distancia. El cuerpo desnudo de la muchacha permanecía inerte sobre el altar, mientras la oscura boca del horizonte se tragaba lentamente al Sol.
+
+Se oyó de nuevo un gran estruendo pero no procedía de los tambores. El cielo pareció temblar y un nuevo resplandor iluminó el firmamento. La doncella se removió inquieta y se despertó. Incorporándose sobre la roca, miró a su alrededor. Sus ojos se abrieron de par en par, porque allí, tras las sombras de la peña, vio a los lobos que esperaban, enseñando los dientes. Poco a poco se acercaron. Entonces fue cuando resonó un gran trueno.
+
+Girando sobre sus patas los lobos dieron la vuelta y se alejaron, aullando. Aquel crudo resplandor arrancaba sangre de sus lomos, porque era una lluvia de fuego.
+
+La doncella se deslizó al suelo desde su roca, tiritando. La tierra temblaba en torno suyo y los peñascos oscilaban como si danzasen bajo aquel resplandor fantasmal. La luz venía del cielo. ¡Caía del cielo! Ella intentó huir, pero la luz la perseguía. Y de pronto pareció fundirse, condensarse en un solo tizón ardiente que zigzagueó entre los peñascos detrás de ella como un enorme ojo. Un ojo que la perseguía. Y parecía trazar una red de luz en torno a su desnudez, hasta que se posó a los pies de la muchacha, que se inclinó a cogerlo pero tuvo que soltarlo con un grito de dolor porque su fuego le quemó la palma de las manos.
+
+Aun así no dejó de mirarlo, acuclillada junto a él Y cuando el trueno se desvaneció y la luz dio otra vez paso a la noche, aún continuaba mirándolo. Y no cesó de mirarlo hasta que el ojo se enfrió y ella pudo recogerlo y apretarlo contra su pecho; un ojo que estaba vivo y que miraba entre los dos ojos sin vista de sus pezones. Y así echó a andar en la oscuridad a través de la llanura, hasta llegar al sitio donde estaba su gente, dormida alrededor de las brasas moribundas de sus hogueras.
+
+Entonces ella miró al ojo que llevaba y luego cogió un cuchillo de piedra y se metió entre su gente y comenzó a herir a diestro y siniestro. El cuchillo subía y bajaba, subía y bajaba, mientras ellos se despertaban gritando. Pero al ver los ojos de la doncella, y el tercer ojo que llevaba, no se resistían ni intentaban escapar. Ella continuó dando cuchilladas hasta que el arma estuvo totalmente cubierta de sangre y el brazo que lo manejaba también. Entonces el brujo se inclinó ante ella y los más ancianos de la tribu también se inclinaron y la adoraron, porque sabían que era la esposa de un dios.
+
+A partir de entonces fue ella la que ofreció los sacrificios y la que llevó el ojo en una malla tejida que colgaba entre sus pechos, como un amuleto.
+
+Llegó un día en que murió, pero el ojo continuó viviendo. Y se trasladó de lugar y vio como llegaban los tártaros y arrasaban la comarca. Cuando se retiraron, el ojo viajó con ellos hacia el sur, en la faltriquera de uno de los jefes, que se pasaba horas mirándolo antes de iniciar una batalla y luego mataba y mataba…
+
+Más tarde un mogol se lo robó al tártaro y así el ojo fue hacia la India y durante un tiempo se convirtió verdaderamente en el ojo de una diosa, el ojo de Kali, la madre oscura, cuyos seguidores mataban estrangulando a sus víctimas con un cordón de seda…
+
+Un musulmán lo robó del templo y un aventurero seljuk se lo quitó al musulmán y un soldado de Napoleón lo encontró en el saqueo del campo de Aboukir. Este soldado volvió a Marsella y durante los años siguientes la ciudad estuvo aterrorizada por un asesino que rondaba las calles por las noches, cortando gargantas con una bayoneta.
+
+La policía del último de los Luises lo encontró durante los días de la Comuna y así fue pasando de mano en mano. Un prusiano lo tuvo durante un tiempo (y durante esa época se cometió una serie de crímenes brutales en Praga). Luego un marinero se lo llevó a Londres y del marinero pasó a poder de un excéntrico caballero, que de pronto inició una sangrienta cruzada contra las prostitutas.
+
+Y acabó volviendo a Rusia; a la Santa Madre Rusia y al Santo Padre Rasputín. Mirando en sus profundidades, el monje provocaba visiones, en sí mismo y en otros, que se convertían en sus víctimas.
+
+El bolchevique que lo encontró más tarde se volvió loco. El mercader de curiosidades que se lo vendió a un comerciante griego en San Petersburgo se ahorcó después. El comerciante griego lo perdió cuando fue a la cárcel por asesinato. Un agente de Chandler Harvey lo compró cuando el Gobierno griego fue derrocado y un oficial sin escrúpulos vendió bajo mano al mejor postor un verdadero montón de objetos de arte. El ojo había permanecido empaquetado hasta esa mañana, cuando mi hermano George lo encontró en una caja que contenía monedas coptas. Su compañero vio como se lo metía en el bolsillo y entonces George cogió una estatuilla que había sobre una mesa próxima y le aplastó el cráneo.
+
+Después, en el parque de atracciones, lo escondió dentro de la cabeza del osito que había ganado, y se lo llevó consigo. En aquellos momentos mi hermano George estaba muy confuso. No podía comprender por qué había matado. No había sido su intención matar. Sin duda alguna al ver aquella especie de joya pensó que era valiosa. Que podría obtener por ella unos cuantos dólares y que nadie iba a echarla en falta. Así que se la guardó en el bolsillo y cuando el otro tipo lo descubrió, tuvo miedo y empezó a golpearle. Pero aquella maldita cosa se le había caído del bolsillo. Y desde allí estaba mirando a mi hermano y mi hermano la miró a su vez e inmediatamente, sin saber lo que hacía, cogió la figurilla de piedra y le abrió el cráneo a Ray Brice.
+
+Yo sabía lo que mi hermano había pensado. Lo sabía porque el ojo lo sabía. Sabía lo que todos ellos habían pensado: la doncella desnuda, el tártaro de pómulos salientes, el barbudo mogol, los oscuros sacerdotes de Kali, el mameluco que murió en Aboukir, el malvado que vagaba de noche por las calles de Whitechapel y el monje que estrangulaba a sus blancas palomitas en las orgías de San Petersburgo.
+
+Sabía también lo que Sarah, borracha, había pensado, y lo que había sentido cuando se llevó a George a su estudio. Lo que su intuición desequilibrada y fantástica de artista había percibido sin ni siquiera verlo: su presencia en el interior del osito bastó para dispararla: «Bésame, George», y mientras le pasaba un brazo por el cuello, con la otra mano libre cogía la espátula, la levantaba, y le abría de arriba abajo. Luego, la sangre que brotaba a borbotones y el shock de lo que acababa de hacer, la fuga de la realidad y, en, su busca de catarsis, aquella horrible pintura de la bestia asesina…
+
+Esto es lo que buscaba el ojo. Y es por esto por lo que había venido de las estrellas. Para derramar sangre humana y gozar con ello. Finalmente resultaba que Shotwell tenía razón: existen otras formas de vida y este ente necesitaba alimentarse. Sarah había usado una espátula para arrancar sangre, George se había valido de una estatuilla y otros habían usado otras armas. No era el instrumento lo que importaba, porque no era sangre en realidad lo que quería aquella cosa, ni siquiera matar. Se alimentaba de algo distinto: de la emoción que emanaba del asesino. Esto era lo que necesitaba, y por eso buscaba vida en la muerte. Se alimentaba de emoción.
+
+Miré al ojo y el ojo me miró y los dos sabíamos.
+
+Sabíamos lo que estaba bien y lo que estaba mal y que la respuesta de todo ello estaba en ser. Ser y evolucionar. Ser es el único propósito y evolucionar el único objetivo. Llegar a ser más. Y uno llega a ser más destruyendo lo que es menos e incorporándolo a nuestra propia esencia. Uno tiene que devorar las sensaciones de los otros y añadirlas a su propia conciencia y capacidad. Es una fiesta sin fin; la vida sin fin.
+
+Buscar emoción en la sexualidad es una burla y una ilusión, porque uno gasta su propia sustancia en el intento. Al igual que se devora a sí mismo al intentar aumentar sus sensaciones con las drogas y la bebida. Así que los beatniks son unos tontos y sus sensaciones son tan sólo los espasmos convulsivos de un cadáver al ir quedándose rígido. Y las mentes cuadradas son tontos también, porque rechazan las sensaciones y temen sus efectos.
+
+Y yo era doblemente tonto porque intentaba vivir sacando el mejor partido posible de ambos mundos. Sin saber hasta ahora que existen más de dos mundos posibles. Hay muchos otros mundos más allá de los mundos que están detrás de las estrellas; mundos de sensaciones más allá de las sensaciones que yo podía buscar y experimentar.
+
+Lo comprendí al ver todo lo que el ojo había ido almacenando. Supe ahora por qué algunos hombres mataban; no porque fuesen fanáticos, sádicos o estuviesen desequilibrados. Mataban a causa del hambre que podían sentir y satisfacer, el hambre que no cesaba nunca. Y mientras satisfacían esta voracidad, hacían temblar las estrellas. Psicosis, neurosis, etiquetas sin sentido, más locas, que trataban tan inútilmente de describir. Todos los mundos carecían de sentido. ¿Encontrar? ¿Estar loco? ¿Sensaciones? ¿Hombres? ¿Sangre fría?
+
+El ojo podía encontrar su camino hacia vuestro cerebro.
+
+El ojo estaba loco.
+
+El ojo era sensaciones.
+
+¿Los hombres? ¿Qué es el hombre? Uno puede ser más grande que el hombre cuando comparte las sensaciones de un ser superior, la conciencia más amplia de un mundo más amplio.
+
+Sangre fría. El ojo estaba frío en mi mano. Latía porque estaba vivo. Vivo y mirándome.
+
+¿Por qué me miraba?
+
+Para decirme todas estas cosas.
+
+Para decirme que le ayudase.
+
+Para decirme que me ayudase a mí mismo.
+
+Para compartir conmigo todo lo que existía y podía existir.
+
+El ojo me miraba. Me miraba hambriento. Esto era. El ojo estaba hambriento. Lo estaría siempre y yo también lo estaría siempre; pero si me lo llevaba conmigo ahora, me esperaban años de festín.
+
+Esto es lo que tenía que hacer. El ojo y yo nos iríamos lejos, juntos. Lejos del estúpido mundo de las mentes cuadradas y del mundo igualmente estúpido de los beatniks.
+
+Ahora sabía lo que todos aquellos famosos asesinos del pasado debieron sentir.
+
+Giré sobre mis talones para irme. Sólo quería eso, irme.
+
+No esperaba encontrar a Lucy parada allí, a mi espalda. Apenas si pude distinguirla en realidad, porque estaba rodeado por todas partes por un círculo de ojo hambrientos.
+
+No pude distinguirla más de lo que distinguí el cuchillo del pan que estaba sobre la mesa.
+
+Lo único que veía era el ojo.
+
+Y lo único que podía hacer es lo que tenía que hacerse.
+
+Me abalancé sobre el cuchillo y sobre Lucy.
+
+Y alimenté al ojo hambriento…
+
+Para hacerme llegar tus comentarios,sugerencias o si
+
+deseas colaborar con Liter@net por favor, envía un E-mail
+
+‹IMG style="WIDTH: 60; HEIGHT:60" src=" border=0›
+
+‹IMG style="WIDTH: 122; HEIGHT:
+
+30" src=" border=0›
+
+web hosting • domain names • webdesign
+
+online games • digital cameras
+
+advertising online • calling cards
+
+23/11/2009
